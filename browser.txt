@@ -4693,6 +4693,7 @@ zyzc9.com
 ||archive.li
 ||archive.li
 ||archive.md
+||archive.md
 ||archive.org
 ||archive.org
 ||archive.ph
@@ -5623,6 +5624,7 @@ zyzc9.com
 ||churchinhongkong.org
 ||chushigangdrug.ch
 ||ciciai.com
+||ciciai.com
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
@@ -5795,6 +5797,7 @@ zyzc9.com
 ||counter.social
 ||coursehero.com
 ||coursehero.com
+||coze.com
 ||coze.com
 ||cpj.org
 ||cpj.org

@@ -656,6 +656,7 @@ earthcam.com
 udn.com.tw
 arte.tv
 voxer.com
+ciciai.com
 nutaku.net
 you.com
 adultfriendfinder.com
@@ -961,6 +962,7 @@ nybooks.com
 nicovideo.jp
 telesco.pe
 yourtrap.com
+coze.com
 mirrormedia.mg
 picacomic.com
 gmodules.com
@@ -1330,6 +1332,7 @@ pornhd.com
 bitcointalk.org
 dns2go.com
 news.cnyes.com
+archive.md
 kwongwah.com.my
 periscope.tv
 xiaomi.eu
