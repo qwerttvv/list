@@ -657,7 +657,6 @@
 .eulam.com
 .eurekavpt.com
 .euronews.com
-.evschool.net
 .exchristian.hk
 .expecthim.com
 .expekt.com
@@ -3905,7 +3904,6 @@ zyzc9.com
 |http://en.hao123.com
 |http://erktv.com
 |http://eromon.net
-|http://evschool.net
 |http://facesoftibetanselfimmolators.info
 |http://faith100.org
 |http://falunau.org
@@ -4676,6 +4674,7 @@ zyzc9.com
 ||appledaily.com.hk
 ||appledaily.com.tw
 ||appledaily.com.tw
+||apps.evozi.com
 ||appshopper.com
 ||appsocks.net
 ||appsocks.net
@@ -5299,6 +5298,7 @@ zyzc9.com
 ||c100tibet.org
 ||c2cx.com
 ||c2cx.com
+||cableav.tv
 ||cablegatesearch.net
 ||cachefly.com
 ||cachefly.net
@@ -6403,6 +6403,7 @@ zyzc9.com
 ||evchk.wikia.com
 ||evchk.wikia.org
 ||everipedia.org
+||evschool.net
 ||evschool.net
 ||exblog.jp
 ||exchristian.hk
@@ -9213,6 +9214,7 @@ zyzc9.com
 ||newnews.ca
 ||news.cnyes.com
 ||news.com.au
+||news.ebc.net.tw
 ||news.hk.msn.com
 ||news.now.com
 ||news.ycombinator.com
