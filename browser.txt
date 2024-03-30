@@ -6005,6 +6005,7 @@ zyzc9.com
 ||devio.us
 ||devpn.com
 ||devpn.com
+||devv.ai
 ||dfas.mil
 ||dfas.mil
 ||dfn.org
@@ -8723,6 +8724,7 @@ zyzc9.com
 ||mahabodhi.org
 ||maiio.net
 ||mail-archive.com
+||mail.me.com
 ||maildns.xyz
 ||maiplus.com
 ||maizhong.org
@@ -11308,6 +11310,7 @@ zyzc9.com
 ||tuidang.org
 ||tuidang.se
 ||tuitwit.com
+||tukaani.org
 ||tumblr.com
 ||tumblr.com
 ||tumutanzi.com

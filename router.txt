@@ -3538,6 +3538,7 @@ devio.us
 devio.us
 devpn.com
 devpn.com
+devv.ai
 dfas.mil
 dfn.org
 dfn.org
@@ -6486,6 +6487,7 @@ mahabodhi.org
 maiio.net
 maiio.net
 mail-archive.com
+mail.me.com
 maildns.xyz
 maildns.xyz
 maiplus.com
@@ -9512,6 +9514,7 @@ tuidang.se
 tuidang.se
 tuitwit.com
 tuitwit.com
+tukaani.org
 tumblr.com
 tumutanzi.com
 tumutanzi.com
