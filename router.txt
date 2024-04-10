@@ -4353,6 +4353,7 @@ free-ss.site
 free-ss.site
 free-ssh.com
 free-ssh.com
+free.fr
 free4u.com.ar
 free4u.com.ar
 freealim.com
@@ -4684,6 +4685,7 @@ gfw.org.ua
 gfw.org.ua
 gfw.press
 gfw.press
+gfw.report
 gfw.report
 ggjav.com
 ggpht.com
@@ -9284,7 +9286,6 @@ tibetjustice.org
 tibetjustice.org
 tibetkomite.dk
 tibetkomite.dk
-tibetlibre.free.fr
 tibetlibre.free.fr
 tibetmuseum.org
 tibetmuseum.org

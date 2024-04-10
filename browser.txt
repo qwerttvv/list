@@ -6715,6 +6715,7 @@ zyzc9.com
 ||free-ss.site
 ||free-ssh.com
 ||free-ssh.com
+||free.fr
 ||free4u.com.ar
 ||free4u.com.ar
 ||freealim.com
@@ -6981,6 +6982,7 @@ zyzc9.com
 ||gfw.org.ua
 ||gfw.press
 ||gfw.press
+||gfw.report
 ||gfw.report
 ||ggjav.com
 ||ggpht.com
@@ -11131,7 +11133,6 @@ zyzc9.com
 ||tibetinfonet.net
 ||tibetjustice.org
 ||tibetkomite.dk
-||tibetlibre.free.fr
 ||tibetmuseum.org
 ||tibetmuseum.org
 ||tibetnetwork.org
