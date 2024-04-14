@@ -2795,7 +2795,6 @@ blog.xuite.net
 blog.youthwant.com.tw
 blog.youxu.info/2010/03/14/west-chamber
 blogimg.jp
-blogs.icerocket.com/tag
 blogs.libraryinformationtechnology.com/jxyz
 blogspot.com
 blogtd.net
@@ -7937,6 +7936,7 @@ zyzc9.com
 ||ibytedtos.com
 ||icams.com
 ||icedrive.net
+||icedrive.net
 ||icerocket.com
 ||icij.org
 ||icij.org
@@ -10174,6 +10174,7 @@ zyzc9.com
 ||ronjoneswriter.com
 ||rosechina.net
 ||rotten.com
+||rou.video
 ||rou.video
 ||roucdn.link
 ||rpglogs.com

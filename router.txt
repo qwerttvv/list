@@ -1303,6 +1303,7 @@ db.tt
 naughtyamerica.com
 yande.re
 dns2go.com
+icedrive.net
 thehun.net
 aboluowang.com
 archive.today
@@ -1323,6 +1324,7 @@ sextvx.com
 btdig.com
 dailysabah.com
 imlive.com
+rou.video
 typora.io
 duplicati.com
 glock.com
@@ -2477,7 +2479,6 @@ blogger.com
 blogimg.jp
 bloglines.com
 bloglovin.com
-blogs.icerocket.com
 blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogs.tampabay.com
