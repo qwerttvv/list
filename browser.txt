@@ -2592,7 +2592,6 @@
 @@||nmvttc.gov.tw
 @@||northguan-nsa.gov.tw
 @@||northguan-nsa.gov.tw
-@@||npm.gov.tw
 @@||nstm.gov.tw
 @@||nstm.gov.tw
 @@||ntdmh.gov.tw
@@ -3723,7 +3722,6 @@ wrchina.org
 wretch.cc
 writer.zoho.com
 wuerkaixi.com
-wufi.org.tw
 wujie.net
 wujieliulan.com
 wukangrui.net
@@ -7821,6 +7819,7 @@ zyzc9.com
 ||hrea.org
 ||hrichina.org
 ||hrichina.org
+||hrntt.org
 ||hrtsea.com
 ||hrw.org
 ||hrw.org
@@ -9344,6 +9343,7 @@ zyzc9.com
 ||npa.go.jp
 ||npa.gov.tw
 ||npm.edu.tw
+||npm.gov.tw
 ||npnt.me
 ||npsboost.com
 ||nradio.me
@@ -9856,6 +9856,7 @@ zyzc9.com
 ||potato.im
 ||potvpn.com
 ||potvpn.com
+||pourquoi.tw
 ||power.com
 ||powerapple.com
 ||powerapple.com
@@ -12140,6 +12141,7 @@ zyzc9.com
 ||wufafangwen.com
 ||wufafangwen.com
 ||wufi.org.tw
+||wufi.org.tw
 ||wuguoguang.com
 ||wuguoguang.com
 ||wujie.net
@@ -12438,6 +12440,7 @@ zyzc9.com
 ||zacebook.com
 ||zalmos.com
 ||zalmos.com
+||zamimg.com
 ||zamimg.com
 ||zannel.com
 ||zannel.com

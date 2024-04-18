@@ -609,6 +609,7 @@ nikkei.com
 zello.com
 inoreader.com
 rule34.xxx
+zamimg.com
 wikiwand.com
 theporndude.com
 croxyproxy.com
@@ -5446,6 +5447,7 @@ hrea.org
 hrea.org
 hrichina.org
 hrichina.org
+hrntt.org
 hrtsea.com
 hrtsea.com
 hrw.org
@@ -7218,6 +7220,7 @@ noypf.com
 npa.go.jp
 npa.gov.tw
 npm.edu.tw
+npm.gov.tw
 npnt.me
 npnt.me
 npsboost.com
@@ -7796,6 +7799,7 @@ potato.im
 potato.im
 potvpn.com
 potvpn.com
+pourquoi.tw
 powerapple.com
 powerapple.com
 powercx.com
