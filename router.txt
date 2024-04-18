@@ -55,6 +55,7 @@ discordapp.com
 github.com
 googlezip.net
 data.flurry.com
+cdn.jwplayer.com
 redditmedia.com
 nytimes.com
 api.dropboxapi.com
@@ -752,6 +753,7 @@ mandiant.com
 gettr.com
 partypoker.com
 artsy.net
+f2pool.com
 hrw.org
 pixnet.net
 player.fm
@@ -1024,6 +1026,7 @@ i-cable.com
 mydad.info
 mymom.info
 voachinese.com
+ethermine.org
 smith.edu
 about.me
 auctions.yahoo.co.jp

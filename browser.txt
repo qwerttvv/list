@@ -5417,6 +5417,7 @@ zyzc9.com
 ||cdn.helixstudios.net
 ||cdn.helixstudios.net
 ||cdn.jsdelivr.net
+||cdn.jwplayer.com
 ||cdn.printfriendly.com
 ||cdn.registerdisney.go.com
 ||cdn.seatguru.com
@@ -6383,6 +6384,7 @@ zyzc9.com
 ||etadult.com
 ||etaiwannews.com
 ||etherdelta.com
+||ethermine.org
 ||etherscan.io
 ||etizer.org
 ||etokki.com
@@ -6439,6 +6441,7 @@ zyzc9.com
 ||ezpeer.com
 ||ezua.com
 ||f-droid.org
+||f2pool.com
 ||f8.com
 ||fa.gov.tw
 ||facebook.br
