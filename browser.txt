@@ -11264,7 +11264,6 @@ zyzc9.com
 ||tradingview.com
 ||traffichaus.com
 ||translate.goog
-||translate.googleapis.com
 ||transparency.org
 ||transparency.org
 ||travelinkcard.com

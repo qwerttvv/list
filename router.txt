@@ -9471,7 +9471,6 @@ tradingview.com
 traffichaus.com
 trans.wenweipo.com
 translate.goog
-translate.googleapis.com
 transparency.org
 travelinkcard.com
 treemall.com.tw
