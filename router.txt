@@ -55,6 +55,7 @@ googlezip.net
 nflxvideo.net
 wikimedia.org
 pandora.com
+chatgpt.com
 hola.org
 nytimes.com
 redditmedia.com
