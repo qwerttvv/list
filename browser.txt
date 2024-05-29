@@ -8142,6 +8142,7 @@ zyzc9.com
 ||inxian.com
 ||inxian.com
 ||ipalter.com
+||ipdefenseforum.com
 ||ipfire.org
 ||ipfs.io
 ||ipfs.io
@@ -9903,6 +9904,7 @@ zyzc9.com
 ||privatevpn.com
 ||privoxy.org
 ||procopytips.com
+||project-syndicate.org
 ||project-syndicate.org
 ||prosiben.de
 ||proton.me
