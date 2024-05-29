@@ -8367,6 +8367,7 @@ zyzc9.com
 ||juziyue.com
 ||jw.org
 ||jwmusic.org
+||jwplayer.com
 ||jyxf.net
 ||k-doujin.net
 ||ka-wai.com
@@ -10979,6 +10980,7 @@ zyzc9.com
 ||tfiflve.com
 ||tgstat.com
 ||thb.gov.tw
+||theage.com.au
 ||theatlantic.com
 ||theatrum-belli.com
 ||theaustralian.com.au
@@ -11024,6 +11026,7 @@ zyzc9.com
 ||theprint.in
 ||thesaturdaypaper.com.au
 ||thespeeder.com
+||thestandard.com.hk
 ||thestandnews.com
 ||thestandnews.com
 ||thetibetcenter.org
