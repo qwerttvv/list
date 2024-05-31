@@ -1697,6 +1697,7 @@ website.informer.com
 9bis.net
 9bis.net
 9gag.com
+9news.com.au
 a-normal-day.com
 a248.e.akamai.net
 a5.com.ru
@@ -2711,6 +2712,7 @@ c100tibet.org
 c100tibet.org
 c2cx.com
 c2cx.com
+cableav.tv
 cablegatesearch.net
 cachefly.com
 cachefly.net
@@ -2910,6 +2912,7 @@ changp.com
 changsa.net
 changsa.net
 channel8news.sg
+channelnewsasia.com
 chaoex.com
 chaoex.com
 chapm25.com
@@ -3538,6 +3541,7 @@ dessci.com
 destiny.xfiles.to
 destroy-china.jp
 destroy-china.jp
+detroitnews.com
 deutsche-welle.de
 deutsche-welle.de
 developers.box.net
@@ -3815,6 +3819,7 @@ easyca.ca
 easyca.ca
 easypic.com
 easypic.com
+ebc.net.tw
 ebony-beauty.com
 ebony-beauty.com
 ebook.hyread.com.tw
@@ -3889,6 +3894,7 @@ emuparadise.me
 en.favotter.net
 en.hao123.com
 enanyang.my
+enca.com
 encyclopedia.com
 enewstree.com
 enfal.de
@@ -4575,6 +4581,7 @@ galaxymacau.com
 galaxymacau.com
 galenwu.com
 galenwu.com
+gallup.com
 galstars.net
 galstars.net
 game735.com
@@ -5252,6 +5259,7 @@ himemix.com
 himemix.com
 himemix.net
 himemix.net
+hindustantimes.com
 hinet.net
 hitbtc.com
 hitbtc.com
@@ -5441,6 +5449,7 @@ hrea.org
 hrea.org
 hrichina.org
 hrichina.org
+hrntt.org
 hrntt.org
 hrtsea.com
 hrtsea.com
@@ -5742,7 +5751,9 @@ indiablooms.com
 indianarrative.com
 indiandefensenews.in
 indiandefensenews.in
+indianexpress.com
 indiatimes.com
+indiatoday.in
 indiemerch.com
 indiemerch.com
 indsr.org.tw
@@ -6600,6 +6611,7 @@ mediachinese.com
 mediafreakcity.com
 mediafreakcity.com
 mediawiki.org
+medicalnewstoday.com
 medium.com
 meetav.com
 meetav.com
@@ -7050,6 +7062,7 @@ ncn.org
 nde.de
 ndi.org
 ndr.de
+ndtv.com
 ned.org
 ned.org
 nekoslovakia.net
@@ -7112,6 +7125,7 @@ news.singtao.ca
 news.ycombinator.com
 news100.com.tw
 news100.com.tw
+news18.com
 newsancai.com
 newsancai.com
 newschinacomment.org
@@ -7294,6 +7308,7 @@ ny.visiontimes.com
 nyaa.eu
 nyaa.eu
 nyaa.si
+nydailynews.com
 nydus.ca
 nydus.ca
 nylon-angel.com
@@ -7735,6 +7750,7 @@ politicalchina.org
 politicalchina.org
 politicalconsultation.org
 politicalconsultation.org
+politico.eu
 politiscales.net
 politiscales.net
 poloniex.com
@@ -7804,6 +7820,7 @@ potato.im
 potato.im
 potvpn.com
 potvpn.com
+pourquoi.tw
 pourquoi.tw
 powerapple.com
 powerapple.com
@@ -7884,6 +7901,7 @@ psiphon3.com
 psiphon3.com
 psiphontoday.com
 psiphontoday.com
+pstatic.net
 pt.im
 pts.org.tw
 ptt.cc
@@ -9116,6 +9134,7 @@ thegioitinhoc.vn
 thegly.com
 thegly.com
 theguardian.com
+thehindu.com
 thehots.info
 thehots.info
 thehousenews.com
@@ -9135,6 +9154,7 @@ thespeeder.com
 thestandard.com.hk
 thestandnews.com
 thestandnews.com
+thestar.com
 thetibetcenter.org
 thetibetcenter.org
 thetibetconnection.org
@@ -10094,6 +10114,7 @@ vot.org
 vot.org
 vovo2000.com
 vovo2000.com
+vox.com
 voxer.com
 voy.com
 voy.com

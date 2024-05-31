@@ -4391,6 +4391,7 @@ zyzc9.com
 ||9gag.com
 ||9gag.com
 ||9news.com.au
+||9news.com.au
 ||9to5*.com
 ||a-normal-day.com
 ||a248.e.akamai.net
@@ -5296,6 +5297,7 @@ zyzc9.com
 ||c2cx.com
 ||c2cx.com
 ||cableav.tv
+||cableav.tv
 ||cablegatesearch.net
 ||cachefly.com
 ||cachefly.net
@@ -5469,6 +5471,7 @@ zyzc9.com
 ||changp.com
 ||changsa.net
 ||channel8news.sg
+||channelnewsasia.com
 ||channelnewsasia.com
 ||chaoex.com
 ||chaoex.com
@@ -5996,6 +5999,7 @@ zyzc9.com
 ||desipro.de
 ||dessci.com
 ||destroy-china.jp
+||detroitnews.com
 ||deutsche-welle.de
 ||deutsche-welle.de
 ||developers.box.net
@@ -6248,6 +6252,7 @@ zyzc9.com
 ||eastturkistangovernmentinexile.us
 ||easyca.ca
 ||easypic.com
+||ebc.net.tw
 ||ebony-beauty.com
 ||ebook.hyread.com.tw
 ||ebook.hyread.com.tw
@@ -6302,6 +6307,7 @@ zyzc9.com
 ||emulefans.com
 ||emuparadise.me
 ||enanyang.my
+||enca.com
 ||encrypt.me
 ||encyclopedia.com
 ||encyclopedia.com
@@ -6871,6 +6877,7 @@ zyzc9.com
 ||galaxymacau.com
 ||galenwu.com
 ||galenwu.com
+||gallup.com
 ||galstars.net
 ||game735.com
 ||gamebase.com.tw
@@ -7677,6 +7684,7 @@ zyzc9.com
 ||himemix.com
 ||himemix.com
 ||himemix.net
+||hindustantimes.com
 ||hinet.net
 ||hitbtc.com
 ||hitbtc.com
@@ -7824,6 +7832,7 @@ zyzc9.com
 ||hrea.org
 ||hrichina.org
 ||hrichina.org
+||hrntt.org
 ||hrntt.org
 ||hrtsea.com
 ||hrw.org
@@ -8097,7 +8106,9 @@ zyzc9.com
 ||indianarrative.com
 ||indiandefensenews.in
 ||indiandefensenews.in
+||indianexpress.com
 ||indiatimes.com
+||indiatoday.in
 ||indiemerch.com
 ||indiemerch.com
 ||indsr.org.tw
@@ -8816,6 +8827,7 @@ zyzc9.com
 ||mediafreakcity.com
 ||mediafreakcity.com
 ||mediawiki.org
+||medicalnewstoday.com
 ||medium.com
 ||medium.com
 ||meetav.com
@@ -9192,6 +9204,7 @@ zyzc9.com
 ||ncn.org
 ||ndi.org
 ||ndr.de
+||ndtv.com
 ||ned.org
 ||nekoslovakia.net
 ||nengcard.com
@@ -9235,6 +9248,7 @@ zyzc9.com
 ||news.ycombinator.com
 ||news.ycombinator.com
 ||news100.com.tw
+||news18.com
 ||newsancai.com
 ||newsancai.com
 ||newschinacomment.org
@@ -9407,6 +9421,7 @@ zyzc9.com
 ||nyaa.si
 ||nyaa.si
 ||nybooks.com
+||nydailynews.com
 ||nydus.ca
 ||nylon-angel.com
 ||nylonstockingsonline.com
@@ -9812,6 +9827,7 @@ zyzc9.com
 ||pokerstars.net
 ||politicalchina.org
 ||politicalconsultation.org
+||politico.eu
 ||politiscales.net
 ||poloniex.com
 ||poloniex.com
@@ -9866,6 +9882,7 @@ zyzc9.com
 ||potato.im
 ||potvpn.com
 ||potvpn.com
+||pourquoi.tw
 ||pourquoi.tw
 ||power.com
 ||powerapple.com
@@ -9943,6 +9960,7 @@ zyzc9.com
 ||psiphon3.com
 ||psiphon3.com
 ||psiphontoday.com
+||pstatic.net
 ||pstatic.net
 ||pt.im
 ||pts.org.tw
@@ -11008,6 +11026,7 @@ zyzc9.com
 ||thegly.com
 ||theguardian.com
 ||theguardian.com
+||thehindu.com
 ||thehots.info
 ||thehousenews.com
 ||thehun.net
@@ -11029,6 +11048,7 @@ zyzc9.com
 ||thestandard.com.hk
 ||thestandnews.com
 ||thestandnews.com
+||thestar.com
 ||thetibetcenter.org
 ||thetibetconnection.org
 ||thetibetmuseum.org
@@ -11792,6 +11812,7 @@ zyzc9.com
 ||vot.org
 ||vot.org
 ||vovo2000.com
+||vox.com
 ||voxer.com
 ||voxer.com
 ||voy.com
