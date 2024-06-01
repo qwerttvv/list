@@ -1636,7 +1636,6 @@
 .puuko.com
 .python.com.tw
 .qanote.com
-.qgirl.com.tw
 .qhigh.com
 .qi-gong.me
 .qidian.ca
@@ -10005,6 +10004,8 @@ zyzc9.com
 ||pytorch.org
 ||qanote.com
 ||qanote.com
+||qbittorrent.org
+||qgirl.com.tw
 ||qgirl.com.tw
 ||qhigh.com
 ||qi-gong.me
