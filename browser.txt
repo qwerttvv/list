@@ -2791,7 +2791,6 @@ blog.syx86.com/2009/09/puff
 blog.taragana.com
 blog.xuite.net
 blog.youthwant.com.tw
-blog.youxu.info/2010/03/14/west-chamber
 blogimg.jp
 blogs.libraryinformationtechnology.com/jxyz
 blogspot.com
@@ -4199,8 +4198,6 @@ zyzc9.com
 |http://xxxymovies.com
 |http://yes-news.com
 |http://yeyeclub.com
-|http://yourlisten.com
-|http://yourlust.com
 |http://zaobao.com.sg
 |http://zh.wikisource.org
 |http://zhenxiang.biz
@@ -9781,6 +9778,7 @@ zyzc9.com
 ||piposay.com
 ||piraattilahti.org
 ||piring.com
+||pixeldrain.com
 ||pixelqi.com
 ||pixiv.net
 ||pixiv.net
@@ -12385,7 +12383,7 @@ zyzc9.com
 ||yingsuoss.com
 ||yipub.com
 ||yipub.com
-||yiyechat.com
+||yizhihongxing.com
 ||yizhihongxing.com
 ||yobit.net
 ||yobit.net
@@ -12419,6 +12417,8 @@ zyzc9.com
 ||yourepeat.com
 ||yourepeat.com
 ||yourlisten.com
+||yourlisten.com
+||yourlust.com
 ||yourlust.com
 ||yourprivatevpn.com
 ||yourprivatevpn.com
@@ -12457,9 +12457,9 @@ zyzc9.com
 ||yuanming.net
 ||yuanzhengtang.org
 ||yulghun.com
+||yulghun.com
 ||yunchao.net
 ||yunchao.net
-||yuntipub.com
 ||yuntipub.com
 ||yuvutu.com
 ||yvesgeleyn.com
@@ -12468,6 +12468,7 @@ zyzc9.com
 ||yyii.org
 ||yyii.org
 ||yyjlymb.xyz
+||yysub.net
 ||yysub.net
 ||yzzk.com
 ||yzzk.com

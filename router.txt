@@ -597,6 +597,7 @@ protonvpn.com
 expressvpn.com
 thetvdb.com
 nikkei.com
+pixeldrain.com
 xm.com
 youmaker.com
 redtube.com
@@ -2443,7 +2444,6 @@ blog.tiney.com
 blog.workflow.is
 blog.xuite.net
 blog.youthwant.com.tw
-blog.youxu.info
 blogblog.com
 blogcatalog.com
 blogcatalog.com
@@ -10813,7 +10813,6 @@ yingsuoss.com
 yinlei.org
 yipub.com
 yipub.com
-yiyechat.com
 yizhihongxing.com
 yizhihongxing.com
 yobit.net
@@ -10890,7 +10889,6 @@ yulghun.com
 yunchao.net
 yunchao.net
 yuntipub.com
-yuntipub.com
 yuvutu.com
 yvesgeleyn.com
 ywpw.com
@@ -10900,6 +10898,7 @@ yx51.net
 yyii.org
 yyii.org
 yyjlymb.xyz
+yysub.net
 yysub.net
 yzzk.com
 yzzk.com
