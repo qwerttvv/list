@@ -11,7 +11,6 @@
 .12vpn.net
 .138.com
 .141tube.com
-.1688.com.au
 .173ng.com
 .177pic.info
 .17t17p.com
@@ -1254,10 +1253,8 @@
 .liuxiaobo.net
 .livedoor.jp
 .liveleak.com
-.livestation.com
 .livevideo.com
 .liwangyang.com
-.llss.me/
 .load.to
 .lobsangwangyal.com
 .localdomain.ws
@@ -1649,8 +1646,6 @@
 .quran.com
 .quranexplorer.com
 .qvodzy.org
-.ra.gg
-.radicalparty.org
 .radiohilight.net
 .raidtalk.com.tw
 .rainbowplan.org/bbs
@@ -3410,7 +3405,6 @@ quantumbooter.net
 qusi8.net
 qxbbs.org
 radicalparty.org
-radioaustralia.net.au
 rangwang.biz
 rangzen.com
 rangzen.net
@@ -3692,7 +3686,6 @@ website.informer.com
 webworkerdaily.com
 weiboleak.com
 weiboscope.jmsc.hku.hk
-weijingsheng.org
 weiquanwang.org
 wengewang.com
 wetpussygames.com
@@ -3998,7 +3991,6 @@ zyzc9.com
 |http://library.usc.cuhk.edu.hk/
 |http://library.usc.cuhk.edu.hk/
 |http://link-o-rama.com
-|http://liuxiaobo.net
 |http://looktoronto.com
 |http://lyfhk.net
 |http://ma.hao123.com
@@ -4053,7 +4045,6 @@ zyzc9.com
 |http://python.com.tw
 |http://quannengshen.org
 |http://quran.com
-|http://ra.gg/
 |http://radiko.jp
 |http://raizoji.or.jp
 |http://rapidgator.net/
@@ -4247,6 +4238,7 @@ zyzc9.com
 ||141jj.com
 ||141jj.com
 ||141tube.com
+||1688.com.au
 ||1688.com.au
 ||17.live
 ||173ng.com
@@ -5472,6 +5464,7 @@ zyzc9.com
 ||chaoex.com
 ||chaoex.com
 ||chapm25.com
+||chat.lmsys.org
 ||chatgpt.com
 ||chatgpt.com
 ||chatnook.com
@@ -8633,6 +8626,7 @@ zyzc9.com
 ||liujianshu.com
 ||liujianshu.com
 ||liuxiaobo.net
+||liuxiaobo.net
 ||liuxiaotong.com
 ||liuxiaotong.com
 ||livecoin.net
@@ -10053,7 +10047,9 @@ zyzc9.com
 ||r18.com
 ||ra.gg
 ||radicalparty.org
+||radio-canada.ca
 ||radio.garden
+||radioaustralia.net.au
 ||radioaustralia.net.au
 ||radiohilight.net
 ||radiohilight.net
@@ -10870,6 +10866,7 @@ zyzc9.com
 ||taipeisociety.org
 ||taipeisociety.org
 ||taipeitimes.com
+||taisounds.com
 ||taiwan-sex.com
 ||taiwanbible.com
 ||taiwancon.com
@@ -11976,6 +11973,7 @@ zyzc9.com
 ||wego.here.com
 ||weiboleak.com
 ||weihuo.org
+||weijingsheng.org
 ||weijingsheng.org
 ||weiming.info
 ||weiming.info
