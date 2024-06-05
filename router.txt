@@ -534,6 +534,7 @@ huggingface.co
 secure.raxcdn.com
 news.ycombinator.com
 flipkart.com
+apkpure.net
 arte.tv
 pinterest.com.mx
 veoh.com
@@ -3538,6 +3539,7 @@ devio.us
 devio.us
 devpn.com
 devpn.com
+devv.ai
 devv.ai
 dfas.mil
 dfn.org

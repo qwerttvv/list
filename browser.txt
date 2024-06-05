@@ -2722,7 +2722,6 @@ annatam.com/chinese
 anontext.com
 antichristendom.com
 api.proxlet.com
-apkpure.com
 app.heywire.com
 appledaily.com.hk
 appledaily.com.tw
@@ -4645,6 +4644,7 @@ zyzc9.com
 ||apkplz.com
 ||apkpure.com
 ||apkpure.com
+||apkpure.net
 ||aplusvpn.com
 ||app.box.com
 ||app.cloudcone.com
@@ -6000,6 +6000,7 @@ zyzc9.com
 ||devio.us
 ||devpn.com
 ||devpn.com
+||devv.ai
 ||devv.ai
 ||dfas.mil
 ||dfas.mil
