@@ -1724,6 +1724,7 @@ about.me
 aboutgfw.com
 abs.edu
 ac.jiruan.net
+ac.jp
 accim.org
 aceros-de-hispania.com
 aceros-de-hispania.com
@@ -2187,7 +2188,6 @@ barton.de
 barton.de
 bartvpn.com
 bastillepost.com
-battle.net
 bayvoice.net
 bayvoice.net
 bb-chat.tv
@@ -5870,6 +5870,7 @@ itaiwan.gov.tw
 italiatibet.org
 italiatibet.org
 itasoftware.com
+itch.io
 itemdb.com
 itemfix.com
 its.caltech.edu
@@ -9948,6 +9949,7 @@ uwants.com
 uwants.com
 uwants.net
 uwants.net
+uyghur-archive.com
 uyghur-j.org
 uyghur-j.org
 uyghur.co.uk

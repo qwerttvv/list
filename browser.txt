@@ -2598,7 +2598,6 @@
 @@||ntuh.gov.tw
 @@||nvri.gov.tw
 @@||nvri.gov.tw
-@@||nydus.battle.net
 @@||ocsp.pki.goog
 @@||ocsp.pki.goog
 @@||openwrt.org.cn
@@ -4405,6 +4404,7 @@ zyzc9.com
 ||about.google
 ||about.me
 ||about.me
+||ac.jp
 ||acast.com
 ||accountkit.com
 ||aceros-de-hispania.com
@@ -4841,7 +4841,6 @@ zyzc9.com
 ||bartvpn.com
 ||bastillepost.com
 ||bastillepost.com
-||battle.net
 ||bayvoice.net
 ||bayvoice.net
 ||bb-chat.tv
@@ -8207,6 +8206,7 @@ zyzc9.com
 ||italiatibet.org
 ||itasoftware.com
 ||itasoftware.com
+||itch.io
 ||itemdb.com
 ||itemfix.com
 ||itsaol.com
@@ -11668,6 +11668,7 @@ zyzc9.com
 ||uwants.com
 ||uwants.com
 ||uwants.net
+||uyghur-archive.com
 ||uyghur-j.org
 ||uyghur.co.uk
 ||uyghuraa.org
