@@ -1239,9 +1239,6 @@
 .liangyou.net
 .lianyue.net
 .liaowangxizang.net
-.libertytimes.com.tw
-.lighten.org.tw
-.lightnovel.cn
 .linglingfa.com
 .link-o-rama.com
 .linkideo.com
@@ -2463,7 +2460,6 @@
 @@|https://cdn.ampproject.org
 @@|https://cdn.ampproject.org/
 @@|https://www.ampproject.org
-@@|https://www.lightnovel.cn
 @@||*.googleanalytics.com
 @@||*.googlesyndication.com
 @@||about.fb.com
@@ -8577,14 +8573,18 @@ zyzc9.com
 ||liaowangxizang.net
 ||liberal.org.hk
 ||liberal.org.hk
+||libertysculpturepark.com
+||libertytimes.com.tw
 ||libertytimes.com.tw
 ||libraryinformationtechnology.com
 ||libredd.it
 ||lidecheng.com
 ||lifemiles.com
 ||lighten.org.tw
+||lighten.org.tw
 ||lighti.me
 ||lighti.me
+||lightnovel.cn
 ||lightyearvpn.com
 ||lihkg.com
 ||lihkg.com
@@ -12162,6 +12162,7 @@ zyzc9.com
 ||wqyd.org
 ||wrchina.org
 ||wretch.cc
+||writesonic.com
 ||wsimg.com
 ||wsj.com
 ||wsj.com
