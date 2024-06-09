@@ -1591,6 +1591,7 @@ wujieliulan.com
 2021hkcharter.com
 2047.name
 2047.name
+2047.one
 2049bbs.xyz
 21andy.com
 21andy.com
@@ -5076,6 +5077,7 @@ gs-discuss.com
 gsearch.media
 gstatic.com
 gstatic.com
+gstf.org
 gtricks.com
 gts-vpn.com
 gts-vpn.com
@@ -9318,7 +9320,6 @@ tibetcorps.org
 tibetcorps.org
 tibetexpress.net
 tibetexpress.net
-tibetfocus.com
 tibetfocus.com
 tibetfund.org
 tibetfund.org

@@ -4267,6 +4267,7 @@ zyzc9.com
 ||2021hkcharter.com
 ||2047.name
 ||2047.name
+||2047.one
 ||2049bbs.xyz
 ||21andy.com
 ||21join.com
@@ -7495,6 +7496,7 @@ zyzc9.com
 ||gsp.target.com
 ||gstatic.com
 ||gstatic.com
+||gstf.org
 ||gtricks.com
 ||gts-vpn.com
 ||gtv.org
@@ -11150,7 +11152,6 @@ zyzc9.com
 ||tibetcorps.org
 ||tibetexpress.net
 ||tibetexpress.net
-||tibetfocus.com
 ||tibetfocus.com
 ||tibetfund.org
 ||tibetfund.org
