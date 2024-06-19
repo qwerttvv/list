@@ -9232,6 +9232,7 @@ zyzc9.com
 ||newipnow.com
 ||newlandmagazine.com.au
 ||newmitbbs.com
+||newmitbbs.com
 ||newnews.ca
 ||news.cnyes.com
 ||news.com.au
@@ -9870,7 +9871,6 @@ zyzc9.com
 ||post76.com
 ||post852.com
 ||post852.com
-||postimg.org
 ||posts.careerengine.us
 ||potato.im
 ||potato.im
@@ -10262,6 +10262,7 @@ zyzc9.com
 ||saeima.lv
 ||safechat.com
 ||safeguarddefenders.com
+||safeguarddefenders.com
 ||safervpn.com
 ||safervpn.com
 ||safety.google
@@ -10457,6 +10458,7 @@ zyzc9.com
 ||siddharthasintent.org
 ||sidelinesnews.com
 ||sierrafriendsoftibet.org
+||signal.org
 ||signal.org
 ||sijihuisuo.club
 ||sijihuisuo.com
