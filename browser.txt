@@ -4380,6 +4380,7 @@ zyzc9.com
 ||a248.e.akamai.net
 ||a248.e.akamai.net
 ||a5.com.ru
+||a5vpn.com
 ||a771.dscq.akamai.net
 ||aamacau.com
 ||ab.chatgpt.com
@@ -10573,6 +10574,7 @@ zyzc9.com
 ||softfamous.com
 ||softfamous.com
 ||softnology.biz
+||softonic.cn
 ||softsmirror.cf
 ||softwarebychuck.com
 ||softwarebychuck.com
