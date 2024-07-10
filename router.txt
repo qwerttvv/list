@@ -1912,6 +1912,7 @@ andfaraway.net
 android-x86.org
 android-x86.org
 android.com
+androidcombo.com
 androidify.com
 androidify.com
 androidplus.co
@@ -3097,6 +3098,7 @@ chromecast.com
 chromecast.com
 chromercise.com
 chromercise.com
+cht.com.tw
 chuang-yen.org
 chuang-yen.org
 chubold.com
@@ -4215,6 +4217,7 @@ fc2cn.com
 fc2web.com
 fdc64.de
 fdc64.de
+fdc64.jp
 fdc64.org
 fdc64.org
 fdc89.jp
@@ -10122,6 +10125,7 @@ vocn.tv
 vocn.tv
 vod-abematv.akamaized.net
 vod-abematv.akamaized.net
+voi.id
 voicettank.org
 vot.org
 vot.org
