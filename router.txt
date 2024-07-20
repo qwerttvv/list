@@ -238,6 +238,7 @@ huluim.com
 google.co.ve
 mega.co.nz
 patreon.com
+claude.ai
 google.pl
 elpais.com
 blogblog.com
@@ -249,6 +250,7 @@ google.com.ec
 tunein.com
 pbs.org
 hub.docker.com
+perplexity.ai
 dish.com
 google.gr
 google.com.ua
@@ -317,6 +319,7 @@ google.cz
 abc.com
 google.com.eg
 google.by
+anthropic.com
 google.lu
 google.com.mm
 stanford.edu
@@ -327,6 +330,7 @@ google.sk
 google.bg
 google.com.ni
 google.com.kw
+bnbstatic.com
 google.jo
 poe.com
 google.com.gh

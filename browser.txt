@@ -4590,6 +4590,7 @@ zyzc9.com
 ||anpopo.com
 ||answering-islam.org
 ||anthonycalzadilla.com
+||anthropic.com
 ||anti1984.com
 ||antichristendom.com
 ||antiwave.net
@@ -5127,6 +5128,7 @@ zyzc9.com
 ||blueangellive.com
 ||bmfinn.com
 ||bnbstatic.com
+||bnbstatic.com
 ||bnews.co
 ||bnews.co
 ||bnext.com.tw
@@ -5649,6 +5651,7 @@ zyzc9.com
 ||ck101.com
 ||clarionproject.org
 ||classicalguitarblog.net
+||claude.ai
 ||claude.ai
 ||clb.org.hk
 ||cldr.unicode.org
@@ -9716,6 +9719,7 @@ zyzc9.com
 ||perfectvpn.net
 ||periscope.tv
 ||periscope.tv
+||perplexity.ai
 ||perplexity.ai
 ||persecutionblog.com
 ||persiankitty.com
