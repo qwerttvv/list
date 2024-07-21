@@ -4788,6 +4788,7 @@ zyzc9.com
 ||azerimix.com
 ||azubu.tv
 ||azurewebsites.net
+||b-cdn.net
 ||b-ok.cc
 ||b0ne.com
 ||baby-kingdom.com
@@ -5628,6 +5629,7 @@ zyzc9.com
 ||cirosantilli.com
 ||citizencn.com
 ||citizencn.com
+||citizenlab.ca
 ||citizenlab.ca
 ||citizenlab.org
 ||citizenlab.org
@@ -8801,6 +8803,7 @@ zyzc9.com
 ||matome-plus.com
 ||matome-plus.net
 ||matome-plus.net
+||matrix.org
 ||matrix.org
 ||matsushimakaede.com
 ||matters.news

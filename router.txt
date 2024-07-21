@@ -2162,6 +2162,7 @@ azerimix.com
 azubu.tv
 azurewebsites.net
 azurewebsites.net
+b-cdn.net
 b-ok.cc
 b0ne.com
 b0ne.com
@@ -3147,6 +3148,7 @@ cirosantilli.com
 cirosantilli.com
 citizencn.com
 citizencn.com
+citizenlab.ca
 citizenlab.ca
 citizenlab.org
 citizenlab.org
@@ -6606,6 +6608,7 @@ matome-plus.com
 matome-plus.com
 matome-plus.net
 matome-plus.net
+matrix.org
 matsushimakaede.com
 matters.news
 matters.news
