@@ -7012,6 +7012,7 @@ zyzc9.com
 ||girlbanker.com
 ||git.io
 ||git.io
+||gitbook.io
 ||github.blog
 ||github.com
 ||github.com
@@ -8461,6 +8462,7 @@ zyzc9.com
 ||knowledgerush.com
 ||knowyourmeme.com
 ||knowyourmeme.com
+||ko-fi.com
 ||kobo.com
 ||kobo.com
 ||kobobooks.com
@@ -8835,6 +8837,7 @@ zyzc9.com
 ||medicalnewstoday.com
 ||medium.com
 ||medium.com
+||mee6.xyz
 ||meetav.com
 ||meetup.com
 ||mefeedia.com
