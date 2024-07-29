@@ -574,6 +574,7 @@ pximg.net
 uchicago.edu
 youporn.com
 news.ycombinator.com
+cmegroup.com
 tunnelbear.com
 wowhead.com
 google.org
@@ -1375,6 +1376,7 @@ paxful.com
 pincong.rocks
 abc.xyz
 dailysabah.com
+imageglass.org
 ebook.hyread.com.tw
 joinclubhouse.com
 wujieliulan.com
@@ -2133,6 +2135,7 @@ azerbaycan.tv
 azerbaycan.tv
 azerimix.com
 azerimix.com
+azirevpn.com
 azubu.tv
 azurewebsites.net
 azurewebsites.net

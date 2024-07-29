@@ -2865,7 +2865,6 @@ clearharmony.net
 clearwisdom.net
 cling.omy.sg
 cloakpoint.com
-cmi.org.tw
 cmp.hku.hk
 cn.dayabook.com
 cn.freeones.com
@@ -3137,7 +3136,6 @@ idemocracy.asia
 ifanqiang.com
 ifjc.org
 iipdigital.usembassy.gov
-imageshack.us
 impact.org.au
 impp.mn
 in-disguise.com
@@ -4786,6 +4784,7 @@ zyzc9.com
 ||axureformac.com
 ||azerbaycan.tv
 ||azerimix.com
+||azirevpn.com
 ||azubu.tv
 ||azurewebsites.net
 ||b-cdn.net
@@ -5682,6 +5681,8 @@ zyzc9.com
 ||clyp.it
 ||cmcn.org
 ||cmcn.org
+||cmegroup.com
+||cmi.org.tw
 ||cmi.org.tw
 ||cmoinc.org
 ||cms.gov
@@ -8067,9 +8068,11 @@ zyzc9.com
 ||imagefap.com
 ||imageflea.com
 ||imageflea.com
+||imageglass.org
 ||images-gaytube.com
 ||images-gaytube.com
 ||images.comico.tw
+||imageshack.us
 ||imagevenue.com
 ||imagevenue.com
 ||imagezilla.net
