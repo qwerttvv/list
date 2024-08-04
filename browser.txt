@@ -1081,7 +1081,6 @@
 .inthenameofconfuciusmovie.com
 .iownyour.biz
 .iownyour.org
-.ipfire.org
 .ipjetable.net
 .ipobar.com/read.php?
 .iportal.me
@@ -4080,9 +4079,6 @@ zyzc9.com
 |http://tibetansports.org
 |http://tibetanwomen.org
 |http://tibetoffice.ch
-|http://tibetoffice.com.au
-|http://tibetoralhistory.org
-|http://tibetsupportgroup.org
 |http://timdir.com
 |http://time.com
 |http://tiny.cc
@@ -8157,6 +8153,7 @@ zyzc9.com
 ||ipalter.com
 ||ipdefenseforum.com
 ||ipfire.org
+||ipfire.org
 ||ipfs.io
 ||ipfs.io
 ||iphone4hongkong.com
@@ -8236,6 +8233,7 @@ zyzc9.com
 ||iverycd.com
 ||ivpn.net
 ||ivpn.net
+||iwara.tv
 ||ixquick.com
 ||ixquick.com
 ||ixxx.com
@@ -11200,6 +11198,7 @@ zyzc9.com
 ||tibetnetwork.org
 ||tibetoffice.ch
 ||tibetoffice.com.au
+||tibetoffice.com.au
 ||tibetoffice.eu
 ||tibetoffice.org
 ||tibetoffice.org
@@ -11208,6 +11207,7 @@ zyzc9.com
 ||tibetonline.tv
 ||tibetonline.tv
 ||tibetoralhistory.org
+||tibetoralhistory.org
 ||tibetpolicy.eu
 ||tibetrelieffund.co.uk
 ||tibetsites.com
@@ -11215,9 +11215,11 @@ zyzc9.com
 ||tibetsociety.com
 ||tibetsun.com
 ||tibetsupportgroup.org
+||tibetsupportgroup.org
 ||tibetswiss.ch
 ||tibettelegraph.com
 ||tibettimes.net
+||tibettruth.com
 ||tibetwrites.org
 ||tibetwrites.org
 ||ticket.com.tw
