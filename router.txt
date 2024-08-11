@@ -1571,6 +1571,7 @@ lematin.ch
 18board.com
 18board.info
 18comic.org
+18comic.vip
 18hmanga.click
 18onlygirls.com
 18onlygirls.com
@@ -3393,6 +3394,7 @@ crossvpn.net
 crossvpn.net
 crrev.com
 crrev.com
+crunchyroll.com
 crwdcntrl.net
 csdparty.com
 csdparty.com
@@ -5599,6 +5601,7 @@ hxwk.org
 hxwq.org
 hybrid-analysis.com
 hyperrate.com
+hysteria.network
 i-cable.com
 i-part.com.tw
 i-part.com.tw
@@ -5815,6 +5818,7 @@ inkbunny.net
 inkbunny.net
 inkui.com
 inkui.com
+inlang.com
 inmediahk.net
 inmediahk.net
 innermongolia.org
@@ -6058,6 +6062,7 @@ jkb.cc
 jkb.cc
 jkforum.net
 jkub.com
+jmcomic.me
 jmscult.com
 jmscult.com
 joachims.org
@@ -7252,6 +7257,7 @@ nlfreevpn.com
 nlfreevpn.com
 nmsl.website
 nnews.eu
+nnews.eu
 no-ip.org
 no-ip.org
 nobel.se
@@ -8287,6 +8293,7 @@ safeguarddefenders.com
 safeguarddefenders.com
 safervpn.com
 safervpn.com
+sagernet.org
 saintyculture.com
 saintyculture.com
 saiq.me
@@ -9109,6 +9116,7 @@ teachparentstech.org
 teamamericany.com
 teamamericany.com
 tech2.in.com
+techcrunch.com
 technews.tw
 techviz.net
 teck.in
