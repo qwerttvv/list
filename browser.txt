@@ -2899,7 +2899,6 @@ daiphapinfo.net
 dajiyuan.eu
 dajusha.baywords.com
 dalailama.com
-dalailama.usc.edu
 dalailama80.org
 dalailamafellows.org
 dalianmeng.org
@@ -10779,6 +10778,7 @@ zyzc9.com
 ||stories.google
 ||storify.com
 ||storify.com
+||storj.io
 ||storm.mg
 ||storm.mg
 ||stormmediagroup.com
@@ -11677,6 +11677,7 @@ zyzc9.com
 ||usacn.com
 ||usaip.eu
 ||usaip.eu
+||uscardforum.com
 ||uscnpm.org
 ||usefreevpn.com
 ||usfk.mil

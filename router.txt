@@ -792,6 +792,7 @@ calameo.com
 ja.wikipedia.org
 nationalinterest.org
 writesonic.com
+uscardforum.com
 goo.ne.jp
 ibiblio.org
 foreignaffairs.com
@@ -1351,6 +1352,7 @@ imlive.com
 speakerdeck.com
 appsto.re
 episcopalchurch.org
+storj.io
 dlive.tv
 tubepornclassic.com
 chinese.engadget.com
@@ -3469,7 +3471,6 @@ dalailama.mn
 dalailama.mn
 dalailama.ru
 dalailama.ru
-dalailama.usc.edu
 dalailama.usc.edu
 dalailama80.org
 dalailama80.org
