@@ -8768,6 +8768,7 @@ zyzc9.com
 ||malaysiakini.com
 ||mamingzhe.com
 ||manchukuo.net
+||manchustate.org
 ||mandiant.com
 ||mangafox.com
 ||mangafox.me
@@ -8898,6 +8899,7 @@ zyzc9.com
 ||messenger.com
 ||meta.com
 ||metacafe.com
+||metacubex.one
 ||metafilter.com
 ||metart.com
 ||metart.com
