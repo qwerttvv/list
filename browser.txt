@@ -1119,7 +1119,6 @@
 .izaobao.us
 .izles.net
 .izlesem.org
-.jamyangnorbu.com
 .jandyx.com
 .jav.com
 .jav101.com
@@ -1544,8 +1543,6 @@
 .pemulihan.or.id
 .penchinese.net
 .penthouse.com
-.pentoy.hk/%E4%B8%AD%E5%9C%8B
-.pentoy.hk/%E6%99%82%E4%BA%8B
 .peoplebookcafe.com
 .peoplenews.tw
 .peopo.org
@@ -1572,9 +1569,7 @@
 .pmatehunter.com
 .pmates.com
 .pokerstars.com
-.pokerstars.net
 .politiscales.net
-.polymerhk.com
 .popo.tw
 .popyard.com
 .porn.com
@@ -1969,7 +1964,6 @@
 .tibet.net
 .tibet.org
 .tibet.sk
-.tibet.to
 .tibet3rdpole.org
 .tibetaid.org
 .tibetan.fr
@@ -1997,17 +1991,6 @@
 .tibetinfonet.net
 .tibetjustice.org
 .tibetkomite.dk
-.tibetoffice.ch
-.tibetoffice.com.au
-.tibetonline.tv
-.tibetoralhistory.org
-.tibetpolicy.eu
-.tibetrelieffund.co.uk
-.tibetsociety.com
-.tibetsun.com
-.tibetsupportgroup.org
-.tibetswiss.ch
-.tibettelegraph.com
 .ticket.com.tw
 .tigervpn.com
 .timdir.com
@@ -2715,7 +2698,6 @@ aniscartujo.com
 annatam.com/chinese
 anontext.com
 antichristendom.com
-api.proxlet.com
 app.heywire.com
 appledaily.com.hk
 appledaily.com.tw
@@ -2769,9 +2751,7 @@ blog.cnyes.com
 blog.foolsmountain.com
 blog.goo.ne.jp/duck-tail_2009
 blog.istef.info/2007/10/21/myentunnel
-blog.jackjia.com
 blog.lester850.info
-blog.qooza.hk/dafengqixi
 blog.sina.com.tw
 blog.sogoo.org
 blog.syx86.cn/2009/09/puff
@@ -3344,11 +3324,8 @@ pdetails.com
 peacefire.org
 peacehall.com
 penchinese.com
-pengyulong.com
-penisbot.com
 phapluan.org
 philborges.com
-philly.com
 phobos.apple.com*/video
 phobos.apple.com*/video
 picturesocial.com
@@ -3359,11 +3336,8 @@ plays.com.tw
 plm.org.hk
 plunder.com
 pobieramy.top
-politicalchina.org
-politicalconsultation.org
 postadult.com
 powerapple.com
-prisoner-state-secret-journal-premier
 privatepaste.com
 privatetunnel.com
 provideocoalition.com
@@ -3396,7 +3370,6 @@ qusi8.net
 qxbbs.org
 radicalparty.org
 rangwang.biz
-rangzen.com
 rangzen.net
 rangzen.org
 ranyunfei.com
@@ -3476,7 +3449,7 @@ sowers.org.hk
 specxinzl.jigsy.com
 spem.at
 ss.carryzhou.com
-ss.pythonic.life/
+ss.pythonic.life
 sstmlt.net
 stanford.edu/group/falun
 static01.nyt.com
@@ -3527,8 +3500,6 @@ tiantibooks.org
 tianyantong.org.cn
 tibet.ca
 tibet.fr
-tibet.nu
-tibet.org.tw
 tibetaction.net
 tibetalk.com
 tibetan-alliance.org
@@ -3537,9 +3508,6 @@ tibetanfeministcollective.org
 tibetcharity.in
 tibetlibre.free.fr
 tibetoffice.eu
-tibetonline.com
-tibetsites.com
-tibettimes.net
 times.hinet.net
 tintuc101.com
 tinychat.com
@@ -3750,7 +3718,6 @@ yuanming.net
 yx51.net
 zacebook.com
 zgzcjj.net
-zh.pokerstrategy.com
 zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 zh.uncyclopedia.wikia.com
 zhao.1984.city
@@ -3954,7 +3921,6 @@ zyzc9.com
 |http://iportal.me
 |http://islam.org.hk
 |http://itweet.net
-|http://jamyangnorbu.com
 |http://japanfirst.asianfreeforum.com/
 |http://javakiba.org
 |http://javmobile.net
@@ -4029,15 +3995,11 @@ zyzc9.com
 |http://pearlher.org
 |http://pemulihan.or.id
 |http://pictures.playboy.com
-|http://polymerhk.com
 |http://pornhubdeutsch.net
 |http://pornsharing.com
-|http://python.com.tw
-|http://quannengshen.org
 |http://quran.com
 |http://radiko.jp
 |http://raizoji.or.jp
-|http://rapidgator.net/
 |http://raremovie.cc
 |http://raremovie.net
 |http://readydown.com
@@ -4077,7 +4039,6 @@ zyzc9.com
 |http://tibetancommunityuk.net
 |http://tibetansports.org
 |http://tibetanwomen.org
-|http://tibetoffice.ch
 |http://timdir.com
 |http://time.com
 |http://tiny.cc
@@ -5011,6 +4972,7 @@ zyzc9.com
 ||blog.fuckgfw233.org
 ||blog.fuckgfw233.org
 ||blog.google
+||blog.jackjia.com
 ||blog.kangye.org
 ||blog.kangye.org
 ||blog.pathtosharepoint.com
@@ -5257,6 +5219,7 @@ zyzc9.com
 ||buzzhand.com
 ||buzzorange.com
 ||buzzorange.com
+||buzzsprout.com
 ||bvpn.com
 ||bvpn.com
 ||bwgyhw.com
@@ -8237,6 +8200,7 @@ zyzc9.com
 ||ivacy.com
 ||ivacy.com
 ||iverycd.com
+||ivonblog.com
 ||ivpn.net
 ||ivpn.net
 ||iwara.tv
@@ -8260,6 +8224,8 @@ zyzc9.com
 ||jamaat.org
 ||jamestown.org
 ||jamyangnorbu.com
+||jamyangnorbu.com
+||jan.ai
 ||jandyx.com
 ||janwongphoto.com
 ||janwongphoto.com
@@ -9727,6 +9693,7 @@ zyzc9.com
 ||penisbot.com
 ||penthouse.com
 ||pentoy.hk
+||pentoy.hk
 ||peoplebookcafe.com
 ||peoplenews.tw
 ||peoplenews.tw
@@ -9849,13 +9816,17 @@ zyzc9.com
 ||pokerstars.com
 ||pokerstars.com
 ||pokerstars.net
+||pokerstars.net
 ||politicalchina.org
+||politicalchina.org
+||politicalconsultation.org
 ||politicalconsultation.org
 ||politico.eu
 ||politiscales.net
 ||poloniex.com
 ||poloniex.com
 ||polymer-project.org
+||polymerhk.com
 ||polymerhk.com
 ||poolin.com
 ||popo.tw
@@ -10024,6 +9995,7 @@ zyzc9.com
 ||pximg.net
 ||python.com
 ||python.com.tw
+||python.com.tw
 ||pythonhackers.com
 ||pytorch.org
 ||qanote.com
@@ -10058,6 +10030,7 @@ zyzc9.com
 ||qtrac.eu
 ||qtweeter.com
 ||qtweeter.com
+||quannengshen.org
 ||quannengshen.org
 ||questvisual.com
 ||questvisual.com
@@ -11144,10 +11117,13 @@ zyzc9.com
 ||tibet.net
 ||tibet.net
 ||tibet.nu
+||tibet.nu
 ||tibet.org
 ||tibet.org
 ||tibet.org.tw
+||tibet.org.tw
 ||tibet.sk
+||tibet.to
 ||tibet.to
 ||tibet3rdpole.org
 ||tibetaction.net
@@ -11210,6 +11186,7 @@ zyzc9.com
 ||tibetnetwork.org
 ||tibetnetwork.org
 ||tibetoffice.ch
+||tibetoffice.ch
 ||tibetoffice.com.au
 ||tibetoffice.com.au
 ||tibetoffice.eu
@@ -11222,15 +11199,22 @@ zyzc9.com
 ||tibetoralhistory.org
 ||tibetoralhistory.org
 ||tibetpolicy.eu
+||tibetpolicy.eu
 ||tibetrelieffund.co.uk
+||tibetrelieffund.co.uk
+||tibetsites.com
 ||tibetsites.com
 ||tibetsociety.com
 ||tibetsociety.com
 ||tibetsun.com
+||tibetsun.com
 ||tibetsupportgroup.org
 ||tibetsupportgroup.org
 ||tibetswiss.ch
+||tibetswiss.ch
 ||tibettelegraph.com
+||tibettelegraph.com
+||tibettimes.net
 ||tibettimes.net
 ||tibettruth.com
 ||tibetwrites.org
@@ -11242,6 +11226,7 @@ zyzc9.com
 ||tiktok.com
 ||tiktokcdn-us.com
 ||tiktokcdn.com
+||tiktokv.com
 ||tiktokv.com
 ||tiltbrush.com
 ||tiltbrush.com
@@ -12550,6 +12535,7 @@ zyzc9.com
 ||zgzcjj.net
 ||zh.bitterwinter.org
 ||zh.ecdm.wikia.com
+||zh.pokerstrategy.com
 ||zh.wikinews.org
 ||zh.wikiquote.org
 ||zhanbin.net

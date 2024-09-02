@@ -16,6 +16,7 @@ connect.facebook.net
 spotify.com
 netflix.net
 snapchat.com
+tiktokv.com
 nflxso.net
 linkedin.com
 gmail.com
@@ -474,6 +475,7 @@ myspace.com
 sourceforge.net
 viu.com
 startpage.com
+buzzsprout.com
 bet365.com
 dmm.co.jp
 anthropic.com
@@ -638,7 +640,6 @@ cdw.com
 googleblog.com
 hk01.com
 ipvanish.com
-rapidgator.net
 rferl.org
 livemint.com
 internet.org
@@ -1340,7 +1341,6 @@ pawoo.net
 pinterest.se
 theync.com
 chromeenterprise.google
-philly.com
 pinterest.dk
 jamestown.org
 newtalk.tw
@@ -2052,7 +2052,6 @@ api.ai
 api.ai
 api.dropboxapi.com
 api.linksalpha.com
-api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
 api.recaptcha.net
@@ -2503,7 +2502,6 @@ blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
-blog.qooza.hk
 blog.ranxiang.com
 blog.sina.com.tw
 blog.sogoo.org
@@ -5972,6 +5970,7 @@ iuksky.com
 ivacy.com
 iverycd.com
 iverycd.com
+ivonblog.com
 ivpn.net
 ixquick.com
 ixxx.com
@@ -5993,6 +5992,7 @@ jamaat.org
 jamaat.org
 jamyangnorbu.com
 jamyangnorbu.com
+jan.ai
 jandyx.com
 jandyx.com
 janwongphoto.com
@@ -7698,8 +7698,6 @@ penchinese.com
 penchinese.net
 penchinese.net
 pengyulong.com
-pengyulong.com
-penisbot.com
 penisbot.com
 penthouse.com
 penthouse.com
@@ -8107,7 +8105,6 @@ rakuten.com.tw
 ramcity.com.au
 rangwang.biz
 rangwang.biz
-rangzen.com
 rangzen.com
 rangzen.net
 rangzen.net
