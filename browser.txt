@@ -4687,6 +4687,7 @@ zyzc9.com
 ||aspi.org.au
 ||aspistrategist.org.au
 ||asrockind.com
+||asse.rel.tunnels.api.visualstudio.com
 ||assembla.com
 ||assembla.com
 ||assets.bwbx.io
@@ -10239,6 +10240,7 @@ zyzc9.com
 ||ruten.com.tw
 ||ruten.com.tw
 ||rutracker.net
+||rutracker.org
 ||rutube.ru
 ||ruyiseek.com
 ||rxhj.net
@@ -12093,6 +12095,7 @@ zyzc9.com
 ||wikimedia.org
 ||wikimedia.org
 ||wikinews.org
+||wikipedia-on-ipfs.org
 ||wikipedia.org
 ||wikipedia.org
 ||wikiquote.org

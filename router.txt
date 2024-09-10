@@ -2097,6 +2097,7 @@ askynz.net
 aspi.org.au
 aspistrategist.org.au
 asrockind.com
+asse.rel.tunnels.api.visualstudio.com
 assembla.com
 assimp.org
 astrill.com
@@ -8255,6 +8256,7 @@ runbtx.com
 rushbee.com
 rusvpn.com
 ruten.com.tw
+rutracker.org
 rutube.ru
 ruyiseek.com
 ruyiseek.com
@@ -10467,6 +10469,7 @@ wikilivres.info
 wikimapia.org
 wikimedia.org
 wikinews.org
+wikipedia-on-ipfs.org
 wikipedia.org
 wikiquote.org
 wikisource.org
