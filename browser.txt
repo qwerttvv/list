@@ -4549,6 +4549,7 @@ zyzc9.com
 ||anthropic.com
 ||anti1984.com
 ||antichristendom.com
+||antisocial.science
 ||antiwave.net
 ||anyporn.com
 ||anysex.com
@@ -4687,7 +4688,6 @@ zyzc9.com
 ||aspi.org.au
 ||aspistrategist.org.au
 ||asrockind.com
-||asse.rel.tunnels.api.visualstudio.com
 ||assembla.com
 ||assembla.com
 ||assets.bwbx.io
@@ -6379,6 +6379,7 @@ zyzc9.com
 ||exchristian.hk
 ||excite.co.jp
 ||exhentai.org
+||exhentai.org
 ||exmo.com
 ||exmo.com
 ||exmormon.org
@@ -7951,6 +7952,7 @@ zyzc9.com
 ||ifreewares.com
 ||ift.tt
 ||ift.tt
+||ig.com
 ||igcd.net
 ||igfw.net
 ||igfw.net
@@ -8667,6 +8669,7 @@ zyzc9.com
 ||looktoronto.com
 ||lotuslight.org.hk
 ||lotuslight.org.tw
+||loukky.com
 ||lovetvshow.com
 ||lpsg.com
 ||lpsg.com
@@ -11386,6 +11389,7 @@ zyzc9.com
 ||tunnelblick.net
 ||tunnelr.com
 ||tunnelr.com
+||tunnels.api.visualstudio.com
 ||tunsafe.com
 ||tunsafe.com
 ||tuo8.blue
