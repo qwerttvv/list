@@ -6947,6 +6947,7 @@ zyzc9.com
 ||gettr.com
 ||gettrials.com
 ||gettyimages.com
+||gettyimages.hk
 ||getuploader.com
 ||gfbv.de
 ||gfgold.com.hk
@@ -8316,6 +8317,7 @@ zyzc9.com
 ||joinclubhouse.com
 ||joinmastodon.org
 ||joinmastodon.org
+||joinpeertube.org
 ||jornaldacidadeonline.com.br
 ||jotform.com
 ||journalchretien.net
@@ -9378,6 +9380,7 @@ zyzc9.com
 ||ntbt.gov.tw
 ||ntd.tv
 ||ntd.tv
+||ntdsf.tv
 ||ntdtv.ca
 ||ntdtv.co.kr
 ||ntdtv.com
@@ -9457,6 +9460,7 @@ zyzc9.com
 ||oculus.com
 ||oculuscdn.com
 ||oculuscdn.com
+||odysee.com
 ||odysee.com
 ||oex.com
 ||offbeatchina.com

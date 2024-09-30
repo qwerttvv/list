@@ -4782,6 +4782,7 @@ getsocialscope.com
 getsync.com
 gettrials.com
 gettrials.com
+gettyimages.hk
 getuploader.com
 gfbv.de
 gfbv.de
@@ -6104,6 +6105,7 @@ joinbbs.net
 joinclubhouse.com
 joinclubhouse.com
 joinmastodon.org
+joinpeertube.org
 jornaldacidadeonline.com.br
 jotform.com
 journalchretien.net
@@ -7349,6 +7351,7 @@ ntbna.gov.tw
 ntbt.gov.tw
 ntd.tv
 ntd.tv
+ntdsf.tv
 ntdtv.ca
 ntdtv.ca
 ntdtv.co.kr
@@ -7437,6 +7440,7 @@ october-review.org
 october-review.org
 oculus.com
 oculuscdn.com
+odysee.com
 oex.com
 offbeatchina.com
 offbeatchina.com
