@@ -3730,7 +3730,6 @@ zhongguotese.net
 zhuichaguoji.org
 zomobo.net
 zyzc9.com
-|*0914.global.ssl.fastly.net
 |*api.tenor.com
 |*app.cloudcone.com
 |*apps.evozi.com
@@ -6512,6 +6511,7 @@ zyzc9.com
 ||fast.com
 ||fast.wistia.com
 ||fastestvpn.com
+||fastly.net
 ||fastpic.ru
 ||fastssh.com
 ||fastssh.com
@@ -9432,7 +9432,6 @@ zyzc9.com
 ||nyti.ms
 ||nytimes.com
 ||nytimes.com
-||nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||nytimg.com
 ||nytimg.com

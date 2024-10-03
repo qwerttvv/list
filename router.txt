@@ -4214,6 +4214,7 @@ fartit.com
 farwestchina.com
 farwestchina.com
 fast.com
+fastly.net
 fastssh.com
 fastssh.com
 faststone.org
@@ -4792,7 +4793,6 @@ gizlen.net
 gjczz.com
 gjczz.com
 glass8.eu
-global.ssl.fastly.net
 globaljihad.net
 globaljihad.net
 globalmediaoutreach.com
@@ -7380,7 +7380,6 @@ nytcn.me
 nytco.com
 nyti.ms
 nytimes.com
-nytimes.map.fastly.net
 nytimg.com
 nytimg.com
 nytstyle.com
