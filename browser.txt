@@ -6415,6 +6415,7 @@ zyzc9.com
 ||facebook.br
 ||facebook.com
 ||facebook.com
+||facebook.de
 ||facebook.design
 ||facebook.hu
 ||facebook.hu
@@ -8873,6 +8874,7 @@ zyzc9.com
 ||messenger.com
 ||messenger.com
 ||meta.com
+||meta.com
 ||metacafe.com
 ||metacubex.one
 ||metafilter.com
@@ -11306,6 +11308,7 @@ zyzc9.com
 ||torrenty.org
 ||torrentz.eu
 ||torrentz.eu
+||tortoisesvn.net
 ||torvpn.com
 ||torvpn.com
 ||totalvpn.com

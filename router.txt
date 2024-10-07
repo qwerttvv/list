@@ -164,6 +164,7 @@ google.com.co
 messenger.com
 archive.org
 nytimes.map.fastly.net
+meta.com
 washingtonpost.com
 githubassets.com
 openstreetmap.org
@@ -1248,6 +1249,7 @@ liveleak.com
 metacafe.com
 qbittorrent.org
 exmo.com
+facebook.de
 hoover.org
 howtoforge.com
 waymo.com
@@ -1702,6 +1704,7 @@ fullerconsideration.com
 getoutline.org
 mihua.org
 tokyo-hot.com
+tortoisesvn.net
 tunsafe.com
 twbbs.org
 u15.info
