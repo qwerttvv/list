@@ -7266,6 +7266,7 @@ nitter.pussthecat.org
 niu.moe
 niu.moe
 njactb.org
+njav.tv
 njuice.com
 njuice.com
 nko.navy.mil
@@ -8879,6 +8880,7 @@ stoporganharvesting.org
 stoporganharvesting.org
 stoptibetcrisis.net
 stoptibetcrisis.net
+store.steampowered.com
 stories.google
 storify.com
 storify.com
@@ -10678,6 +10680,7 @@ xbtce.com
 xbtce.com
 xcafe.in
 xcafe.in
+xchina.co
 xcity.jp
 xcritic.com
 xcritic.com
@@ -10790,6 +10793,7 @@ xvideo.cc
 xvideos-cdn.com
 xvideos.com
 xvideos.es
+xvideos2.com
 xvinlink.com
 xxbbx.com
 xxlmovies.com

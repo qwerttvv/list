@@ -4020,6 +4020,7 @@ zyzc9.com
 |http://sspro.ml
 |http://stackoverflow.com/users/895245
 |http://startuplivingchina.com
+|http://store.steampowered.com
 |http://superzooi.com
 |http://suprememastertv.com
 |http://surfeasy.com.au
@@ -9314,6 +9315,7 @@ zyzc9.com
 ||niu.moe
 ||niusnews.com
 ||njactb.org
+||njav.tv
 ||njuice.com
 ||njuice.com
 ||nko.navy.mil
@@ -12261,6 +12263,7 @@ zyzc9.com
 ||xbtce.com
 ||xcafe.in
 ||xcafe.in
+||xchina.co
 ||xcity.jp
 ||xcity.jp
 ||xcritic.com
@@ -12355,6 +12358,7 @@ zyzc9.com
 ||xvideos.com
 ||xvideos.es
 ||xvideos.es
+||xvideos2.com
 ||xvinlink.com
 ||xxlmovies.com
 ||xxuz.com
