@@ -2233,6 +2233,7 @@ api.linksalpha.com
 api.pureapk.com
 api.recaptcha.net
 api.recaptcha.net
+api.steampowered.com
 apiary.io
 apidocs.linksalpha.com
 apigee.com
@@ -2929,6 +2930,7 @@ buzzhand.com
 buzzhand.net
 buzzorange.com
 buzzorange.com
+buzzsprout.com
 bvpn.com
 bvpn.com
 bwgyhw.com
@@ -4274,6 +4276,7 @@ fa.gov.tw
 facebook.br
 facebook.br
 facebook.com
+facebook.de
 facebook.design
 facebook.hu
 facebook.hu
@@ -4351,6 +4354,7 @@ famunion.com
 famunion.com
 fan-qiang.com
 fan-qiang.com
+fandom.com
 fangbinxing.com
 fangbinxing.com
 fangeming.com
@@ -6079,6 +6083,7 @@ ivacy.com
 iverycd.com
 iverycd.com
 ivonblog.com
+ivonblog.com
 ivpn.net
 ixquick.com
 ixxx.com
@@ -6100,6 +6105,7 @@ jamaat.org
 jamaat.org
 jamyangnorbu.com
 jamyangnorbu.com
+jan.ai
 jan.ai
 jandyx.com
 jandyx.com
@@ -6596,6 +6602,7 @@ lockestek.com
 lockestek.com
 logbot.net
 logbot.net
+login.steampowered.com
 logiqx.com
 logiqx.com
 logos.com.hk
@@ -7685,6 +7692,7 @@ page2rss.com
 pages.dev
 pagodabox.com
 pagodabox.com
+paimon.moe
 palacemoon.com
 palacemoon.com
 paldengyal.com
@@ -7740,6 +7748,7 @@ pcanywhere.net
 pcc.gov.tw
 pcdvd.com.tw
 pcdvd.com.tw
+pcgamestorrents.com
 pchome.com.tw
 pchomeec.tw
 pcij.org
@@ -7771,8 +7780,6 @@ penchinese.com
 penchinese.com
 penchinese.net
 penchinese.net
-pengyulong.com
-penisbot.com
 penthouse.com
 pentoy.hk
 pentoy.hk
@@ -8007,6 +8014,7 @@ proxfree.com
 proxfree.com
 proxifier.com
 proxifier.com
+proxlet.com
 proxomitron.info
 proxpn.com
 proxpn.com
@@ -8809,6 +8817,7 @@ spankbang.com
 spankingtube.com
 spankingtube.com
 spankwire.com
+spatial.io
 spb.com
 speakerdeck.com
 specxinzl.jigsy.com
@@ -9277,6 +9286,7 @@ thewgo.org
 theync.com
 thinkgeek.com
 thinkgeek.com
+thinkhk.com
 thinkingtaiwan.com
 thinkingtaiwan.com
 thinkwithgoogle.com
@@ -9564,6 +9574,7 @@ torrentprivacy.com
 torrentprivacy.com
 torrentproject.se
 torrentz.eu
+tortoisesvn.net
 torvpn.com
 torvpn.com
 tosh.comedycentral.com

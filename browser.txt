@@ -3764,6 +3764,7 @@ zyzc9.com
 |http://antiwave.net
 |http://anysex.com
 |http://aofriend.com
+|http://api.steampowered.com
 |http://appshopper.com
 |http://ar.hao123.com
 |http://arctosia.com
@@ -5221,6 +5222,7 @@ zyzc9.com
 ||buzzorange.com
 ||buzzorange.com
 ||buzzsprout.com
+||buzzsprout.com
 ||bvpn.com
 ||bvpn.com
 ||bwgyhw.com
@@ -6417,6 +6419,7 @@ zyzc9.com
 ||facebook.com
 ||facebook.com
 ||facebook.de
+||facebook.de
 ||facebook.design
 ||facebook.hu
 ||facebook.hu
@@ -6477,6 +6480,7 @@ zyzc9.com
 ||famunion.com
 ||famunion.com
 ||fan-qiang.com
+||fandom.com
 ||fangbinxing.com
 ||fangbinxing.com
 ||fangeming.com
@@ -8207,6 +8211,7 @@ zyzc9.com
 ||ivacy.com
 ||iverycd.com
 ||ivonblog.com
+||ivonblog.com
 ||ivpn.net
 ||ivpn.net
 ||iwara.tv
@@ -8231,6 +8236,7 @@ zyzc9.com
 ||jamestown.org
 ||jamyangnorbu.com
 ||jamyangnorbu.com
+||jan.ai
 ||jan.ai
 ||jandyx.com
 ||janwongphoto.com
@@ -8658,6 +8664,7 @@ zyzc9.com
 ||lockestek.com
 ||lockestek.com
 ||logbot.net
+||login.steampowered.com
 ||login.target.com
 ||logiqx.com
 ||logiqx.com
@@ -9621,6 +9628,7 @@ zyzc9.com
 ||pages.dev
 ||pagodabox.com
 ||pagodabox.com
+||paimon.moe
 ||palacemoon.com
 ||paldengyal.com
 ||paljorpublications.com
@@ -9676,6 +9684,7 @@ zyzc9.com
 ||pcanywhere.net
 ||pcc.gov.tw
 ||pcdvd.com.tw
+||pcgamestorrents.com
 ||pchome.com.tw
 ||pchomeec.tw
 ||pcij.org
@@ -9701,8 +9710,6 @@ zyzc9.com
 ||penchinese.com
 ||penchinese.net
 ||penchinese.net
-||pengyulong.com
-||penisbot.com
 ||penthouse.com
 ||pentoy.hk
 ||pentoy.hk
@@ -9940,6 +9947,7 @@ zyzc9.com
 ||proxfree.com
 ||proxfree.com
 ||proxifier.com
+||proxlet.com
 ||proxomitron.info
 ||proxpn.com
 ||proxpn.com
@@ -10649,6 +10657,7 @@ zyzc9.com
 ||spankbang.com
 ||spankingtube.com
 ||spankwire.com
+||spatial.io
 ||spb.com
 ||speakerdeck.com
 ||speakerdeck.com
@@ -11082,6 +11091,7 @@ zyzc9.com
 ||theync.com
 ||thinkgeek.com
 ||thinkgeek.com
+||thinkhk.com
 ||thinkingtaiwan.com
 ||thinkingtaiwan.com
 ||thinkwithgoogle.com
@@ -11310,6 +11320,7 @@ zyzc9.com
 ||torrenty.org
 ||torrentz.eu
 ||torrentz.eu
+||tortoisesvn.net
 ||tortoisesvn.net
 ||torvpn.com
 ||torvpn.com
