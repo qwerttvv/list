@@ -274,7 +274,6 @@
 .briefdream.com/%e7%b4%a0%e6%a3%ba
 .broadpressinc.com
 .brutaltgp.com
-.bt2mag.com
 .btaia.com
 .btbtav.com
 .btku.me
@@ -5425,6 +5424,7 @@ zyzc9.com
 ||dnvod.tv
 ||docker.com
 ||docker.io
+||docs.new
 ||doctorvoice.org
 ||documentingreality.com
 ||dogfartnetwork.com
@@ -8692,6 +8692,7 @@ zyzc9.com
 ||sharpdaily.tw
 ||shat-tibet.com
 ||shattered.io
+||sheets.new
 ||sheikyermami.com
 ||shellfire.de
 ||shenshou.org
@@ -8776,6 +8777,7 @@ zyzc9.com
 ||sleazydream.com
 ||slheng.com
 ||slickvpn.com
+||slides.new
 ||slideshare.net
 ||slutload.com
 ||slutmoonbeam.com
@@ -8790,6 +8792,7 @@ zyzc9.com
 ||smhric.org
 ||smyxy.org
 ||snapchat.com
+||snapseed.com
 ||snaptu.com
 ||sndcdn.com
 ||snowlionpub.com
@@ -9768,6 +9771,7 @@ zyzc9.com
 ||vpnworldwide.com
 ||vporn.com
 ||vraiesagesse.net
+||vrchat.com
 ||vrmtr.com
 ||vrsmash.com
 ||vtunnel.com
@@ -9867,6 +9871,7 @@ zyzc9.com
 ||wforum.com/
 ||whatblocked.com
 ||whatbrowser.org
+||whats.new
 ||whatsapp.com
 ||whatsapp.net
 ||whatsonweibo.com
