@@ -931,11 +931,6 @@
 .h528.com
 .h5dm.com
 .h5galgame.me
-.hacg.club
-.hacg.in
-.hacg.li
-.hacg.me
-.hacg.red
 .hacken.cc/bbs
 .hacker.org
 .handcraftedsoftware.org
@@ -3758,10 +3753,6 @@ zyzc9.com
 |http://guaguass.org
 |http://gvlib.com
 |http://h-moe.com
-|http://hacg.in
-|http://hacg.li
-|http://hacg.me
-|http://hacg.red
 |http://harunyahya.com
 |http://hdzog.com
 |http://hec.su
@@ -5346,6 +5337,7 @@ zyzc9.com
 ||debug.com
 ||deck.ly
 ||decodet.co
+||deepai.org
 ||deepdiscount.com
 ||deepmind.com
 ||deezer.com
@@ -6529,6 +6521,7 @@ zyzc9.com
 ||hackmd.io
 ||hackthatphone.net
 ||hahlo.com
+||haijiao.com
 ||haiwaikan.com
 ||hakkatv.org.tw
 ||halktv.com.tr
