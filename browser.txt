@@ -2938,7 +2938,6 @@ hd.stheadline.com/news/realtime
 heix.pp.ru
 hellotxt.com
 hentaitube.tv
-heqinglian.net
 hi-on.org.tw
 hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -6468,6 +6467,7 @@ zyzc9.com
 ||greenvpn.org
 ||grindr.com
 ||grotty-monday.com
+||ground.news
 ||groups.google.cn
 ||grow.google
 ||gsearch.media
@@ -6714,6 +6714,7 @@ zyzc9.com
 ||hoxx.com
 ||hoyolab.com
 ||hpa.gov.tw
+||hpjav.com
 ||hqcdp.org
 ||hqjapanesesex.com
 ||hqmovies.com
@@ -6803,6 +6804,7 @@ zyzc9.com
 ||iask.bz
 ||iask.ca
 ||iav19.com
+||iavian.net
 ||ibit.am
 ||iblist.com
 ||iblogserv-f.net
