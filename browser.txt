@@ -25,9 +25,6 @@
 .1mobile.com
 .2-hand.info
 .2000fun.com/bbs
-.2008xianzhang.info
-.21join.com
-.21pron.com
 .228.net.tw
 .25u.com
 .2shared.com
@@ -503,8 +500,6 @@
 .darktech.org
 .david-kilgour.com
 .daylife.com/topic/dalai_lama
-.dbc.hk/main
-.ddc.com.tw
 .ddhw.info
 .ddns.info
 .ddns.me.uk
@@ -3765,7 +3760,6 @@ zyzc9.com
 |http://homeservershow.com
 |http://hopedialogue.org
 |http://hornytrip.com
-|http://hst.net.tw
 |http://ht.ly
 |http://htl.li
 |http://huashangnews.com
@@ -4056,6 +4050,7 @@ zyzc9.com
 ||1e100.net
 ||1eew.com
 ||1lib.domains
+||1point3acres.com
 ||1pondo.tv
 ||2-hand.info
 ||2008xianzhang.info
@@ -4137,6 +4132,7 @@ zyzc9.com
 ||8z1.net
 ||91jinman.com
 ||91porn.com
+||91porny.com
 ||91vps.club
 ||991.com
 ||99btgc01.com
@@ -5330,6 +5326,7 @@ zyzc9.com
 ||ddns.ms
 ||ddns.net/
 ||de-sci.org
+||deadhouse.org
 ||deadline.com
 ||deaftone.com
 ||debug.com
@@ -6729,6 +6726,7 @@ zyzc9.com
 ||hrtsea.com
 ||hrw.org
 ||hrweb.org
+||hsex.men
 ||hsjp.net
 ||hsselite.com
 ||hst.net.tw
