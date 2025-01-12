@@ -49,6 +49,7 @@ godaddy.com
 pinimg.com
 code.jquery.com
 bootstrapcdn.com
+tiktokv.us
 t.co
 whatsapp.com
 twimg.com
@@ -533,6 +534,7 @@ google.vu
 google.co.ls
 google.com.fj
 google.sh
+spreaker.com
 google.nu
 google.tm
 usno.navy.mil
@@ -543,6 +545,7 @@ google.com.nf
 dynupdate.no-ip.com
 okx.com
 acast.com
+audacy.com
 ledger.com
 buzzsprout.com
 crypto.com
@@ -1413,6 +1416,7 @@ vpnunlimitedapp.com
 marxists.org
 kknews.cc
 pinterest.fr
+z-lib.io
 fnac.be
 xxx.xxx
 freebeacon.com
@@ -1626,6 +1630,7 @@ news.cnyes.com
 vocus.cc
 xchina.co
 chinadigitaltimes.net
+sleazyfork.org
 nextapple.com
 vpnbook.com
 zippyshare.com
@@ -2528,6 +2533,7 @@ cdp1998.org
 cdp2006.org
 cdpa.url.tw
 cdpeu.org
+cdpuk.co.uk
 cdpusa.org
 cdpweb.org
 cdpwu.org
@@ -3261,6 +3267,7 @@ firearmsworld.net
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
+fish.audio
 flagsonline.it
 flecheinthepeche.fr
 fleursdeslettres.com
@@ -4046,6 +4053,7 @@ indiandefensenews.in
 indiemerch.com
 indsr.org.tw
 info-graf.fr
+inherit.live
 initiativesforchina.org
 inkui.com
 inlang.com
@@ -5235,6 +5243,7 @@ r0.ru
 ra.gg
 radicalparty.org
 radiko.jp
+radio-en-ligne.fr
 radioaustralia.net.au
 radiohilight.net
 radioline.co

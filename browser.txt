@@ -175,7 +175,6 @@
 .badjojo.com
 .baijie.org
 .banana-vpn.com
-.band.us
 .bandwagonhost.com
 .bangbrosnetwork.com
 .bangchen.net
@@ -345,7 +344,6 @@
 .cdef.org
 .cdnews.com.tw
 .cdpa.url.tw
-.cecc.gov
 .centurys.net
 .cfhks.org.hk
 .cfos.de
@@ -1330,7 +1328,6 @@
 .mobypicture.com
 .mofaxiehui.com
 .mofos.com
-.money-link.com.tw
 .moneyhome.biz
 .moonbbs.com
 .motherless.com
@@ -2675,10 +2672,6 @@ cdninstagram.com
 cdp1989.org
 cdp1998.org
 cdp2006.org
-cdpeu.org
-cdpusa.org
-cdpweb.org
-cdpwu.org
 ch.shvoong.com
 chengmingmag.com
 chicagoncmtv.com
@@ -2996,7 +2989,6 @@ impp.mn
 in-disguise.com
 in99.org
 internetdefenseleague.org
-internetfreedom.org
 inxian.com
 ipalter.com
 ipoock.com/img
@@ -3821,7 +3813,6 @@ zyzc9.com
 |http://mjlsh.usc.cuhk.edu.hk/
 |http://mo.nightlife141.com
 |http://moby.to
-|http://money-link.com.tw
 |http://motherless.com
 |http://mqxd.org
 |http://mswe1.org
@@ -3986,7 +3977,6 @@ zyzc9.com
 |http://xxxymovies.com
 |http://yes-news.com
 |http://yeyeclub.com
-|http://zaobao.com.sg
 |http://zh.wikisource.org
 |http://zhenxiang.biz
 |http://zhongguorenquan.org
@@ -4422,6 +4412,7 @@ zyzc9.com
 ||atv-ext.amazon.com
 ||atv-ps.amazon.com
 ||auctions.yahoo.co.jp
+||audacy.com
 ||auntology.fandom.com
 ||authorizeddns.org
 ||autodraw.com
@@ -4935,6 +4926,7 @@ zyzc9.com
 ||cdp2006.org
 ||cdpa.url.tw
 ||cdpeu.org
+||cdpuk.co.uk
 ||cdpusa.org
 ||cdpweb.org
 ||cdpwu.org
@@ -5832,6 +5824,7 @@ zyzc9.com
 ||firstfivefollowers.com
 ||firstpost.com
 ||firstrade.com
+||fish.audio
 ||flagsonline.it
 ||flecheinthepeche.fr
 ||fleshbot.com
@@ -6947,6 +6940,7 @@ zyzc9.com
 ||inews-api.tvb.com
 ||info-graf.fr
 ||ingress.com
+||inherit.live
 ||initiativesforchina.org
 ||inkbunny.net
 ||inkui.com
@@ -8423,6 +8417,7 @@ zyzc9.com
 ||ra.gg
 ||radicalparty.org
 ||radio-canada.ca
+||radio-en-ligne.fr
 ||radio.garden
 ||radioaustralia.net.au
 ||radiohilight.net
@@ -8776,6 +8771,7 @@ zyzc9.com
 ||slandr.net
 ||slashine.onl
 ||sleazydream.com
+||sleazyfork.org
 ||slheng.com
 ||slickvpn.com
 ||slides.new
@@ -8875,6 +8871,7 @@ zyzc9.com
 ||spotflux.com
 ||spotify.com
 ||spreadshirt.es
+||spreaker.com
 ||spring-plus.net
 ||spring4u.info
 ||springboardplatform.com
@@ -9288,6 +9285,7 @@ zyzc9.com
 ||tiktokcdn-us.com
 ||tiktokcdn.com
 ||tiktokv.com
+||tiktokv.us
 ||tiltbrush.com
 ||timdir.com
 ||time.com
@@ -10207,6 +10205,7 @@ zyzc9.com
 ||yysub.net
 ||yzzk.com
 ||z-lib.*
+||z-lib.io
 ||z-lib.org
 ||z-library.*
 ||zacebook.com
