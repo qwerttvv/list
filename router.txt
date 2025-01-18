@@ -950,6 +950,7 @@ partypoker.com
 writesonic.com
 solarsystem.nasa.gov
 fnac.com
+abebooks.co.uk
 foreignpolicy.com
 y2mate.com
 tistory.com
@@ -2535,6 +2536,7 @@ changeip.name
 changp.com
 changsa.net
 channel8news.sg
+chanworld.org
 chaoex.com
 chapm25.com
 chat.lmsys.org
@@ -3092,7 +3094,6 @@ eromon.net
 eroprofile.com
 eroticsaloon.net
 esg.t91y.com
-esu.dog
 etaa.org.au
 etadult.com
 etaiwannews.com

@@ -3509,7 +3509,6 @@ whitebear.freebearblog.org
 whotalking.com
 whylover.com
 wiki.cnitter.com
-wiki.esu.im/%e8%9b%a4%e8%9b%a4%e8%af%ad%e5%bd%95
 wiki.keso.cn/home
 wiki.moegirl.org
 wikilivres.info/wiki/%e9%9b%b6%e5%85%ab%e5%ae%aa%e7%ab%a0
@@ -4140,6 +4139,7 @@ zyzc9.com
 ||abc.pp.ru
 ||abc.xyz
 ||abchinese.com
+||abebooks.co.uk
 ||abebooks.com
 ||abematv.akamaized.net
 ||abitno.linpie.com
@@ -4950,6 +4950,7 @@ zyzc9.com
 ||changsa.net
 ||channel8news.sg
 ||channelnewsasia.com
+||chanworld.org
 ||chaoex.com
 ||chapm25.com
 ||chat.lmsys.org
@@ -5621,7 +5622,6 @@ zyzc9.com
 ||esg.t91y.com
 ||eslite.com
 ||esmtp.biz
-||esu.dog
 ||esurance.com
 ||etaa.org.au
 ||etadult.com
