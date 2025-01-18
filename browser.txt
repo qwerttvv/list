@@ -218,7 +218,6 @@
 .beyondfirewall.com
 .bgvpn.com
 .bianlei.com
-.biblesforamerica.org
 .bic2011.org
 .bigmoney.biz
 .bignews.org
@@ -1677,7 +1676,6 @@
 .salvation.org.hk
 .samair.ru/proxy/type-01
 .sambhota.org
-.sanmin.com.tw
 .savetibet.de
 .savetibet.org
 .savetibetstore.org
@@ -2717,7 +2715,6 @@ clearwisdom.net
 cling.omy.sg
 cloakpoint.com
 cmp.hku.hk
-cn.dayabook.com
 cn.freeones.com
 cn.nytstyle.com
 cn.streetvoice.com/article
@@ -3635,7 +3632,6 @@ zyzc9.com
 |http://bbs.mikocon.com
 |http://beijingzx.org
 |http://bell.wiki
-|http://biblesforamerica.org
 |http://biliworld.com
 |http://billypan.com/wiki
 |http://bit.do
@@ -8257,6 +8253,7 @@ zyzc9.com
 ||polymer-project.org
 ||polymerhk.com
 ||poolin.com
+||popai.pro
 ||popo.tw
 ||popvote.hk
 ||popxi.click
@@ -9729,6 +9726,7 @@ zyzc9.com
 ||vox.com
 ||voxer.com
 ||voy.com
+||vpl.bibliocommons.com
 ||vpn.ac
 ||vpn.cjb.net
 ||vpn4all.com

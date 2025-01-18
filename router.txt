@@ -1116,6 +1116,7 @@ orientaldaily.com.my
 democrats.org
 zattoo.com
 who.is
+popai.pro
 porn.com
 hdzog.com
 japantimes.co.jp
@@ -2690,7 +2691,6 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
-cn.dayabook.com
 cn.fmnnow.com
 cn.freeones.com
 cn.giganews.com
@@ -6385,6 +6385,7 @@ voicettank.org
 vot.org
 vovo2000.com
 voy.com
+vpl.bibliocommons.com
 vpn.ac
 vpn.cjb.net
 vpn.cmu.edu
