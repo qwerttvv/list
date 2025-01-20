@@ -911,6 +911,7 @@ y2mate.com
 newgrounds.com
 udn.com.tw
 dynamic-dns.net
+ppy.sh
 facebookmail.com
 nicovideo.jp
 archive.ph
@@ -1092,6 +1093,7 @@ sugarsync.com
 itemdb.com
 rsshub.app
 sexidude.com
+mikanani.me
 fastestvpn.com
 mefound.com
 my03.com
@@ -1547,6 +1549,7 @@ dwnews.net
 eroprofile.com
 nytco.com
 qx.net
+simpleswap.io
 solarsystem.nasa.gov
 appsto.re
 blogspot.com.es
@@ -2546,6 +2549,7 @@ canyu.org
 cao.im
 caobian.info
 caochangqing.com
+caoporn.us
 cap.org.hk
 captainfawcett.com
 carabinasypistolas.com
@@ -3339,6 +3343,7 @@ flickriver.com
 flitto.com
 flnet.org
 flog.tw
+flowhongkong.net
 flyzy2005.com
 fnc.ebc.net.tw
 fochk.org
@@ -3376,6 +3381,7 @@ fpmtmexico.org
 fq.wikia.com
 fqok.org
 fqrouter.com
+frank2019.me
 franklc.com
 freakshare.com
 free-gate.org
@@ -4338,6 +4344,7 @@ ksdl.org
 ksnews.com.tw
 kspcoin.com
 ktzhk.com
+kuaichedao.co
 kui.name
 kukuku.uk
 kun.im
@@ -4609,7 +4616,6 @@ mfxmedia.com
 mgoon.com
 mh4u.org
 mhradio.org
-michaelanti.com
 michaelmarketl.com
 microvpn.com
 middle-way.net
@@ -5644,6 +5650,7 @@ spankingtube.com
 spankwire.com
 spb.com
 specxinzl.jigsy.com
+speedcat.me
 spem.at
 spencertipping.com
 spendee.com

@@ -1284,8 +1284,6 @@
 .mesotw.com/bbs
 .metrohk.com.hk/?cmd=detail&categoryid=2
 .metroradio.com.hk
-.meyul.com
-.microvpn.com
 .mihk.hk/forum
 .mihr.com
 .milph.net
@@ -3050,10 +3048,8 @@ meme.yahoo.com
 memorybbs.com
 meshrep.com
 metacafe.com/watch
-meyou.jp
 mhradio.org
 middle-way.net
-mihua.org
 mimiai.net
 minghui-a.org
 minghui-b.org
@@ -3191,10 +3187,7 @@ proxyroad.com
 prozz.net
 psblog.name
 psiphon.civisec.org
-pubu.com.tw
-puffinbrowser.com
 pulse.yahoo.com
-pureinsight.org
 pwned.com
 python.com
 pythonhackers.com/p
@@ -3596,7 +3589,6 @@ zyzc9.com
 |http://bbc.in
 |http://bbs.cantonese.asia/
 |http://bbs.hanminzu.org/
-|http://bbs.mikocon.com
 |http://beijingzx.org
 |http://bell.wiki
 |http://biliworld.com
@@ -3761,9 +3753,6 @@ zyzc9.com
 |http://martsangkagyuofficial.org
 |http://mash.to
 |http://mcaf.ee
-|http://metroradio.com.hk
-|http://michaelanti.com
-|http://microvpn.com
 |http://milph.net
 |http://mindrolling.org
 |http://minghui.or.kr
@@ -4457,6 +4446,7 @@ zyzc9.com
 ||bbs-tw.com
 ||bbs.cantonese.asia
 ||bbs.junglobal.net
+||bbs.mikocon.com
 ||bbs.mychat.to
 ||bbs.sou-tong.org
 ||bbsdigest.com
@@ -4814,6 +4804,7 @@ zyzc9.com
 ||cao.im
 ||caobian.info
 ||caochangqing.com
+||caoporn.us
 ||cap.org.hk
 ||captainfawcett.com
 ||carabinasypistolas.com
@@ -5803,6 +5794,7 @@ zyzc9.com
 ||flitto.com
 ||flnet.org
 ||flog.tw
+||flowhongkong.net
 ||flurry.com
 ||flyvpn.com
 ||flyzy2005.com
@@ -5837,6 +5829,7 @@ zyzc9.com
 ||fpmtmexico.org
 ||fqok.org
 ||fqrouter.com
+||frank2019.me
 ||franklc.com
 ||freakshare.com
 ||free-gate.org
@@ -7187,6 +7180,7 @@ zyzc9.com
 ||ksnews.com.tw
 ||kspcoin.com
 ||ktzhk.com
+||kuaichedao.co
 ||kucoin.com
 ||kui.name
 ||kukuku.uk
@@ -7511,6 +7505,7 @@ zyzc9.com
 ||mihk.hk
 ||mihr.com
 ||mihua.org
+||mikanani.me
 ||mike.cz.cc
 ||mikesoltys.com
 ||mikocon.com
@@ -8270,6 +8265,7 @@ zyzc9.com
 ||powercx.com
 ||powerphoto.org
 ||pp.ru
+||ppy.sh
 ||prayforchina.net
 ||premeforwindows7.com
 ||premproxy.com
@@ -8701,6 +8697,7 @@ zyzc9.com
 ||silkbook.com
 ||simbolostwitter.com
 ||simplecd.org
+||simpleswap.io
 ||sina.com.hk
 ||sinchew.com.my
 ||singaporepools.com.sg
@@ -8836,6 +8833,7 @@ zyzc9.com
 ||spatial.io
 ||spb.com
 ||speakerdeck.com
+||speedcat.me
 ||speedify.com
 ||spem.at
 ||spencertipping.com
