@@ -207,10 +207,6 @@
 .bestforchina.org
 .bestgore.com
 .bestpornstardb.com
-.bestvpnanalysis.com
-.bestvpnserver.com
-.bestvpnservice.com
-.bestvpnusa.com
 .betfair.com
 .bettervpn.com
 .bettween.com
@@ -3533,8 +3529,6 @@ www.wangruowang.org
 www1.american.edu/ted/ice/tibet
 www2.ohchr.org/english/bodies/cat/docs/ngos/ii_china_41.pdf
 wzyboy.im/post/160
-x1949x.com
-x365x.com
 xanga.com
 xhamster.com
 xiezhua.com
@@ -4528,6 +4522,7 @@ zyzc9.com
 ||bestpornstardb.com
 ||bestvpn.com
 ||bestvpnanalysis.com
+||bestvpnforchina.net
 ||bestvpnserver.com
 ||bestvpnservice.com
 ||bestvpnusa.com
@@ -4949,7 +4944,9 @@ zyzc9.com
 ||channelnewsasia.com
 ||chanworld.org
 ||chaoex.com
+||chaos.social
 ||chapm25.com
+||character.ai
 ||chat.lmsys.org
 ||chatgpt.com
 ||chatnook.com
@@ -6093,6 +6090,7 @@ zyzc9.com
 ||github.com
 ||github.io
 ||githubassets.com
+||githubcopilot.com
 ||githubusercontent.com
 ||gizlen.net
 ||gjczz.com
@@ -8272,6 +8270,7 @@ zyzc9.com
 ||pornrapidshare.com
 ||pornsharing.com
 ||pornsocket.com
+||pornstarbyface.com
 ||pornstarclub.com
 ||porntube.com
 ||porntubenews.com
@@ -8829,6 +8828,7 @@ zyzc9.com
 ||sorazone.net
 ||sorting-algorithms.com
 ||sos.org
+||sosad.fun
 ||sosreader.com
 ||sostibet.org
 ||sotwe.com
@@ -9770,6 +9770,7 @@ zyzc9.com
 ||vraiesagesse.net
 ||vrchat.com
 ||vrmtr.com
+||vrporn.com
 ||vrsmash.com
 ||vtunnel.com
 ||vuku.cc
@@ -10013,6 +10014,7 @@ zyzc9.com
 ||x.company
 ||x1949x.com
 ||x365x.com
+||x3guide.com
 ||xa.yimg.com
 ||xanga.com
 ||xbabe.com

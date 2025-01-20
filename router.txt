@@ -188,6 +188,7 @@ bbc.com
 proton.me
 atdmt.com
 meta.com
+githubcopilot.com
 pstatic.net
 dashlane.com
 cachefly.net
@@ -284,6 +285,7 @@ pbs.org
 cbsnews.com
 google.com.au
 getmdl.io
+character.ai
 huffpost.com
 docker.io
 google.at
@@ -1352,6 +1354,7 @@ ibtimes.com
 mastodon.online
 dns2go.com
 rtalabel.org
+vrporn.com
 kobobooks.com
 plurk.com
 betvictor.com
@@ -1374,6 +1377,7 @@ excite.co.jp
 jsfiddle.net
 codeshare.io
 vegas.williamhill.com
+chaos.social
 angelfire.com
 blogspot.de
 ingress.com
@@ -2298,6 +2302,7 @@ bestgore.com
 bestpornstardb.com
 bestvpn.com
 bestvpnanalysis.com
+bestvpnforchina.net
 bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
@@ -5147,6 +5152,7 @@ pornmm.net
 pornrapidshare.com
 pornsharing.com
 pornsocket.com
+pornstarbyface.com
 pornstarclub.com
 porntubenews.com
 porntvblog.com
@@ -5611,6 +5617,7 @@ sopcast.org
 sorazone.net
 sorting-algorithms.com
 sos.org
+sosad.fun
 sosreader.com
 sostibet.org
 soubory.com
@@ -6668,6 +6675,7 @@ x-wall.org
 x.company
 x1949x.com
 x365x.com
+x3guide.com
 xa.yimg.com
 xanga.com
 xbookcn.com
