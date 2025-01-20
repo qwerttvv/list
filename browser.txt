@@ -824,9 +824,7 @@
 .gokbayrak.com
 .goldbet.com
 .goldenfrog.com
-.goldjizz.com
 .goldstep.net
-.gongwt.com
 .gooday.xyz
 .gooddns.info
 .goodreaders.com
@@ -1101,7 +1099,6 @@
 .jandyx.com
 .jav.com
 .jav101.com
-.jav2be.com
 .jav68.tv
 .javakiba.org
 .javbus.com
@@ -1408,7 +1405,6 @@
 .newgrounds.com
 .newlandmagazine.com.au
 .newnews.ca
-.news.now.com
 .newsancai.com
 .newscn.org
 .newsdetox.ca
@@ -1900,7 +1896,6 @@
 .thechinabeat.org
 .thedalailamamovie.com
 .thegly.com
-.thehots.info
 .theinitium.com
 .thenewslens.com
 .thepiratebay.org
@@ -2209,15 +2204,8 @@
 .wisdompubs.org
 .wisevid.com
 .witnessleeteaching.com
-.witopia.net
 .wjbk.org
-.wnacg.com
-.wnacg.org
-.wo.tc
-.wokar.org
 .wordpress.com
-.workerdemo.org.hk
-.workerempowerment.org
 .worldcat.org
 .worldvpn.net
 .wow-life.net
@@ -2589,7 +2577,6 @@ bayvoice.net
 bbs-tw.com
 bbs.brockbbs.com
 bbs.ecstart.com
-bbs.hasi.wang
 bbs.huasing.org
 bbs.kimy.com.tw
 bbs.morbell.com
@@ -2893,9 +2880,9 @@ godfootsteps.org
 godns.work
 godsdirectcontact.co.uk
 godsdirectcontact.org.tw
-gongm.in
 gongmeng.info
 gongminliliang.com
+good.news
 gospelherald.com
 grandtrial.org
 great-firewall.com
@@ -3111,7 +3098,6 @@ news.cnyes.com
 news.hk.msn.com
 news.msn.com.tw
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
-news.now.com%2fhome
 news.omy.sg
 news.seehua.com
 news.sina.com.hk
@@ -3177,8 +3163,6 @@ panamapapers.sueddeutsche.de
 paper.li
 paperb.us
 pastebin.com
-pbs.org/wgbh/pages/frontline/tankman
-pbs.org/wgbh/pages/frontline/tibet
 pbwiki.com
 pcdvd.com.tw
 pdetails.com
@@ -3338,7 +3322,6 @@ teamamericany.com
 teensinasia.com
 theblemish.com
 thefrontier.hk/tf
-thehousenews.com
 thereallove.kr
 therock.net.nz
 thetibetcenter.org
@@ -3461,7 +3444,6 @@ video.aol.com
 video.ap.org
 video.fdbox.com
 video.foxbusiness.com
-video.pbs.org
 video.yahoo.com
 videobam.com
 videopediaworld.com
@@ -3506,11 +3488,7 @@ wiki.keso.cn/home
 wiki.moegirl.org
 wikilivres.info/wiki/%e9%9b%b6%e5%85%ab%e5%ae%aa%e7%ab%a0
 wildammo.com
-winwhispers.info
 wlcnew.jigsy.com
-wolfax.com
-woopie.jp
-woopie.tv
 worldjournal.com
 woxinghuiguo.com
 wozy.in
@@ -3715,8 +3693,6 @@ zyzc9.com
 |http://giantessnight.com
 |http://goagent.codeplex.com
 |http://gojet.krtco.com.tw
-|http://goldjizz.com
-|http://gongwt.com
 |http://gts-vpn.com
 |http://gu-chu-sum.org
 |http://guaguass.com
@@ -3756,10 +3732,7 @@ zyzc9.com
 |http://islam.org.hk
 |http://itweet.net
 |http://japanfirst.asianfreeforum.com/
-|http://javakiba.org
-|http://javmobile.net
 |http://javmoo.xyz
-|http://javseen.com
 |http://javtag.com
 |http://javzoo.com
 |http://jihadology.net
@@ -3805,7 +3778,6 @@ zyzc9.com
 |http://mx.hao123.com
 |http://nbtvpn.com
 |http://newcenturymc.com
-|http://news.now.com
 |http://nhentai.net
 |http://npnt.me
 |http://nradio.me
@@ -4433,6 +4405,7 @@ zyzc9.com
 ||azurewebsites.net
 ||b-cdn.net
 ||b-ok.cc
+||b.hatena.ne.jp
 ||b0ne.com
 ||baby-kingdom.com
 ||babylonbee.com
@@ -4723,6 +4696,7 @@ zyzc9.com
 ||bookepub.com
 ||books.com.tw
 ||booktopia.com.au
+||bookwalker.com.tw
 ||boomssr.com
 ||bootstrapcdn.com
 ||borgenmagazine.com
@@ -6160,6 +6134,7 @@ zyzc9.com
 ||gooday.xyz
 ||gooddns.info
 ||goodhope.school
+||goodnewsnetwork.org
 ||goodreaders.com
 ||goodreads.com
 ||goodtv.com.tw
@@ -7035,10 +7010,10 @@ zyzc9.com
 ||jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
+||japanhdv.com
 ||japantimes.co.jp
 ||jav*.com
 ||jav.com
-||jav2be.com
 ||jav68.tv
 ||jav777.cc
 ||javakiba.org
@@ -7615,6 +7590,7 @@ zyzc9.com
 ||momoshop.com.tw
 ||mondex.org
 ||money-link.com.tw
+||moneydj.com
 ||monica.im
 ||monitorchina.org
 ||monocloud.me
@@ -7877,6 +7853,7 @@ zyzc9.com
 ||nordstrommedia.com
 ||nordstromrack.com
 ||nordvpn.com
+||nos.nl
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
 ||notion.site
@@ -8024,6 +8001,7 @@ zyzc9.com
 ||ontrac.com
 ||open-assistant.io
 ||open.com.hk
+||open.firstory.me
 ||openai.com
 ||openallweb.com
 ||opendemocracy.net
@@ -8123,6 +8101,7 @@ zyzc9.com
 ||patreonusercontent.com
 ||pawoo.net
 ||paxful.com
+||pbs.org
 ||pbwiki.com
 ||pbworks.com
 ||pbxes.com
@@ -9171,6 +9150,7 @@ zyzc9.com
 ||thetinhat.com
 ||thetvdb.com
 ||thewgo.org
+||thewirechina.com
 ||theync.com
 ||thinkgeek.com
 ||thinkhk.com

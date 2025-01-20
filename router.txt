@@ -535,6 +535,7 @@ poe.com
 news.yahoo.com
 gettyimages.com
 deezer.com
+nos.nl
 stanford.edu
 anthropic.com
 app.smartmailcloud.com
@@ -918,6 +919,7 @@ ok.xxx
 mega.io
 fastpic.ru
 astrill.com
+b.hatena.ne.jp
 upornia.com
 csmonitor.com
 rcam.target.com
@@ -1336,6 +1338,7 @@ secureservercdn.net
 brill.com
 jma.go.jp
 sbs.com.au
+goodnewsnetwork.org
 pinterest.fr
 rpglogs.com
 amnesty.org
@@ -1620,6 +1623,7 @@ ift.tt
 login.target.com
 mol.gov.tw
 domains.google
+japanhdv.com
 mm-cg.com
 private.com
 xuite.net
@@ -1659,6 +1663,7 @@ getoutline.org
 liveleak.com
 newstatesman.com
 networkedblogs.com
+open.firstory.me
 pawoo.net
 research.google
 sehuatang.net
@@ -1718,6 +1723,7 @@ businessweek.com
 giganews.com
 mangafox.me
 manhuabika.com
+moneydj.com
 fnac.be
 keepandshare.com
 openvpn.org
@@ -2255,7 +2261,6 @@ bbs.brockbbs.com
 bbs.cantonese.asia
 bbs.ecstart.com
 bbs.hanminzu.org
-bbs.hasi.wang
 bbs.huasing.org
 bbs.junglobal.net
 bbs.kimy.com.tw
@@ -2446,6 +2451,7 @@ boobstagram.com
 book.zi5.me
 bookepub.com
 booktopia.com.au
+bookwalker.com.tw
 boomssr.com
 borgenmagazine.com
 botanwang.com
@@ -3611,6 +3617,7 @@ gongm.in
 gongmeng.info
 gongminliliang.com
 gongwt.com
+good.news
 gooday.xyz
 gooddns.info
 goodhope.school
@@ -4184,7 +4191,6 @@ janwongphoto.com
 japanfirst.asianfreeforum.com
 jav.com
 jav101.com
-jav2be.com
 jav68.tv
 jav777.cc
 javakiba.org
@@ -5885,6 +5891,7 @@ thetinhat.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
+thewirechina.com
 thinkgeek.com
 thinkhk.com
 thinkingtaiwan.com
