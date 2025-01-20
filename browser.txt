@@ -2223,7 +2223,6 @@
 .x24hr.com
 .xbookcn.com
 .xcritic.com
-.xerotica.com
 .xfm.pp.ru
 .xgmyd.com
 .xianba.net
@@ -3332,7 +3331,6 @@ tibetlibre.free.fr
 tibetoffice.eu
 times.hinet.net
 tintuc101.com
-tinychat.com
 togetter.com
 tonyyan.net
 toonel.net
@@ -3472,7 +3470,6 @@ whotalking.com
 whylover.com
 wiki.cnitter.com
 wiki.keso.cn/home
-wiki.moegirl.org
 wikilivres.info/wiki/%e9%9b%b6%e5%85%ab%e5%ae%aa%e7%ab%a0
 wildammo.com
 wlcnew.jigsy.com
@@ -3604,7 +3601,6 @@ zyzc9.com
 |http://casatibet.org.mx
 |http://catchgod.com
 |http://cdn*.search.xxx/
-|http://cdn*.xda-developers.com
 |http://centurys.net
 |http://certificate.revocationcheck.com
 |http://cgdepot.org
@@ -3825,7 +3821,6 @@ zyzc9.com
 |http://tibetanwomen.org
 |http://timdir.com
 |http://time.com
-|http://tiny.cc
 |http://tl.gd/
 |http://tmi.me
 |http://tmpp.org
@@ -4662,6 +4657,7 @@ zyzc9.com
 ||bloomfortune.com
 ||blubrry.com
 ||blueangellive.com
+||bmdru.com
 ||bmfinn.com
 ||bnbstatic.com
 ||bnews.co
@@ -5413,6 +5409,7 @@ zyzc9.com
 ||drmingxia.org
 ||dropbooks.tv
 ||dropbox.com
+||dropboxapi.com
 ||dropboxusercontent.com
 ||drsunacademy.com
 ||drtuber.com
@@ -7577,6 +7574,7 @@ zyzc9.com
 ||modernchinastudies.org
 ||moeaic.gov.tw
 ||moeerolibrary.com
+||moeshare.cc
 ||mofa.gov.tw
 ||mofaxiehui.com
 ||mofos.com
@@ -8188,10 +8186,12 @@ zyzc9.com
 ||pixelqi.com
 ||pixiv.net
 ||pixiv.org
+||pixivsketch.net
 ||pixnet.in
 ||pixnet.net
 ||pk.com
 ||pki.goog
+||pkqjiasu.com
 ||placemix.com
 ||play-asia.com
 ||playbeasts.com
@@ -8497,6 +8497,7 @@ zyzc9.com
 ||roboforex.com
 ||robustnessiskey.com
 ||rocket-inc.net
+||rocket.chat
 ||rocksdb.org
 ||rojo.com
 ||rolfoundation.org
@@ -9275,6 +9276,7 @@ zyzc9.com
 ||timtales.com
 ||tinc-vpn.org
 ||tineye.com
+||tingtalk.me
 ||tiny.cc
 ||tinychat.com
 ||tinypaste.com
@@ -9595,6 +9597,7 @@ zyzc9.com
 ||usus.cc
 ||utopianpal.com
 ||uu-gg.com
+||uujiasu.com
 ||uukanshu.com
 ||uvwxyz.xyz
 ||uwants.com
@@ -10012,6 +10015,7 @@ zyzc9.com
 ||xfiles.to
 ||xfinity.com
 ||xfm.pp.ru
+||xfxssr.me
 ||xgmyd.com
 ||xhamster.com
 ||xhcdn.com

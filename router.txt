@@ -226,6 +226,7 @@ nordcdn.com
 ask.com
 google.com.co
 admob.com
+dropboxapi.com
 githubassets.com
 airasia.com
 openstreetmap.org
@@ -904,7 +905,6 @@ gelbooru.com
 iwara.tv
 skyvegas.com
 clubhouseapi.com
-xda-developers.com
 supjav.com
 gamejolt.com
 blog.google
@@ -1365,6 +1365,7 @@ rtalabel.org
 vrporn.com
 kobobooks.com
 plurk.com
+rocket.chat
 betvictor.com
 spaces.hightail.com
 bookdepository.com
@@ -2442,6 +2443,7 @@ bloomberg.de
 bloombergview.com
 bloomfortune.com
 blueangellive.com
+bmdru.com
 bmfinn.com
 bnews.co
 bnn.co
@@ -4690,6 +4692,7 @@ mobypicture.com
 modernchinastudies.org
 moeaic.gov.tw
 moeerolibrary.com
+moeshare.cc
 mofaxiehui.com
 mog.com
 mohu.club
@@ -5138,7 +5141,9 @@ piposay.com
 piraattilahti.org
 piring.com
 pixelqi.com
+pixivsketch.net
 pk.com
+pkqjiasu.com
 placemix.com
 playbeasts.com
 playboyplus.com
@@ -6021,6 +6026,7 @@ times.hinet.net
 timsah.com
 timtales.com
 tinc-vpn.org
+tingtalk.me
 tintuc101.com
 tinychat.com
 tinypaste.com
@@ -6328,6 +6334,7 @@ usunitednews.com
 usus.cc
 utopianpal.com
 uu-gg.com
+uujiasu.com
 uvwxyz.xyz
 uwants.com
 uwants.net
@@ -6580,7 +6587,6 @@ wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
 wiki.kfd.me
-wiki.moegirl.org
 wiki.oauth.net
 wiki.phonegap.com
 wikileaks-forum.com
@@ -6707,6 +6713,7 @@ xcafe.in
 xcritic.com
 xfiles.to
 xfm.pp.ru
+xfxssr.me
 xgmyd.com
 xianba.net
 xianchawang.net
