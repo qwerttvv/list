@@ -1203,6 +1203,7 @@ global.bing.com
 jkub.com
 proxydns.com
 trickip.org
+lih.kg
 esmtp.biz
 mediawiki.org
 mymom.info
