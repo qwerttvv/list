@@ -1765,7 +1765,6 @@
 .slyip.com
 .slyip.net
 .smarthide.com
-.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
 .smith.edu/dalailama
 .smyxy.org
 .snaptu.com
@@ -3302,8 +3301,6 @@ sohcradio.com
 sohfrance.org
 sokamonline.com
 soundofhope.org
-southnews.com.tw
-sowers.org.hk
 specxinzl.jigsy.com
 spem.at
 ss.carryzhou.com
@@ -3619,7 +3616,6 @@ zyzc9.com
 |http://api.steampowered.com
 |http://appshopper.com
 |http://ar.hao123.com
-|http://arctosia.com
 |http://atchinese.com
 |http://avmoo.com
 |http://avmoo.net
@@ -4196,6 +4192,7 @@ zyzc9.com
 ||aiph.net
 ||airasia.com
 ||airconsole.com
+||airitilibrary.com
 ||airvpn.org
 ||aisex.com
 ||ait.org.tw
@@ -8785,6 +8782,7 @@ zyzc9.com
 ||smchbooks.com
 ||smh.com.au
 ||smhric.org
+||smn.news
 ||smyxy.org
 ||snapchat.com
 ||snapseed.com
@@ -8846,6 +8844,7 @@ zyzc9.com
 ||sourcewadio.com
 ||south-plus.net
 ||south-plus.org
+||southmongolia.org
 ||southnews.com.tw
 ||southpark.cc.com
 ||sowers.org.hk
