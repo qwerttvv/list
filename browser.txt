@@ -1118,7 +1118,6 @@
 .jigglegifs.com
 .jihadology.net
 .jingsim.org
-.jinroukong.com
 .jizzthis.com
 .jkb.cc
 .jkub.com
@@ -2263,7 +2262,6 @@
 .yespornplease.com
 .ygto.com
 .yibada.com
-.yibaochina.com
 .yidio.com
 .yingsuoss.com
 .yipub.com
@@ -2528,7 +2526,6 @@ a248.e.akamai.net
 a5.com.ru
 abclite.net
 abitno.linpie.com/use-ipv6-to-fuck-gfw
-ac.jiruan.net
 actfortibet.org
 actimes.com.au
 activpn.com
@@ -2867,7 +2864,6 @@ getiton.com
 gfbv.de
 gfw.org.ua
 gigporno.ru
-globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
 gloryhole.com
@@ -3217,7 +3213,6 @@ relaxbbs.com
 religioustolerance.org
 remembering_tiananmen_20_years
 renminbao.com
-research.jmsc.hku.hk/social
 retweetist.com
 revver.com
 rfalive1.akacast.akamaistream.net
@@ -3467,7 +3462,6 @@ webs-tv.net
 website.informer.com
 webworkerdaily.com
 weiboleak.com
-weiboscope.jmsc.hku.hk
 weiquanwang.org
 wengewang.com
 wetpussygames.com
@@ -4144,6 +4138,7 @@ zyzc9.com
 ||ai-kan.net
 ||ai-wen.net
 ||ai.google
+||aiosearch.com
 ||aiph.net
 ||airasia.com
 ||airconsole.com
@@ -4220,6 +4215,7 @@ zyzc9.com
 ||andfaraway.net
 ||android-x86.org
 ||android.com
+||androidapksfree.com
 ||androidcombo.com
 ||androidify.com
 ||androidplus.co
@@ -4833,6 +4829,7 @@ zyzc9.com
 ||cathvoice.org.tw
 ||cato.org
 ||cattt.com
+||caus.com
 ||cbc.ca
 ||cbs.ntu.edu.tw
 ||cbsnews.com
@@ -4943,6 +4940,7 @@ zyzc9.com
 ||chinachannel.hk
 ||chinacitynews.be
 ||chinacomments.org
+||chinademocrats.org
 ||chinadialogue.net
 ||chinadigitaltimes.net
 ||chinaelections.org
@@ -5105,6 +5103,7 @@ zyzc9.com
 ||codeshare.io
 ||codeskulptor.org
 ||coin2co.in
+||coinbase.com
 ||coinbene.com
 ||coinegg.com
 ||coinex.com
@@ -5387,6 +5386,7 @@ zyzc9.com
 ||donmai.us
 ||dontfilter.us
 ||dontmovetochina.com
+||doourbest.org
 ||dorjeshugden.com
 ||dot.ca.gov
 ||dotplane.com
@@ -5917,6 +5917,7 @@ zyzc9.com
 ||fuckgfw.org
 ||fulione.com
 ||fullerconsideration.com
+||fullservicegame.com
 ||fulue.com
 ||funf.tw
 ||funkyimg.com
@@ -6061,6 +6062,7 @@ zyzc9.com
 ||githubusercontent.com
 ||gizlen.net
 ||gjczz.com
+||glarity.app
 ||glass8.eu
 ||global.bing.com
 ||globaljihad.net
@@ -7050,6 +7052,7 @@ zyzc9.com
 ||jingpin.org
 ||jingsim.org
 ||jinpianwang.com
+||jinrizhiyi.news
 ||jinroukong.com
 ||jintian.net
 ||jinx.com
@@ -7062,6 +7065,7 @@ zyzc9.com
 ||jkub.com
 ||jma.go.jp
 ||jmcomic.me
+||jmsc.hku.hk
 ||jmscult.com
 ||joachims.org
 ||jobnewera.wordpress.com
@@ -9577,6 +9581,7 @@ zyzc9.com
 ||uscardforum.com
 ||uscnpm.org
 ||usefreevpn.com
+||usercontent.goog
 ||usfk.mil
 ||usinfo.state.gov
 ||usma.edu

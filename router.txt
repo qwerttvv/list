@@ -155,6 +155,7 @@ bbc.co.uk
 phncdn.com
 imgur.com
 twitchcdn.net
+coinbase.com
 google.ca
 secure.logmein.com
 google.ru
@@ -233,6 +234,7 @@ theguardian.com
 wsj.net
 cdn-images.mailchimp.com
 google.com.pk
+usercontent.goog
 archive.org
 change.org
 wattpad.com
@@ -1693,6 +1695,7 @@ exmo.com
 speedify.com
 trt.net.tr
 xxxymovies.com
+androidapksfree.com
 ctwant.com
 duga.jp
 lflinkup.com
@@ -2008,7 +2011,6 @@ abitno.linpie.com
 ablwang.com
 aboutgfw.com
 abs.edu
-ac.jiruan.net
 ac.jp
 accim.org
 aceros-de-hispania.com
@@ -2049,6 +2051,7 @@ agro.hk
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+aiosearch.com
 aiph.net
 airitilibrary.com
 aisex.com
@@ -2572,6 +2575,7 @@ catholic.org.hk
 catholic.org.tw
 cathvoice.org.tw
 cattt.com
+caus.com
 cbs.ntu.edu.tw
 cbtc.org.hk
 cccat.cc
@@ -2662,6 +2666,7 @@ chinachange.org
 chinachannel.hk
 chinacitynews.be
 chinacomments.org
+chinademocrats.org
 chinadialogue.net
 chinaelections.org
 chinaeweekly.com
@@ -3012,6 +3017,7 @@ dongtaiwang.net
 dongyangjing.com
 dontfilter.us
 dontmovetochina.com
+doourbest.org
 dorjeshugden.com
 dotplane.com
 dotvpn.com
@@ -3463,6 +3469,7 @@ fuckcnnic.net
 fuckgfw.org
 fulione.com
 fullerconsideration.com
+fullservicegame.com
 fulue.com
 funf.tw
 funkyimg.com
@@ -3572,6 +3579,7 @@ github.io
 githubusercontent.com
 gizlen.net
 gjczz.com
+glarity.app
 glass8.eu
 globaljihad.net
 globalmuseumoncommunism.org
@@ -4236,6 +4244,7 @@ jinbushe.org
 jingpin.org
 jingsim.org
 jinpianwang.com
+jinrizhiyi.news
 jinroukong.com
 jintian.net
 jinx.com
@@ -4244,6 +4253,7 @@ jitouch.com
 jizzthis.com
 jkb.cc
 jmcomic.me
+jmsc.hku.hk
 jmscult.com
 joachims.org
 jobnewera.wordpress.com
@@ -5337,7 +5347,6 @@ releaseinternational.org
 religioustolerance.org
 renminbao.com
 renyurenquan.org
-research.jmsc.hku.hk
 resistchina.org
 retweeteffect.com
 retweetist.com
@@ -6524,7 +6533,6 @@ wefightcensorship.org
 wefong.com
 wego.here.com
 weiboleak.com
-weiboscope.jmsc.hku.hk
 weihuo.org
 weijingsheng.org
 weiming.info
