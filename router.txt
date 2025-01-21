@@ -1076,6 +1076,7 @@ imagefap.com
 acgnx.se
 akinator.com
 cloudokyo.cloud
+newsblur.com
 tsdr.uspto.gov
 wikimapia.org
 pinterest.com.mx
@@ -3428,6 +3429,7 @@ freewww.info
 freexinwen.com
 freeyellow.com
 freeyoutubeproxy.net
+freezhihu.org
 frienddy.com
 friendfeed-media.com
 friendfeed.com
@@ -4313,6 +4315,7 @@ khatrimaza.org
 khmusic.com.tw
 kichiku-doujinko.com
 killwall.com
+kindle4rss.com
 kindleren.com
 kineox.free.fr
 kingdomsalvation.org
@@ -5263,6 +5266,7 @@ qgirl.com.tw
 qi-gong.me
 qianbai.tw
 qiandao.today
+qianglie.com
 qiangwaikan.com
 qiangyou.org
 qidian.ca
@@ -5318,6 +5322,7 @@ razyboard.com
 rcinet.ca
 rconversation.blogs.com
 rdio.com
+reabble.com
 read01.com
 read100.com
 readingtimes.com.tw
@@ -6439,6 +6444,7 @@ vpl.bibliocommons.com
 vpn.ac
 vpn.cjb.net
 vpn.cmu.edu
+vpn.net
 vpn.sv.cmu.edu
 vpn4all.com
 vpnaccount.org
@@ -6753,6 +6759,7 @@ xn--90wwvt03e.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
+xn--noss43i.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xpdo.net

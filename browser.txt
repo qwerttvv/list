@@ -1608,12 +1608,9 @@
 .rainbowplan.org/bbs
 .raizoji.or.jp
 .rapbull.net
-.raremovie.cc
-.raremovie.net
 .read100.com
 .readingtimes.com.tw
 .readydown.com
-.realcourage.org
 .realitykings.com
 .realraptalk.com
 .realsexpass.com
@@ -2674,7 +2671,6 @@ chinaxchina.com/howto
 chinayouth.org.hk
 chinayuanmin.org
 chinese-leaders.org
-chinese-memorial.org
 chinese.donga.com
 chinese.irib.ir
 chinese.soifind.com
@@ -2841,9 +2837,6 @@ freenewscn.com
 freevpn.nl
 freeweibo.com
 freeyellow.com
-friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
-friendfeed.com
-friends-of-tibet.org
 fucd.com
 fuckgfw.org
 fulue.com
@@ -3101,7 +3094,6 @@ news.tvbs.com.tw
 news.yahoo.com/china-blocks-bbc
 news100.com.tw
 newschinacomment.org
-newspeak.cc/story
 newstarnet.com
 newtalk.tw
 newyorktimes.com
@@ -3201,7 +3193,6 @@ rangzen.net
 rangzen.org
 ranyunfei.com
 rapidvpn.com
-rcinet.ca
 rconversation.blogs.com
 realforum.zkiz.com
 redballoonsolidarity.org
@@ -3779,10 +3770,7 @@ zyzc9.com
 |http://quran.com
 |http://radiko.jp
 |http://raizoji.or.jp
-|http://raremovie.cc
-|http://raremovie.net
 |http://readydown.com
-|http://redchinacn.net
 |http://redditlist.com
 |http://rxhj.net
 |http://sa.hao123.com
@@ -5887,6 +5875,7 @@ zyzc9.com
 ||freexinwen.com
 ||freeyellow.com
 ||freeyoutubeproxy.net
+||freezhihu.org
 ||friday.tw
 ||frienddy.com
 ||friendfeed-media.com
@@ -7146,6 +7135,7 @@ zyzc9.com
 ||kichiku-doujinko.com
 ||kik.com
 ||killwall.com
+||kindle4rss.com
 ||kingdomsalvation.org
 ||kinghost.com
 ||kingstone.com.tw
@@ -7778,6 +7768,7 @@ zyzc9.com
 ||news100.com.tw
 ||news18.com
 ||newsancai.com
+||newsblur.com
 ||newschinacomment.org
 ||newscn.org
 ||newsdetox.ca
@@ -8361,6 +8352,7 @@ zyzc9.com
 ||qi-gong.me
 ||qianbai.tw
 ||qiandao.today
+||qianglie.com
 ||qiangwaikan.com
 ||qiangyou.org
 ||qidian.ca
@@ -8428,6 +8420,7 @@ zyzc9.com
 ||rcinet.ca
 ||rd.com
 ||rdio.com
+||reabble.com
 ||read01.com
 ||readingtimes.com.tw
 ||readmoo.com
@@ -9715,6 +9708,7 @@ zyzc9.com
 ||vpl.bibliocommons.com
 ||vpn.ac
 ||vpn.cjb.net
+||vpn.net
 ||vpn4all.com
 ||vpnaccount.org
 ||vpnaccounts.com
@@ -10059,6 +10053,7 @@ zyzc9.com
 ||xn--czq75pvv1aj5c.org
 ||xn--i2ru8q2qg.com
 ||xn--ngstr-lra8j.com
+||xn--noss43i.com
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xnxx-cdn.com
