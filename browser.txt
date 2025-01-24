@@ -386,7 +386,6 @@
 .chinesedaily.com
 .chinesedemocracy.com
 .chinesen.de
-.chinesenews.net.au/
 .chinesepen.org
 .chinesetalks.net/ch
 .chingcheong.com
@@ -3828,7 +3827,6 @@ zyzc9.com
 |http://uploaded.to/file
 |http://upornia.com
 |http://users.skynet.be/reves/tibethome.html
-|http://uyghur-j.org
 |http://uygur.fc2web.com/
 |http://uymaarip.com/
 |http://vds.rightster.com/
@@ -3992,6 +3990,8 @@ zyzc9.com
 ||4pu.com
 ||4rbtv.com
 ||4shared.com
+||500px.com
+||500px.org
 ||50webs.com
 ||51.ca
 ||51jav.org
@@ -4412,6 +4412,7 @@ zyzc9.com
 ||bbs.junglobal.net
 ||bbs.mikocon.com
 ||bbs.mychat.to
+||bbs.nyinfor.com
 ||bbs.sou-tong.org
 ||bbsdigest.com
 ||bbsfeed.com
@@ -5309,6 +5310,7 @@ zyzc9.com
 ||disp.cc
 ||disqus.com
 ||dit-inc.us
+||diyin.org
 ||dizhidizhi.com
 ||dizhuzhishang.com
 ||djorz.com
@@ -7380,6 +7382,7 @@ zyzc9.com
 ||mandiant.com
 ||mangafox.com
 ||mangafox.me
+||mangmang.run
 ||manhuabika.com
 ||manhuache.com
 ||manhuagui.com
@@ -9101,6 +9104,7 @@ zyzc9.com
 ||terabox.com
 ||tew.org
 ||textnow.me
+||tfc-taiwan.org.tw
 ||tfhub.dev
 ||tfiflve.com
 ||tgstat.com
@@ -9149,7 +9153,6 @@ zyzc9.com
 ||thetibetconnection.org
 ||thetibetmuseum.org
 ||thetibetpost.com
-||thetinhat.com
 ||thetvdb.com
 ||thewgo.org
 ||thewirechina.com
@@ -10256,6 +10259,7 @@ zyzc9.com
 ||ziporn.com
 ||zippyshare.com
 ||zkaip.com
+||zmedia.com.tw
 ||zmw.cn
 ||zodgame.us
 ||zomobo.net

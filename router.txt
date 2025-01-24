@@ -803,6 +803,7 @@ gemini.com
 zamimg.com
 superpages.com
 worldpopulationreview.com
+500px.com
 brookings.edu
 free.fr
 musical.ly
@@ -1221,6 +1222,7 @@ sustainability.google
 msha.gov
 blogspot.nl
 dmhy.org
+500px.org
 backchina.com
 share.america.gov
 drtuber.com
@@ -2228,6 +2230,7 @@ bbs.mikocon.com
 bbs.morbell.com
 bbs.mychat.to
 bbs.netbig.com
+bbs.nyinfor.com
 bbs.ozchinese.com
 bbs.qmzdd.com
 bbs.sina.com
@@ -2929,6 +2932,7 @@ discoins.com
 discuss4u.com
 disk.yandex.*
 dit-inc.us
+diyin.org
 dizhidizhi.com
 dizhuzhishang.com
 djangosnippets.org
@@ -4518,6 +4522,7 @@ mamingzhe.com
 manchukuo.net
 manchustate.org
 mangafox.com
+mangmang.run
 manhuabika.com
 manhuache.com
 maniash.com
@@ -5881,6 +5886,7 @@ tellme.pw
 tenacy.com
 tenzinpalmo.com
 tew.org
+tfc-taiwan.org.tw
 tfiflve.com
 th.hao123.com
 thaicn.com
@@ -5915,7 +5921,6 @@ thetibetcenter.org
 thetibetconnection.org
 thetibetmuseum.org
 thetibetpost.com
-thetinhat.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
@@ -6925,6 +6930,7 @@ ziddu.com
 zillionk.com
 ziporn.com
 zkaip.com
+zmedia.com.tw
 zmw.cn
 zodgame.us
 zomobo.net
