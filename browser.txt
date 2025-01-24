@@ -2365,7 +2365,6 @@
 @@|http://ime.baidu.jp
 @@|http://nrch.culture.tw/
 @@|http://store.sprite.org
-@@|http://translate.google.cn
 @@|http://www.google.cn/maps
 @@|http://xx.wwwhost.biz
 @@|https://cdn.ampproject.org
@@ -2491,6 +2490,7 @@
 @@||tpde.aide.gov.tw
 @@||tphcc.gov.tw
 @@||tracker.m-team.cc
+@@||translate.google.cn
 @@||trimt-nsa.gov.tw
 @@||uluai.com.cn
 @@||update.googleapis.com
@@ -5583,6 +5583,7 @@ zyzc9.com
 ||evchk.wikia.org
 ||everipedia.org
 ||evschool.net
+||exam.gov.tw
 ||exblog.jp
 ||exchristian.hk
 ||excite.co.jp
@@ -5600,6 +5601,7 @@ zyzc9.com
 ||extrabux.com
 ||extremetube.com
 ||exx.com
+||ey.gov.tw
 ||eyevio.jp
 ||eyny.com
 ||ezpc.tk
@@ -7071,6 +7073,7 @@ zyzc9.com
 ||jsfiddle.net
 ||jtvnw.net
 ||jubushoushen.com
+||judicial.gov.tw
 ||juhuaren.com
 ||jukujo-club.com
 ||juliepost.com
@@ -7342,6 +7345,7 @@ zyzc9.com
 ||lushstories.com
 ||lvhai.org
 ||lvv2.com
+||ly.gov.tw
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
