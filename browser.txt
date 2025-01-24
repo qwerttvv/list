@@ -3382,7 +3382,6 @@ ukcdp.co.uk
 ukliferadio.co.uk
 ultrareach
 ultrasurf
-ultravpn.fr
 ultraxs.com
 umich.edu/~falun
 unblock-us.com
@@ -4703,6 +4702,7 @@ zyzc9.com
 ||btctrade.im
 ||btdig.com
 ||btdigg.org
+||btguard.com
 ||btku.me
 ||btku.org
 ||btspread.com
@@ -9538,6 +9538,8 @@ zyzc9.com
 ||uku.im
 ||ulifestyle.com.hk
 ||ulop.net
+||ultrasurf.us
+||ultravpn.com
 ||ultravpn.fr
 ||ultraxs.com
 ||umich.edu/~falun
@@ -9747,6 +9749,7 @@ zyzc9.com
 ||vpnpick.com
 ||vpnpop.com
 ||vpnpronet.com
+||vpnproxymaster.com
 ||vpnreactor.com
 ||vpnreviewz.com
 ||vpnsecure.me
@@ -10118,6 +10121,7 @@ zyzc9.com
 ||yanghengjun.com
 ||yangjianli.com
 ||yasni.co.uk
+||yasukuni.or.jp
 ||yayabay.com
 ||ydy.com
 ||yeahteentube.com
@@ -10192,6 +10196,7 @@ zyzc9.com
 ||yuanzhengtang.org
 ||yulghun.com
 ||yunchao.net
+||yunomi.tokyo
 ||yuntipub.com
 ||yuvutu.com
 ||yvesgeleyn.com

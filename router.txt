@@ -1156,6 +1156,7 @@ mypikpak.com
 ai.google
 keepandshare.com
 wikivoyage.org
+vpnproxymaster.com
 ddns.info
 androidtv.com
 marxists.org
@@ -2435,6 +2436,7 @@ btc98.com
 btcbank.bank
 btctrade.im
 btdigg.org
+btguard.com
 btku.me
 btku.org
 btspread.com
@@ -6296,6 +6298,8 @@ ukliferadio.co.uk
 uku.im
 ulike.net
 ulop.net
+ultrasurf.us
+ultravpn.com
 ultravpn.fr
 ultraxs.com
 unblock-us.com
@@ -6817,6 +6821,7 @@ yam.org.tw
 yanghengjun.com
 yangjianli.com
 yasni.co.uk
+yasukuni.or.jp
 yayabay.com
 yeahteentube.com
 yecl.net
@@ -6870,6 +6875,7 @@ yuanming.net
 yuanzhengtang.org
 yulghun.com
 yunchao.net
+yunomi.tokyo
 yuntipub.com
 yuvutu.com
 yvesgeleyn.com
