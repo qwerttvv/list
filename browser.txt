@@ -5320,6 +5320,7 @@ zyzc9.com
 ||dlsite.com
 ||dlyoutube.com
 ||dm530.net
+||dma.mil
 ||dmarcnetworks.com
 ||dmc.nico
 ||dmcdn.net
@@ -6354,7 +6355,6 @@ zyzc9.com
 ||googleplay.com
 ||googleplus.com
 ||googlescholar.com
-||googlescholar.comusa
 ||googlesile.com
 ||googlesource.com
 ||googlesyndication.com
@@ -9514,6 +9514,7 @@ zyzc9.com
 ||typora.io
 ||u15.info
 ||u9un.com
+||ua5v.com
 ||ub0.cc
 ||ubddns.org
 ||uberproxy.net
@@ -9584,6 +9585,7 @@ zyzc9.com
 ||usacn.com
 ||usaip.eu
 ||uscardforum.com
+||uscg.mil
 ||uscnpm.org
 ||usefreevpn.com
 ||usercontent.goog

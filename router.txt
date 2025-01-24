@@ -654,6 +654,7 @@ ground.news
 bitget.com
 radio-canada.ca
 vercel.com
+ua5v.com
 apkpure.net
 monster.com
 oanda.com
@@ -869,6 +870,7 @@ b.hatena.ne.jp
 imageshack.us
 boyfriendtv.com
 sydney.bing.com
+uscg.mil
 digg.com
 pritunl.com
 tsdr.uspto.gov
@@ -2941,6 +2943,7 @@ dl-laby.jp
 dl.box.net
 dlyoutube.com
 dm530.net
+dma.mil
 dmarcnetworks.com
 dmc.nico
 dnscrypt.org
@@ -3630,7 +3633,6 @@ googlepagecreator.com
 googleplay.com
 googleplus.com
 googlescholar.com
-googlescholar.comusa
 googlesile.com
 gopetition.com
 goproxing.net
