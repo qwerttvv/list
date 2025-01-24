@@ -619,7 +619,6 @@
 .epochhk.com
 .epochtimes.cz
 .epochweek.com
-.eporner.com
 .equinenow.com
 .eracom.com.tw
 .eraysoft.com.tr
@@ -695,7 +694,6 @@
 .finchvpn.com
 .fingerdaily.com
 .firearmsworld.net
-.fireofliberty.org
 .firetweet.io
 .flagsonline.it
 .fleursdeslettres.com
@@ -1587,7 +1585,6 @@
 .putihome.org
 .putlocker.com/file
 .putty.org
-.puuko.com
 .python.com.tw
 .qanote.com
 .qhigh.com
@@ -3033,7 +3030,6 @@ me.youthwant.com.tw
 mefeedia.com
 megavideo.com
 meme.yahoo.com
-memorybbs.com
 meshrep.com
 metacafe.com/watch
 mhradio.org
@@ -3083,7 +3079,6 @@ news.hk.msn.com
 news.msn.com.tw
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 news.omy.sg
-news.seehua.com
 news.sina.com.hk
 news.sina.com.tw
 news.sinchew.com.my
@@ -3412,7 +3407,6 @@ usmgtcg.ning.com/forum
 usus.cc
 uyghur.co.uk
 uygur.org
-vansky.com
 veoh.com
 vermonttibet.org
 video.aol.ca/video-detail
@@ -3827,7 +3821,6 @@ zyzc9.com
 |http://tw.hao123.com
 |http://tw01.org
 |http://tweetcs.com
-|http://tweets.seraph.me/
 |http://tweez.net
 |http://twicountry.org
 |http://twiends.com
@@ -4526,12 +4519,13 @@ zyzc9.com
 ||bjs.org
 ||bjzc.org
 ||bl-doujinsouko.com
+||blacked.com
 ||blackvpn.com
 ||blewpass.com
 ||blingblingsquad.net
 ||blinkx.com
 ||blinw.com
-||blip.tv/
+||blip.tv
 ||blockcast.it
 ||blockcn.com
 ||blockedbyhk.com
@@ -5759,6 +5753,7 @@ zyzc9.com
 ||finler.net
 ||firearmsworld.net
 ||firebaseio.com
+||fireofliberty.info
 ||fireofliberty.org
 ||firetweet.io
 ||firstfivefollowers.com
@@ -5802,6 +5797,7 @@ zyzc9.com
 ||forum.tvb.com
 ||forum4hk.com
 ||fotile.me
+||fountmedia.io
 ||fourface.nodesnoop.com
 ||fourthinternational.org
 ||foxdie.us
@@ -6730,6 +6726,7 @@ zyzc9.com
 ||hxwk.org
 ||hybrid-analysis.com
 ||hyperrate.com
+||hypothes.is
 ||hysteria.network
 ||i-cable.com
 ||i-part.com.tw
@@ -7369,6 +7366,7 @@ zyzc9.com
 ||mail-archive.com
 ||mail.me.com
 ||maildns.xyz
+||main-ecnpaper-economist.content.pugpig.com
 ||maiplus.com
 ||maizhong.org
 ||makemymood.com
@@ -7764,6 +7762,7 @@ zyzc9.com
 ||news.ebc.net.tw
 ||news.hk.msn.com
 ||news.now.com
+||news.seehua.com
 ||news.ycombinator.com
 ||news100.com.tw
 ||news18.com
@@ -8148,6 +8147,7 @@ zyzc9.com
 ||picidae.net
 ||picturedip.com
 ||picturesocial.com
+||pigav.com
 ||pimg.tw
 ||pin-cong.com
 ||pin6.com
@@ -9300,6 +9300,7 @@ zyzc9.com
 ||toppornsites.com
 ||topsy.com
 ||toptip.ca
+||toptoon.net
 ||tor.updatestar.com
 ||tora.to
 ||torcn.com

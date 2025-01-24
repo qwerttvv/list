@@ -316,6 +316,7 @@ rmbl.ws
 google.es
 hub.docker.com
 scache1.vzw.com
+hypothes.is
 independent.co.uk
 oculuscdn.com
 blogblog.com
@@ -1650,6 +1651,7 @@ nitter.net
 stackcommerce.net
 metacafe.com
 rationalwiki.org
+blacked.com
 pttweb.cc
 mail-archive.com
 ntdtv.com
@@ -3281,6 +3283,7 @@ findyoutube.net
 fingerdaily.com
 finler.net
 firearmsworld.net
+fireofliberty.info
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
@@ -3320,6 +3323,7 @@ forum.tvb.com
 forum.xinbao.de
 forum4hk.com
 fotile.me
+fountmedia.io
 fourface.nodesnoop.com
 fourthinternational.org
 foxdie.us
@@ -4497,6 +4501,7 @@ magic-net.info
 mahabodhi.org
 maiio.net
 maildns.xyz
+main-ecnpaper-economist.content.pugpig.com
 maiplus.com
 maizhong.org
 makemymood.com
@@ -5105,6 +5110,7 @@ picidae.net
 picturedip.com
 pictures.playboy.com
 picturesocial.com
+pigav.com
 pin-cong.com
 pin6.com
 ping.fm
@@ -6051,6 +6057,7 @@ toppornsites.com
 topshareware.com
 topsy.com
 toptip.ca
+toptoon.net
 tor.blingblingsquad.net
 tor.updatestar.com
 tora.to
@@ -6176,7 +6183,6 @@ tweetmylast.fm
 tweetphoto.com
 tweetrans.com
 tweetree.com
-tweets.seraph.me
 tweettunnel.com
 tweetwally.com
 tweetymail.com
