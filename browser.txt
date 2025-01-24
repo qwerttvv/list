@@ -1895,7 +1895,6 @@
 .thetibetpost.com
 .theync.com
 .thinkingtaiwan.com
-.thisav.com
 .thlib.org
 .thongdreams.com
 .thumbzilla.com
@@ -3789,7 +3788,6 @@ zyzc9.com
 |http://thedalailamamovie.com
 |http://thegioitinhoc.vn/
 |http://theync.com
-|http://thisav.com
 |http://tibet.a.se
 |http://tibet3rdpole.org
 |http://tibetancommunityuk.net
@@ -9160,6 +9158,7 @@ zyzc9.com
 ||thinkhk.com
 ||thinkingtaiwan.com
 ||thinkwithgoogle.com
+||thirdmill.org
 ||thisav.com
 ||thlib.org
 ||thomasbernhard.org
