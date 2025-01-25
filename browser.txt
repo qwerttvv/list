@@ -6977,7 +6977,6 @@ zyzc9.com
 ||izles.net
 ||izlesem.org
 ||j.mp
-||ja.wikipedia.org
 ||jable.tv
 ||jackjia.com
 ||jamaat.org
@@ -9939,6 +9938,7 @@ zyzc9.com
 ||wjbk.org
 ||wlx.sowiki.net
 ||wmflabs.org
+||wmfusercontent.org
 ||wn.com
 ||wnacg.com
 ||wnacg.org

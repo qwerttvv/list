@@ -944,7 +944,6 @@ javhd.com
 eksisozluk.com
 artsy.net
 imagevenue.com
-ja.wikipedia.org
 abebooks.co.uk
 f-droid.org
 hanime.tv
@@ -6651,6 +6650,7 @@ wjbk.org
 wlcnew.jigsy.com
 wlx.sowiki.net
 wmflabs.org
+wmfusercontent.org
 wnacg.org
 wo.tc
 wo3t.wordpress.com
