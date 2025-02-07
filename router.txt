@@ -386,7 +386,6 @@ cdn.printfriendly.com
 page.link
 google.com.gt
 huffingtonpost.com
-nps.gov
 1e100.net
 coursehero.com
 apartments.com
@@ -807,6 +806,7 @@ suno.ai
 worldpopulationreview.com
 hurriyet.com.tr
 slacker.com
+greasyfork.org
 github.blog
 udn.com
 channelnewsasia.com
@@ -1580,6 +1580,7 @@ moneyhome.biz
 pinterest.jp
 shafaqna.com
 thinkwithgoogle.com
+pacom.mil
 stackcommerce.net
 bitcointalk.org
 avaaz.org
@@ -1727,7 +1728,6 @@ yande.re
 jamestown.org
 olehdtv.com
 south-plus.net
-www.americorps.gov
 zippyshare.com
 zoogvpn.com
 archives.gov.tw
@@ -2530,6 +2530,7 @@ cbtc.org.hk
 cccat.cc
 cccat.co
 ccdtr.org
+ccfd.org.tw
 cchere.com
 ccim.org
 cclife.ca

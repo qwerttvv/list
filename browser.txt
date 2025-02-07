@@ -447,12 +447,8 @@
 .crocotube.com
 .crossthewall.net
 .crossvpn.net
-.csw.org.uk
-.ct.org.tw
 .ctao.org
 .ctfriend.net
-.ctitv.com.tw
-.cts.com.tw
 .cuhkacs.org/~benng
 .cuihua.org
 .cuiweiping.net
@@ -1419,7 +1415,6 @@
 .nowtorrents.com
 .noypf.com
 .npnt.me
-.nps.gov
 .nradio.me
 .nrk.no
 .ns01.biz
@@ -2854,7 +2849,6 @@ globalmuseumoncommunism.org
 gloryhole.com
 gluckman.com/dalailama
 go-pki.com
-gobet.cc
 godfootsteps.org
 godns.work
 godsdirectcontact.co.uk
@@ -3394,7 +3388,6 @@ ur7s.com
 us.to
 userapi.nytlog.com
 ushuarencity.echainhost.com
-usinfo.state.gov
 usmgtcg.ning.com/forum
 usus.cc
 uyghur.co.uk
@@ -3844,7 +3837,6 @@ zyzc9.com
 |http://wemigrate.org
 |http://wiki.gamerp.jp
 |http://woyaolian.org
-|http://www.americorps.gov
 |http://www.antd.org
 |http://www.businessinsider.com.au/*
 |http://www.cmoinc.org
@@ -4811,6 +4803,7 @@ zyzc9.com
 ||cccat.cc
 ||cccat.co
 ||ccdtr.org
+||ccfd.org.tw
 ||cchere.com
 ||ccim.org
 ||cclife.ca
@@ -6382,6 +6375,7 @@ zyzc9.com
 ||graphql.org
 ||gravatar.com
 ||greasespot.net
+||greasyfork.org
 ||great-firewall.com
 ||great-roc.org
 ||greatfire.org
@@ -8053,6 +8047,7 @@ zyzc9.com
 ||pachosting.com
 ||pacificpoker.com
 ||packetix.net
+||pacom.mil
 ||pacopacomama.com
 ||padmanet.com
 ||page.bid.yahoo.com
