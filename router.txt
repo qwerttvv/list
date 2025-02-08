@@ -30,6 +30,7 @@ spotify.com
 rlcdn.com
 bidswitch.net
 whatsapp.net
+typekit.net
 twitter.com
 cdninstagram.com
 ampproject.org
@@ -2093,6 +2094,7 @@ animecrazy.net
 animeshippuuden.com
 animezilla.com
 aniscartujo.com
+annas-archive.se
 annatam.com
 anobii.com
 anontext.com
@@ -5625,6 +5627,7 @@ smyxy.org
 snapseed.com
 snaptu.com
 sneakme.net
+snow-plus.net
 snowlionpub.com
 soav.com
 sobees.com
