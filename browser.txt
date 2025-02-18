@@ -1801,7 +1801,6 @@
 .stormmediagroup.com
 .strikingly.com
 .strongwindpress.com
-.student.tw/db
 .successfn.com
 .sugarsync.com
 .sugobbs.com
@@ -3991,6 +3990,7 @@ zyzc9.com
 ||5299.tv
 ||55comic.com
 ||5i01.com
+||611study.icu
 ||63i.com
 ||64museum.org
 ||64tianwang.com
@@ -7765,6 +7765,7 @@ zyzc9.com
 ||news.now.com
 ||news.seehua.com
 ||news.ycombinator.com
+||news1.kr
 ||news100.com.tw
 ||news18.com
 ||newsancai.com
@@ -8149,6 +8150,7 @@ zyzc9.com
 ||picidae.net
 ||picturedip.com
 ||picturesocial.com
+||picuki.com
 ||pigav.com
 ||pimg.tw
 ||pin-cong.com
