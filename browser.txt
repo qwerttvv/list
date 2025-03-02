@@ -5357,6 +5357,7 @@ zyzc9.com
 ||donmai.us
 ||dontfilter.us
 ||dontmovetochina.com
+||doosho.com
 ||doourbest.org
 ||dorjeshugden.com
 ||dot.ca.gov
@@ -9921,6 +9922,7 @@ zyzc9.com
 ||wildammo.com
 ||williamhill.com
 ||willw.net
+||wilsoncenter.org
 ||windowsphoneme.com
 ||windscribe.com
 ||wingamestore.com
