@@ -3333,7 +3333,6 @@ tw.myblog.yahoo.com
 tw.streetvoice.com
 tw.tomonews.net
 tw.voa.mobi
-tw.yahoo.com
 twapperkeeper.com
 twbbs.org
 twbbs.tw
@@ -4055,6 +4054,7 @@ zyzc9.com
 ||accountkit.com
 ||aceros-de-hispania.com
 ||acevpn.com
+||acg.rip
 ||acgbox.link
 ||acgbox.org
 ||acgkj.com
@@ -4378,6 +4378,7 @@ zyzc9.com
 ||bangchen.net
 ||bangdream.space
 ||bangkokpost.com
+||bangumi.moe
 ||bangyoulater.com
 ||bankmobilevibe.com
 ||bannedbook.org
@@ -4991,6 +4992,7 @@ zyzc9.com
 ||chuizi.net
 ||churchinhongkong.org
 ||chushigangdrug.ch
+||ci-en.jp
 ||cia.gov
 ||ciciai.com
 ||cienen.com
@@ -5654,6 +5656,7 @@ zyzc9.com
 ||familyfed.org
 ||famunion.com
 ||fan-qiang.com
+||fanbox.cc
 ||fandom.com
 ||fangbinxing.com
 ||fangeming.com
@@ -5816,6 +5819,7 @@ zyzc9.com
 ||free-proxy.cz
 ||free-ss.site
 ||free-ssh.com
+||free.bg
 ||free.fr
 ||free4u.com.ar
 ||freealim.com
@@ -6687,7 +6691,6 @@ zyzc9.com
 ||huaxiabao.org
 ||huaxin.ph
 ||huayuworld.org
-||hub.docker.com
 ||hudatoriq.web.id
 ||hudson.org
 ||huffingtonpost.com
@@ -7383,6 +7386,7 @@ zyzc9.com
 ||manchukuo.net
 ||manchustate.org
 ||mandiant.com
+||mangabz.com
 ||mangafox.com
 ||mangafox.me
 ||mangmang.run
@@ -8128,6 +8132,7 @@ zyzc9.com
 ||pen.io
 ||penchinese.com
 ||penchinese.net
+||pendrivelinux.com
 ||penthouse.com
 ||pentoy.hk
 ||peoplebookcafe.com
@@ -9002,6 +9007,7 @@ zyzc9.com
 ||sylfoundation.org
 ||syncback.com
 ||synergyse.com
+||syosetu.com
 ||sytes.net
 ||szbbs.net
 ||szetowah.org.hk
@@ -9435,6 +9441,7 @@ zyzc9.com
 ||tw.mobi.yahoo.com
 ||tw.money.yahoo.com
 ||tw.news.yahoo.com
+||tw.yahoo.com
 ||tw01.org
 ||twaitter.com
 ||twapperkeeper.com

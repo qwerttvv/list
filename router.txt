@@ -321,7 +321,6 @@ google.com.tw
 hsselite.com
 google.pl
 docker.io
-hub.docker.com
 mega.co.nz
 scache2.vzw.com
 reuters.com
@@ -870,6 +869,7 @@ elgoog.im
 catbox.moe
 newstatesman.com
 clips4sale.com
+acg.rip
 hola.com
 knowyourmeme.com
 txxx.com
@@ -923,6 +923,7 @@ overplay.net
 video.foxbusiness.com
 mingpao.com
 democrats.org
+bangumi.moe
 fb.watch
 heritage.org
 us.to
@@ -1052,6 +1053,7 @@ jsfiddle.net
 mypikpak.com
 trouw.nl
 orientaldaily.com.my
+fanbox.cc
 zattoo.com
 hoxx.com
 googleanalytics.com
@@ -1110,6 +1112,7 @@ hdzog.com
 newsblur.com
 yahoo.com.hk
 myreadingmanga.info
+ci-en.jp
 wikiversity.org
 dmhy.org
 exhentai.org
@@ -1476,6 +1479,7 @@ sendsmtp.com
 dns2.us
 domain.glass
 mynetav.org
+syosetu.com
 esmtp.biz
 linksalpha.com
 mrface.com
@@ -3390,6 +3394,7 @@ free-hada-now.org
 free-proxy.cz
 free-ss.site
 free-ssh.com
+free.bg
 free4u.com.ar
 freealim.com
 freebearblog.org
@@ -4555,6 +4560,7 @@ makzhou.warehouse333.com
 mamingzhe.com
 manchukuo.net
 manchustate.org
+mangabz.com
 mangafox.com
 mangmang.run
 manhuabika.com
@@ -5135,6 +5141,7 @@ pemulihan.or.id
 pen.io
 penchinese.com
 penchinese.net
+pendrivelinux.com
 penthouse.com
 pentoy.hk
 peoplebookcafe.com
