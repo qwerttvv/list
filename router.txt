@@ -37,6 +37,7 @@ twitter.com
 gmail.com
 typekit.net
 tiktokcdn.com
+use.typekit.net
 tiktokcdn-us.com
 crwdcntrl.net
 pinterest.com
@@ -3897,6 +3898,7 @@ hnjhj.com
 hnntube.com
 ho5ho.com
 hojemacau.com.mo
+hole.thu.monster
 holymountaincn.com
 holyspiritspeaks.org
 home.sina.com
@@ -3923,6 +3925,7 @@ hotshame.com
 hottg.com
 hotvpn.com
 hougaige.com
+hoy.tv
 hpjav.com
 hqcdp.org
 hqjapanesesex.com
@@ -4356,6 +4359,7 @@ koolsolutions.com
 koornk.com
 koranmandarin.com
 korenan2.com
+kpkuang.org
 kqes.net
 krtco.com.tw
 ksdl.org
@@ -4888,6 +4892,7 @@ newstamago.com
 newstapa.org
 newstarnet.com
 newtaiwan.com.tw
+newthuhole.com
 next11.co.jp
 nextdigital.com.hk
 nextmag.com.tw
@@ -5148,6 +5153,7 @@ phmsociety.org
 phosphation13.rssing.com
 photodharma.net
 photofocus.com
+photonmedia.net
 phptutorial.net
 phuquocservices.com
 picacomiccn.com
@@ -5174,6 +5180,7 @@ pixelqi.com
 pixivsketch.net
 pk.com
 pkqjiasu.com
+pkuanvil.com
 placemix.com
 playbeasts.com
 playboyplus.com
@@ -5193,6 +5200,7 @@ pobieramy.top
 podcast.app
 podcast.co
 podictionary.com
+points-media.com
 politicalchina.org
 politicalconsultation.org
 politiscales.net
@@ -5927,6 +5935,7 @@ theblemish.com
 thebobs.com
 thebodyshop-usa.com
 thecenter.mit.edu
+thechasernews.co.uk
 thechinabeat.org
 thechinacollection.org
 thechinaproject.com
@@ -5964,6 +5973,7 @@ thomasbernhard.org
 thongdreams.com
 threatchaos.com
 throughnightsfire.com
+thuhole.com
 thywords.com
 thywords.com.tw
 tiananmenduizhi.com
@@ -6642,6 +6652,7 @@ wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
 wiki.kfd.me
+wiki.metacubex.one
 wiki.oauth.net
 wiki.phonegap.com
 wikileaks-forum.com

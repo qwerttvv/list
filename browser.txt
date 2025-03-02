@@ -6611,6 +6611,7 @@ zyzc9.com
 ||hojemacau.com.mo
 ||hola.com
 ||hola.org
+||hole.thu.monster
 ||holymountaincn.com
 ||holyspiritspeaks.org
 ||home.so-net.net.tw
@@ -6645,6 +6646,7 @@ zyzc9.com
 ||house.gov
 ||howtoforge.com
 ||hoxx.com
+||hoy.tv
 ||hoyolab.com
 ||hpa.gov.tw
 ||hpjav.com
@@ -7162,6 +7164,7 @@ zyzc9.com
 ||koranmandarin.com
 ||korea.net
 ||korenan2.com
+||kpkuang.org
 ||kqes.net
 ||kraken.com
 ||krtco.com.tw
@@ -7788,6 +7791,7 @@ zyzc9.com
 ||newsweek.com
 ||newtaiwan.com.tw
 ||newtalk.tw
+||newthuhole.com
 ||newyorker.com
 ||newyorktimes.com
 ||nexon.com
@@ -8146,6 +8150,7 @@ zyzc9.com
 ||phosphation13.rssing.com
 ||photodharma.net
 ||photofocus.com
+||photonmedia.net
 ||phprcdn.com
 ||phptutorial.net
 ||phuquocservices.com
@@ -8192,6 +8197,7 @@ zyzc9.com
 ||pk.com
 ||pki.goog
 ||pkqjiasu.com
+||pkuanvil.com
 ||placemix.com
 ||play-asia.com
 ||playbeasts.com
@@ -8217,6 +8223,7 @@ zyzc9.com
 ||podcast.co
 ||podictionary.com
 ||poe.com
+||points-media.com
 ||pokerstars.com
 ||pokerstars.net
 ||politicalchina.org
@@ -9123,6 +9130,7 @@ zyzc9.com
 ||thebobs.com
 ||thebodyshop-usa.com
 ||thecenter.mit.edu
+||thechasernews.co.uk
 ||thechinabeat.org
 ||thechinacollection.org
 ||thechinaproject.com
@@ -9174,6 +9182,7 @@ zyzc9.com
 ||threads.net
 ||threatchaos.com
 ||throughnightsfire.com
+||thuhole.com
 ||thumbzilla.com
 ||thywords.com
 ||thywords.com.tw
@@ -9594,6 +9603,7 @@ zyzc9.com
 ||uscardforum.com
 ||uscg.mil
 ||uscnpm.org
+||use.typekit.net
 ||usefreevpn.com
 ||usercontent.goog
 ||usfk.mil
@@ -9895,6 +9905,7 @@ zyzc9.com
 ||wiki.esu.im
 ||wiki.jqueryui.com
 ||wiki.kfd.me
+||wiki.metacubex.one
 ||wiki.oauth.net
 ||wiki.phonegap.com
 ||wikibooks.org
