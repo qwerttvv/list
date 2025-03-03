@@ -130,6 +130,7 @@ stats.wp.com
 nytimes.com
 xfinity.com
 yahoo.co.jp
+addons.mozilla.org
 google.de
 google.ru
 nyt.com
@@ -652,6 +653,7 @@ economist.com
 cdn.printfriendly.com
 bongacams.com
 kik.com
+suno.com
 feeder.co
 hindustantimes.com
 williamhill.com
@@ -860,7 +862,6 @@ telesco.pe
 pritunl.com
 smh.com.au
 torlock.com
-chinatimes.com
 facebookmail.com
 typeset.io
 b.hatena.ne.jp
@@ -902,6 +903,7 @@ kone.com
 indiatoday.in
 gamejolt.com
 500px.com
+miuipolska.pl
 gelbooru.com
 nydailynews.com
 sinchew.com.my
@@ -1054,7 +1056,6 @@ knowyourmeme.com
 videopress.com
 hybrid-analysis.com
 pchome.com.tw
-zaobao.com
 vyprvpn.com
 playboy.com
 tgstat.com
@@ -1518,6 +1519,7 @@ ibtimes.com
 zergpool.com
 cdn.seatguru.com
 nationalinterest.org
+piaotia.com
 blogspot.jp
 jjgirls.com
 18comic.org
@@ -1820,6 +1822,7 @@ blogspot.ba
 coinut.com
 comparitech.com
 equinenow.com
+slides.com
 xiaomi.eu
 aol.ca
 hkepc.com
@@ -1894,6 +1897,7 @@ simpleswap.io
 voaindonesia.com
 av01.tv
 blogspot.am
+clipconverter.cc
 cnbeta.com.tw
 hpa.gov.tw
 playno1.com
@@ -2793,6 +2797,7 @@ cling.omy.sg
 clinica-tibet.ru
 clipfish.de
 cloakpoint.com
+cloud.dify.ai
 cloudcone.com
 cloudflare-ipfs.com
 cloudfront.net
@@ -2984,6 +2989,7 @@ deepdiscount.com
 deja.com
 delcamp.net
 demo.opera-mini.net
+demo.unlock-music.dev
 demosisto.hk
 derekhsu.homeip.net
 desc.se
@@ -3432,6 +3438,7 @@ free-proxy.cz
 free-ss.site
 free-ssh.com
 free.bg
+free.com.tw
 free4u.com.ar
 freealim.com
 freebearblog.org
@@ -5304,6 +5311,7 @@ pttgame.com
 ptthito.com
 pttvan.org
 pttyes.com
+ptwxz.com
 pubu.com.tw
 puffin.com
 puffinbrowser.com
@@ -6118,6 +6126,7 @@ tokyo-247.com
 tokyo-hot.com
 tokyo-porn-tube.com
 tokyocn.com
+tomp3.cc
 tongil.or.kr
 tono-oka.jp
 tonyyan.net
@@ -6736,6 +6745,7 @@ www.kindleren.com
 www.klip.me
 www.lamenhu.com
 www.lib.virginia.edu
+www.lorenzetti.com.br
 www.m-sport.co.uk
 www.monlamit.org
 www.moztw.org
@@ -6922,14 +6932,13 @@ zeutch.com
 zfreet.com
 zgsddh.com
 zgzcjj.net
+zh-hans.cfsh99.com
 zh.bitterwinter.org
 zh.ecdm.wikia.com
 zh.pokerstrategy.com
 zh.pttpedia.wikia.com
 zh.uncyclopedia.wikia.com
-zh.wikinews.org
 zh.wikiquote.org
-zh.wikisource.org
 zhanbin.net
 zhangboli.net
 zhangtianliang.com

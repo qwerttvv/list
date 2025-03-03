@@ -2277,7 +2277,6 @@
 .yyii.org
 .yzzk.com
 .zalmos.com
-.zaobao.com
 .zaozon.com
 .zapto.org
 .zello.com
@@ -2378,6 +2377,7 @@
 @@||chinaso.com
 @@||chinaz.com
 @@||chukuang.gov.tw
+@@||ci.android.com
 @@||clientservices.googleapis.com
 @@||cn.gravatar.com
 @@||cn.noxinfluencer.com
@@ -3426,6 +3426,7 @@ whylover.com
 wiki.cnitter.com
 wiki.keso.cn/home
 wikilivres.info/wiki/%e9%9b%b6%e5%85%ab%e5%ae%aa%e7%ab%a0
+wikinews.org
 wildammo.com
 wlcnew.jigsy.com
 worldjournal.com
@@ -3859,7 +3860,6 @@ zyzc9.com
 |http://xxxymovies.com
 |http://yes-news.com
 |http://yeyeclub.com
-|http://zh.wikisource.org
 |http://zhenxiang.biz
 |http://zhongguorenquan.org
 |https://*.s3.amazonaws.com
@@ -4056,6 +4056,8 @@ zyzc9.com
 ||aculo.us
 ||adcex.com
 ||addictedtocoffee.de
+||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
+||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
 ||addyoutube.com
 ||adelaidebbs.com
 ||adguard-vpn.com
@@ -4926,7 +4928,6 @@ zyzc9.com
 ||chinasocialdemocraticparty.com
 ||chinasoul.org
 ||chinasucks.net
-||chinatimes.com
 ||chinatopsex.com
 ||chinatown.com.au
 ||chinatweeps.com
@@ -5015,9 +5016,11 @@ zyzc9.com
 ||clickme.net
 ||cling.omy.sg
 ||clinica-tibet.ru
+||clipconverter.cc
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
+||cloud.dify.ai
 ||cloud.mail.ru
 ||cloudflare-ipfs.com
 ||cloudfront.net
@@ -5244,6 +5247,7 @@ zyzc9.com
 ||deja.com
 ||delcamp.net
 ||demo.opera-mini.net
+||demo.unlock-music.dev
 ||democrats.org
 ||demosisto.hk
 ||depositphotos.com
@@ -5809,6 +5813,7 @@ zyzc9.com
 ||free-ss.site
 ||free-ssh.com
 ||free.bg
+||free.com.tw
 ||free.fr
 ||free4u.com.ar
 ||freealim.com
@@ -7542,6 +7547,7 @@ zyzc9.com
 ||mitao.com.tw
 ||mitbbs.com
 ||mitbbsau.com
+||miuipolska.pl
 ||mixero.com
 ||mixi.jp
 ||mixpod.com
@@ -8148,6 +8154,7 @@ zyzc9.com
 ||phprcdn.com
 ||phptutorial.net
 ||phuquocservices.com
+||piaotia.com
 ||picacomic.com
 ||picacomiccn.com
 ||picasaweb.com
@@ -8329,6 +8336,7 @@ zyzc9.com
 ||pttvan.org
 ||pttweb.cc
 ||pttyes.com
+||ptwxz.com
 ||pubu.com.tw
 ||puffin.com
 ||puffinbrowser.com
@@ -8754,6 +8762,7 @@ zyzc9.com
 ||sleazyfork.org
 ||slheng.com
 ||slickvpn.com
+||slides.com
 ||slides.new
 ||slideshare.net
 ||slutload.com
@@ -8964,6 +8973,7 @@ zyzc9.com
 ||sundayguardianlive.com
 ||sunmedia.ca
 ||suno.ai
+||suno.com
 ||sunporno.com
 ||sunskyforum.com
 ||sunta.com.tw
@@ -9308,6 +9318,7 @@ zyzc9.com
 ||tokyo-hot.com
 ||tokyo-porn-tube.com
 ||tokyocn.com
+||tomp3.cc
 ||tonyyan.net
 ||toodoc.com
 ||toonel.net
@@ -10008,6 +10019,7 @@ zyzc9.com
 ||www.klip.me
 ||www.lamenhu.com
 ||www.linksalpha.com
+||www.lorenzetti.com.br
 ||www.moztw.org
 ||www.msn.com
 ||www.powerpointninja.com
@@ -10226,7 +10238,6 @@ zyzc9.com
 ||zalmos.com
 ||zamimg.com
 ||zannel.com
-||zaobao.com
 ||zaobao.com.sg
 ||zaozon.com
 ||zapto.org
@@ -10243,10 +10254,10 @@ zyzc9.com
 ||zeutch.com
 ||zgsddh.com
 ||zgzcjj.net
+||zh-hans.cfsh99.com
 ||zh.bitterwinter.org
 ||zh.ecdm.wikia.com
 ||zh.pokerstrategy.com
-||zh.wikinews.org
 ||zh.wikiquote.org
 ||zhanbin.net
 ||zhangboli.net
