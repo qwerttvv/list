@@ -123,7 +123,6 @@ cdn.registerdisney.go.com
 googleapis.cn
 cnn.com
 homedepot.com
-search.yahoo.com
 hcaptcha.com
 signal.org
 fb.com
@@ -155,7 +154,6 @@ imdb.com
 jtvnw.net
 line-apps.com
 bit.ly
-data.flurry.com
 bbc.co.uk
 costco.com
 ok.ru
@@ -179,7 +177,6 @@ google.co.th
 google.nl
 line.me
 youtu.be
-video.yahoo.com
 blogger.com
 proton.me
 google.com.hk
@@ -330,6 +327,7 @@ google.co.il
 google.com.do
 google.ae
 int-x3.letsencrypt.org
+wunderground.com
 google.com.ng
 google.hn
 hbo.com
@@ -550,7 +548,6 @@ tagesschau.de
 nos.nl
 gettyimages.com
 patreonusercontent.com
-news.yahoo.com
 spankbang.com
 ipfs.io
 scache.vzw.com
@@ -585,7 +582,6 @@ truthsocial.com
 apartments.com
 timesofindia.indiatimes.com
 xn--ngstr-lra8j.com
-w3schools.com
 rakuten.co.jp
 vox.com
 jcpenney.com
@@ -818,8 +814,6 @@ ndr.de
 hanime1.me
 phprcdn.com
 catbox.moe
-hk.yahoo.com
-tw.yahoo.com
 suno.ai
 raw.githack.com
 convio.net
@@ -859,7 +853,6 @@ hkjc.com
 partypoker.com
 earthcam.com
 inoreader.com
-tw.news.yahoo.com
 motherless.com
 momoshop.com.tw
 voxer.com
@@ -869,6 +862,7 @@ smh.com.au
 torlock.com
 chinatimes.com
 facebookmail.com
+typeset.io
 b.hatena.ne.jp
 search.aol.com
 newgrounds.com
@@ -966,8 +960,6 @@ ettoday.net
 googlegroups.com
 filesor.com
 bahamut.com.tw
-hk.search.yahoo.com
-hk.news.yahoo.com
 nownews.com
 ok.xxx
 bangkokpost.com
@@ -1420,6 +1412,7 @@ americanunfinished.com
 ns01.biz
 newmitbbs.com
 communitychoicecu.com
+mahjongsoul.com
 apigee.com
 ns02.biz
 syosetu.com
@@ -1448,7 +1441,6 @@ airvpn.org
 blogspot.mx
 book.com.tw
 pinterest.fr
-tw.bid.yahoo.com
 cumlouder.com
 dlive.tv
 google.com.iq
@@ -1576,6 +1568,7 @@ blogspot.hk
 hkej.com
 mol.gov.tw
 nationsonline.org
+thetatoken.org
 warroom.org
 dongtaiwang.com
 blogspot.fi
@@ -1827,7 +1820,6 @@ blogspot.ba
 coinut.com
 comparitech.com
 equinenow.com
-tw.mall.yahoo.com
 xiaomi.eu
 aol.ca
 hkepc.com
@@ -1883,6 +1875,7 @@ lingualeo.com
 lmsys.org
 perfectgirls.net
 updates.tdesktop.com
+vern.cc
 asianews.it
 btguard.com
 businesstoday.com.tw
@@ -1895,6 +1888,7 @@ sketchappsources.com
 springboardplatform.com
 6do.news
 bignewsnetwork.com
+home.saxo
 ovpn.com
 simpleswap.io
 voaindonesia.com
@@ -2540,7 +2534,6 @@ business-humanrights.org
 business.page
 busu.org
 buugaa.com
-buy.yahoo.com.tw
 buzzhand.com
 buzzhand.net
 buzzorange.com
@@ -2849,6 +2842,7 @@ coingi.com
 coinrail.co.kr
 cointiger.com
 cointobe.com
+colacloud.net
 collateralmurder.com
 collateralmurder.org
 com.google
@@ -3320,6 +3314,7 @@ fanyue.info
 fapdu.com
 faproxy.com
 farwestchina.com
+fastgpt.run
 fastssh.com
 faststone.org
 fatakat-n.club
@@ -3338,6 +3333,7 @@ fdc64.de
 fdc64.jp
 fdc64.org
 fdc89.jp
+feedly.comfastgpt.run
 feeds.fileforum.com
 feelssh.com
 feer.com
@@ -3503,6 +3499,7 @@ fromchinatousa.net
 frommel.net
 frontlinedefenders.org
 frootvpn.com
+froth.zone
 fscked.org
 fsurf.com
 ftpserver.biz
@@ -3643,6 +3640,7 @@ gmozomg.izihost.org
 gnci.org.hk
 gnews.org
 go-pki.com
+go-to-zlibrary.se
 go.nesnode.com
 go.sony.com
 go141.com
@@ -3879,10 +3877,6 @@ hk.geocities.com
 hk.gradconnection.com
 hk.hao123img.com
 hk.jiepang.com
-hk.knowledge.yahoo.com
-hk.myblog.yahoo.com
-hk.rd.yahoo.com
-hk.video.news.yahoo.com
 hk32168.com
 hka8964.wordpress.com
 hkacg.com
@@ -4281,6 +4275,7 @@ jiaoyou8.com
 jichangtj.com
 jiehua.cz
 jieshibaobao.com
+jifangge.com
 jigglegifs.com
 jigong1024.com
 jihadintel.meforum.org
@@ -4649,7 +4644,6 @@ meizhong.blog
 meizhong.report
 melon365.com
 meltoday.com
-meme.yahoo.com
 memehk.com
 memes.tw
 memorybbs.com
@@ -5114,7 +5108,6 @@ packetix.net
 pacom.mil
 pacopacomama.com
 padmanet.com
-page.bid.yahoo.com
 page2rss.com
 pages.dev
 pagodabox.com
@@ -5316,7 +5309,6 @@ puffin.com
 puffinbrowser.com
 puffstore.com
 pullfolio.com
-pulse.yahoo.com
 punyu.com
 pure18.com
 pureconcepts.net
@@ -5624,6 +5616,7 @@ simpleproductivityblog.com
 sina.com.hk
 singfortibet.com
 singlelogin.me
+singlelogin.se
 singpao.com.hk
 singtao.ca
 singtao.com
@@ -6221,15 +6214,10 @@ tvmost.com.hk
 tvplayvideos.com
 tw-blog.com
 tw-npo.org
-tw.answers.yahoo.com
 tw.gigacircle.com
 tw.hao123.com
 tw.iqiyi.com
 tw.jiepang.com
-tw.knowledge.yahoo.com
-tw.mobi.yahoo.com
-tw.money.yahoo.com
-tw.myblog.yahoo.com
 tw.streetvoice.com
 tw.tomonews.net
 tw.voa.mobi
@@ -6376,7 +6364,6 @@ unseen.is
 unstable.icu
 untraceable.us
 uocn.org
-upcoming.yahoo.com
 upghsbc.com
 upholdjustice.org
 upload4u.info
@@ -6669,6 +6656,7 @@ wikileaks.de
 wikileaks.eu
 wikileaks.lu
 wikileaks.pl
+wikiless.funami.tech
 wikilivres.info
 wikiwiki.jp
 wildammo.com

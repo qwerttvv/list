@@ -629,8 +629,6 @@
 .etadult.com
 .etowns.net
 .etowns.org
-.ettoday.net/news/20151216/614081
-.eu.org
 .eucasino.com
 .eulam.com
 .eurekavpt.com
@@ -2889,9 +2887,6 @@ hizb-ut-tahrir.org
 hizbuttahrir.org
 hk.frienddy.com/hk
 hk.geocities.com
-hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
 hkbc.net
 hkci.org.hk
 hkday.net
@@ -3018,7 +3013,6 @@ mcreasite.com
 me.youthwant.com.tw
 mefeedia.com
 megavideo.com
-meme.yahoo.com
 meshrep.com
 metacafe.com/watch
 mhradio.org
@@ -3072,7 +3066,6 @@ news.sina.com.tw
 news.sinchew.com.my
 news.singtao.ca
 news.tvbs.com.tw
-news.yahoo.com/china-blocks-bbc
 news100.com.tw
 newschinacomment.org
 newstarnet.com
@@ -3155,7 +3148,6 @@ proxyroad.com
 prozz.net
 psblog.name
 psiphon.civisec.org
-pulse.yahoo.com
 pwned.com
 python.com
 pythonhackers.com/p
@@ -3327,9 +3319,7 @@ tuidang.net
 tuitwit.com
 tvants.com
 tvider.com
-tw.answers.yahoo.com
 tw.gigacircle.com
-tw.myblog.yahoo.com
 tw.streetvoice.com
 tw.tomonews.net
 tw.voa.mobi
@@ -3380,7 +3370,6 @@ unblock-us.com
 uncyclomedia.org
 underwoodammo.com
 unpo.org
-upcoming.yahoo.com
 uploaded.net/file
 ur7s.com
 us.to
@@ -3398,7 +3387,6 @@ video.aol.com
 video.ap.org
 video.fdbox.com
 video.foxbusiness.com
-video.yahoo.com
 videobam.com
 videopediaworld.com
 vietdaikynguyen.com
@@ -3890,9 +3878,9 @@ zyzc9.com
 |https://securityinabox.org
 |https://ss*.4sqi.net
 |https://tw-blog.com
-|https://tw.answers.yahoo.com
 |https://www.abclite.net
 |imb.org
+||*.ettoday.net
 ||*.goog
 ||*.google
 ||*.youtube
@@ -4721,7 +4709,6 @@ zyzc9.com
 ||businessweekly.com.tw
 ||busytrade.com
 ||buugaa.com
-||buy.yahoo.com.tw
 ||buzzhand.com
 ||buzzorange.com
 ||buzzsprout.com
@@ -5085,6 +5072,7 @@ zyzc9.com
 ||cointiger.com
 ||cointobe.com
 ||coinut.com
+||colacloud.net
 ||collateralmurder.com
 ||collateralmurder.org
 ||com.google
@@ -5226,7 +5214,6 @@ zyzc9.com
 ||dashlane.com
 ||dastrassi.org
 ||data-vocabulary.org
-||data.flurry.com
 ||data.gov.tw
 ||daum.net
 ||david-kilgour.com
@@ -5684,6 +5671,7 @@ zyzc9.com
 ||fast.com
 ||fast.wistia.com
 ||fastestvpn.com
+||fastgpt.run
 ||fastly.net
 ||fastpic.ru
 ||fastssh.com
@@ -5716,6 +5704,7 @@ zyzc9.com
 ||feedburner.com
 ||feeder.co
 ||feedly.com
+||feedly.comfastgpt.run
 ||feedx.net
 ||feelssh.com
 ||feer.com
@@ -5889,6 +5878,7 @@ zyzc9.com
 ||frommel.net
 ||frontlinedefenders.org
 ||frootvpn.com
+||froth.zone
 ||fscked.org
 ||fsurf.com
 ||ftchinese.com
@@ -6072,6 +6062,7 @@ zyzc9.com
 ||gnci.org.hk
 ||gnews.org
 ||go-pki.com
+||go-to-zlibrary.se
 ||go.nesnode.com
 ||go.sony.com
 ||go141.com
@@ -6556,10 +6547,6 @@ zyzc9.com
 ||hjd2048.com
 ||hk-pub.com
 ||hk.jiepang.com
-||hk.knowledge.yahoo.com
-||hk.myblog.yahoo.com
-||hk.news.yahoo.com
-||hk.yahoo.com
 ||hk01.com
 ||hk32168.com
 ||hka8964.wordpress.com
@@ -6618,6 +6605,7 @@ zyzc9.com
 ||hole.thu.monster
 ||holymountaincn.com
 ||holyspiritspeaks.org
+||home.saxo
 ||home.so-net.net.tw
 ||homedepot.com
 ||homeperversion.com
@@ -7030,6 +7018,7 @@ zyzc9.com
 ||jichangtj.com
 ||jiehua.cz
 ||jieshibaobao.com
+||jifangge.com
 ||jigglegifs.com
 ||jigong1024.com
 ||jigsy.com
@@ -7372,6 +7361,7 @@ zyzc9.com
 ||magazines.sina.com.tw
 ||magic-net.info
 ||mahabodhi.org
+||mahjongsoul.com
 ||maiio.net
 ||mail-archive.com
 ||mail.me.com
@@ -8065,7 +8055,6 @@ zyzc9.com
 ||pacom.mil
 ||pacopacomama.com
 ||padmanet.com
-||page.bid.yahoo.com
 ||page.link
 ||page2rss.com
 ||pages.dev
@@ -8608,7 +8597,6 @@ zyzc9.com
 ||search.com
 ||search.xxx
 ||search.yahoo.co.jp
-||search.yahoo.com
 ||searchtruth.com
 ||searx.me
 ||seattlefdc.com
@@ -8723,6 +8711,7 @@ zyzc9.com
 ||singaporepools.com.sg
 ||singfortibet.com
 ||singlelogin.me
+||singlelogin.se
 ||singpao.com.hk
 ||singtao.ca
 ||singtao.com
@@ -9167,6 +9156,7 @@ zyzc9.com
 ||thestandard.com.hk
 ||thestandnews.com
 ||thestar.com
+||thetatoken.org
 ||thetibetcenter.org
 ||thetibetconnection.org
 ||thetibetmuseum.org
@@ -9433,15 +9423,8 @@ zyzc9.com
 ||tvplayvideos.com
 ||tvunetworks.com
 ||tw-blog.com
-||tw.bid.yahoo.com
 ||tw.iqiyi.com
 ||tw.jiepang.com
-||tw.knowledge.yahoo.com
-||tw.mall.yahoo.com
-||tw.mobi.yahoo.com
-||tw.money.yahoo.com
-||tw.news.yahoo.com
-||tw.yahoo.com
 ||tw01.org
 ||twaitter.com
 ||twapperkeeper.com
@@ -9532,6 +9515,7 @@ zyzc9.com
 ||tycool.com
 ||typekit.net
 ||typepad.com
+||typeset.io
 ||typora.io
 ||u15.info
 ||u9un.com
@@ -9677,6 +9661,7 @@ zyzc9.com
 ||vercel.app
 ||vercel.com
 ||vermonttibet.org
+||vern.cc
 ||versavpn.com
 ||verybs.com
 ||vevo.com
@@ -9795,7 +9780,6 @@ zyzc9.com
 ||vultryhw.com
 ||vyprvpn.com
 ||w.wiki
-||w3schools.com
 ||waffle1999.com
 ||wahas.com
 ||waigaobu.com
@@ -9925,6 +9909,7 @@ zyzc9.com
 ||wikileaks.lu
 ||wikileaks.org
 ||wikileaks.pl
+||wikiless.funami.tech
 ||wikimapia.org
 ||wikimedia.org
 ||wikinews.org
@@ -10015,6 +10000,7 @@ zyzc9.com
 ||wujie.net
 ||wujieliulan.com
 ||wukangrui.net
+||wunderground.com
 ||wuw.red
 ||wuyanblog.com
 ||wwitv.com
