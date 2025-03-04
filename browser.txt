@@ -1402,7 +1402,6 @@
 .nfjtyd.com
 .nhentai.net
 .nhk-ondemand.jp
-.nicovideo.jp/watch
 .ninjacloak.com
 .ninth.biz
 .no-ip.org
@@ -2397,6 +2396,8 @@
 @@||fda.gov.tw
 @@||fonts.googleapis.com
 @@||fonts.gstatic.com
+@@||gettyimages.cn
+@@||gettyimages.com
 @@||ggpht.cn
 @@||google.cn
 @@||googleapis.cn
@@ -2687,9 +2688,6 @@ csdparty.com
 cyberghost.natado.com
 cyberghostvpn.com
 cytode.us
-d1b183sg0nvnuh.cloudfront.net
-d1c37gjwa26taa.cloudfront.net
-d3c33hcgiwev3.cloudfront.net
 dabr.eu
 dabr.mobi
 dadazim.com
@@ -3579,7 +3577,6 @@ zyzc9.com
 |http://daidostup.ru
 |http://dalailama.mn
 |http://dalailamacenter.org
-|http://danbooru.donmai.us
 |http://david-kilgour.com
 |http://deck.ly
 |http://digiland.tw/
@@ -3861,9 +3858,6 @@ zyzc9.com
 |https://aiss.anws.gov.tw
 |https://bartender.dowjones.com
 |https://chinanewscenter.com
-|https://d1b183sg0nvnuh.cloudfront.net
-|https://d1c37gjwa26taa.cloudfront.net
-|https://d3c33hcgiwev3.cloudfront.net
 |https://fbcdn*.akamaihd.net/
 |https://fulione.com
 |https://m.hkgalden.com
@@ -3875,6 +3869,8 @@ zyzc9.com
 |https://www.abclite.net
 |imb.org
 ||*.ettoday.net
+||*.freetls.fastly.net
+||*.global.ssl.fastly.net
 ||*.goog
 ||*.google
 ||*.youtube
@@ -3979,6 +3975,7 @@ zyzc9.com
 ||64wiki.com
 ||66.ca
 ||666kb.com
+||666pool.cn
 ||69shu.com
 ||6do.news
 ||6do.world
@@ -4189,6 +4186,7 @@ zyzc9.com
 ||antichristendom.com
 ||antisocial.science
 ||antiwave.net
+||antpool.com
 ||anyporn.com
 ||anysex.com
 ||ao3.org
@@ -4411,6 +4409,8 @@ zyzc9.com
 ||beanfun.com
 ||bebo.com
 ||beeg.com
+||beepool.com
+||beepool.org
 ||beevpn.com
 ||behance.net
 ||behindkink.com
@@ -4435,6 +4435,7 @@ zyzc9.com
 ||bestvpnservice.com
 ||bestvpnusa.com
 ||bet365.com
+||betaclouds.net
 ||betfair.com
 ||betternet.co
 ||bettervpn.com
@@ -4466,6 +4467,7 @@ zyzc9.com
 ||biliworld.com
 ||binance.com
 ||binance.us
+||binancezh.cc
 ||binux.me
 ||bipic.net
 ||bird.so
@@ -4680,6 +4682,8 @@ zyzc9.com
 ||bt2mag.com
 ||bt95.com
 ||btaia.com
+||btbit.net
+||btc.com
 ||btc98.com
 ||btcbank.bank
 ||btctrade.im
@@ -4728,6 +4732,7 @@ zyzc9.com
 ||c.mi.com
 ||c100tibet.org
 ||c2cx.com
+||c3pool.com
 ||cableav.tv
 ||cablegatesearch.net
 ||cachefly.com
@@ -5036,6 +5041,7 @@ zyzc9.com
 ||cmule.org
 ||cmx.im
 ||cn-proxy.com
+||cn.etherscan.com
 ||cn.fmnnow.com
 ||cn.sandscotaicentral.com
 ||cn.theaustralian.com.au
@@ -5112,6 +5118,7 @@ zyzc9.com
 ||cpj.org
 ||cq99.us
 ||crackle.com
+||crazypool.org
 ||crazys.cc
 ||crazyshit.com
 ||crbug.com
@@ -5131,6 +5138,7 @@ zyzc9.com
 ||crrev.com
 ||crucial.com
 ||crunchyroll.com
+||cruxpool.com
 ||crwdcntrl.net
 ||crypto.com
 ||csdparty.com
@@ -5160,10 +5168,10 @@ zyzc9.com
 ||cynscribe.com
 ||cytode.us
 ||d-fukyu.com
+||d.cash
 ||d100.net
 ||d2bay.com
 ||d2pass.com
-||d3rhr7kgmtrq1v.cloudfront.net
 ||dabr.co.uk
 ||dabr.eu
 ||dabr.me
@@ -5206,6 +5214,7 @@ zyzc9.com
 ||dalailamaworld.com
 ||dalianmeng.org
 ||daliulian.org
+||danbooru.donmai.us
 ||danke4china.net
 ||danwei.org
 ||daolan.net
@@ -5358,6 +5367,7 @@ zyzc9.com
 ||dotvpn.com
 ||doub.io
 ||doubibackup.com
+||doubiyunbackup.com
 ||doublethinklab.org
 ||doubmirror.cf
 ||douchi.space
@@ -5367,6 +5377,7 @@ zyzc9.com
 ||dowei.org
 ||download.cnet.com
 ||dphk.org
+||dpool.top
 ||dpp.org.tw
 ||dpr.info
 ||dragonex.io
@@ -5514,6 +5525,7 @@ zyzc9.com
 ||epochtimes.co.il
 ||epochtimes.co.kr
 ||epochtimes.com
+||epochtimes.com.tw
 ||epochtimes.cz
 ||epochtimes.de
 ||epochtimes.fr
@@ -5757,6 +5769,7 @@ zyzc9.com
 ||flecheinthepeche.fr
 ||fleshbot.com
 ||fleursdeslettres.com
+||flexpool.io
 ||flgg.us
 ||flgjustice.org
 ||flickr.com
@@ -5769,6 +5782,7 @@ zyzc9.com
 ||flog.tw
 ||flowhongkong.net
 ||flurry.com
+||flypool.org
 ||flyvpn.com
 ||flyzy2005.com
 ||fnac.be
@@ -5849,6 +5863,7 @@ zyzc9.com
 ||freeopenvpn.com
 ||freeoz.org
 ||freeproxylists.net
+||freess.org
 ||freessh.us
 ||freetcp.com
 ||freetibet.net
@@ -6008,7 +6023,7 @@ zyzc9.com
 ||getsync.com
 ||gettr.com
 ||gettrials.com
-||gettyimages.com
+||gettyimages.*
 ||gettyimages.hk
 ||getuploader.com
 ||gfbv.de
@@ -6018,6 +6033,7 @@ zyzc9.com
 ||gfw.org.ua
 ||gfw.press
 ||gfw.report
+||gfwatch.org
 ||ggjav.com
 ||ggpht.com
 ||ggssl.com
@@ -6327,7 +6343,6 @@ zyzc9.com
 ||google.vu
 ||google.ws
 ||googleanalytics.com
-||googleapis.cn
 ||googleapis.com
 ||googleapps.com
 ||googlearth.com
@@ -6544,6 +6559,7 @@ zyzc9.com
 ||hinet.net
 ||hitbtc.com
 ||hitomi.la
+||hiveon.net
 ||hizb-ut-tahrir.info
 ||hizb-ut-tahrir.org
 ||hizbuttahrir.org
@@ -6709,6 +6725,7 @@ zyzc9.com
 ||huobi.pro
 ||huobi.sc
 ||huobi.vc
+||huobipool.com
 ||huobipro.com
 ||huping.net
 ||hurgokbayrak.com
@@ -6769,6 +6786,7 @@ zyzc9.com
 ||ifanqiang.com
 ||ifcss.org
 ||ifjc.org
+||ifreechina.wordpress.com
 ||ifreewares.com
 ||ift.tt
 ||ig.com
@@ -6858,11 +6876,13 @@ zyzc9.com
 ||imgchili.net
 ||imgur.com
 ||imkev.com
+||imlive.co
 ||imlive.com
 ||immigration.gov.tw
 ||immoral.jp
 ||impact.org.au
 ||impp.mn
+||improd.works
 ||in-disguise.com
 ||in.com
 ||in99.org
@@ -7284,6 +7304,7 @@ zyzc9.com
 ||listennotes.com
 ||listentoyoutube.com
 ||listorious.com
+||litenews.hk
 ||liu-xiaobo.org
 ||liudejun.com
 ||liuhanyu.com
@@ -7353,6 +7374,7 @@ zyzc9.com
 ||lzmtnews.org
 ||m-team.cc
 ||m.me
+||m.moegirl.org
 ||m.plixi.com
 ||m8008.com
 ||macgamestore.com
@@ -7534,6 +7556,7 @@ zyzc9.com
 ||mingshengbao.com
 ||minhhue.net
 ||miniforum.org
+||miningpoolhub.com
 ||ministrybooks.org
 ||minzhuhua.net
 ||minzhuzhanxian.com
@@ -7682,6 +7705,7 @@ zyzc9.com
 ||myip.com
 ||myiphide.com
 ||myiphider.com
+||myjs.tw
 ||mykomica.org
 ||mymediarom.com
 ||mymoe.moe
@@ -7714,6 +7738,7 @@ zyzc9.com
 ||namgyalmonastery.org
 ||namsisi.com
 ||nanhuyt.com
+||nanopool.org
 ||nanyang.com
 ||nanyangpost.com
 ||naol.ca
@@ -7732,6 +7757,7 @@ zyzc9.com
 ||naweeklytimes.com
 ||nbcnews.com
 ||nbtvpn.com
+||nbyy.tv
 ||nchrd.org
 ||ncn.org
 ||ndi.org
@@ -7965,6 +7991,7 @@ zyzc9.com
 ||okcoin.com
 ||okex.com
 ||okk.tw
+||okpool.me
 ||okx.com
 ||old-cat.net
 ||old.honeynet.org
@@ -7982,6 +8009,7 @@ zyzc9.com
 ||on2.com
 ||onapp.com
 ||one.one.one.one
+||onedrive.com
 ||onedrive.live.com
 ||onedumb.com
 ||onejav.com
@@ -8237,6 +8265,7 @@ zyzc9.com
 ||poloniex.com
 ||polymer-project.org
 ||polymerhk.com
+||poolbinance.com
 ||poolin.com
 ||popai.pro
 ||popo.tw
@@ -8273,6 +8302,7 @@ zyzc9.com
 ||post852.com
 ||posts.careerengine.us
 ||potato.im
+||potatso.com
 ||potvpn.com
 ||pourquoi.tw
 ||power.com
@@ -8399,6 +8429,7 @@ zyzc9.com
 ||qx.net
 ||qxbbs.org
 ||qz.com
+||r-pool.net
 ||r0.ru
 ||r10s.jp
 ||r18.com
@@ -8670,6 +8701,7 @@ zyzc9.com
 ||shangfang.org
 ||shanxivideo.com
 ||shapeservices.com
+||share-videos.se
 ||share.america.gov
 ||sharebee.com
 ||sharecool.org
@@ -8853,6 +8885,7 @@ zyzc9.com
 ||spankbang.com
 ||spankingtube.com
 ||spankwire.com
+||sparkpool.com
 ||spatial.io
 ||spb.com
 ||speakerdeck.com
@@ -8863,6 +8896,7 @@ zyzc9.com
 ||spendee.com
 ||spicevpn.com
 ||spideroak.com
+||spiderpool.com
 ||spiegel.de
 ||spike.com
 ||sports.williamhill.com
@@ -9126,6 +9160,7 @@ zyzc9.com
 ||tenzinpalmo.com
 ||terabox.com
 ||tew.org
+||textnow.com
 ||textnow.me
 ||tfc-taiwan.org.tw
 ||tfhub.dev
@@ -9308,6 +9343,7 @@ zyzc9.com
 ||tiny.cc
 ||tinychat.com
 ||tinypaste.com
+||tinyurl.com
 ||tipas.net
 ||tipo.gov.tw
 ||tkcs-collins.com
@@ -9321,6 +9357,8 @@ zyzc9.com
 ||tnp.org
 ||to-porno.com
 ||togetter.com
+||token.im
+||tokenlon.im
 ||tokyo-247.com
 ||tokyo-hot.com
 ||tokyo-porn-tube.com
@@ -9582,6 +9620,7 @@ zyzc9.com
 ||unitedsocialpress.com
 ||unix100.com
 ||unknownspace.org
+||unmineable.com
 ||unodedos.com
 ||unpo.org
 ||unseen.is
@@ -9631,6 +9670,7 @@ zyzc9.com
 ||uu-gg.com
 ||uujiasu.com
 ||uukanshu.com
+||uupool.cn
 ||uvwxyz.xyz
 ||uwants.com
 ||uwants.net
@@ -9652,6 +9692,7 @@ zyzc9.com
 ||uymaarip.com
 ||v.rn*.xyz
 ||v.roucdn*.xyz
+||v2.help
 ||v2board.com
 ||v2ex.com
 ||v2fly.org
@@ -9733,6 +9774,7 @@ zyzc9.com
 ||voanews.com
 ||voatibetan.com
 ||voatibetanenglish.com
+||vocaroo.com
 ||vocativ.com
 ||vocn.tv
 ||vocus.cc
@@ -9798,6 +9840,7 @@ zyzc9.com
 ||vuku.cc
 ||vultryhw.com
 ||vyprvpn.com
+||w-pool.com
 ||w.wiki
 ||waffle1999.com
 ||wahas.com
@@ -10108,6 +10151,7 @@ zyzc9.com
 ||xn--noss43i.com
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
+||xnpool.com
 ||xnxx-cdn.com
 ||xnxx.com
 ||xpdo.net
@@ -10284,10 +10328,12 @@ zyzc9.com
 ||zhenlibu1984.com
 ||zhenxiang.biz
 ||zhinengluyou.com
+||zhizhu.top
 ||zhongguo.ca
 ||zhongguorenquan.org
 ||zhongguotese.net
 ||zhongmeng.org
+||zhongzidi.com
 ||zhoushuguang.com
 ||zhreader.com
 ||zhuangbi.me
@@ -10311,6 +10357,7 @@ zyzc9.com
 ||zonghexinwen.net
 ||zoogvpn.com
 ||zoominfo.com
+||zooqle.com
 ||zootool.com
 ||zophar.net
 ||zorrovpn.com

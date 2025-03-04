@@ -66,6 +66,7 @@ whatsapp.com
 onedrive.live.com
 gvt3.com
 copilot.microsoft.com
+onedrive.com
 dropbox.com
 amazonvideo.com
 gravatar.com
@@ -148,7 +149,6 @@ store.steampowered.com
 theguardian.com
 ttwstatic.com
 aiv-cdn.net
-googleapis.cn
 google.de
 fb.com
 bbc.co.uk
@@ -303,11 +303,11 @@ www.skype.com
 terabox.com
 amazon.co.jp
 avg.com
+tinyurl.com
 wunderground.com
 rutube.ru
 google.es
 google.co.cr
-gettyimages.com
 google.com.au
 api.dropboxapi.com
 newyorker.com
@@ -371,6 +371,7 @@ spiegel.de
 google.kz
 archiveofourown.org
 medicalnewstoday.com
+textnow.com
 castbox.fm
 indiatimes.com
 coingecko.com
@@ -932,6 +933,7 @@ mercari.jp
 ptt.cc
 videopress.com
 clubhouseapi.com
+nanopool.org
 dfas.mil
 ow.ly
 ladbrokes.com
@@ -999,6 +1001,7 @@ gab.com
 torlock.com
 coinex.com
 artsy.net
+vocaroo.com
 wikiwand.com
 amnesty.org
 is.gd
@@ -1170,6 +1173,7 @@ exhentai.org
 imagefap.com
 javdb.com
 olelive.com
+unmineable.com
 metafilter.com
 thumbzilla.com
 nhi.gov.tw
@@ -1474,6 +1478,7 @@ jkub.com
 mahjongsoul.com
 myspacecdn.com
 threadreaderapp.com
+c3pool.com
 blacked.com
 crazyshit.com
 ezua.com
@@ -1487,6 +1492,7 @@ isasecret.com
 onmypc.org
 smashwords.com
 thestandard.com.hk
+zooqle.com
 coze.com
 ddns.mobi
 mypicture.info
@@ -1679,8 +1685,10 @@ getfoxyproxy.org
 whispersystems.org
 blogspot.hk
 enanyang.my
+antpool.com
 thetatoken.org
 upmedia.mg
+token.im
 tt1069.com
 blogspot.co.ke
 ithelp.ithome.com.tw
@@ -1809,6 +1817,7 @@ blogspot.sk
 business-humanrights.org
 fleshbot.com
 furbo.org
+poolbinance.com
 pts.org.tw
 rti.org.tw
 topsy.com
@@ -1972,6 +1981,7 @@ soylentnews.org
 64wiki.com
 66.ca
 666kb.com
+666pool.cn
 69shu.com
 6do.news
 6do.world
@@ -2298,6 +2308,8 @@ bcrncdn.com
 bdsmvideos.net
 beaconevents.com
 bebo.com
+beepool.com
+beepool.org
 beevpn.com
 behindkink.com
 beijing1989.com
@@ -2320,6 +2332,7 @@ bestvpnforchina.net
 bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
+betaclouds.net
 betternet.co
 bettervpn.com
 bettween.com
@@ -2343,6 +2356,7 @@ bignewsnetwork.com
 bigsound.org
 biliworld.com
 billypan.com
+binancezh.cc
 binux.me
 bipic.net
 bird.so
@@ -2477,7 +2491,9 @@ brutaltgp.com
 bt2mag.com
 bt95.com
 btaia.com
+btbit.net
 btbtav.com
+btc.com
 btc98.com
 btcbank.bank
 btctrade.im
@@ -2775,6 +2791,7 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
+cn.etherscan.com
 cn.fmnnow.com
 cn.freeones.com
 cn.giganews.com
@@ -2841,6 +2858,7 @@ cosplayjav.pl
 cotweet.com
 cpj.org
 cq99.us
+crazypool.org
 crazys.cc
 crbug.com
 crchina.org
@@ -2855,6 +2873,7 @@ crossthewall.net
 crossvpn.net
 crosswall.org
 crrev.com
+cruxpool.com
 csdparty.com
 csuchen.de
 csw.org.uk
@@ -2877,13 +2896,10 @@ cyberghost.natado.com
 cynscribe.com
 cytode.us
 d-fukyu.com
+d.cash
 d100.net
-d1b183sg0nvnuh.cloudfront.net
-d1c37gjwa26taa.cloudfront.net
 d2bay.com
 d2pass.com
-d3c33hcgiwev3.cloudfront.net
-d3rhr7kgmtrq1v.cloudfront.net
 dabr.co.uk
 dabr.eu
 dabr.me
@@ -3021,6 +3037,7 @@ dotplane.com
 dotvpn.com
 doub.io
 doubibackup.com
+doubiyunbackup.com
 doublethinklab.org
 doubmirror.cf
 douchi.space
@@ -3030,6 +3047,7 @@ doujincafe.com
 dowei.org
 download.aircrack-ng.org
 dphk.org
+dpool.top
 dpp.org.tw
 dpr.info
 dragonex.io
@@ -3153,6 +3171,7 @@ epochtimes-bg.com
 epochtimes-romania.com
 epochtimes.co.il
 epochtimes.co.kr
+epochtimes.com.tw
 epochtimes.cz
 epochtimes.fr
 epochtimes.ie
@@ -3348,6 +3367,7 @@ fish.audio
 flagsonline.it
 flecheinthepeche.fr
 fleursdeslettres.com
+flexpool.io
 flgg.us
 flgjustice.org
 flickrhivemind.net
@@ -3356,6 +3376,7 @@ flitto.com
 flnet.org
 flog.tw
 flowhongkong.net
+flypool.org
 flyzy2005.com
 fnc.ebc.net.tw
 fochk.org
@@ -3439,10 +3460,12 @@ freenewscn.com
 freeopenvpn.com
 freeoz.org
 freeproxylists.net
+freess.org
 freessh.us
 freetibet.net
 freetibet.org
 freetibetanheroes.org
+freetls.fastly.net
 freetribe.me
 freeviewmovies.com
 freevpn.me
@@ -3580,6 +3603,7 @@ gfsale.com
 gfw.org.ua
 gfw.press
 gfw.report
+gfwatch.org
 ggssl.com
 ghanely.me
 ghidra-sre.org
@@ -3597,6 +3621,7 @@ gizlen.net
 gjczz.com
 glarity.app
 glass8.eu
+global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
@@ -3846,6 +3871,7 @@ himalayanglacier.com
 himemix.com
 himemix.net
 hitbtc.com
+hiveon.net
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
@@ -3991,6 +4017,7 @@ huobi.co
 huobi.me
 huobi.sc
 huobi.vc
+huobipool.com
 huobipro.com
 huping.net
 hurgokbayrak.com
@@ -4045,6 +4072,7 @@ ifan.cz.cc
 ifanqiang.com
 ifcss.org
 ifjc.org
+ifreechina.wordpress.com
 ifreewares.com
 igcd.net
 igfw.net
@@ -4126,9 +4154,11 @@ imgasd.com
 imgchili.net
 imgmega.com
 imkev.com
+imlive.co
 immoral.jp
 impact.org.au
 impp.mn
+improd.works
 in-disguise.com
 in99.org
 incloak.com
@@ -4487,6 +4517,7 @@ liquidvpn.com
 listentoyoutube.com
 listorious.com
 lists.w3.org
+litenews.hk
 liu-xiaobo.org
 liudejun.com
 liuhanyu.com
@@ -4545,6 +4576,7 @@ lyfhk.net
 lzjscript.com
 lzmtnews.org
 m.hkgalden.com
+m.moegirl.org
 m.plixi.com
 m.slandr.net
 m8008.com
@@ -4699,6 +4731,7 @@ mingpaovan.com
 mingshengbao.com
 minhhue.net
 miniforum.org
+miningpoolhub.com
 ministrybooks.org
 minzhuhua.net
 minzhuzhanxian.com
@@ -4820,6 +4853,7 @@ myfreshnet.com
 myftp.name
 myiphide.com
 myiphider.com
+myjs.tw
 mykomica.org
 mymediarom.com
 mymoe.moe
@@ -4857,6 +4891,7 @@ navyfamily.navy.mil
 navyreserve.navy.mil
 naweeklytimes.com
 nbtvpn.com
+nbyy.tv
 nccwatch.org.tw
 nch.com.tw
 nchrd.org
@@ -5024,6 +5059,7 @@ oizoblog.com
 okayfreedom.com
 okex.com
 okk.tw
+okpool.me
 old-cat.net
 old.honeynet.org
 old.nabble.com
@@ -5252,6 +5288,7 @@ post76.com
 post852.com
 postadult.com
 posts.careerengine.us
+potatso.com
 potvpn.com
 pourquoi.tw
 power.com
@@ -5352,6 +5389,7 @@ quiz.directory
 qusi8.net
 qvodzy.org
 qxbbs.org
+r-pool.net
 r0.ru
 r18.com
 ra.gg
@@ -5570,6 +5608,7 @@ shambhalasun.com
 shangfang.org
 shanxivideo.com
 shapeservices.com
+share-videos.se
 share.ovi.com
 share.youthwant.com.tw
 sharebee.com
@@ -5730,6 +5769,7 @@ southnews.com.tw
 sowers.org.hk
 spankingtube.com
 spankwire.com
+sparkpool.com
 spb.com
 specxinzl.jigsy.com
 speedcat.me
@@ -5737,6 +5777,7 @@ speedify.com
 spem.at
 spencertipping.com
 spicevpn.com
+spiderpool.com
 spike.com
 spotflux.com
 spreadshirt.es
@@ -6120,6 +6161,7 @@ tngrnow.net
 tnp.org
 to-porno.com
 togetter.com
+tokenlon.im
 tokyo-247.com
 tokyo-hot.com
 tokyo-porn-tube.com
@@ -6411,6 +6453,7 @@ utopianpal.com
 uu-gg.com
 uujiasu.com
 uukanshu.com
+uupool.cn
 uvwxyz.xyz
 uwants.com
 uwants.net
@@ -6433,6 +6476,7 @@ uygur.org
 uymaarip.com
 v.rn.xyz
 v.roucdn.xyz
+v2.help
 v2board.com
 v2fly.org
 v2mm.tech
@@ -6562,6 +6606,7 @@ vrsmash.com
 vtunnel.com
 vuku.cc
 vultryhw.com
+w-pool.com
 w.idaiwan.com
 w.wiki
 waffle1999.com
@@ -6841,6 +6886,7 @@ xn--i2ru8q2qg.com
 xn--noss43i.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
+xnpool.com
 xpdo.net
 xpud.org
 xrentdvd.com
@@ -6971,10 +7017,12 @@ zhenlibu.info
 zhenlibu1984.com
 zhenxiang.biz
 zhinengluyou.com
+zhizhu.top
 zhongguo.ca
 zhongguorenquan.org
 zhongguotese.net
 zhongmeng.org
+zhongzidi.com
 zhoushuguang.com
 zhreader.com
 zhuangbi.me
