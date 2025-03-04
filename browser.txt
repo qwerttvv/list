@@ -138,8 +138,6 @@
 .appspot.com
 .aptoide.com
 .archive.fo
-.archive.is
-.archive.li
 .arctosia.com
 .arethusa.su
 .art4tibet1998.org
@@ -2379,7 +2377,6 @@
 @@||chukuang.gov.tw
 @@||ci.android.com
 @@||clientservices.googleapis.com
-@@||cn.gravatar.com
 @@||cn.noxinfluencer.com
 @@||connectivitycheck.gstatic.com
 @@||corp.google.com
@@ -2536,7 +2533,6 @@ antichristendom.com
 app.heywire.com
 appledaily.com.hk
 appledaily.com.tw
-archive.today
 artofpeacefoundation.org
 artsy.net
 asdfg.jp/dabr
@@ -2625,7 +2621,6 @@ ccue.ca
 ccue.com
 cdjp.org
 cdn1.lp.saboom.com
-cdninstagram.com
 cdp1989.org
 cdp1998.org
 cdp2006.org
@@ -3864,7 +3859,6 @@ zyzc9.com
 |http://zhongguorenquan.org
 |https://*.s3.amazonaws.com
 |https://aiss.anws.gov.tw
-|https://archive.today
 |https://bartender.dowjones.com
 |https://chinanewscenter.com
 |https://d1b183sg0nvnuh.cloudfront.net
@@ -3977,6 +3971,7 @@ zyzc9.com
 ||5299.tv
 ||55comic.com
 ||5i01.com
+||611study.com
 ||611study.icu
 ||63i.com
 ||64museum.org
@@ -4218,6 +4213,7 @@ zyzc9.com
 ||api.linksalpha.com
 ||api.pureapk.com
 ||api.recaptcha.net
+||api.steampowered.com
 ||apiary.io
 ||apidocs.linksalpha.com
 ||apigee.com
@@ -4256,6 +4252,7 @@ zyzc9.com
 ||archive.org
 ||archive.ph
 ||archive.today
+||archive.vn
 ||archiveofourown.com
 ||archiveofourown.org
 ||archives.gov
@@ -4826,6 +4823,7 @@ zyzc9.com
 ||cdn.registerdisney.go.com
 ||cdn.seatguru.com
 ||cdn.softlayer.net
+||cdn.statically.io
 ||cdn1.lp.saboom.com
 ||cdnews.com.tw
 ||cdninstagram.com
@@ -5128,6 +5126,7 @@ zyzc9.com
 ||crossfire.co.kr
 ||crossthewall.net
 ||crossvpn.net
+||crosswall.org
 ||croxyproxy.com
 ||crrev.com
 ||crucial.com
@@ -5875,6 +5874,7 @@ zyzc9.com
 ||friendfinder.com
 ||friends-of-tibet.org
 ||friendsoftibet.org
+||fril.jp
 ||fring.com
 ||fringenetwork.com
 ||from-pr.com
@@ -6989,6 +6989,7 @@ zyzc9.com
 ||japantimes.co.jp
 ||jav*.com
 ||jav.com
+||jav321.com
 ||jav68.tv
 ||jav777.cc
 ||javakiba.org
@@ -7102,6 +7103,7 @@ zyzc9.com
 ||kagyuoffice.org.tw
 ||kakao.com
 ||kalachakralugano.org
+||kanald.com.tr
 ||kankan.today
 ||kannewyork.com
 ||kanshifang.com
@@ -7967,6 +7969,7 @@ zyzc9.com
 ||old-cat.net
 ||old.honeynet.org
 ||olehdtv.com
+||olelive.com
 ||olevod.com
 ||olumpo.com
 ||olympicwatch.org
@@ -8397,6 +8400,7 @@ zyzc9.com
 ||qxbbs.org
 ||qz.com
 ||r0.ru
+||r10s.jp
 ||r18.com
 ||ra.gg
 ||radicalparty.org
@@ -8891,6 +8895,7 @@ zyzc9.com
 ||sspro.ml
 ||ssr.tools
 ||ssrshare.com
+||ssrshare.us
 ||sss.camp
 ||sstm.moe
 ||sstmlt.moe
@@ -8933,6 +8938,7 @@ zyzc9.com
 ||sto.cc
 ||stoporganharvesting.org
 ||stoptibetcrisis.net
+||storage.yandex.net
 ||storagenewsletter.com
 ||store.steampowered.com
 ||stories.google
@@ -9062,6 +9068,7 @@ zyzc9.com
 ||taolun.info
 ||tapanwap.com
 ||tapatalk.com
+||tardigrade.io
 ||tascn.com.au
 ||taup.net
 ||taup.org.tw
@@ -9355,6 +9362,7 @@ zyzc9.com
 ||tradingview.com
 ||traffichaus.com
 ||translate.goog
+||translate.googleapis.com
 ||transparency.org
 ||travelinkcard.com
 ||treemall.com.tw
@@ -9973,6 +9981,7 @@ zyzc9.com
 ||woolyss.com
 ||woopie.jp
 ||woopie.tv
+||work2icu.org
 ||workatruna.com
 ||workerdemo.org.hk
 ||workerempowerment.org
@@ -10016,6 +10025,7 @@ zyzc9.com
 ||wuyanblog.com
 ||wwitv.com
 ||www.ajsands.com
+||www.bing.com
 ||www.klip.me
 ||www.lamenhu.com
 ||www.linksalpha.com
@@ -10088,6 +10098,7 @@ zyzc9.com
 ||xm.com
 ||xml-training-guide.com
 ||xmonk.net
+||xn--11xs86f.icu
 ||xn--4gq171p.com
 ||xn--90wwvt03e.com
 ||xn--9pr62r24a.com
@@ -10105,6 +10116,8 @@ zyzc9.com
 ||xsden.info
 ||xsden.org
 ||xskywalker.com
+||xt.com
+||xt.pub
 ||xtube.com
 ||xuchao.net
 ||xuchao.org
@@ -10297,6 +10310,7 @@ zyzc9.com
 ||zonghexinwen.com
 ||zonghexinwen.net
 ||zoogvpn.com
+||zoominfo.com
 ||zootool.com
 ||zophar.net
 ||zorrovpn.com

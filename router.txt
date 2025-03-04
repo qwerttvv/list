@@ -5,6 +5,7 @@ google-analytics.com
 facebook.com
 amazon.com
 youtube.com
+www.bing.com
 pki.goog
 ytimg.com
 netflix.com
@@ -52,6 +53,7 @@ yimg.com
 s.yimg.com
 code.jquery.com
 nflxso.net
+translate.googleapis.com
 t.co
 godaddy.com
 redditstatic.com
@@ -117,6 +119,7 @@ cdn.registerdisney.go.com
 nflximg.net
 twitch.tv
 hcaptcha.com
+zoominfo.com
 quora.com
 discordapp.net
 brave.com
@@ -183,6 +186,7 @@ githubcopilot.com
 jtvnw.net
 dashlane.com
 reuters.com
+cdn.statically.io
 dailymail.co.uk
 oculus.com
 githubassets.com
@@ -754,6 +758,7 @@ urbandictionary.com
 c-span.org
 miraheze.org
 babylonbee.com
+storage.yandex.net
 tnaflix.com
 croxyproxy.com
 engadget.com
@@ -898,6 +903,7 @@ lifemiles.com
 pimg.tw
 slides.new
 typeset.io
+r10s.jp
 bitvise.com
 spaces.hightail.com
 sports.williamhill.com
@@ -1040,6 +1046,7 @@ mypikpak.com
 sf.net
 uscardforum.com
 18comic.vip
+kanald.com.tr
 iwara.tv
 shiksha.com
 aol.co.uk
@@ -1162,6 +1169,7 @@ torrentgalaxy.to
 exhentai.org
 imagefap.com
 javdb.com
+olelive.com
 metafilter.com
 thumbzilla.com
 nhi.gov.tw
@@ -1203,6 +1211,7 @@ theaustralian.com.au
 video.foxbusiness.com
 tgstat.com
 yts.am
+xt.com
 yousendit.com
 porn.com
 discuss.com.hk
@@ -1607,6 +1616,7 @@ wretch.cc
 readmoo.com
 fnac.be
 thisav.com
+fril.jp
 kinokuniya.com
 bangbrosnetwork.com
 jjgirls.com
@@ -1791,6 +1801,7 @@ pinterest.se
 sunporno.com
 blogspot.al
 blogspot.co.il
+tardigrade.io
 bjnewlife.org
 blogspot.com.by
 blogspot.is
@@ -1815,6 +1826,7 @@ onejav.com
 sehuatang.net
 theync.com
 website.informer.com
+611study.com
 blogspot.com.ee
 blogspot.com.uy
 blogspot.ug
@@ -1848,6 +1860,7 @@ ned.org
 blip.tv
 pinterest.dk
 stboy.net
+work2icu.org
 businessweek.com
 networkedblogs.com
 safechat.com
@@ -2157,6 +2170,7 @@ appsocks.net
 appspot-preview.com
 appspot.com
 ar.hao123.com
+archive.vn
 archiveofourown.com
 archives.gov.tw
 arctosia.com
@@ -2839,6 +2853,7 @@ crocotube.com
 crossfire.co.kr
 crossthewall.net
 crossvpn.net
+crosswall.org
 crrev.com
 csdparty.com
 csuchen.de
@@ -4212,6 +4227,7 @@ japanfirst.asianfreeforum.com
 japanhdv.com
 jav.com
 jav101.com
+jav321.com
 jav68.tv
 jav777.cc
 javakiba.org
@@ -5748,6 +5764,7 @@ sspanel.org
 sspro.ml
 ssr.tools
 ssrshare.com
+ssrshare.us
 sss.camp
 sstm.moe
 sstmlt.moe
@@ -6815,6 +6832,7 @@ xlfmwz.info
 xml-training-guide.com
 xmonk.net
 xmovies.com
+xn--11xs86f.icu
 xn--4gq171p.com
 xn--90wwvt03e.com
 xn--9pr62r24a.com
@@ -6830,6 +6848,7 @@ xsden.info
 xsden.org
 xskywalker.com
 xskywalker.net
+xt.pub
 xtube.com
 xuchao.net
 xuchao.org
