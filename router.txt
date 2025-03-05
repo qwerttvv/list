@@ -6,7 +6,6 @@ facebook.com
 youtube.com
 www.bing.com
 pki.goog
-amazon.com
 ytimg.com
 googlesyndication.com
 gvt1.com
@@ -133,6 +132,7 @@ twitch.tv
 google.co.id
 brave.com
 www.imdb.com
+redditspace.com
 statsig.com
 viber.com
 nflximg.net
@@ -193,7 +193,6 @@ dssott.com
 google.ru
 dashlane.com
 wsj.com
-atdmt.com
 pstatic.net
 waze.com
 openstreetmap.org
@@ -722,6 +721,7 @@ shopee.tw
 gcr.io
 qwant.com
 urbandictionary.com
+campaign-archive.com
 gumroad.com
 mos.ru
 golang.org
@@ -910,6 +910,7 @@ diigo.com
 sports.williamhill.com
 adultfriendfinder.com
 donmai.us
+doc.new
 elconfidencial.com
 foreignpolicy.com
 ptt.cc
@@ -962,6 +963,7 @@ livestream.com
 nanopool.org
 cafepress.com
 sinchew.com.my
+etherscan.com
 eksisozluk.com
 search.yahoo.co.jp
 firstpost.com
@@ -984,6 +986,7 @@ sheets.new
 ganjingworld.com
 worldjournal.com
 cato.org
+edx-cdn.org
 jsfiddle.net
 listennotes.com
 jable.tv
@@ -1493,6 +1496,7 @@ mrbasic.com
 pttweb.cc
 taipeitimes.com
 ns1.name
+sheet.new
 viu.tv
 trt.net.tr
 icedrive.net
@@ -1644,6 +1648,7 @@ shafaqna.com
 airvpn.org
 disp.cc
 huobi.pro
+mergersandinquisitions.com
 southpark.cc.com
 vpngate.net
 tipo.gov.tw
@@ -1724,6 +1729,7 @@ privatetunnel.com
 secretchina.com
 blogspot.hk
 dns2go.com
+forms.new
 psiphon.ca
 theb.ai
 bookdepository.com
@@ -2392,6 +2398,7 @@ blog.youthwant.com.tw
 blogcatalog.com
 blogcity.me
 blogdns.org
+blogjav.net
 blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogs.yahoo.co.jp
@@ -2755,6 +2762,7 @@ civildisobediencemovement.org
 civilhrfront.org
 civiliangunner.com
 civilmedia.tw
+cixiaoya.club
 ck101.com
 cl.d0z.net
 clarionproject.org
@@ -2787,7 +2795,6 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
-cn.etherscan.com
 cn.fmnnow.com
 cn.freeones.com
 cn.giganews.com
@@ -2962,6 +2969,7 @@ deadhouse.org
 deaftone.com
 debug.com
 deck.ly
+deck.new
 decodet.co
 deja.com
 delcamp.net
@@ -3383,6 +3391,7 @@ fofg.org
 fofldfradio.org
 fooooo.com
 footwiball.com
+form.new
 forum.baby-kingdom.com
 forum.cyberctm.com
 forum.idsam.com
@@ -4178,6 +4187,7 @@ internetfreedom.org
 internetpopculture.com
 inthenameofconfuciusmovie.com
 investigating.wordpress.com
+invidio.us
 inxian.com
 ipalter.com
 ipdefenseforum.com
@@ -4386,6 +4396,7 @@ kindleren.com
 kineox.free.fr
 kingdomsalvation.org
 kinghost.com
+kingkong.com.tw
 kingstone.com.tw
 kinmen.org.tw
 kinmen.travel
@@ -5159,6 +5170,7 @@ passiontimes.hk
 passwords.google
 pastie.org
 pawoo.net
+payments-jp.amazon.com
 pbwiki.com
 pbxes.com
 pbxes.org
@@ -5298,6 +5310,7 @@ pp.ru
 prayforchina.net
 premeforwindows7.com
 premproxy.com
+presentation.new
 presentationzen.com
 presidentlee.tw
 prestige-av.com
@@ -5507,7 +5520,7 @@ s-dragon.org
 s1.nudezz.com
 s1heng.com
 s1s1s1.com
-s3-ap-northeast-1.amazonaws.com
+s3-ap-*.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
@@ -5680,11 +5693,13 @@ sinoquebec.com
 sipml5.org
 sis.xxx
 sis001.us
+site.new
 site2unblock.com
 sitebro.tw
 sitekreator.com
 siteks.uk.to
 sitemaps.org
+sites.new
 six-degrees.io
 sixth.biz
 sjrt.org
@@ -5786,6 +5801,7 @@ spicevpn.com
 spiderpool.com
 spike.com
 spotflux.com
+spreadsheet.new
 spreadshirt.es
 spring-plus.net
 spring4u.info
@@ -5812,6 +5828,7 @@ sspro.ml
 ssr.tools
 ssrshare.com
 ssrshare.us
+ssrtool.com
 sss.camp
 sstm.moe
 sstmlt.moe
@@ -6244,6 +6261,7 @@ tuitwit.com
 tukaani.org
 tumutanzi.com
 tumview.com
+tunein.streamguys1.com
 tunnelr.com
 tunsafe.com
 tuo8.blue
@@ -6667,6 +6685,7 @@ webmproject.org
 webrtc.org
 webrush.net
 webs-tv.net
+website.new
 websitepulse.com
 webwarper.net
 webworkerdaily.com

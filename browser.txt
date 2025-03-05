@@ -104,7 +104,6 @@
 .almostmy.com
 .alphaporno.com
 .alwaysvpn.com
-.amazon.com/dalai-lama
 .americanunfinished.com
 .amigobbs.net
 .amitabhafoundation.us
@@ -2520,7 +2519,6 @@ alliance.org.hk
 alternativeto.net/software
 alvinalexander.com
 alwaysdata.com
-amazon.com/prisoner-state-secret-journal-premier
 ameblo.jp
 androidplus.co/apk
 angelfire.com/hi/hayashi
@@ -3174,7 +3172,6 @@ rthklive2-lh.akamaihd.net
 ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
 rutube.ru
-s3-ap-northeast-1.amazonaws.com
 sacom.hk
 sapikachu.net
 savemedia.com
@@ -4287,7 +4284,6 @@ zyzc9.com
 ||astrill.com
 ||atc.org.au
 ||atchinese.com
-||atdmt.com
 ||atgfw.org
 ||athenaeizou.com
 ||atlanta168.com
@@ -4524,6 +4520,7 @@ zyzc9.com
 ||blogdns.org
 ||blogger.com
 ||blogimg.jp
+||blogjav.net
 ||bloglines.com
 ||bloglovin.com
 ||blogs.tampabay.com
@@ -4747,6 +4744,7 @@ zyzc9.com
 ||calgarychinese.com
 ||cam4.com
 ||camfrog.com
+||campaign-archive.com
 ||campaignforuyghurs.org
 ||cams.com
 ||cams.org.sg
@@ -5003,6 +5001,7 @@ zyzc9.com
 ||civiliangunner.com
 ||civilmedia.tw
 ||civitai.com
+||cixiaoya.club
 ||ck101.com
 ||clarionproject.org
 ||classicalguitarblog.net
@@ -5039,7 +5038,6 @@ zyzc9.com
 ||cmule.org
 ||cmx.im
 ||cn-proxy.com
-||cn.etherscan.com
 ||cn.fmnnow.com
 ||cn.sandscotaicentral.com
 ||cn.theaustralian.com.au
@@ -5246,6 +5244,7 @@ zyzc9.com
 ||deaftone.com
 ||debug.com
 ||deck.ly
+||deck.new
 ||decodet.co
 ||deepai.org
 ||deepdiscount.com
@@ -5336,6 +5335,7 @@ zyzc9.com
 ||dnsrd.com
 ||dnssec.net
 ||dnvod.tv
+||doc.new
 ||docker.com
 ||docker.io
 ||docs.new
@@ -5477,6 +5477,7 @@ zyzc9.com
 ||edoors.com
 ||edubridge.com
 ||edupro.org
+||edx-cdn.org
 ||eesti.ee
 ||eevpn.com
 ||efcc.org.hk
@@ -5565,6 +5566,7 @@ zyzc9.com
 ||etaiwannews.com
 ||etherdelta.com
 ||ethermine.org
+||etherscan.com
 ||etherscan.io
 ||etizer.org
 ||etokki.com
@@ -5798,6 +5800,8 @@ zyzc9.com
 ||forbes.com
 ||foreignaffairs.com
 ||foreignpolicy.com
+||form.new
+||forms.new
 ||forum.mymaji.com
 ||forum.slime.com.tw
 ||forum.tvb.com
@@ -6922,6 +6926,7 @@ zyzc9.com
 ||internetpopculture.com
 ||inthenameofconfuciusmovie.com
 ||investigating.wordpress.com
+||invidio.us
 ||inxian.com
 ||ipalter.com
 ||ipdefenseforum.com
@@ -7158,6 +7163,7 @@ zyzc9.com
 ||kindle4rss.com
 ||kingdomsalvation.org
 ||kinghost.com
+||kingkong.com.tw
 ||kingstone.com.tw
 ||kinmen.org.tw
 ||kinmen.travel
@@ -7494,6 +7500,7 @@ zyzc9.com
 ||mercatox.com
 ||mercdn.net
 ||mercyprophet.org
+||mergersandinquisitions.com
 ||mergersandinquisitions.org
 ||meridian-trust.org
 ||meripet.biz
@@ -8136,6 +8143,7 @@ zyzc9.com
 ||patreonusercontent.com
 ||pawoo.net
 ||paxful.com
+||payments-jp.amazon.com
 ||pbs.org
 ||pbwiki.com
 ||pbworks.com
@@ -8318,6 +8326,7 @@ zyzc9.com
 ||prayforchina.net
 ||premeforwindows7.com
 ||premproxy.com
+||presentation.new
 ||presentationzen.com
 ||presidentlee.tw
 ||prestige-av.com
@@ -8502,6 +8511,7 @@ zyzc9.com
 ||reddit.com
 ||redditlist.com
 ||redditmedia.com
+||redditspace.com
 ||redditstatic.com
 ||redhotlabs.com
 ||redtube.com
@@ -8591,6 +8601,7 @@ zyzc9.com
 ||s1.nudezz.com
 ||s1heng.com
 ||s3*.amazonaws.com
+||s3-ap-*.amazonaws.com
 ||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 ||s8forum.com
@@ -8717,6 +8728,7 @@ zyzc9.com
 ||sharpdaily.tw
 ||shat-tibet.com
 ||shattered.io
+||sheet.new
 ||sheets.new
 ||sheikyermami.com
 ||shellfire.de
@@ -8783,12 +8795,14 @@ zyzc9.com
 ||sis.xxx
 ||sis001.com
 ||sis001.us
+||site.new
 ||site2unblock.com
 ||site90.net
 ||sitebro.tw
 ||sitekreator.com
 ||siteks.uk.to
 ||sitemaps.org
+||sites.new
 ||six-degrees.io
 ||sixth.biz
 ||sjrt.org
@@ -8912,6 +8926,7 @@ zyzc9.com
 ||sports.williamhill.com
 ||spotflux.com
 ||spotify.com
+||spreadsheet.new
 ||spreadshirt.es
 ||spreaker.com
 ||spring-plus.net
@@ -8940,6 +8955,7 @@ zyzc9.com
 ||ssr.tools
 ||ssrshare.com
 ||ssrshare.us
+||ssrtool.com
 ||sss.camp
 ||sstm.moe
 ||sstmlt.moe
@@ -9458,6 +9474,7 @@ zyzc9.com
 ||tumblr.com
 ||tumutanzi.com
 ||tumview.com
+||tunein.streamguys1.com
 ||tunnelbear.com
 ||tunnelblick.net
 ||tunnelr.com
@@ -9913,6 +9930,7 @@ zyzc9.com
 ||webrtc.org
 ||webrush.net
 ||webs-tv.net
+||website.new
 ||webwarper.net
 ||wechatlawsuit.com
 ||weebly.com
