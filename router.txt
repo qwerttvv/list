@@ -32,6 +32,7 @@ whatsapp.net
 bidswitch.net
 spotify.com
 typekit.net
+maps.googleapis.com
 use.typekit.net
 twitter.com
 cdninstagram.com
@@ -1061,7 +1062,6 @@ fiddle.jshell.net
 cht.com.tw
 video.foxbusiness.com
 trouw.nl
-pinterest.com.mx
 appbrain.com
 nicovideo.jp
 torlock.com
@@ -1169,6 +1169,7 @@ narod.ru
 popai.pro
 ddns.info
 hdzog.com
+shopping.yahoo.co.jp
 lpsg.com
 500px.org
 exblog.jp
@@ -1376,7 +1377,6 @@ somee.com
 encrypt.me
 itasoftware.com
 googlefiber.net
-share.dmhy.org
 daftporn.com
 nuvid.com
 voi.id
@@ -1630,6 +1630,7 @@ i-cable.com
 iownyour.biz
 nakedsecurity.sophos.com
 springboardplatform.com
+synapse.org
 ns02.biz
 onmypc.us
 upmedia.mg
@@ -1752,7 +1753,6 @@ booktopia.com.au
 apiary.io
 domains.google
 duga.jp
-pinterest.co.kr
 wego.here.com
 blogspot.my
 chinadigitaltimes.net
@@ -2485,6 +2485,8 @@ bt95.com
 btaia.com
 btbit.net
 btbtav.com
+btbtt.co
+btbtt.me
 btc.com
 btc98.com
 btcbank.bank
@@ -2692,6 +2694,7 @@ chinasucks.net
 chinatopsex.com
 chinatown.com.au
 chinatweeps.com
+chinauncensored.tv
 chinaview.wordpress.com
 chinaway.org
 chinaworker.info
@@ -2949,6 +2952,7 @@ daylife.com
 dbgjd.com
 dcmilitary.com
 ddc.com.tw
+ddex.io
 ddhw.info
 ddns.me.uk
 ddns.name
@@ -3492,6 +3496,7 @@ fsurf.com
 ftpserver.biz
 ftv.com.tw
 fucd.com
+fuchsia.dev
 fuckcnnic.net
 fuckgfw.org
 fulione.com
@@ -4329,6 +4334,7 @@ justhost.ru
 justicefortenzin.org
 justmysocks.net
 justmysocks1.net
+justmysockscn.com
 justtristan.com
 juyuange.org
 juziyue.com
@@ -4949,6 +4955,7 @@ nic.cz.cc
 nic.google
 nic.gov
 nighost.org
+nightswatch.top
 ninecommentaries.com
 ninjacloak.com
 ninjaproxy.ninja
@@ -5063,6 +5070,7 @@ on2.com
 onapp.com
 onejav.com
 onesto.re
+onevps.com
 onion.city
 onion.ly
 onion666.com
@@ -5132,6 +5140,7 @@ palacemoon.com
 paldengyal.com
 paljorpublications.com
 panamapapers.sueddeutsche.de
+pandafan.pub
 pandapow.co
 pandapow.net
 pandavpn-jp.com
@@ -5319,6 +5328,7 @@ proxynetwork.org.uk
 proxypy.net
 proxyroad.com
 proxytunnel.net
+proxz.com
 proyectoclubes.com
 prozz.net
 psblog.name
@@ -5362,6 +5372,7 @@ qiandao.today
 qianglie.com
 qiangwaikan.com
 qiangyou.org
+qianmo.tw
 qidian.ca
 qienkuen.org
 qiwen.lu
@@ -5548,6 +5559,7 @@ seattlefdc.com
 secretgarden.no
 secretsline.biz
 secure.hustler.com
+secure.shadowsocks.nu
 securetunnel.com
 securityinabox.org
 securitykiss.com
@@ -5644,7 +5656,9 @@ sierrafriendsoftibet.org
 sijihuisuo.club
 sijihuisuo.com
 silkbook.com
+silvergatebank.com
 simbolostwitter.com
+simplecd.me
 simplecd.org
 simpleproductivityblog.com
 simpleswap.io
@@ -6184,6 +6198,7 @@ torrentz.eu
 torvpn.com
 tosh.comedycentral.com
 totalvpn.com
+tou.tv
 toutiaoabc.com
 towngain.com
 toypark.in
@@ -6497,6 +6512,7 @@ vermonttibet.org
 vern.cc
 versavpn.com
 verybs.com
+vewas.net
 vft.com.tw
 vica.info
 victimsofcommunism.org
@@ -6515,6 +6531,7 @@ videopediaworld.com
 vidinfo.org
 vietdaikynguyen.com
 vijayatemple.org
+vilanet.me
 vilavpn.com
 vimperator.org
 vincnd.com

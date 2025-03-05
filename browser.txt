@@ -1508,7 +1508,6 @@
 .pin6.com
 .ping.fm
 .pinkrod.com
-.pinterest.com
 .pipii.tv
 .piposay.com
 .piring.com
@@ -1658,7 +1657,6 @@
 .scieron.com
 .scmp.com
 .scmpchinese.com
-.scribd.com
 .searchtruth.com
 .secretchina.com
 .secretsline.biz
@@ -1670,7 +1668,6 @@
 .serveuser.com
 .serveusers.com
 .sesawe.org
-.setn.com
 .settv.com.tw
 .sevenload.com
 .sex-11.com
@@ -2448,6 +2445,7 @@
 @@||openwrt.org.cn
 @@||pagead-googlehosted.l.google.com
 @@||penghu-nsa.gov.tw
+@@||pinterest.cn
 @@||post.gov.tw
 @@||qq.com
 @@||redirector.gvt1.com
@@ -2711,7 +2709,6 @@ delicious.com/gfwbookmark
 destiny.xfiles.to/ubbthreads
 dfn.org
 dharmakara.net
-disp.cc
 djangosnippets.org
 dl.box.net
 doctorvoice.org
@@ -3194,7 +3191,6 @@ sesawe.net
 sexinsex.net
 shadow.ma
 shapeservices.com
-share.dmhy.org
 share.ovi.com/media
 share.youthwant.com.tw
 sharpdaily.com.hk
@@ -3288,7 +3284,6 @@ tibetlibre.free.fr
 tibetoffice.eu
 times.hinet.net
 tintuc101.com
-togetter.com
 tonyyan.net
 toonel.net
 top81.ws
@@ -4683,6 +4678,8 @@ zyzc9.com
 ||bt95.com
 ||btaia.com
 ||btbit.net
+||btbtt.co
+||btbtt.me
 ||btc.com
 ||btc98.com
 ||btcbank.bank
@@ -4934,6 +4931,7 @@ zyzc9.com
 ||chinatopsex.com
 ||chinatown.com.au
 ||chinatweeps.com
+||chinauncensored.tv
 ||chinaview.wordpress.com
 ||chinaway.org
 ||chinaworker.info
@@ -5236,6 +5234,7 @@ zyzc9.com
 ||dcard.tw
 ||dcmilitary.com
 ||ddc.com.tw
+||ddex.io
 ||ddhw.info
 ||ddns.info
 ||ddns.mobi
@@ -5907,6 +5906,7 @@ zyzc9.com
 ||ftvnews.com.tw
 ||ftx.com
 ||fucd.com
+||fuchsia.dev
 ||fuckcnnic.net
 ||fuckgfw.org
 ||fulione.com
@@ -7105,6 +7105,7 @@ zyzc9.com
 ||justicefortenzin.org
 ||justmysocks.net
 ||justmysocks1.net
+||justmysockscn.com
 ||justpaste.it
 ||juyuange.org
 ||juziyue.com
@@ -7418,6 +7419,7 @@ zyzc9.com
 ||manta.com
 ||manyvoices.news
 ||maplew.com
+||maps.googleapis.com
 ||marc.info
 ||marguerite.su
 ||martau.com
@@ -7849,6 +7851,7 @@ zyzc9.com
 ||nic.gov
 ||nicovideo.jp
 ||nighost.org
+||nightswatch.top
 ||nikkei.com
 ||ninecommentaries.com
 ||ninjacloak.com
@@ -8015,6 +8018,7 @@ zyzc9.com
 ||onejav.com
 ||onesto.re
 ||onestore.co.kr
+||onevps.com
 ||onion.city
 ||onion.ly
 ||onion666.com
@@ -8102,6 +8106,7 @@ zyzc9.com
 ||paljorpublications.com
 ||paltalk.com
 ||panamapapers.sueddeutsche.de
+||pandafan.pub
 ||pandapow.co
 ||pandapow.net
 ||pandavpn-jp.com
@@ -8202,12 +8207,11 @@ zyzc9.com
 ||pinimg.com
 ||pinkrod.com
 ||pinoy-n.com
+||pinterest.*
 ||pinterest.at
 ||pinterest.ca
-||pinterest.co.kr
 ||pinterest.co.uk
 ||pinterest.com
-||pinterest.com.mx
 ||pinterest.de
 ||pinterest.dk
 ||pinterest.fr
@@ -8352,6 +8356,7 @@ zyzc9.com
 ||proxypy.net
 ||proxyroad.com
 ||proxytunnel.net
+||proxz.com
 ||proyectoclubes.com
 ||prozz.net
 ||psblog.name
@@ -8406,6 +8411,7 @@ zyzc9.com
 ||qianglie.com
 ||qiangwaikan.com
 ||qiangyou.org
+||qianmo.tw
 ||qidian.ca
 ||qienkuen.org
 ||qiwen.lu
@@ -8648,6 +8654,7 @@ zyzc9.com
 ||secretsline.biz
 ||secure.logmein.com
 ||secure.raxcdn.com
+||secure.shadowsocks.nu
 ||secureservercdn.net
 ||securetunnel.com
 ||securityinabox.org
@@ -8734,6 +8741,7 @@ zyzc9.com
 ||shop2000.com.tw
 ||shopee.tw
 ||shopping.com
+||shopping.yahoo.co.jp
 ||showhaotu.com
 ||showtime.jp
 ||showwe.tw
@@ -8747,7 +8755,9 @@ zyzc9.com
 ||sijihuisuo.club
 ||sijihuisuo.com
 ||silkbook.com
+||silvergatebank.com
 ||simbolostwitter.com
+||simplecd.me
 ||simplecd.org
 ||simpleswap.io
 ||sina.com.hk
@@ -9044,6 +9054,7 @@ zyzc9.com
 ||sydney.bing.com
 ||sydneytoday.com
 ||sylfoundation.org
+||synapse.org
 ||syncback.com
 ||synergyse.com
 ||syosetu.com
@@ -9389,6 +9400,7 @@ zyzc9.com
 ||tortoisesvn.net
 ||torvpn.com
 ||totalvpn.com
+||tou.tv
 ||toutiaoabc.com
 ||towngain.com
 ||toypark.in
@@ -9725,6 +9737,7 @@ zyzc9.com
 ||versavpn.com
 ||verybs.com
 ||vevo.com
+||vewas.net
 ||vft.com.tw
 ||viber.com
 ||vica.info
@@ -9741,6 +9754,7 @@ zyzc9.com
 ||videopress.com
 ||vietdaikynguyen.com
 ||vijayatemple.org
+||vilanet.me
 ||vilavpn.com
 ||vimeo.com
 ||vimeocdn.com
