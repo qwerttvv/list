@@ -626,6 +626,7 @@
 .etadult.com
 .etowns.net
 .etowns.org
+.ettoday.net
 .eucasino.com
 .eulam.com
 .eurekavpt.com
@@ -724,6 +725,7 @@
 .freetcp.com
 .freetibet.net
 .freetibetanheroes.org
+.freetls.fastly.net
 .freeviewmovies.com
 .freevpn.me
 .freewebs.com
@@ -802,6 +804,7 @@
 .github.io
 .gizlen.net
 .gjczz.com
+.global.ssl.fastly.net
 .globaltm.org
 .globalvoicesonline.org
 .glock.com
@@ -3860,9 +3863,6 @@ zyzc9.com
 |https://tw-blog.com
 |https://www.abclite.net
 |imb.org
-||*.ettoday.net
-||*.freetls.fastly.net
-||*.global.ssl.fastly.net
 ||*.goog
 ||*.google
 ||*.youtube
@@ -3971,6 +3971,7 @@ zyzc9.com
 ||666kb.com
 ||666pool.cn
 ||69shu.com
+||69shuba.cx
 ||6do.news
 ||6do.world
 ||6park.com
@@ -7428,7 +7429,6 @@ zyzc9.com
 ||manta.com
 ||manyvoices.news
 ||maplew.com
-||maps.googleapis.com
 ||marc.info
 ||marguerite.su
 ||martau.com
@@ -8278,6 +8278,7 @@ zyzc9.com
 ||politico.eu
 ||politiscales.net
 ||poloniex.com
+||polymarket.com
 ||polymer-project.org
 ||polymerhk.com
 ||poolbinance.com
@@ -9431,7 +9432,6 @@ zyzc9.com
 ||tradingview.com
 ||traffichaus.com
 ||translate.goog
-||translate.googleapis.com
 ||transparency.org
 ||travelinkcard.com
 ||treemall.com.tw
@@ -10017,7 +10017,6 @@ zyzc9.com
 ||wikiversity.org
 ||wikivoyage.org
 ||wikiwand.com
-||wikiwiki.jp
 ||wiktionary.org
 ||wildammo.com
 ||williamhill.com

@@ -31,7 +31,6 @@ whatsapp.net
 spotify.com
 bidswitch.net
 typekit.net
-maps.googleapis.com
 use.typekit.net
 twitter.com
 cdninstagram.com
@@ -52,7 +51,6 @@ code.jquery.com
 tiktokv.us
 dns.google
 android.com
-translate.googleapis.com
 t.co
 redditstatic.com
 chatgpt.com
@@ -664,6 +662,7 @@ secure.raxcdn.com
 gitbook.io
 badoo.com
 bybit.com
+polymarket.com
 oanda.com
 indianexpress.com
 news.ycombinator.com
@@ -1295,6 +1294,7 @@ plurk.com
 riseup.net
 waymo.com
 bad.news
+69shuba.cx
 f2pool.com
 rsshub.app
 spideroak.com
@@ -6755,7 +6755,6 @@ wikileaks.lu
 wikileaks.pl
 wikiless.funami.tech
 wikilivres.info
-wikiwiki.jp
 wildammo.com
 willw.net
 windowsphoneme.com
