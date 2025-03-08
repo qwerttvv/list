@@ -2491,6 +2491,7 @@
 @@||weibo.com
 @@||www-googletagmanager.l.google.com
 @@||www.ampproject.org
+@@||www.ettoday.net
 @@||www.exblog.jp
 @@||www.google-analytics.com
 @@||www.gov.tw
