@@ -103,6 +103,7 @@ discord.media
 yahoo.net
 wikimedia.org
 brave.com
+open.spotify.com
 openai.com
 pandora.com
 discordapp.net
@@ -118,6 +119,7 @@ tenor.com
 disneyplus.com
 youtube-nocookie.com
 cdn.registerdisney.go.com
+chat.openai.com
 store.steampowered.com
 ttvnw.net
 hcaptcha.com
