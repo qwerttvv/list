@@ -276,6 +276,7 @@ windscribe.com
 textnow.me
 p16-tiktokcdn-com.akamaized.net
 binance.com
+ft.com
 google.co.jp
 linktr.ee
 rfa.org
@@ -397,7 +398,6 @@ google.ge
 eporner.com
 google.com.pe
 grindr.com
-themoviedb.org
 google.co.za
 archiveofourown.org
 vivaldi.com
@@ -1173,6 +1173,7 @@ nhi.gov.tw
 nytco.com
 mypikpak.com
 vocus.cc
+cutout.pro
 androidtv.com
 firstrade.com
 ddns.info
@@ -2270,6 +2271,7 @@ bcmorning.com
 bcrncdn.com
 bdsmvideos.net
 beaconevents.com
+bearteach.com
 bebo.com
 beepool.com
 beepool.org
@@ -3238,6 +3240,7 @@ facebookquotes4u.com
 faceless.me
 facesofnyfw.com
 facesoftibetanselfimmolators.info
+factchecklab.org
 factpedia.org
 fail.hk
 faith100.org
@@ -3313,7 +3316,6 @@ fdc64.de
 fdc64.jp
 fdc64.org
 fdc89.jp
-feedly.comfastgpt.run
 feeds.fileforum.com
 feedx.net
 feelssh.com
@@ -3585,6 +3587,7 @@ geti2p.net
 getiton.com
 getjetso.com
 getoutline.org
+getsession.org
 getsocialscope.com
 getsync.com
 gettrials.com
@@ -4906,6 +4909,7 @@ netalert.me
 netbirds.com
 netcolony.com
 netflav.com
+netlify.app
 netme.cc
 netsarang.com
 netsneak.com
@@ -6012,6 +6016,7 @@ tenzinpalmo.com
 tew.org
 tfc-taiwan.org.tw
 tfiflve.com
+tg-me.com
 th.hao123.com
 thaicn.com
 thb.gov.tw
