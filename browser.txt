@@ -1553,7 +1553,6 @@
 .powerphoto.org
 .prisoneralert.com
 .pritunl.com
-.private.com/home
 .proxfree.com
 .proxpn.com
 .proxydns.com
@@ -8338,6 +8337,7 @@ zyzc9.com
 ||pp.ru
 ||ppy.sh
 ||prayforchina.net
+||prcleader.org
 ||premeforwindows7.com
 ||premproxy.com
 ||presentation.new
