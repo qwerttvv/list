@@ -3854,6 +3854,8 @@ zyzc9.com
 ||000webhost.com
 ||0rz.tw
 ||1-apple.com.tw
+||1.0.0.1
+||1.1.1.1
 ||1000giri.net
 ||100ke.org
 ||10beasts.net
