@@ -126,7 +126,6 @@ discordapp.net
 wordpress.com
 youtubeeducation.com
 twitch.tv
-fast.wistia.com
 viber.com
 imdb.com
 static01.nyt.com
@@ -3168,7 +3167,6 @@ empfil.com
 emule-ed2k.com
 emulefans.com
 emuparadise.me
-en.favotter.net
 en.hao123.com
 enca.com
 enewstree.com
@@ -3302,6 +3300,7 @@ famunion.com
 fan-qiang.com
 fangbinxing.com
 fangeming.com
+fangeming.comffvpn.com
 fangeqiang.com
 fanglizhi.info
 fangmincn.org
@@ -6559,7 +6558,6 @@ video.aol.ca
 video.aol.co.uk
 video.aol.com
 video.ap.org
-video.fdbox.com
 videobam.com
 videodetective.com
 videomega.tv

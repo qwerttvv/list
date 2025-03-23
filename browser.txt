@@ -663,12 +663,6 @@
 .fartit.com
 .farwestchina.com
 .fawanghuihui.org
-.fc2.com
-.fc2china.com
-.fc2cn.com
-.fdc64.de
-.fdc64.org
-.fdc89.jp
 .feifeiss.com
 .feitian-california.org
 .fengzhenghu.com
@@ -725,7 +719,6 @@
 .freetcp.com
 .freetibet.net
 .freetibetanheroes.org
-.freetls.fastly.net
 .freeviewmovies.com
 .freevpn.me
 .freewebs.com
@@ -804,7 +797,6 @@
 .github.io
 .gizlen.net
 .gjczz.com
-.global.ssl.fastly.net
 .globaltm.org
 .globalvoicesonline.org
 .glock.com
@@ -2741,7 +2733,6 @@ eeas.europa.eu/statements-eeas/2015/151022
 efcc.org.hk
 electionsmeter.com
 emilylau.org.hk
-en.favotter.net
 englishforeveryone.org
 englishpen.org
 epochtimes-bg.com
@@ -2766,19 +2757,14 @@ falungong.org.uk
 faluninfo.de
 faluninfo.net
 familyfed.org
-fangeming.com
+fangeming.comffvpn.com
 fangong.forums-free.com
 fangongheike.com
 fanqianghou.com
 fanqiangyakexi.net
 fapdu.com
 faproxy.com
-favstar.fm
-faydao.com/weblog
-fc2blog.net
 feer.com
-fffff.at
-fflick.com
 fgmtv.net
 fillthesquare.org
 filmingfortibet.org
@@ -3083,7 +3069,6 @@ nylon-angel.com
 nylonstockingsonline.com
 nytchina.com
 nytcn.me
-nytimes.map.fastly.net
 observechina.net
 ocaspro.com
 occupytiananmen.com
@@ -3375,7 +3360,6 @@ video.aol.ca/video-detail
 video.aol.co.uk/video-detail
 video.aol.com
 video.ap.org
-video.fdbox.com
 video.foxbusiness.com
 videobam.com
 videopediaworld.com
@@ -3600,7 +3584,6 @@ zyzc9.com
 |http://falunau.org
 |http://feeds.fileforum.com
 |http://feitianacademy.org
-|http://ff.im
 |http://fhreports.net
 |http://filmy.olabloga.pl/player
 |http://firearmsworld.net
@@ -5695,7 +5678,6 @@ zyzc9.com
 ||fartit.com
 ||farwestchina.com
 ||fast.com
-||fast.wistia.com
 ||fastestvpn.com
 ||fastly.net
 ||fastpic.ru
@@ -5880,6 +5862,7 @@ zyzc9.com
 ||freetibet.net
 ||freetibet.org
 ||freetibetanheroes.org
+||freetls.fastly.net
 ||freetribe.me
 ||freeviewmovies.com
 ||freevpn.me
@@ -6074,6 +6057,7 @@ zyzc9.com
 ||glarity.app
 ||glass8.eu
 ||global.bing.com
+||global.ssl.fastly.net
 ||globaljihad.net
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
