@@ -2335,7 +2335,6 @@
 85cc.net
 89-64.org
 89.64.charter.constitutionalism.solutions
-@@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
 @@|*.google-analytics.com
 @@|http://blog.ontrac.com
