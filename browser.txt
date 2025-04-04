@@ -4284,6 +4284,7 @@ zyzc9.com
 ||auctions.yahoo.co.jp
 ||audacy.com
 ||auntology.fandom.com
+||auth.openai.com
 ||authorizeddns.org
 ||autodraw.com
 ||av-e-body.com
@@ -8044,6 +8045,7 @@ zyzc9.com
 ||openai.com
 ||openallweb.com
 ||opendemocracy.net
+||opendesktop.org
 ||opendn.xyz
 ||openervpn.in
 ||openid.net

@@ -212,6 +212,7 @@ google.com.ph
 xnxx-cdn.com
 surfeasy.com
 pornhub.com
+auth.openai.com
 secure.logmein.com
 weebly.com
 blogger.com
@@ -5109,6 +5110,7 @@ oopsforum.com
 open-assistant.io
 open.com.hk
 openallweb.com
+opendesktop.org
 opendn.xyz
 openervpn.in
 openid.net
