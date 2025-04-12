@@ -4283,6 +4283,7 @@ zyzc9.com
 ||atv-ps.amazon.com
 ||auctions.yahoo.co.jp
 ||audacy.com
+||audiomack.com
 ||auntology.fandom.com
 ||auth.openai.com
 ||authorizeddns.org
@@ -8605,6 +8606,7 @@ zyzc9.com
 ||s3-ap-*.amazonaws.com
 ||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
+||s3.eu-central-1.amazonaws.com
 ||s8forum.com
 ||sacks.com
 ||sacom.hk
