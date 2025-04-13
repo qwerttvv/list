@@ -3973,6 +3973,7 @@ zyzc9.com
 ||85st.com
 ||881903.com
 ||888.com
+||8888.google
 ||89-64.org
 ||8964museum.com
 ||8news.com.tw
@@ -5016,6 +5017,7 @@ zyzc9.com
 ||cloakpoint.com
 ||cloud.dify.ai
 ||cloud.mail.ru
+||cloudflare-dns.com
 ||cloudflare-ipfs.com
 ||cloudfront.net
 ||cloudfunctions.net
@@ -5667,6 +5669,7 @@ zyzc9.com
 ||fangongheike.com
 ||fanhaodang.com
 ||fanhaolou.com
+||fani.com
 ||fanqiang.network
 ||fanqiangdang.com
 ||fanqiangdang.org
@@ -5689,6 +5692,7 @@ zyzc9.com
 ||faststone.org
 ||fatakat-n.club
 ||fatbtc.com
+||favcomic.com
 ||favotter.net
 ||favstar.fm
 ||fawanghuihui.org
@@ -6454,6 +6458,7 @@ zyzc9.com
 ||gyatsostudio.com
 ||gzone-anime.info
 ||h-china.org
+||h-ciyuan.com
 ||h-comic.com
 ||h-moe.com
 ||h1n1china.org
@@ -7422,6 +7427,7 @@ zyzc9.com
 ||mansion.com
 ||mansionpoker.com
 ||manta.com
+||manwa.me
 ||manyvoices.news
 ||maplew.com
 ||marc.info
@@ -8777,6 +8783,7 @@ zyzc9.com
 ||simpleswap.io
 ||sina.com.hk
 ||sinchew.com.my
+||sing-box.sagernet.org
 ||singaporepools.com.sg
 ||singfortibet.com
 ||singlelogin.me
@@ -8952,6 +8959,7 @@ zyzc9.com
 ||ssglobal.me
 ||ssh91.com
 ||ssl.webpack.de
+||ssm.fun
 ||sspanel.net
 ||sspanel.org
 ||sspro.ml
@@ -9256,6 +9264,7 @@ zyzc9.com
 ||thlib.org
 ||thomasbernhard.org
 ||thongdreams.com
+||thotsbay.tv
 ||threadreaderapp.com
 ||threads.net
 ||threatchaos.com
@@ -9725,6 +9734,7 @@ zyzc9.com
 ||v.rn*.xyz
 ||v.roucdn*.xyz
 ||v2.help
+||v2.hysteria.network
 ||v2board.com
 ||v2ex.com
 ||v2fly.org

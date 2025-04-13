@@ -66,6 +66,7 @@ disqus.com
 onedrive.com
 dropbox.com
 godaddy.com
+cloudflare-dns.com
 bamgrid.com
 gravatar.com
 firebaseio.com
@@ -863,6 +864,7 @@ udn.com.tw
 pritunl.com
 hola.com
 jable.tv
+8888.google
 hket.com
 m.me
 huaren.us
@@ -1637,6 +1639,7 @@ soup.io
 blogspot.pt
 businesstoday.com.tw
 joinmastodon.org
+manwa.me
 play-asia.com
 research.google
 site90.net
@@ -3377,6 +3380,7 @@ fangong.org
 fangongheike.com
 fanhaodang.com
 fanhaolou.com
+fani.com
 fanqiang.network
 fanqiang.tk
 fanqiangdang.com
@@ -3394,6 +3398,7 @@ fastssh.com
 faststone.org
 fatakat-n.club
 fatbtc.com
+favcomic.com
 favotter.net
 favstar.fm
 fawanghuihui.org
@@ -3856,6 +3861,7 @@ gyatsostudio.com
 gzm.tv
 gzone-anime.info
 h-china.org
+h-ciyuan.com
 h-comic.com
 h-moe.com
 h1n1china.org
@@ -5721,6 +5727,7 @@ simplecd.me
 simplecd.org
 simpleproductivityblog.com
 sina.com.hk
+sing-box.sagernet.org
 singfortibet.com
 singlelogin.me
 singlelogin.se
@@ -5864,6 +5871,7 @@ ssglobal.me
 ssh91.com
 ssl.webpack.de
 ssl443.org
+ssm.fun
 sspanel.net
 sspanel.org
 sspro.ml
@@ -6091,6 +6099,7 @@ thirdmill.org
 thlib.org
 thomasbernhard.org
 thongdreams.com
+thotsbay.tv
 threatchaos.com
 throughnightsfire.com
 thuhole.com
@@ -6530,6 +6539,7 @@ uymaarip.com
 v.rn.xyz
 v.roucdn.xyz
 v2.help
+v2.hysteria.network
 v2board.com
 v2fly.org
 v2mm.tech
