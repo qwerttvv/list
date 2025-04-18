@@ -83,6 +83,7 @@ webpkgcache.com
 discordapp.com
 copilot.microsoft.com
 discord.gg
+tiktokcdn-eu.com
 redd.it
 openai.com
 b-cdn.net
