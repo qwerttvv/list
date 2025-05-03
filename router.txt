@@ -1240,7 +1240,6 @@ freeones.com
 asiaone.com
 fling.com
 git.io
-ingress.com
 c.mi.com
 icij.org
 wilsoncenter.org
@@ -1365,6 +1364,7 @@ xxx.xxx
 newtalk.tw
 manyvoices.news
 torrenty.org
+maxai.co
 mikanani.me
 putty.org
 91porny.com

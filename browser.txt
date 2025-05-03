@@ -6954,7 +6954,6 @@ zyzc9.com
 ||indsr.org.tw
 ||inews-api.tvb.com
 ||info-graf.fr
-||ingress.com
 ||inherit.live
 ||initiativesforchina.org
 ||inkbunny.net
@@ -7506,6 +7505,7 @@ zyzc9.com
 ||matthewdgreen.wordpress.com
 ||mattwilcox.net
 ||maturejp.com
+||maxai.co
 ||maxing.jp
 ||mayimayi.com
 ||mcadforums.com
