@@ -67,7 +67,6 @@ gravatar.com
 firebaseio.com
 onedrive.com
 dropbox.com
-cloudflare-dns.com
 vimeo.com
 yahoo.net
 wp.com
@@ -113,6 +112,7 @@ oaiusercontent.com
 cnn.com
 google.cn
 hcaptcha.com
+fast.wistia.com
 aol.com
 quora.com
 nyt.com
@@ -201,7 +201,6 @@ goo.gl
 google.com.sg
 cdn.statically.io
 foxnewsplayer-a.akamaihd.net
-auth.openai.com
 substack.com
 t.me
 xnxx-cdn.com
@@ -424,6 +423,7 @@ google.fi
 google.co.uz
 podbean.com
 deepai.org
+threads.com
 jcpenney.com
 google.com.pa
 cdn.printfriendly.com
@@ -431,7 +431,6 @@ threads.net
 google.com.jm
 g.co
 huffingtonpost.com
-audiomack.com
 abc.com
 hbo.com
 google.by
@@ -874,6 +873,7 @@ ow.ly
 mastodon.social
 tinc-vpn.org
 4shared.com
+gotquestions.org
 pixiv.org
 pytorch.org
 newyorktimes.com
@@ -915,7 +915,6 @@ dot.ca.gov
 dfas.mil
 hket.com
 uscg.mil
-8888.google
 rcam.target.com
 manta.com
 calameo.com
@@ -1156,7 +1155,6 @@ relay.firefox.com
 waymo.com
 y2mate.com
 solarsystem.nasa.gov
-z-library.sk
 keycdn.com
 ibtimes.com
 exblog.jp
@@ -1286,7 +1284,6 @@ weiming.info
 cex.io
 telegram.dog
 msha.gov
-1lib.sk
 apigee.com
 imlive.com
 nybooks.com
@@ -1327,7 +1324,6 @@ blogimg.jp
 mahjongsoul.com
 global.bing.com
 livedoor.jp
-z-lib.gs
 gmodules.com
 dotsub.com
 disk.yandex.com
@@ -1386,7 +1382,6 @@ crazyshit.com
 blog.livedoor.jp
 ift.tt
 theaustralian.com.au
-z-lib.gd
 aol.ca
 vpnunlimitedapp.com
 ftvnews.com.tw
@@ -1420,7 +1415,6 @@ zzux.com
 t35.com
 torguard.net
 x.co
-z-lib.ps
 sextvx.com
 dnset.com
 yt.be
@@ -1543,6 +1537,7 @@ in.com
 now.im
 qhigh.com
 fril.jp
+idope.se
 onmypc.org
 qpoe.com
 almostmy.com
@@ -1679,7 +1674,6 @@ technews.tw
 zippyshare.com
 google.com.iq
 jjgirls.com
-manwa.me
 vpngate.net
 apkmonk.com
 db.tt
@@ -1806,7 +1800,6 @@ blogspot.sg
 chinadigitaltimes.net
 forms.new
 friday.tw
-opendesktop.org
 blogspot.be
 blogspot.ro
 jiji.com
@@ -1869,15 +1862,7 @@ wnacg.org
 1bao.org
 1dumb.com
 1eew.com
-1lib.cloud
-1lib.cz
 1lib.domains
-1lib.education
-1lib.eu
-1lib.limited
-1lib.pl
-1lib.to
-1lib.tw
 1mobile.com
 1mobile.tw
 1pondo.tv
@@ -1899,7 +1884,6 @@ wnacg.org
 24hrs.ca
 24smile.org
 2du5.com
-2lib.org
 2lipstube.com
 2shared.com
 30boxes.com
@@ -1909,7 +1893,6 @@ wnacg.org
 3arabtv.com
 3boys2girls.com
 3d-game.com
-3lib.net
 3proxy.ru
 3ren.ca
 3tui.net
@@ -2153,7 +2136,6 @@ arctosia.com
 areca-backup.org
 arena.taipei
 arethusa.su
-art1lib.com
 art4tibet1998.org
 artofpeacefoundation.org
 arunachalforests.gov.in
@@ -2207,11 +2189,7 @@ azerimix.com
 azirevpn.com
 azubu.tv
 azurewebsites.net
-b-ok.africa
-b-ok.asia
 b-ok.cc
-b-ok.global
-b-ok.org
 b0ne.com
 babynet.com.hk
 backpackers.com.tw
@@ -2470,17 +2448,8 @@ bonbonsex.com
 bonfoundation.org
 boobstagram.com
 book.zi5.me
-book4you.org
 bookdepository.com
 bookepub.com
-bookfi.net
-booksc.eu
-booksc.me
-booksc.org
-booksc.xyz
-bookshome.info
-bookshome.net
-bookshome.world
 bookwalker.com.tw
 boomssr.com
 borgenmagazine.com
@@ -2853,7 +2822,6 @@ codeskulptor.org
 cofacts.tw
 coin2co.in
 coinbene.com
-coincarp.com
 coinegg.com
 coingi.com
 coinrail.co.kr
@@ -2994,7 +2962,6 @@ ddns.me.uk
 ddns.name
 ddns.net
 de-sci.org
-de1lib.org
 deadhouse.org
 deaftone.com
 debug.com
@@ -3184,6 +3151,7 @@ empfil.com
 emule-ed2k.com
 emulefans.com
 emuparadise.me
+en.favotter.net
 en.hao123.com
 enca.com
 enewstree.com
@@ -3319,7 +3287,6 @@ famunion.com
 fan-qiang.com
 fangbinxing.com
 fangeming.com
-fangeming.comffvpn.com
 fangeqiang.com
 fanglizhi.info
 fangmincn.org
@@ -3328,7 +3295,6 @@ fangong.org
 fangongheike.com
 fanhaodang.com
 fanhaolou.com
-fani.com
 fanqiang.network
 fanqiang.tk
 fanqiangdang.com
@@ -3345,7 +3311,6 @@ farwestchina.com
 fastssh.com
 fatakat-n.club
 fatbtc.com
-favcomic.com
 favotter.net
 favstar.fm
 fawanghuihui.org
@@ -3679,7 +3644,6 @@ gmozomg.izihost.org
 gnci.org.hk
 gnews.org
 go-pki.com
-go-to-library.sk
 go-to-zlibrary.se
 go.nesnode.com
 go.sony.com
@@ -3818,7 +3782,6 @@ gyatsostudio.com
 gzm.tv
 gzone-anime.info
 h-china.org
-h-ciyuan.com
 h-comic.com
 h-moe.com
 h1n1china.org
@@ -3923,7 +3886,6 @@ hk.geocities.com
 hk.gradconnection.com
 hk.hao123img.com
 hk.jiepang.com
-hk1lib.org
 hk32168.com
 hka8964.wordpress.com
 hkacg.com
@@ -4276,7 +4238,6 @@ isuntv.com
 isupportuyghurs.org
 itaboo.info
 itaiwan.gov.tw
-italian-books.sk
 italiatibet.org
 itemfix.com
 its.caltech.edu
@@ -4542,9 +4503,6 @@ libertytimes.com.tw
 library.usc.cuhk.edu.hk
 libraryinformationtechnology.com
 libredd.it
-libsolutions.app
-libsolutions.domains
-libsolutions.net
 lidecheng.com
 lighten.org.tw
 lighti.me
@@ -4634,7 +4592,6 @@ m.plixi.com
 m.slandr.net
 m8008.com
 ma.hao123.com
-ma1lib.org
 macgamestore.com
 machbbs.com
 macrovpn.com
@@ -5033,6 +4990,7 @@ nnews.eu
 no-ip.org
 nobel.se
 nobodycanstop.us
+nodeloc.com
 nofile.io
 nokogiri.org
 nokola.com
@@ -5580,7 +5538,6 @@ s3-ap-*.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
-s3.eu-central-1.amazonaws.com
 s8forum.com
 sa.hao123.com
 sacks.com
@@ -5665,7 +5622,6 @@ sfileydy.com
 sfshibao.com
 sftindia.org
 sftuk.org
-sg1lib.org
 sgwritings.com
 sgzhan.com
 shadeyouvpn.com
@@ -5734,13 +5690,9 @@ simplecd.org
 simpleproductivityblog.com
 simpleswap.io
 sina.com.hk
-sing-box.sagernet.org
 singfortibet.com
-singlelogin.app
 singlelogin.me
-singlelogin.re
 singlelogin.se
-singlelogin.site
 singpao.com.hk
 singtao.com
 sino-monthly.com
@@ -5886,7 +5838,6 @@ ssglobal.me
 ssh91.com
 ssl.webpack.de
 ssl443.org
-ssm.fun
 sspanel.net
 sspanel.org
 sspro.ml
@@ -5939,6 +5890,7 @@ studentsforafreetibet.org
 stupidvideos.com
 stweetly.com
 subacme.rerouted.org
+subhd.tv
 successfn.com
 sugobbs.com
 sugumiru18.com
@@ -6125,7 +6077,6 @@ thirdmill.org
 thlib.org
 thomasbernhard.org
 thongdreams.com
-thotsbay.tv
 threatchaos.com
 throughnightsfire.com
 thuhole.com
@@ -6573,7 +6524,6 @@ uymaarip.com
 v.rn.xyz
 v.roucdn.xyz
 v2.help
-v2.hysteria.network
 v2board.com
 v2fly.org
 v2mm.tech
@@ -6612,6 +6562,7 @@ video.aol.ca
 video.aol.co.uk
 video.aol.com
 video.ap.org
+video.fdbox.com
 videobam.com
 videodetective.com
 videomega.tv
@@ -7086,7 +7037,6 @@ yyjlymb.xyz
 yysub.net
 yzzk.com
 z-lib.org
-z-library.se
 zacebook.com
 zalmos.com
 zannel.com
@@ -7141,9 +7091,6 @@ zillionk.com
 zim.vn
 ziporn.com
 zkaip.com
-zlib.life
-zlibcdn.com
-zlibcdn2.com
 zmedia.com.tw
 zmw.cn
 zodgame.us
