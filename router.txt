@@ -91,7 +91,6 @@ oraclecloud.com
 wikimedia.org
 b-cdn.net
 hola.org
-open.spotify.com
 ibytedtos.com
 redditmedia.com
 pandora.com
@@ -100,7 +99,6 @@ duckduckgo.com
 tenor.com
 youtube-nocookie.com
 cnn.com
-chat.openai.com
 nflxvideo.net
 aiv-delivery.net
 cdn.registerdisney.go.com
@@ -703,6 +701,7 @@ raw.githack.com
 gallup.com
 secure.raxcdn.com
 badoo.com
+missav.ws
 apkpure.com
 miraheze.org
 news18.com
@@ -768,6 +767,7 @@ zamimg.com
 disk.yandex.ru
 wikibooks.org
 google.net
+tg.dev
 brainyquote.com
 ciciai.com
 theblaze.com
@@ -1011,6 +1011,7 @@ myfreecams.com
 aol.co.uk
 ettoday.net
 mega.io
+telega.one
 tvbs.com.tw
 pinterest.co.uk
 lifemiles.com
@@ -1732,6 +1733,7 @@ blogspot.nl
 businesstoday.com.tw
 definebabe.com
 eesti.ee
+tx.me
 baidu.jp
 blogspot.com.ar
 delicious.com
@@ -5693,6 +5695,7 @@ simplecd.me
 simplecd.org
 simpleproductivityblog.com
 simpleswap.io
+simplex.chat
 sina.com.hk
 singfortibet.com
 singlelogin.me
@@ -6026,6 +6029,7 @@ telecomspace.com
 telegram-cdn.org
 telegram.space
 telegramdownload.com
+tellapart.com
 tellme.pw
 tenacy.com
 tenzinpalmo.com
@@ -7094,6 +7098,7 @@ zkaip.com
 zmedia.com.tw
 zmw.cn
 zodgame.us
+zodgame.xyz
 zomobo.net
 zonaeuropa.com
 zonghexinwen.com

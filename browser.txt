@@ -4870,7 +4870,6 @@ zyzc9.com
 ||chapm25.com
 ||character.ai
 ||chat.lmsys.org
-||chat.openai.com
 ||chatgpt.com
 ||chatnook.com
 ||chaturbate.com
@@ -7586,6 +7585,7 @@ zyzc9.com
 ||mirrormedia.com.tw
 ||mirrormedia.mg
 ||missav.com
+||missav.ws
 ||mist.vip
 ||mitao.com.tw
 ||mitbbs.com
@@ -8055,7 +8055,6 @@ zyzc9.com
 ||open-assistant.io
 ||open.com.hk
 ||open.firstory.me
-||open.spotify.com
 ||openai.com
 ||openallweb.com
 ||opendemocracy.net
@@ -8786,6 +8785,7 @@ zyzc9.com
 ||simplecd.me
 ||simplecd.org
 ||simpleswap.io
+||simplex.chat
 ||sina.com.hk
 ||sinchew.com.my
 ||singaporepools.com.sg
@@ -9188,6 +9188,7 @@ zyzc9.com
 ||teensinasia.com
 ||teepr.com
 ||tehrantimes.com
+||telega.one
 ||telegra.ph
 ||telegram-cdn.org
 ||telegram.dog
@@ -9197,6 +9198,7 @@ zyzc9.com
 ||telegramdownload.com
 ||telegraph.co.uk
 ||telesco.pe
+||tellapart.com
 ||tellme.pw
 ||tenor.com
 ||tensorflow.org
@@ -9209,6 +9211,7 @@ zyzc9.com
 ||tfhub.dev
 ||tfiflve.com
 ||tg-me.com
+||tg.dev
 ||tgstat.com
 ||thb.gov.tw
 ||theage.com.au
@@ -9615,6 +9618,7 @@ zyzc9.com
 ||twtrland.com
 ||twttr.com
 ||twyac.org
+||tx.me
 ||txxx.com
 ||tycool.com
 ||typekit.net
@@ -10401,6 +10405,7 @@ zyzc9.com
 ||zmedia.com.tw
 ||zmw.cn
 ||zodgame.us
+||zodgame.xyz
 ||zomobo.net
 ||zonaeuropa.com
 ||zonghexinwen.com
