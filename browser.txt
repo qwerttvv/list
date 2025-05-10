@@ -3903,6 +3903,7 @@ zyzc9.com
 ||1e100.net
 ||1eew.com
 ||1lib.domains
+||1lib.sk
 ||1point3acres.com
 ||1pondo.tv
 ||2-hand.info
@@ -4070,7 +4071,6 @@ zyzc9.com
 ||agro.hk
 ||ai-kan.net
 ||ai-wen.net
-||ai.google
 ||aiosearch.com
 ||aiph.net
 ||airasia.com
@@ -6754,6 +6754,7 @@ zyzc9.com
 ||hysteria.network
 ||i-cable.com
 ||i-part.com.tw
+||i.111666.best
 ||i.lithium.com
 ||i1.hk
 ||i2p2.de
@@ -8255,6 +8256,7 @@ zyzc9.com
 ||pkuanvil.com
 ||placemix.com
 ||play-asia.com
+||play.google
 ||playbeasts.com
 ||playboy.com
 ||playboyplus.com
@@ -8407,6 +8409,7 @@ zyzc9.com
 ||punyu.com
 ||pure18.com
 ||pureconcepts.net
+||puredns.org
 ||pureinsight.org
 ||purepdf.com
 ||purevpn.com
@@ -8595,9 +8598,11 @@ zyzc9.com
 ||rthklive2-lh.akamaihd.net
 ||rti.org.tw
 ||rti.tw
+||rtm.tnt-ea.com
 ||rtycminnesota.org
 ||rukor.org
 ||rule34.xxx
+||rule34video.com
 ||rumble.com
 ||runbtx.com
 ||rusvpn.com
@@ -10341,9 +10346,14 @@ zyzc9.com
 ||yysub.net
 ||yzzk.com
 ||z-lib.*
+||z-lib.fm
+||z-lib.fo
+||z-lib.gd
+||z-lib.gl
 ||z-lib.io
 ||z-lib.org
 ||z-library.*
+||z-library.sk
 ||zacebook.com
 ||zalmos.com
 ||zamimg.com

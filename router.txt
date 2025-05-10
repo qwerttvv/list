@@ -282,6 +282,7 @@ flickr.com
 genius.com
 linktr.ee
 forbes.com
+rtm.tnt-ea.com
 reuters.com
 dssott.com.akamaized.net
 chaturbate.com
@@ -764,6 +765,7 @@ youversion.com
 abc.net.au
 cams.com
 nikkei.com
+rule34video.com
 bongacams.com
 thefacebook.com
 cia.gov
@@ -1065,6 +1067,7 @@ finchvpn.com
 cato.org
 zaobao.com.sg
 google.dev
+z-library.sk
 yahoo.com.tw
 telega.one
 socialblade.com
@@ -1097,6 +1100,7 @@ fanbox.cc
 ok.xxx
 tineye.com
 weiming.info
+1lib.sk
 listennotes.com
 tiny.cc
 csis.org
@@ -1105,7 +1109,6 @@ v2ex.com
 tronscan.org
 steambroadcast.akamaized.net
 bitfinex.com
-ai.google
 bloglovin.com
 cht.com.tw
 vjav.com
@@ -1307,6 +1310,7 @@ nga.mil
 yidio.com
 smith.edu
 waymo.com
+z-lib.fm
 businessweekly.com.tw
 nationalinterest.org
 plurk.com
@@ -1322,6 +1326,7 @@ spideroak.com
 telegram.dog
 f2pool.com
 mail-archive.com
+z-lib.gd
 googlefiber.net
 myddns.com
 c.mi.com
@@ -1338,6 +1343,7 @@ dwnews.com
 newmitbbs.com
 thediplomat.com
 rolia.net
+z-lib.gl
 ddns.ms
 minghui.org
 cex.io
@@ -1350,6 +1356,7 @@ kink.com
 linksalpha.com
 onedumb.com
 zzux.com
+z-lib.fo
 facebook.de
 mahjongsoul.com
 www.linksalpha.com
@@ -1529,6 +1536,7 @@ immigration.gov.tw
 moneyhome.biz
 onmypc.us
 pixnet.in
+play.google
 dsmtp.com
 jetos.com
 apk.tw
@@ -4051,6 +4059,7 @@ hxwq.org
 hyperrate.com
 hysteria.network
 i-part.com.tw
+i.111666.best
 i1.hk
 i2p2.de
 i2runner.com
@@ -5387,6 +5396,7 @@ pullfolio.com
 punyu.com
 pure18.com
 pureconcepts.net
+puredns.org
 pureinsight.org
 purepdf.com
 purplelotus.org
