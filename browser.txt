@@ -4073,6 +4073,7 @@ zyzc9.com
 ||agro.hk
 ||ai-kan.net
 ||ai-wen.net
+||ai.google
 ||aiosearch.com
 ||aiph.net
 ||airasia.com
@@ -7872,6 +7873,10 @@ zyzc9.com
 ||nicovideo.jp
 ||nighost.org
 ||nightswatch.top
+||nikke-en.com
+||nikke-jp.com
+||nikke-kr.com
+||nikke.hotcool.tw
 ||nikkei.com
 ||ninecommentaries.com
 ||ninjacloak.com
@@ -7905,6 +7910,7 @@ zyzc9.com
 ||nordstromrack.com
 ||nordvpn.com
 ||nos.nl
+||notebooklm.google
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
 ||notion.site

@@ -589,6 +589,7 @@ aptoide.com
 accountkit.com
 opml.radiotime.com
 pixiv.net
+nikke-kr.com
 openvpn.net
 buzzsprout.com
 nhentai.net
@@ -882,6 +883,7 @@ ameblo.jp
 nydailynews.com
 m.me
 hkjc.com
+nikke-en.com
 engadget.com
 njav.tv
 straitstimes.com
@@ -956,9 +958,11 @@ coinex.com
 fastpic.ru
 pytorch.org
 rfi.fr
+nikke.hotcool.tw
 myfreecams.com
 theblaze.com
 huaren.us
+nikke-jp.com
 zattoo.com
 youmaker.com
 uscg.mil
@@ -1089,6 +1093,7 @@ sf.net
 cht.com.tw
 cia.gov
 tube8.com
+notebooklm.google
 download.cnet.com
 f2pool.com
 mercari.jp
@@ -1706,6 +1711,7 @@ doc.new
 fakku.net
 liveleak.com
 westpoint.edu
+ai.google
 cn.uptodown.com
 nat.moe
 sensortower.com
