@@ -724,7 +724,6 @@
 .freetcp.com
 .freetibet.net
 .freetibetanheroes.org
-.freetls.fastly.net
 .freeviewmovies.com
 .freevpn.me
 .freewebs.com
@@ -4386,6 +4385,7 @@ zyzc9.com
 ||bbs.junglobal.net
 ||bbs.mikocon.com
 ||bbs.mychat.to
+||bbs.naixi.net
 ||bbs.nyinfor.com
 ||bbs.sou-tong.org
 ||bbsdigest.com
@@ -5878,6 +5878,7 @@ zyzc9.com
 ||freetibet.net
 ||freetibet.org
 ||freetibetanheroes.org
+||freetls.fastly.net
 ||freetribe.me
 ||freeviewmovies.com
 ||freevpn.me
@@ -7252,6 +7253,8 @@ zyzc9.com
 ||latibet.org
 ||lausan.hk
 ||lbank.info
+||ldplayer.net
+||ldplayer.tw
 ||le-vpn.com
 ||leafyvpn.net
 ||lecloud.net

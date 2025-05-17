@@ -677,6 +677,7 @@ overcast.fm
 bilibili.tv
 banorte.com
 9gag.com
+ldplayer.net
 torproject.org
 pastebin.com
 veoh.com
@@ -1262,6 +1263,7 @@ nytco.com
 apigee.com
 theage.com.au
 duga.jp
+ldplayer.tw
 equinenow.com
 booktopia.com.au
 sydney.bing.com
@@ -2293,6 +2295,7 @@ bbs.junglobal.net
 bbs.kimy.com.tw
 bbs.mikocon.com
 bbs.morbell.com
+bbs.naixi.net
 bbs.netbig.com
 bbs.nyinfor.com
 bbs.ozchinese.com
