@@ -1035,6 +1035,7 @@ solana.com
 goo.ne.jp
 superpages.com
 blogspot.gr
+gemini.google
 androidtv.com
 brainyquote.com
 ontrac.com
