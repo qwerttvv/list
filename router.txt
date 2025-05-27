@@ -30,7 +30,6 @@ jsdelivr.net
 cdn.jsdelivr.net
 tiktokv.com
 tiktokcdn.com
-dns.google
 nflxso.net
 rlcdn.com
 cdninstagram.com
@@ -774,7 +773,6 @@ artstation.com
 phobos.apple.com
 deepai.org
 livemint.com
-ai.google
 4shared.com
 clips4sale.com
 ua5v.com
@@ -924,7 +922,6 @@ streema.com
 hkjc.com
 github.blog
 uscg.mil
-about.google
 lihkg.com
 radio.garden
 hanime1.me
@@ -952,7 +949,6 @@ facebookmail.com
 pchome.com.tw
 nydailynews.com
 raw.githack.com
-gemini.google
 b.hatena.ne.jp
 blogspot.fr
 mandiant.com
@@ -966,7 +962,6 @@ dlsite.com
 ptt.cc
 tvbs.com.tw
 torlock.com
-blog.google
 imageshack.us
 is.gd
 knowyourmeme.com
@@ -1091,7 +1086,6 @@ dot.ca.gov
 carousell.com.hk
 zh.wikiquote.org
 efukt.com
-notebooklm.google
 vpnproxymaster.com
 anysex.com
 yahoo.com.tw
@@ -1280,7 +1274,6 @@ news.tvbs.com.tw
 brookings.edu
 ns01.info
 oxfordscholarship.com
-safety.google
 dns05.com
 x24hr.com
 bitmex.com
@@ -1514,7 +1507,6 @@ ibtimes.com
 pinterest.se
 youdontcare.com
 now.im
-play.google
 sendsmtp.com
 tensorflow.org
 biggo.com.tw
@@ -1582,7 +1574,6 @@ nyti.ms
 blogspot.kr
 centauro.com.br
 mstdn.social
-registry.google
 tipo.gov.tw
 blogspot.cz
 c-spanvideo.org
@@ -1593,7 +1584,6 @@ blogspot.cl
 duplicati.com
 mahjongsoul.com
 googleanalytics.com
-grow.google
 in.com
 baby-kingdom.com
 getfoxyproxy.org
@@ -1814,7 +1804,6 @@ search.com
 asianage.com
 tubepornclassic.com
 blogspot.mk
-chromeenterprise.google
 logiqx.com
 material.io
 bnext.com.tw
@@ -1887,7 +1876,6 @@ lingualeo.com
 rti.org.tw
 share.america.gov
 taiwannews.com.tw
-domains.google
 epac.to
 glock.com
 islamhouse.com
@@ -2015,7 +2003,6 @@ togetter.com
 backpackers.com.tw
 freeforums.org
 kissjav.com
-research.google
 sehuatang.net
 generated.photos
 mastodon.cloud
@@ -2988,7 +2975,6 @@ coinut.com
 colacloud.net
 collateralmurder.com
 collateralmurder.org
-com.google
 comefromchina.com
 comic-mega.me
 commandarms.com
@@ -3020,7 +3006,6 @@ crchina.org
 crd-net.org
 creadersnet.com
 creativelab5.com
-crisisresponse.google
 cristyli.com
 crocotube.com
 crossfire.co.kr
@@ -3129,7 +3114,6 @@ demo.unlock-music.dev
 demosisto.hk
 derekhsu.homeip.net
 desc.se
-design.google
 desipro.de
 destiny.xfiles.to
 destroy-china.jp
@@ -3313,7 +3297,6 @@ englishpen.org
 enlighten.org.tw
 entermap.com
 entnt.com
-environment.google
 episcopalchurch.org
 epochhk.com
 epochtimes-bg.com
@@ -4595,7 +4578,6 @@ leisurepro.com
 lenwhite.com
 leorockwell.com
 lerosua.org
-lers.google
 letou.com
 letscorp.net
 lflinkup.com
@@ -5062,7 +5044,6 @@ ngensis.com
 ngodupdongchung.com
 nhk-ondemand.jp
 nic.cz.cc
-nic.google
 nic.gov
 nighost.org
 nightswatch.top
@@ -5199,7 +5180,6 @@ opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
-opensource.google
 opentech.fund
 openwebster.com
 openwrt.org.cn
@@ -5263,7 +5243,6 @@ parkansky.com
 parsevideo.com
 passion.com
 passiontimes.hk
-passwords.google
 pastie.org
 payments-jp.amazon.com
 pbwiki.com
@@ -5403,7 +5382,6 @@ presentationzen.com
 presidentlee.tw
 prestige-av.com
 prettyvirgin.com
-pride.google
 prism-break.org
 prisoneralert.com
 privacybox.de
@@ -5936,7 +5914,6 @@ sto.cc
 stoporganharvesting.org
 stoptibetcrisis.net
 storagenewsletter.com
-stories.google
 stormmediagroup.com
 stoweboyd.com
 stranabg.com
@@ -5976,7 +5953,6 @@ suppig.net
 surfeasy.com.au
 suroot.com
 surrenderat20.net
-sustainability.google
 suyangg.com
 svsfx.com
 swapspace.co
@@ -6355,7 +6331,6 @@ turntable.fm
 tushycash.com
 tuvpn.com
 tuzaijidi.com
-tv.google
 tv.jtbc.joins.com
 tvants.com
 tvboxnow.com

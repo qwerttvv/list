@@ -4022,7 +4022,6 @@ zyzc9.com
 ||abitno.linpie.com
 ||ablwang.com
 ||aboluowang.com
-||about.google
 ||about.me
 ||ac.jp
 ||acast.com
@@ -4072,7 +4071,6 @@ zyzc9.com
 ||agro.hk
 ||ai-kan.net
 ||ai-wen.net
-||ai.google
 ||aiosearch.com
 ||aiph.net
 ||airasia.com
@@ -4511,7 +4509,6 @@ zyzc9.com
 ||blog.expofutures.com
 ||blog.fizzik.com
 ||blog.fuckgfw233.org
-||blog.google
 ||blog.jackjia.com
 ||blog.kangye.org
 ||blog.pathtosharepoint.com
@@ -4973,7 +4970,6 @@ zyzc9.com
 ||chrlawyers.hk
 ||chrome.com
 ||chromecast.com
-||chromeenterprise.google
 ||chromeexperiments.com
 ||chromercise.com
 ||chromestatus.com
@@ -5084,7 +5080,6 @@ zyzc9.com
 ||colacloud.net
 ||collateralmurder.com
 ||collateralmurder.org
-||com.google
 ||comefromchina.com
 ||comic-mega.me
 ||commandarms.com
@@ -5129,7 +5124,6 @@ zyzc9.com
 ||creaders.net
 ||creadersnet.com
 ||creativelab5.com
-||crisisresponse.google
 ||cristyli.com
 ||crocotube.com
 ||crossfire.co.kr
@@ -5266,7 +5260,6 @@ zyzc9.com
 ||depositphotos.com
 ||derekhsu.homeip.net
 ||desc.se
-||design.google
 ||desipro.de
 ||dessci.com
 ||destroy-china.jp
@@ -5331,7 +5324,6 @@ zyzc9.com
 ||dmm.co.jp
 ||dns-dns.com
 ||dns-stuff.com
-||dns.google
 ||dns04.com
 ||dns05.com
 ||dns1.us
@@ -5356,7 +5348,6 @@ zyzc9.com
 ||dollf.com
 ||domain.glass
 ||domainhelp.search.com
-||domains.google
 ||domaintoday.com.au
 ||dongtaiwang.com
 ||dongtaiwang.net
@@ -5522,7 +5513,6 @@ zyzc9.com
 ||enlighten.org.tw
 ||entermap.com
 ||entnt.com
-||environment.google
 ||epa.gov.tw
 ||epac.to
 ||episcopalchurch.org
@@ -6009,7 +5999,6 @@ zyzc9.com
 ||gekikame.com
 ||gelbooru.com
 ||gemini.com
-||gemini.google
 ||generated.photos
 ||genius.com
 ||geocities.co.jp
@@ -6146,6 +6135,7 @@ zyzc9.com
 ||goodtv.tv
 ||goofind.com
 ||googel.de
+||google
 ||google-analytics.com
 ||google-base.de
 ||google.ac
@@ -6432,7 +6422,6 @@ zyzc9.com
 ||grotty-monday.com
 ||ground.news
 ||groups.google.cn
-||grow.google
 ||gsearch.media
 ||gsp.target.com
 ||gstatic.com
@@ -7274,7 +7263,6 @@ zyzc9.com
 ||lenwhite.com
 ||leorockwell.com
 ||lerosua.org
-||lers.google
 ||lesoir.be
 ||letscorp.net
 ||lflinkup.com
@@ -7872,7 +7860,6 @@ zyzc9.com
 ||nhi.gov.tw
 ||nhk-ondemand.jp
 ||nic.cz.cc
-||nic.google
 ||nic.gov
 ||nicovideo.jp
 ||nighost.org
@@ -7913,7 +7900,6 @@ zyzc9.com
 ||nordstromrack.com
 ||nordvpn.com
 ||nos.nl
-||notebooklm.google
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
 ||notion.site
@@ -8074,7 +8060,6 @@ zyzc9.com
 ||openid.net
 ||openleaks.org
 ||opensea.io
-||opensource.google
 ||openstreetmap.org
 ||opentech.fund
 ||openvpn.net
@@ -8158,7 +8143,6 @@ zyzc9.com
 ||partypoker.com
 ||passion.com
 ||passiontimes.hk
-||passwords.google
 ||paste.ee
 ||pastebin.com
 ||pastie.org
@@ -8267,7 +8251,6 @@ zyzc9.com
 ||pkuanvil.com
 ||placemix.com
 ||play-asia.com
-||play.google
 ||playbeasts.com
 ||playboy.com
 ||playboyplus.com
@@ -8357,7 +8340,6 @@ zyzc9.com
 ||presidentlee.tw
 ||prestige-av.com
 ||prettyvirgin.com
-||pride.google
 ||primevideo.com
 ||prism-break.org
 ||prisoneralert.com
@@ -8545,7 +8527,6 @@ zyzc9.com
 ||redtube.com
 ||referer.us
 ||reflectivecode.com
-||registry.google
 ||relay.com.tw
 ||relay.firefox.com
 ||releaseinternational.org
@@ -8553,7 +8534,6 @@ zyzc9.com
 ||religioustolerance.org
 ||renminbao.com
 ||renyurenquan.org
-||research.google
 ||resilio.com
 ||resistchina.org
 ||retweeteffect.com
@@ -8642,7 +8622,6 @@ zyzc9.com
 ||safechat.com
 ||safeguarddefenders.com
 ||safervpn.com
-||safety.google
 ||sagernet.org
 ||saintyculture.com
 ||saiq.me
@@ -9033,7 +9012,6 @@ zyzc9.com
 ||storage.yandex.net
 ||storagenewsletter.com
 ||store.steampowered.com
-||stories.google
 ||storify.com
 ||storj.io
 ||storm.mg
@@ -9090,7 +9068,6 @@ zyzc9.com
 ||surfeasy.com
 ||surfshark.com
 ||surrenderat20.net
-||sustainability.google
 ||suyangg.com
 ||svsfx.com
 ||swagbucks.com
@@ -9537,7 +9514,6 @@ zyzc9.com
 ||tushycash.com
 ||tuvpn.com
 ||tuzaijidi.com
-||tv.google
 ||tv.jtbc.joins.com
 ||tvboxnow.com
 ||tvbs.com.tw
