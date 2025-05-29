@@ -6135,7 +6135,6 @@ zyzc9.com
 ||goodtv.tv
 ||goofind.com
 ||googel.de
-||google
 ||google-analytics.com
 ||google-base.de
 ||google.ac
@@ -8611,8 +8610,12 @@ zyzc9.com
 ||s1heng.com
 ||s3*.amazonaws.com
 ||s3-ap-*.amazonaws.com
+||s3-ap-northeast-1.amazonaws.com
+||s3-ap-northeast-2.amazonaws.com
 ||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
+||s3-eu-central-1.amazonaws.com
+||s3.us-east-1.amazonaws.com
 ||s8forum.com
 ||sacks.com
 ||sacom.hk
