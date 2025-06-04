@@ -4984,7 +4984,9 @@ zyzc9.com
 ||chushigangdrug.ch
 ||ci-en.jp
 ||cia.gov
+||cici.com
 ||ciciai.com
+||ciciaicdn.com
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
@@ -7571,6 +7573,7 @@ zyzc9.com
 ||miniforum.org
 ||miningpoolhub.com
 ||ministrybooks.org
+||minjian-danganguan.org
 ||minzhuhua.net
 ||minzhuzhanxian.com
 ||minzhuzhongguo.org

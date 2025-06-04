@@ -996,6 +996,7 @@ nyaa.si
 telega.one
 overplay.net
 kone.com
+cici.com
 livestream.com
 search.yahoo.co.jp
 nownews.com
@@ -1334,6 +1335,7 @@ yousendit.com
 news.ebc.net.tw
 z-lib.fm
 blog.goo.ne.jp
+ciciaicdn.com
 ganjingworld.com
 suprememastertv.com
 duck.com
@@ -4760,6 +4762,7 @@ minhhue.net
 miniforum.org
 miningpoolhub.com
 ministrybooks.org
+minjian-danganguan.org
 minzhuhua.net
 minzhuzhanxian.com
 minzhuzhongguo.org
