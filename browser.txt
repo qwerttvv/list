@@ -4819,6 +4819,7 @@ zyzc9.com
 ||cdn-apple.com
 ||cdn-images.mailchimp.com
 ||cdn-telegram.org
+||cdn.arstechnica.net
 ||cdn.assets.lfpcontent.com
 ||cdn.helixstudios.net
 ||cdn.jsdelivr.net

@@ -684,6 +684,7 @@ mega.nz
 coursehero.com
 kik.com
 aptoide.com
+cdn.arstechnica.net
 national-lottery.co.uk
 ipfs.io
 ground.news
