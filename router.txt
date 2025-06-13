@@ -444,6 +444,7 @@ google.com.jm
 audacy.com
 google.co.zw
 google.me
+standard.co.uk
 google.com.kh
 google.lt
 google.com.mm
@@ -837,6 +838,7 @@ clips4sale.com
 smh.com.au
 betfair.com
 matrix.org
+india.com
 waltermartin.com
 onestore.co.kr
 catbox.moe
@@ -874,6 +876,7 @@ odysee.com
 internet.org
 mubi.com
 parse.com
+financialexpress.com
 isc.sans.edu
 pixeldrain.com
 c-spanvideo.org
@@ -975,6 +978,7 @@ javhd.com
 search.yahoo.co.jp
 donmai.us
 nottinghampost.com
+abplive.com
 acg.rip
 docs.new
 c-span.org
@@ -1108,6 +1112,7 @@ nikke-jp.com
 ulifestyle.com.hk
 danbooru.donmai.us
 firstrade.com
+newindianexpress.com
 av01.tv
 yahoo.com.hk
 blogspot.com.es
@@ -1558,6 +1563,7 @@ realitykings.com
 dongtaiwang.com
 religionnews.com
 sexidude.com
+thehansindia.com
 disp.cc
 freeddns.com
 hegre-art.com
