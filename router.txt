@@ -602,6 +602,7 @@ mooo.com
 wow.com
 huggingface.co
 sourceforge.net
+gitlab.net
 apkpure.net
 xing.com
 bnbstatic.com
