@@ -420,6 +420,7 @@ blogblog.com
 grok.com
 google.hr
 oculuscdn.com
+ipfs.4everland.io
 tracfone.com
 timesofindia.indiatimes.com
 google.ee
@@ -1275,6 +1276,7 @@ turbobit.net
 alternativeto.net
 news.tvbs.com.tw
 javdb.com
+nftstorage.link
 business.site
 ctinews.com
 hdzog.com
@@ -1363,6 +1365,7 @@ voy.com
 sukebei.nyaa.si
 z-lib.gd
 blogspot.sg
+w3s.link
 waymo.com
 duga.jp
 wikileaks.com
@@ -5779,6 +5782,7 @@ stoporganharvesting.org
 stoptibetcrisis.net
 storagenewsletter.com
 stormmediagroup.com
+storry.tv
 stoweboyd.com
 stranabg.com
 straplessdildo.com

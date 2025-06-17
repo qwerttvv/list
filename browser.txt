@@ -3390,6 +3390,7 @@ zomobo.net
 |https://securityinabox.org
 |https://ss*.4sqi.net
 |https://tw-blog.com
+|https://w3s.link/ipfs
 |imb.org
 ||*.goog
 ||*.google
@@ -6428,6 +6429,7 @@ zomobo.net
 ||ipalter.com
 ||ipdefenseforum.com
 ||ipfire.org
+||ipfs.4everland.io
 ||ipfs.io
 ||iphone4hongkong.com
 ||iphonehacks.com
@@ -7337,6 +7339,7 @@ zomobo.net
 ||nflximg.net
 ||nflxso.net
 ||nflxvideo.net
+||nftstorage.link
 ||nga.mil
 ||ngensis.com
 ||nhentai.net
@@ -8494,6 +8497,7 @@ zomobo.net
 ||storj.io
 ||storm.mg
 ||stormmediagroup.com
+||storry.tv
 ||stoweboyd.com
 ||straitstimes.com
 ||stranabg.com
