@@ -7549,7 +7549,6 @@ zomobo.net
 ||openvpn.org
 ||openwebster.com
 ||opml.radiotime.com
-||oraclecloud.com
 ||ordns.he.net
 ||organcare.org.tw
 ||organharvestinvestigation.net
