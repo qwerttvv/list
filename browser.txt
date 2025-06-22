@@ -5574,6 +5574,7 @@ zomobo.net
 ||gjczz.com
 ||glarity.app
 ||glass8.eu
+||gle
 ||global.bing.com
 ||globaljihad.net
 ||globalmediaoutreach.com
@@ -5646,6 +5647,7 @@ zomobo.net
 ||goodtv.tv
 ||goofind.com
 ||googel.de
+||google
 ||google-analytics.com
 ||google-base.de
 ||google.ac
