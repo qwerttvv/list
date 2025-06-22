@@ -1554,6 +1554,7 @@ yt.be
 wilsoncenter.org
 cpu-monkey.com
 gather.com
+irna.ir
 torrentgalaxy.to
 serveusers.com
 biggo.com.tw
@@ -2035,6 +2036,7 @@ my-private-network.co.uk
 netflav.com
 playno1.com
 ydy.com
+arvanstorage.ir
 bannedbook.org
 clearharmony.net
 fnac.be
@@ -3798,6 +3800,7 @@ gotdns.ch
 gotgeeks.com
 gotrusted.com
 gotw.ca
+gov.ir
 gov.tw
 gr8name.biz
 grammaly.com
@@ -4252,6 +4255,7 @@ ippotv.com
 ipredator.se
 iptv.com.tw
 iptvbin.com
+irangov.ir
 ironbigfools.compython.net
 ironpython.net
 ironsocket.com
@@ -5280,6 +5284,7 @@ premeforwindows7.com
 premproxy.com
 presentation.new
 presentationzen.com
+president.ir
 presidentlee.tw
 prestige-av.com
 prettyvirgin.com

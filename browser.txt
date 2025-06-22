@@ -3784,6 +3784,7 @@ zomobo.net
 ||artofpeacefoundation.org
 ||artstation.com
 ||arunachalforests.gov.in
+||arvanstorage.ir
 ||asacp.org
 ||asdfg.jp
 ||asg.to
@@ -5898,6 +5899,7 @@ zomobo.net
 ||gotquestions.org
 ||gotrusted.com
 ||gotw.ca
+||gov.ir
 ||gov.taipei
 ||gov.tw
 ||grammaly.com
@@ -6445,7 +6447,9 @@ zomobo.net
 ||iptv.com.tw
 ||iptvbin.com
 ||ipvanish.com
+||irangov.ir
 ||iredmail.org
+||irna.ir
 ||ironbigfools.compython.net
 ||ironpython.net
 ||ironsocket.com
@@ -7822,6 +7826,7 @@ zomobo.net
 ||premproxy.com
 ||presentation.new
 ||presentationzen.com
+||president.ir
 ||presidentlee.tw
 ||prestige-av.com
 ||prettyvirgin.com
