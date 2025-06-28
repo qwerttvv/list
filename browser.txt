@@ -2139,6 +2139,7 @@
 @@||hiwifi.com
 @@||hsinchu-cc.gov.tw
 @@||http2.golang.org
+@@||i.pki.goog
 @@||imasdk.googleapis.com
 @@||ime.baidu.jp
 @@||iner.gov.tw
