@@ -4819,6 +4819,7 @@ zomobo.net
 ||dmcdn.net
 ||dmhy.org
 ||dmm.co.jp
+||dmm.com
 ||dns-dns.com
 ||dns-stuff.com
 ||dns04.com
