@@ -1009,6 +1009,7 @@ setn.com
 us.to
 mandiant.com
 clubhouseapi.com
+doom9.org
 txxx.com
 website.informer.com
 secureservercdn.net
