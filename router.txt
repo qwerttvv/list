@@ -590,6 +590,7 @@ notify.dropboxapi.com
 cloud.mail.ru
 disneyplus.com.ssl.sc.omtrdc.net
 huffingtonpost.com
+walletconnect.com
 bild.de
 missav.ws
 aptoide.com
