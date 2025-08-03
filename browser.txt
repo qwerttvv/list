@@ -2073,6 +2073,8 @@
 89-64.org
 89.64.charter.constitutionalism.solutions
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 @@|*.google-analytics.com
 @@|http://blog.ontrac.com
 @@|http://ime.baidu.jp
@@ -8347,6 +8349,7 @@ zomobo.net
 ||softether.org
 ||softfamous.com
 ||softonic.cn
+||softonic.com
 ||softwarebychuck.com
 ||sogclub.com
 ||sogrady.me
