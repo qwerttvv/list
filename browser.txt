@@ -2109,6 +2109,7 @@
 @@||cn.noxinfluencer.com
 @@||connectivitycheck.gstatic.com
 @@||corp.google.com
+@@||crashlyticsreports-pa.googleapis.com
 @@||crl.pki.goog
 @@||cromotc.nat.gov.tw
 @@||csi.gstatic.com
@@ -2121,9 +2122,11 @@
 @@||dl.l.google.com
 @@||download.syniumsoftware.com
 @@||eastcoast-nsa.gov.tw
+@@||emmapplecodevice.googleapis.com
 @@||epa.gov.tw
 @@||erv-nsa.gov.tw
 @@||fda.gov.tw
+@@||fontfiles.googleapis.com
 @@||fonts.googleapis.com
 @@||fonts.gstatic.com
 @@||gettyimages.cn
@@ -2179,6 +2182,7 @@
 @@||openwrt.org.cn
 @@||pagead-googlehosted.l.google.com
 @@||penghu-nsa.gov.tw
+@@||performanceparameters.googleapis.com
 @@||pinterest.cn
 @@||post.gov.tw
 @@||qq.com
@@ -2200,6 +2204,7 @@
 @@||stdtime.gov.tw
 @@||storage.googleapis.com
 @@||sunmoonlake.gov.tw
+@@||tac.googleapis.com
 @@||tacc.cwb.gov.tw
 @@||taitung-house.gov.tw
 @@||taoyuan.gov.tw
@@ -2220,6 +2225,7 @@
 @@||vpser.net
 @@||wallproxy.com.cn
 @@||wanfang.gov.tw
+@@||wear.googleapis.com
 @@||weibo.com
 @@||www-googletagmanager.l.google.com
 @@||www.ampproject.org
@@ -7533,6 +7539,7 @@ zomobo.net
 ||openai.com
 ||openallweb.com
 ||opendemocracy.net
+||opendesktop.org
 ||opendn.xyz
 ||openervpn.in
 ||openid.net
