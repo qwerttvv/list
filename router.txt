@@ -126,7 +126,6 @@ vimeocdn.com
 xhamster.com
 signal.org
 cdn.registerdisney.go.com
-stats.wp.com
 ttvnw.net
 xhcdn.com
 store.steampowered.com

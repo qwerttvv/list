@@ -8471,7 +8471,6 @@ zomobo.net
 ||static.shemalez.com
 ||static01.nyt.com
 ||staticflickr.com
-||stats.wp.com
 ||statsig.com
 ||statueofdemocracy.org
 ||stboy.net
