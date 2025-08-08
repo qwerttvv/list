@@ -76,6 +76,7 @@ bamgrid.com
 oaistatic.com
 yahoo.net
 hola.org
+cloudflare-dns.com
 discord.com
 webpkgcache.com
 b-cdn.net

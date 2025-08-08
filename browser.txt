@@ -4531,6 +4531,7 @@ zomobo.net
 ||cloakpoint.com
 ||cloud.dify.ai
 ||cloud.mail.ru
+||cloudflare-dns.com
 ||cloudflare-ipfs.com
 ||cloudfront.net
 ||cloudfunctions.net
