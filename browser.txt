@@ -6948,6 +6948,7 @@ zomobo.net
 ||matters.town
 ||matthewdgreen.wordpress.com
 ||mattwilcox.net
+||maven.neoforged.net
 ||maxai.co
 ||maxing.jp
 ||mayimayi.com
