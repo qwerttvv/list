@@ -183,6 +183,7 @@ google.com.sg
 google.co.th
 line-scdn.net
 githubcopilot.com
+metamask.io
 t.me
 etsy.com
 coinbase.com
@@ -599,6 +600,7 @@ rule34.xxx
 jcpenney.com
 flipkart.com
 spreaker.com
+infura.io
 startpage.com
 bntrace.com
 freeones.com
@@ -779,6 +781,7 @@ faz.net
 phprcdn.com
 youversion.com
 free.fr
+binance.org
 threads.net
 hypothes.is
 cdw.com
@@ -1619,6 +1622,7 @@ moneyhome.biz
 news.tvbs.com.tw
 pokerstars.net
 shopping.yahoo.co.jp
+luckymobile.ca
 nodeseek.com
 tensorflow.org
 archive.md

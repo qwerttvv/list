@@ -3970,6 +3970,7 @@ zomobo.net
 ||bilibili.tv
 ||biliworld.com
 ||binance.com
+||binance.org
 ||binance.us
 ||binancezh.cc
 ||binux.me
@@ -6402,6 +6403,7 @@ zomobo.net
 ||indsr.org.tw
 ||inews-api.tvb.com
 ||info-graf.fr
+||infura.io
 ||inherit.live
 ||initiativesforchina.org
 ||inkbunny.net
@@ -6865,6 +6867,7 @@ zomobo.net
 ||lsxszzg.com
 ||ltn.com.tw
 ||luckydesigner.space
+||luckymobile.ca
 ||ludepress.com
 ||luke54.com
 ||luke54.org
@@ -7009,6 +7012,7 @@ zomobo.net
 ||metacafe.com
 ||metacubex.one
 ||metafilter.com
+||metamask.io
 ||metart.com
 ||metarthunter.com
 ||meteorshowersonline.com
