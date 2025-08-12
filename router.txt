@@ -321,7 +321,6 @@ docker.io
 google.com.ng
 quoracdn.net
 google.se
-p16-tiktokcdn-com.akamaized.net
 google.pt
 bloomberg.com
 wunderground.com
@@ -2950,6 +2949,7 @@ curvefish.com
 cusp.hk
 cusu.hk
 cutscenes.net
+cyberctm.com
 cyberghost.natado.com
 cynscribe.com
 cytode.us

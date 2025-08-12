@@ -4667,6 +4667,7 @@ zomobo.net
 ||cutout.pro
 ||cutscenes.net
 ||cw.com.tw
+||cyberctm.com
 ||cyberghostvpn.com
 ||cynscribe.com
 ||cytode.us
@@ -4757,6 +4758,7 @@ zomobo.net
 ||deepdiscount.com
 ||deepmind.com
 ||deezer.com
+||definebabe.com
 ||deja.com
 ||delcamp.net
 ||demo.opera-mini.net
@@ -7089,6 +7091,7 @@ zomobo.net
 ||mixx.com
 ||mizzmona.com
 ||mjib.gov.tw
+||mjlsh.usc.cuhk.edu.hk
 ||mk5000.com
 ||mlc.ai
 ||mlcool.com
@@ -7595,7 +7598,6 @@ zomobo.net
 ||ozvoice.org
 ||ozxw.com
 ||ozyoyo.com
-||p16-tiktokcdn-com.akamaized.net
 ||pachosting.com
 ||pacificpoker.com
 ||packetix.net
