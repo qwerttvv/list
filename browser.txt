@@ -6902,6 +6902,7 @@ zomobo.net
 ||mail.me.com
 ||maildns.xyz
 ||main-ecnpaper-economist.content.pugpig.com
+||mainichi.jp
 ||maiplus.com
 ||maizhong.org
 ||makemymood.com
