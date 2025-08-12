@@ -1009,7 +1009,6 @@
 .kenengba.com
 .kepard.com
 .khabdha.org
-.khmusic.com.tw
 .kik.com
 .kindleren.com
 .kingdomsalvation.org
@@ -1488,7 +1487,6 @@
 .sexandsubmission.com
 .sexbot.com
 .sexhu.com
-.sexhuang.com
 .sexidude.com
 .sextvx.com
 .sfileydy.com
@@ -2282,7 +2280,6 @@ bbs-tw.com
 bbs.brockbbs.com
 bbs.ecstart.com
 bbs.huasing.org
-bbs.kimy.com.tw
 bbs.morbell.com
 bbs.sina.com%2f
 bbs.sina.com/
@@ -3538,7 +3535,6 @@ zomobo.net
 ||aboluowang.com
 ||about.me
 ||abplive.com
-||ac.jp
 ||acast.com
 ||accountkit.com
 ||aceros-de-hispania.com
@@ -5897,7 +5893,6 @@ zomobo.net
 ||gotw.ca
 ||gov.ir
 ||gov.taipei
-||gov.tw
 ||grammaly.com
 ||grandtrial.org
 ||grangorz.org
@@ -6657,15 +6652,19 @@ zomobo.net
 ||kepard.com
 ||kex.com
 ||keycdn.com
+||khabdha.org
 ||khatrimaza.org
+||khmusic.com.tw
 ||kichiku-doujinko.com
 ||kik.com
 ||killwall.com
 ||kindle4rss.com
+||kindleren.com
 ||kingdomsalvation.org
 ||kinghost.com
 ||kingkong.com.tw
 ||kingstone.com.tw
+||kink.com
 ||kinmen.org.tw
 ||kinmen.travel
 ||kinokuniya.com
@@ -8097,9 +8096,11 @@ zomobo.net
 ||ruyiseek.com
 ||rxhj.net
 ||s-cute.com
+||s-dragon.org
 ||s-nbcnews.com
 ||s.yimg.com
 ||s1heng.com
+||s1s1s1.com
 ||s3*.amazonaws.com
 ||s3-ap-*.amazonaws.com
 ||s3-ap-northeast-1.amazonaws.com
@@ -8198,7 +8199,12 @@ zomobo.net
 ||sex.com
 ||sex3.com
 ||sex8.cc
+||sexandsubmission.com
+||sexbot.com
+||sexhu.com
+||sexhuang.com
 ||sexinsex.net
+||sextvx.com
 ||sfileydy.com
 ||sfshibao.com
 ||sftindia.org
