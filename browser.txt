@@ -2187,7 +2187,6 @@
 @@||redirector.gvt1.com
 @@||safebrowsing.googleapis.com
 @@||scitechvista.nat.gov.tw
-@@||simplecd.me
 @@||sina.cn
 @@||sina.com.cn
 @@||siraya-nsa.gov.tw
@@ -3375,7 +3374,6 @@ zomobo.net
 |https://ss*.4sqi.net
 |https://tw-blog.com
 |https://w3s.link/ipfs
-|imb.org
 ||*.goog
 ||*.google
 ||*.youtube
@@ -4745,7 +4743,7 @@ zomobo.net
 ||ddns.info
 ||ddns.mobi
 ||ddns.ms
-||ddns.net/
+||ddns.net
 ||de-sci.org
 ||deadhouse.org
 ||deadline.com
@@ -6368,6 +6366,7 @@ zomobo.net
 ||imagevenue.com
 ||imagezilla.net
 ||imago-images.com
+||imb.org
 ||img*.picturedip.com
 ||img.ly
 ||img.picgo.net
@@ -7187,7 +7186,6 @@ zomobo.net
 ||my-private-network.co.uk
 ||my-proxy.com
 ||my.mail.ru
-||my.opera.com
 ||my.pcloud.com
 ||my03.com
 ||myanniu.com
