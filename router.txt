@@ -2390,6 +2390,7 @@ bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
 betaclouds.net
+betterhash.net
 betternet.co
 bettervpn.com
 bettween.com
