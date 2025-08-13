@@ -2090,7 +2090,6 @@
 @@||adtrafficquality.google
 @@||aftygh.gov.tw
 @@||aide.gov.tw
-@@||ait.org.tw
 @@||aliyun.com
 @@||arte.gov.tw
 @@||baidu.com
@@ -6864,7 +6863,6 @@ zomobo.net
 ||lsmchinese.org
 ||lsmkorean.org
 ||lsmwebcast.com
-||lsxszzg.com
 ||ltn.com.tw
 ||luckydesigner.space
 ||luckymobile.ca
