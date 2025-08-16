@@ -4977,6 +4977,7 @@ zomobo.net
 ||edmontonchina.cn
 ||edns.biz
 ||edoors.com
+||edrdg.org
 ||edubridge.com
 ||edupro.org
 ||edx-cdn.org
