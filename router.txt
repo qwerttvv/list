@@ -574,6 +574,7 @@ mediafire.com
 google.st
 google.com.nf
 musical.ly
+pancakeswap.finance
 opml.radiotime.com
 cdn.printfriendly.com
 rakuten.co.jp
@@ -1682,6 +1683,7 @@ blogspot.com.ar
 sheet.new
 eesti.ee
 lflinkup.org
+privacyguides.org
 authorizeddns.org
 bnext.com.tw
 hoover.org
