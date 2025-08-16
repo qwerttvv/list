@@ -2143,7 +2143,6 @@
 @@||http2.golang.org
 @@||i.pki.goog
 @@||imasdk.googleapis.com
-@@||ime.baidu.jp
 @@||iner.gov.tw
 @@||ip.cn
 @@||ip6.static.sl-reverse.com
@@ -2159,7 +2158,6 @@
 @@||moe.gov.tw
 @@||music.jwmusic.org
 @@||mvdis.gov.tw
-@@||myvlog.im.tv
 @@||nankan.gov.tw
 @@||ncree.gov.tw
 @@||necoast-nsa.gov.tw
@@ -3033,7 +3031,6 @@ zhongguo.ca
 zhongguotese.net
 zhuichaguoji.org
 zomobo.net
-|*api.tenor.com
 |*app.cloudcone.com
 |*apps.evozi.com
 |*ocsp.int-x3.letsencrypt.org
@@ -3696,7 +3693,7 @@ zomobo.net
 ||aofriend.com
 ||aofriend.com.au
 ||aojiao.org
-||aol.ca/
+||aol.ca
 ||aol.co.uk
 ||aol.com
 ||aolnews.com
@@ -4783,7 +4780,6 @@ zomobo.net
 ||dharmakara.net
 ||dhcp.biz
 ||diaoyuislands.org
-||dictionary.goo.ne.jp
 ||difangwenge.org
 ||digg.com
 ||digisfera.com
@@ -6357,7 +6353,6 @@ zomobo.net
 ||illusionfactory.com
 ||ilove80.be
 ||ilovelongtoes.com
-||im.tv
 ||im88.tw
 ||imageab.com
 ||imagefap.com
@@ -8450,7 +8445,7 @@ zomobo.net
 ||sproxy.info
 ||squirly.info
 ||squirrelvpn.com
-||srcf.ucam.org/salon/
+||srcf.ucam.org
 ||srocket.us
 ||ss*.4sqi.net
 ||ss-link.com
@@ -9125,7 +9120,7 @@ zomobo.net
 ||uderzo.it
 ||udn.com
 ||udn.com.tw
-||udnbkk.com/bbs
+||udnbkk.com
 ||udndata.com
 ||uforadio.com.tw
 ||ufreevpn.com
@@ -9143,7 +9138,7 @@ zomobo.net
 ||ultravpn.com
 ||ultravpn.fr
 ||ultraxs.com
-||umich.edu/~falun
+||umich.edu
 ||unblock-us.com
 ||unblock.cn.com
 ||unblockdmm.com
@@ -9199,7 +9194,7 @@ zomobo.net
 ||usinfo.state.gov
 ||usma.edu
 ||usmc.mil
-||usmgtcg.ning.com/forum
+||usmgtcg.ning.com
 ||usno.navy.mil
 ||usocctn.com
 ||ustibetcommittee.org
