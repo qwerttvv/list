@@ -5541,6 +5541,7 @@ zomobo.net
 ||ghanely.me
 ||ghidra-sre.org
 ||ghostpath.com
+||ghproxy.com
 ||ghut.org
 ||giantessnight.com
 ||gifree.com
@@ -5553,6 +5554,7 @@ zomobo.net
 ||github.blog
 ||github.com
 ||github.io
+||github.moeyy.xyz
 ||githubassets.com
 ||githubcopilot.com
 ||githubusercontent.com
