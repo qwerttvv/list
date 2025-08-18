@@ -132,6 +132,7 @@ nyt.com
 xfinity.com
 nytimes.com
 fandom.com
+naver.com
 static01.nyt.com
 statsig.com
 google.com.vn
