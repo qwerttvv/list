@@ -4760,6 +4760,7 @@ zomobo.net
 ||demo.unlock-music.dev
 ||democrats.org
 ||demosisto.hk
+||deno.dev
 ||depositphotos.com
 ||derekhsu.homeip.net
 ||desc.se
@@ -4839,6 +4840,7 @@ zomobo.net
 ||doc.new
 ||docker.com
 ||docker.io
+||docs.deno.com
 ||docs.new
 ||doctorvoice.org
 ||documentingreality.com
@@ -5421,6 +5423,7 @@ zomobo.net
 ||furbo.org
 ||furhhdl.org
 ||furinkan.com
+||furrybar.com
 ||futurechinaforum.org
 ||futuremessage.org
 ||fux.com

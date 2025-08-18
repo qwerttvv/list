@@ -3100,6 +3100,7 @@ delicious.com
 demo.opera-mini.net
 demo.unlock-music.dev
 demosisto.hk
+deno.dev
 derekhsu.homeip.net
 desc.se
 desipro.de
@@ -3140,6 +3141,7 @@ dmc.nico
 dnscrypt.org
 dnssec.net
 dnvod.tv
+docs.deno.com
 doctorvoice.org
 dogfartnetwork.com
 dojin.com
@@ -3612,6 +3614,7 @@ funkyimg.com
 funp.com
 furhhdl.org
 furinkan.com
+furrybar.com
 futurechinaforum.org
 futuremessage.org
 fuyin.net
