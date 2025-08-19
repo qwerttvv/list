@@ -4760,6 +4760,7 @@ zomobo.net
 ||demo.unlock-music.dev
 ||democrats.org
 ||demosisto.hk
+||deno.com
 ||deno.dev
 ||depositphotos.com
 ||derekhsu.homeip.net
