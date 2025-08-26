@@ -33,6 +33,7 @@ googlezip.net
 bidswitch.net
 cdninstagram.com
 typekit.net
+crashlytics.com
 ampproject.org
 use.typekit.net
 tiktokcdn-us.com

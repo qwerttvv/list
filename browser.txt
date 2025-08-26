@@ -2123,17 +2123,14 @@
 @@||epa.gov.tw
 @@||erv-nsa.gov.tw
 @@||fda.gov.tw
+@@||firebase-settings.crashlytics.com
 @@||fontfiles.googleapis.com
 @@||fonts.googleapis.com
 @@||fonts.gstatic.com
 @@||gettyimages.cn
 @@||gettyimages.com
-@@||ggpht.cn
-@@||google.cn
-@@||googleapis.cn
 @@||gov.cn
 @@||grb.gov.tw
-@@||gstatic.cn
 @@||gysd.nyc.gov.tw
 @@||haosou.com
 @@||haygo.com
@@ -2182,6 +2179,7 @@
 @@||post.gov.tw
 @@||qq.com
 @@||redirector.gvt1.com
+@@||safebrowsing-cache.google.com
 @@||safebrowsing.googleapis.com
 @@||scitechvista.nat.gov.tw
 @@||sina.cn
@@ -4616,6 +4614,7 @@ zomobo.net
 ||cpu-monkey.com
 ||cq99.us
 ||crackle.com
+||crashlytics.com
 ||crazypool.org
 ||crazys.cc
 ||crazyshit.com
