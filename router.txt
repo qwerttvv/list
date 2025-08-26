@@ -1488,6 +1488,7 @@ cc.com
 dns1.us
 luckymobile.ca
 herominers.com
+moj.gov.tw
 dnsrd.com
 ikwb.com
 immigration.gov.tw
