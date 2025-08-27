@@ -178,7 +178,6 @@ coinbase.com
 youtu.be
 googlehosted.com
 google.com.vn
-waze.com
 telegram.org
 google.de
 wsimg.com
@@ -485,7 +484,6 @@ huffingtonpost.com
 google.ci
 google.rw
 google.com.et
-int-x3.letsencrypt.org
 myspace.com
 login.steampowered.com
 google.kg
@@ -759,7 +757,6 @@ shopee.tw
 free.fr
 xm.com
 gemini.com
-phobos.apple.com
 williamhill.com
 thetvdb.com
 rd.com
@@ -777,6 +774,7 @@ uptodown.com
 welt.de
 www.nbc.com
 national-lottery.co.uk
+yahooinc.com
 faz.net
 etherscan.io
 politico.eu
@@ -1318,7 +1316,6 @@ googlefiber.net
 blogspot.ca
 google.jp
 voi.id
-blog.livedoor.jp
 annas-archive.se
 excite.co.jp
 citypopulation.de
@@ -2055,6 +2052,7 @@ olehdtv.com
 5278.cc
 5299.tv
 55comic.com
+5657.com.tw
 56cun04.jigsy.com
 5i01.com
 5isotoi5.org
@@ -2836,9 +2834,7 @@ clinica-tibet.ru
 clipconverter.cc
 clipfish.de
 cloakpoint.com
-cloudcone.com
 cloudflare-ipfs.com
-cloudfront.net
 cloudfunctions.net
 club1069.com
 clyp.it
@@ -4271,6 +4267,7 @@ jav68.tv
 jav777.cc
 javakiba.org
 javbus.co
+javbus.sbs
 javfinder.ai
 javfor.me
 javfree.me
@@ -4415,6 +4412,7 @@ koranmandarin.com
 korenan2.com
 kpkuang.org
 kqes.net
+krtc.com.tw
 krtco.com.tw
 ksdl.org
 ksnews.com.tw
@@ -5764,7 +5762,6 @@ squirrelvpn.com
 srcf.ucam.org
 srocket.us
 ss-link.com
-ss.levyhsu.com
 ss.pythonic.life
 ssglobal.co
 ssglobal.me

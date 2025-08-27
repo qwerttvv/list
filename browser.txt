@@ -1,4 +1,3 @@
-*.javbus.*
 .030buy.com
 .0rz.tw
 .1000giri.net
@@ -719,7 +718,6 @@
 .goodreads.com
 .goodtv.com.tw
 .goodtv.tv
-.google.*/falun
 .google.ae
 .google.am
 .google.as
@@ -2059,7 +2057,6 @@
 50.7.31.230:8898
 56cun04.jigsy.com
 5i01.com
-64memo
 64tianwang.com
 64wiki.com
 666kb.com
@@ -2102,6 +2099,7 @@
 @@||chinaz.com
 @@||chukuang.gov.tw
 @@||ci.android.com
+@@||cksmh.gov.tw
 @@||clientservices.googleapis.com
 @@||cn.noxinfluencer.com
 @@||connectivitycheck.gstatic.com
@@ -2122,7 +2120,6 @@
 @@||emmapplecodevice.googleapis.com
 @@||epa.gov.tw
 @@||erv-nsa.gov.tw
-@@||fda.gov.tw
 @@||firebase-settings.crashlytics.com
 @@||fontfiles.googleapis.com
 @@||fonts.googleapis.com
@@ -2131,6 +2128,7 @@
 @@||gettyimages.com
 @@||gov.cn
 @@||grb.gov.tw
+@@||gsn.nat.gov.tw
 @@||gysd.nyc.gov.tw
 @@||haosou.com
 @@||haygo.com
@@ -2147,6 +2145,7 @@
 @@||jpush.cn
 @@||klsio.gov.tw
 @@||kmseh.gov.tw
+@@||library.ntpc.gov.tw
 @@||lungtanhr.gov.tw
 @@||maolin-nsa.gov.tw
 @@||matsu-news.gov.tw
@@ -2154,7 +2153,6 @@
 @@||matsucc.gov.tw
 @@||moe.gov.tw
 @@||music.jwmusic.org
-@@||mvdis.gov.tw
 @@||nankan.gov.tw
 @@||ncree.gov.tw
 @@||necoast-nsa.gov.tw
@@ -2240,7 +2238,6 @@ actfortibet.org
 actimes.com.au
 activpn.com
 adultfriendfinder.com
-ahr0chm6ly95zwnslm5lda
 ai.binwang.me/couplet
 aiweiwei.com
 aliengu.com
@@ -2474,7 +2471,6 @@ freeman2.com
 freemoren.com
 freemorenews.com
 freemuse.org/archives/789
-freenet
 freenet-china.org
 freenewscn.com
 freevpn.nl
@@ -2728,7 +2724,6 @@ peacefire.org
 penchinese.com
 phapluan.org
 philborges.com
-phobos.apple.com*/video
 picturesocial.com
 pioneer-worker.forums-free.com
 piraattilahti.org
@@ -2747,10 +2742,6 @@ proxyroad.com
 pwned.com
 python.com
 pythonhackers.com/p
-q%3dfreedom
-q%3dtriangle
-q=freedom
-q=triangle
 qixianglu.cn
 qoos.com
 qusi8.net
@@ -2765,14 +2756,12 @@ redchinacn.org
 redtube.com
 referer.us
 relaxbbs.com
-remembering_tiananmen_20_years
 renminbao.com
 retweetist.com
 revver.com
 rfalive1.akacast.akamaistream.net
 rfaweb.org
 rthklive2-lh.akamaihd.net
-ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
 rutube.ru
 sacom.hk
@@ -2782,7 +2771,6 @@ savetibet.fr
 savetibet.nl
 savetibet.ru
 savevid.com
-search*safeweb
 secure.logmein.com
 securityinabox.org
 seesmic.com
@@ -2925,8 +2913,6 @@ ufreevpn.com
 uighur.narod.ru
 uighurbiz.net
 ukcdp.co.uk
-ultrareach
-ultrasurf
 ultraxs.com
 umich.edu/~falun
 unblock-us.com
@@ -3029,10 +3015,7 @@ zhongguo.ca
 zhongguotese.net
 zhuichaguoji.org
 zomobo.net
-|*app.cloudcone.com
 |*apps.evozi.com
-|*ocsp.int-x3.letsencrypt.org
-|*parts.blog.livedoor.jp
 |http://*.pimg.tw/
 |http://*.sf.net
 |http://*.tuzaijidi.com
@@ -3462,6 +3445,7 @@ zomobo.net
 ||5278.cc
 ||5299.tv
 ||55comic.com
+||5657.com.tw
 ||5i01.com
 ||611.icu
 ||611study.com
@@ -3508,7 +3492,6 @@ zomobo.net
 ||9cache.com
 ||9gag.com
 ||9news.com.au
-||9to5*.com
 ||a-normal-day.com
 ||a248.e.akamai.net
 ||a5.com.ru
@@ -4523,7 +4506,6 @@ zomobo.net
 ||cloud.mail.ru
 ||cloudflare-dns.com
 ||cloudflare-ipfs.com
-||cloudfront.net
 ||cloudfunctions.net
 ||cloudokyo.cloud
 ||club1069.com
@@ -5898,6 +5880,7 @@ zomobo.net
 ||gotw.ca
 ||gov.ir
 ||gov.taipei
+||gov.tw
 ||grammaly.com
 ||grandtrial.org
 ||grangorz.org
@@ -6516,7 +6499,6 @@ zomobo.net
 ||japan-whores.com
 ||japanhdv.com
 ||japantimes.co.jp
-||jav*.com
 ||jav.com
 ||jav321.com
 ||jav68.tv
@@ -6524,6 +6506,7 @@ zomobo.net
 ||javakiba.org
 ||javbus.co
 ||javbus.com
+||javbus.sbs
 ||javdb.com
 ||javfinder.ai
 ||javfor.me
@@ -6700,6 +6683,7 @@ zomobo.net
 ||kpkuang.org
 ||kqes.net
 ||kraken.com
+||krtc.com.tw
 ||krtco.com.tw
 ||ksdl.org
 ||ksnews.com.tw
@@ -6826,7 +6810,6 @@ zomobo.net
 ||livecoin.net
 ||livedoor.jp
 ||liveleak.com
-||livemap*.waze.com
 ||livemint.com
 ||livestation.com
 ||livestream.com
@@ -8215,6 +8198,7 @@ zomobo.net
 ||sexhuang.com
 ||sexinsex.net
 ||sextvx.com
+||sf.net
 ||sfileydy.com
 ||sfshibao.com
 ||sftindia.org
@@ -8458,9 +8442,7 @@ zomobo.net
 ||squirrelvpn.com
 ||srcf.ucam.org
 ||srocket.us
-||ss*.4sqi.net
 ||ss-link.com
-||ss.levyhsu.com
 ||ss.pythonic.life
 ||ss7.vzw.com
 ||ssglobal.co
@@ -9579,7 +9561,6 @@ zomobo.net
 ||worldcat.org
 ||worldjournal.com
 ||worldpopulationreview.com
-||worldtiles*.waze.com
 ||worldvpn.net
 ||wow-life.net
 ||wow.com
@@ -9742,6 +9723,7 @@ zomobo.net
 ||yahoo.com.hk
 ||yahoo.com.tw
 ||yahoo.net
+||yahooinc.com
 ||yahoosandbox.com
 ||yakbutterblues.com
 ||yam.com
