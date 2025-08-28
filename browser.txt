@@ -2168,6 +2168,7 @@
 @@||ntsec.gov.tw
 @@||ntuh.gov.tw
 @@||nvri.gov.tw
+@@||o.pki.goog
 @@||ocsp.pki.goog
 @@||openwrt.org.cn
 @@||pagead-googlehosted.l.google.com
@@ -3458,6 +3459,7 @@ zomobo.net
 ||666kb.com
 ||666pool.cn
 ||69shu.com
+||69shuba.com
 ||69shuba.cx
 ||6do.news
 ||6do.world
@@ -4885,7 +4887,6 @@ zomobo.net
 ||duanzhihu.com
 ||dubox.com
 ||duck.com
-||duckdns.org
 ||duckduckgo.com
 ||duckmylife.com
 ||duga.jp

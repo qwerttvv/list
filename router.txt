@@ -1038,6 +1038,7 @@ tapatalk.com
 nottinghampost.com
 eksisozluk.com
 trouw.nl
+69shuba.com
 shiksha.com
 881903.com
 wikipedia-on-ipfs.org
@@ -3117,7 +3118,6 @@ dtiblog.com
 dtwang.org
 duanzhihu.com
 dubox.com
-duckdns.org
 duckload.com
 duckmylife.com
 duihua.org
