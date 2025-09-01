@@ -1,0 +1,145 @@
+name: Hello World
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  Hello_World:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+
+      - name: Run script
+        run: |
+          #!/bin/bash -e
+          set -o pipefail
+
+          CUR_DIR=$(pwd)
+          TMP_DIR=$(mktemp -d /tmp/list.XXXXXX)
+
+          SRC_URL_1="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+          SRC_URL_2="https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"
+          SRC_URL_3="https://raw.githubusercontent.com/qwerttvv/list/main/custom.txt"
+          SRC_URL_4="https://www.google.com/supported_domains"
+          SRC_URL_5="https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip"
+
+          fetch_src() {
+              cd $TMP_DIR
+
+              curl -sSL $SRC_URL_1 | base64 -d > list-org.txt
+              curl -sSL $SRC_URL_2 | base64 -d > list-loukky.txt
+              curl -sSL $SRC_URL_3 -o list-custom.txt
+              curl -sSL $SRC_URL_4 -o list-google.txt
+
+              cd $CUR_DIR
+          }
+
+          gen_list() {
+              cd $TMP_DIR
+
+              # patterns from https://github.com/cokebar/gfwlist2dnsmasq/blob/202e52fb5ea2260abc9f162b3a78e58ec9187005/gfwlist2dnsmasq.sh
+              local ignore_pattern='^\!|\[|^@@|(https?://){0,1}[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+'
+              local head_filter_pattern='s#^(\|\|?)?(https?://)?##g'
+              local tail_filter_pattern='s#/.*$|%2F.*$##g'
+              local domain_pattern='([a-zA-Z0-9][-a-zA-Z0-9]*(\.[a-zA-Z0-9][-a-zA-Z0-9]*)+)'
+              local wildcard_pattern='s#^(([a-zA-Z0-9]*\*[-a-zA-Z0-9]*)?(\.))?([a-zA-Z0-9][-a-zA-Z0-9]*(\.[a-zA-Z0-9][-a-zA-Z0-9]*)+)(\*[a-zA-Z0-9]*)?#\4#g'
+
+              # list-org filter
+              grep -vE $ignore_pattern list-org.txt |
+                  sed -r $head_filter_pattern |
+                  sed -r $tail_filter_pattern |
+                  grep -E $domain_pattern |
+                  sed -r $wildcard_pattern > list-org.tmp
+
+              # list-loukky filter
+              grep -vE $ignore_pattern list-loukky.txt |
+                  sed -r $head_filter_pattern |
+                  sed -r $tail_filter_pattern |
+                  grep -E $domain_pattern |
+                  sed -r $wildcard_pattern > list-loukky.tmp
+
+              # list-custom filter
+              grep -vE $ignore_pattern list-custom.txt |
+                  sed -r $head_filter_pattern |
+                  sed -r $tail_filter_pattern |
+                  grep -E $domain_pattern |
+                  sed -r $wildcard_pattern > list-custom.tmp
+
+              # list-google filter
+              sed 's/^\.//' list-google.txt > list-google.tmp
+
+              # merge and remove duplicates
+              files=("list-org.tmp" "list-loukky.tmp" "list-custom.tmp" "list-google.tmp")
+              for file in "${files[@]}"; do
+              sed -i -e '1i\' -e '' -e '$a\' "$file"
+              done
+              cat list-org.tmp list-loukky.tmp list-custom.tmp list-google.tmp | sed 's/[[:space:]]//g' | tr '[:upper:]' '[:lower:]' | awk 'NF' | sort -u > router.tmp
+
+              # list-top filter
+              curl -sSL $SRC_URL_5 |
+                  gunzip |
+                  awk -F ',' '{print $2}' |
+                  sed $'s/\r$//' > top.txt
+
+              # find intersection set
+              grep -Fx -f router.tmp top.txt > list_head.tmp
+              # find difference set
+              grep -Fxv -f top.txt router.tmp > list_tail.tmp
+              # merge to list
+              files=("list_head.tmp" "list_tail.tmp")
+              for file in "${files[@]}"; do
+              sed -i -e '1i\' -e '' -e '$a\' "$file"
+              done
+              cat list_head.tmp list_tail.tmp | awk '!x[$0]++' | grep -v '^$' | grep '^[a-zA-Z0-9]' > router.txt
+
+              # exclude .cn domains
+              sed -i '/.cn$/d' router.txt
+
+              # browser list
+              files=("list-org.txt" "list-loukky.txt" "list-custom.txt")
+              for file in "${files[@]}"; do
+              sed -i -e '1i\' -e '' -e '$a\' "$file"
+              done
+              cat list-org.txt list-loukky.txt list-custom.txt | grep -vE '^(!+|\[|\|\|\|)' | sed 's/[[:space:]]//g' | tr '[:upper:]' '[:lower:]' | awk 'NF' | sort -u > browser.txt
+
+              # exclude .cn domains
+              sed -i '/.cn$/d' browser.txt
+
+              cd $CUR_DIR
+          }
+
+          copy_dest() {
+              install -D -m 644 $TMP_DIR/{router.txt,browser.txt} $CUR_DIR 
+          }
+
+          fetch_src
+          gen_list
+          copy_dest
+          
+
+      - name: push
+        uses: EndBug/add-and-commit@main
+        with:
+          default_author: github_actions
+          message: "Hello World"
+          add: "*.txt"
+          
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 2
+          keep_minimum_runs: 22
+        continue-on-error: true
+        
+      - name: purge
+        run: |
+          sleep 6
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/list/router.txt
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/list/browser.txt
+          sleep 6
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/list/router.txt
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/list/browser.txt
