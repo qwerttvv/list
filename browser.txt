@@ -3012,6 +3012,7 @@ zomobo.net
 |http://akademiye.org/ug
 |http://alanhou.com
 |http://amitabhafoundation.us
+|http://ampproject.org
 |http://andygod.com
 |http://antiwave.net
 |http://anysex.com
@@ -3314,6 +3315,7 @@ zomobo.net
 |http://zhongguorenquan.org
 |https://*.s3.amazonaws.com
 |https://aiss.anws.gov.tw
+|https://ampproject.org
 |https://bartender.dowjones.com
 |https://chinanewscenter.com
 |https://fbcdn*.akamaihd.net/
@@ -5758,7 +5760,6 @@ zomobo.net
 ||googleplay.com
 ||googleplus.com
 ||googlescholar.com
-||googlesile.com
 ||googlesource.com
 ||googlesyndication.com
 ||googleusercontent.com
@@ -6069,8 +6070,6 @@ zomobo.net
 ||htkou.net
 ||htl.li
 ||html5rocks.com
-||http://ampproject.org
-||https://ampproject.org
 ||hua-yue.net
 ||huaglad.com
 ||huaibinmall.com
