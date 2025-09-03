@@ -3475,7 +3475,6 @@ zomobo.net
 ||abc.com
 ||abc.net.au
 ||abc.xyz
-||abchinese.com
 ||abebooks.co.uk
 ||abebooks.com
 ||abematv.akamaized.net
@@ -4053,6 +4052,8 @@ zomobo.net
 ||bsky.network
 ||bsky.social
 ||bt2mag.com
+||bt4g.org
+||bt4gprx.com
 ||bt95.com
 ||btaia.com
 ||btbit.net
