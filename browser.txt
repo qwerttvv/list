@@ -2072,6 +2072,7 @@
 @@|https://www.ampproject.org
 @@||*.googleanalytics.com
 @@||*.googlesyndication.com
+@@||*.ipify.org
 @@||about.fb.com
 @@||adservice.google.com
 @@||adtrafficquality.google
@@ -6316,6 +6317,7 @@ zomobo.net
 ||iphonetaiwan.org
 ||iphonix.fr
 ||ipicture.ru
+||ipify.org
 ||ipjetable.net
 ||ipobar.com
 ||ipoock.com
