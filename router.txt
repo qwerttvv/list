@@ -972,6 +972,7 @@ imageshack.us
 radio.garden
 ok.xxx
 iwara.tv
+note.com
 69shuba.com
 oann.com
 rd.com
@@ -1054,6 +1055,7 @@ ddns.info
 goo.ne.jp
 thumbzilla.com
 1688.com.au
+javtrailers.com
 shiksha.com
 bahamut.com.tw
 calameo.com
@@ -1266,6 +1268,7 @@ smith.edu
 emuparadise.me
 hsex.men
 lih.kg
+booklive.jp
 cdn-telegram.org
 csis.org
 twttr.com
@@ -1320,6 +1323,7 @@ wallhaven.cc
 000webhost.com
 mirrormedia.mg
 shopping.yahoo.co.jp
+bookwalker.jp
 ciciaicdn.com
 plurk.com
 eeas.europa.eu
@@ -1631,6 +1635,7 @@ sankei.com
 shenyunperformingarts.org
 stitcher.com
 sunporno.com
+tbs.co.jp
 d2pass.com
 flyvpn.com
 fxnetworks.com
@@ -1803,6 +1808,7 @@ updates.tdesktop.com
 glock.com
 labiennale.org
 news1.kr
+bookmeter.com
 getchu.com
 in.com
 ydy.com
@@ -1845,6 +1851,7 @@ thinkwithgoogle.com
 topsy.com
 cpj.org
 ctwant.com
+okinawatimes.co.jp
 pornhost.com
 vern.cc
 voaindonesia.com
@@ -4407,6 +4414,7 @@ kiwi.kz
 kk-whys.co.jp
 kmuh.org.tw
 knowledgerush.com
+kobe-np.co.jp
 kodingen.com
 kompozer.net
 konachan.com

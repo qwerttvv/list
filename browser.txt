@@ -4012,9 +4012,12 @@ zomobo.net
 ||book.com.tw
 ||bookdepository.com
 ||bookepub.com
+||booklive.jp
+||bookmeter.com
 ||books.com.tw
 ||booktopia.com.au
 ||bookwalker.com.tw
+||bookwalker.jp
 ||bootstrapcdn.com
 ||borgenmagazine.com
 ||bot.nu
@@ -6418,6 +6421,7 @@ zomobo.net
 ||javmoo.xyz
 ||javseen.com
 ||javtag.com
+||javtrailers.com
 ||javzoo.com
 ||javzz.com
 ||jbtalks.cc
@@ -6565,6 +6569,7 @@ zomobo.net
 ||knowledgerush.com
 ||knowyourmeme.com
 ||ko-fi.com
+||kobe-np.co.jp
 ||kobo.com
 ||kobobooks.com
 ||kodingen.com
@@ -7276,6 +7281,7 @@ zomobo.net
 ||nordstromrack.com
 ||nordvpn.com
 ||nos.nl
+||note.com
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
 ||notion.site
@@ -7383,6 +7389,7 @@ zomobo.net
 ||okayfreedom.com
 ||okcoin.com
 ||okex.com
+||okinawatimes.co.jp
 ||okk.tw
 ||okpool.me
 ||okx.com
@@ -8528,6 +8535,7 @@ zomobo.net
 ||tbjyt.org
 ||tbrc.org
 ||tbs-rainbow.org
+||tbs.co.jp
 ||tbsec.org
 ||tbskkinabalu.page.tl
 ||tbsn.org
