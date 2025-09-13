@@ -143,6 +143,7 @@ signal.org
 google.ca
 cbsnews.com
 flurry.com
+mcusercontent.com
 bbc.co.uk
 viber.com
 xfinity.com
@@ -5817,6 +5818,7 @@ taiwanus.net
 taiwanyes.com
 taiwanyes.ning.com
 talk853.com
+talkatone.com
 talkboxapp.com
 talkcc.com
 talkonly.net
