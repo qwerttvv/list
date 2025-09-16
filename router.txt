@@ -56,6 +56,7 @@ redditstatic.com
 bootstrapcdn.com
 t.co
 mail.me.com
+btloader.com
 twimg.com
 tiktokcdn.com
 ads-twitter.com
