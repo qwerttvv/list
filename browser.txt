@@ -5361,6 +5361,7 @@ zomobo.net
 ||gardennetworks.com
 ||gardennetworks.org
 ||gartlive.com
+||garudalinux.org
 ||gate-project.com
 ||gate.io
 ||gatecoin.com
@@ -5451,6 +5452,7 @@ zomobo.net
 ||githubassets.com
 ||githubcopilot.com
 ||githubusercontent.com
+||gitlab.com
 ||gitlab.net
 ||gizlen.net
 ||gjczz.com
@@ -7259,6 +7261,7 @@ zomobo.net
 ||ninecommentaries.com
 ||ninjacloak.com
 ||ninjaproxy.ninja
+||nirsoft.net
 ||nitter.cc
 ||nitter.net
 ||niu.moe
@@ -9266,6 +9269,7 @@ zomobo.net
 ||vpnvip.com
 ||vpnworldwide.com
 ||vporn.com
+||vpsxb.net
 ||vraiesagesse.net
 ||vrchat.com
 ||vrmtr.com

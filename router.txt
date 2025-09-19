@@ -274,6 +274,7 @@ staticflickr.com
 nypost.com
 dropboxapi.com
 istockphoto.com
+gitlab.com
 google.co.vi
 aljazeera.com
 bsky.app
@@ -1252,6 +1253,7 @@ zinio.com
 gmodules.com
 ibtimes.com
 6parkbbs.com
+nirsoft.net
 punjab.gov.pk
 newsblur.com
 turbobit.net
@@ -1457,6 +1459,7 @@ jamestown.org
 t66y.com
 baby-kingdom.com
 9news.com.au
+garudalinux.org
 otzo.com
 t35.com
 toythieves.com
@@ -6459,6 +6462,7 @@ vpnuk.info
 vpnworldwide.com
 vporn.com
 vpser.net
+vpsxb.net
 vraiesagesse.net
 vrmtr.com
 vrsmash.com
