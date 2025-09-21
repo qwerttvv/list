@@ -272,7 +272,6 @@ google.fr
 twitchcdn.net
 istockphoto.com
 staticflickr.com
-gitlab.com
 reuters.com
 dropboxapi.com
 nypost.com
@@ -937,6 +936,7 @@ cam4.com
 imageshack.us
 mobile01.com
 pimg.tw
+about.gitlab.com
 freeones.com
 nyaa.si
 hide.me
