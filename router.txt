@@ -706,6 +706,7 @@ redtube.com
 overcast.fm
 typepad.com
 vercel.com
+api.palworldgame.com
 b.hatena.ne.jp
 greenpeace.org
 cdn.printfriendly.com
@@ -1472,6 +1473,7 @@ alternativeto.net
 ethermine.org
 linksalpha.com
 mynetav.net
+octocaptcha.com
 bravotube.net
 cachefly.com
 eeas.europa.eu

@@ -3665,6 +3665,7 @@ zomobo.net
 ||api-verify.recaptcha.net
 ||api.ai
 ||api.dropboxapi.com
+||api.palworldgame.com
 ||api.pureapk.com
 ||api.recaptcha.net
 ||api.steampowered.com
@@ -7379,6 +7380,7 @@ zomobo.net
 ||ocreampies.com
 ||ocry.com
 ||october-review.org
+||octocaptcha.com
 ||oculus.com
 ||oculuscdn.com
 ||odysee.com
