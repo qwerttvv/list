@@ -4538,6 +4538,7 @@ zomobo.net
 ||ct.org.tw
 ||ctao.org
 ||ctfriend.net
+||ctinets.com
 ||ctinews.com
 ||ctitv.com.tw
 ||ctowc.org
@@ -6311,6 +6312,7 @@ zomobo.net
 ||internet.org
 ||internetfreedom.org
 ||internetpopculture.com
+||interseclab.org
 ||inthenameofconfuciusmovie.com
 ||investigating.wordpress.com
 ||invidio.us
