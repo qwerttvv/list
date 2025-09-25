@@ -114,6 +114,7 @@ google.co.uk
 google.co.id
 aol.com
 discord.media
+wikipedia.com
 static01.nyt.com
 wordpress.com
 webpkgcache.com
