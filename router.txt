@@ -446,6 +446,7 @@ google.hr
 ua5v.com
 telegraph.co.uk
 google.jo
+fb.gg
 podbean.com
 google.com.jm
 medicalnewstoday.com
@@ -856,6 +857,7 @@ boyfriendtv.com
 nutaku.net
 onestore.co.kr
 m.me
+sueddeutsche.de
 nicovideo.jp
 player.fm
 youmaker.com
@@ -959,6 +961,7 @@ nyaa.si
 tsdr.uspto.gov
 tvunetworks.com
 vrchat.com
+rb.gy
 fnac.com
 uscg.mil
 is.gd
@@ -1367,6 +1370,7 @@ olelive.com
 yodobashi.com
 tfhub.dev
 moneydj.com
+sz.de
 arvanstorage.ir
 shopping.com
 somee.com
@@ -1445,7 +1449,6 @@ centauro.com.br
 picacomic.com
 hotspotshield.com
 pttweb.cc
-youtube.co
 bignewsnetwork.com
 coolstuffinc.com
 media.nu.nl
@@ -2073,6 +2076,7 @@ agro.hk
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.ls
 aiosearch.com
 aiph.net
 aisex.com
@@ -2199,6 +2203,7 @@ arlingtoncemetery.mil
 art4tibet1998.org
 artofpeacefoundation.org
 arunachalforests.gov.in
+as.mr
 asdfg.jp
 asg.to
 asia-gaming.com
