@@ -893,6 +893,7 @@ imageshack.us
 huaren.us
 note.com
 pixiv.org
+tampabay.com
 writesonic.com
 pritunl.com
 udn.com.tw
@@ -2435,7 +2436,6 @@ blogcatalog.com
 blogcity.me
 blogdns.org
 blogjav.net
-blogs.tampabay.com
 blogspot.com
 blogtd.net
 blogtd.org

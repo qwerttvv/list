@@ -3988,7 +3988,6 @@ zomobo.net
 ||blogjav.net
 ||bloglines.com
 ||bloglovin.com
-||blogs.tampabay.com
 ||blogspot.com
 ||blogtd.net
 ||blogtd.org
@@ -8492,6 +8491,7 @@ zomobo.net
 ||talkcc.com
 ||talkonly.net
 ||tamiaode.tk
+||tampabay.com
 ||tanc.org
 ||tangben.com
 ||tangren.us
