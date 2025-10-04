@@ -1096,7 +1096,6 @@
 .maplew.com
 .martsangkagyuofficial.org
 .marxist.com
-.marxists.org/chinese
 .maxing.jp
 .mcaf.ee
 .md-t.org
@@ -6783,6 +6782,7 @@ zomobo.net
 ||martsangkagyuofficial.org
 ||marxist.com
 ||marxist.net
+||marxists.org
 ||mash.to
 ||mashash.com
 ||maskedip.com
