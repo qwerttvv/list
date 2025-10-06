@@ -2095,7 +2095,6 @@
 @@||clientservices.googleapis.com
 @@||cn.noxinfluencer.com
 @@||connectivitycheck.gstatic.com
-@@||corp.google.com
 @@||crashlyticsreports-pa.googleapis.com
 @@||crl.pki.goog
 @@||cromotc.nat.gov.tw
