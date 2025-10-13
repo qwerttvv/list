@@ -4695,7 +4695,6 @@ zomobo.net
 ||discuss.com.hk
 ||discuss4u.com
 ||dish.com
-||disk.yandex.*
 ||disk.yandex.com
 ||disk.yandex.ru
 ||disney-plus.net
@@ -8823,6 +8822,7 @@ zomobo.net
 ||trt.net.tr
 ||truebuddha-md.org
 ||trulyergonomic.com
+||trustwallet.com
 ||truthontour.org
 ||truthsocial.com
 ||truveo.com
@@ -9699,14 +9699,13 @@ zomobo.net
 ||yyjlymb.xyz
 ||yysub.net
 ||yzzk.com
-||z-lib.*
 ||z-lib.fm
 ||z-lib.fo
 ||z-lib.gd
 ||z-lib.gl
 ||z-lib.io
 ||z-lib.org
-||z-library.*
+||z-library.ec
 ||z-library.sk
 ||zacebook.com
 ||zalmos.com

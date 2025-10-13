@@ -766,6 +766,7 @@ udn.com
 ground.news
 thepiratebay.org
 abc.com
+trustwallet.com
 onestore.co.kr
 dcard.tw
 e-hentai.org
@@ -1767,6 +1768,7 @@ i.111666.best
 taiwanus.net
 tfhub.dev
 yodobashi.com
+z-library.ec
 biggo.com.tw
 book.com.tw
 korea.net
@@ -3148,7 +3150,6 @@ dipity.com
 directcreative.com
 discoins.com
 discuss4u.com
-disk.yandex.*
 dit-inc.us
 diyin.org
 dizhidizhi.com
