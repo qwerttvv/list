@@ -46,6 +46,7 @@ use.typekit.net
 crwdcntrl.net
 reddit.com
 tiktokv.us
+dns.google
 yimg.com
 nflxso.net
 s.yimg.com
@@ -109,6 +110,8 @@ google.co.uk
 api.steampowered.com
 discord.media
 youtube-nocookie.com
+googl.com
+syndicatedsearch.goog
 nytimes.com
 tenor.com
 discordapp.net
@@ -218,6 +221,7 @@ pornhub.com
 otto.de
 dailymail.co.uk
 blogger.com
+agnss.goog
 google.com.sg
 wsj.net
 admob.com
@@ -326,6 +330,7 @@ bloomberg.com
 google.com.pk
 ft.com
 stackoverflow.com
+share.google
 google.co.ve
 ss7.vzw.com
 quoracdn.net
@@ -375,6 +380,7 @@ character.ai
 google.com.mm
 tinyurl.com
 threads.com
+zdns.google
 forbes.com
 omny.fm
 google.iq
@@ -786,6 +792,7 @@ yts.mx
 1337x.to
 wikibooks.org
 nikkei.com
+about.google
 abc.net.au
 livemint.com
 mediawiki.org
@@ -905,6 +912,7 @@ youmaker.com
 chromeexperiments.com
 artsy.net
 jable.tv
+labs.google
 dot.ca.gov
 thehindu.com
 hkjc.com
@@ -923,6 +931,7 @@ urbandictionary.com
 hanime.tv
 acg.rip
 tvunetworks.com
+blog.google
 i.lithium.com
 nat.gov.tw
 storage.yandex.net
@@ -1134,6 +1143,7 @@ efukt.com
 trouw.nl
 sendspace.com
 18comic.vip
+ai.google
 myreadingmanga.info
 androidtv.com
 now.com
@@ -1278,6 +1288,7 @@ yousendit.com
 dwnews.com
 ipfire.org
 aei.org
+deepmind.google
 googlefiber.net
 heritage.org
 myspacecdn.com
@@ -1322,6 +1333,7 @@ pinterest.de
 f2pool.com
 iredmail.org
 c.mi.com
+safety.google
 punjab.gov.pk
 freedomhouse.org
 gagaoolala.com
@@ -1424,6 +1436,7 @@ ci-en.jp
 esurance.com
 ethermine.org
 oricon.co.jp
+gogle.com
 lvv2.com
 mahjongsoul.com
 nyti.ms
@@ -1450,6 +1463,7 @@ bastillepost.com
 duck.com
 tbs.co.jp
 dns05.com
+grow.google
 hkepc.com
 sextvx.com
 x24hr.com
@@ -1535,6 +1549,7 @@ hidemyass.com
 islamhouse.com
 mstdn.social
 comments.app
+research.google
 theprint.in
 transparency.org
 cloud.dify.ai
@@ -1600,6 +1615,7 @@ qhigh.com
 cdn-telegram.org
 hizb-ut-tahrir.info
 4dq.com
+chromeenterprise.google
 citypopulation.de
 alwaysdata.com
 bt4gprx.com
@@ -1643,6 +1659,7 @@ lflink.com
 toythieves.com
 51.ca
 cn.uptodown.com
+families.google
 joinmastodon.org
 ourhobby.com
 stackcommerce.net
@@ -1811,6 +1828,7 @@ news.now.com
 npa.go.jp
 porntube.com
 youtubegaming.com
+asianfanfics.com
 google.com.iq
 paste.ee
 pincong.rocks
@@ -1839,6 +1857,7 @@ popo.tw
 slides.com
 xanga.com
 businessweek.com
+domains.google
 lushstories.com
 npm.gov.tw
 pen.io
@@ -1855,6 +1874,7 @@ springboardplatform.com
 findmespot.com
 metart.com
 news1.kr
+io.google
 kwcg.ca
 money-link.com.tw
 npm.edu.tw
@@ -1890,6 +1910,7 @@ jkforum.net
 kingdomsalvation.org
 privacyguides.org
 radiko.jp
+tv.google
 veoh.com
 appledaily.com
 me.me
@@ -2424,6 +2445,10 @@ bewww.net
 beyondfirewall.com
 bfnn.org
 bfsh.hk
+bg-call-donation-alpha.goog
+bg-call-donation-canary.goog
+bg-call-donation-dev.goog
+bg-call-donation.goog
 bgme.me
 bgvpn.com
 bianlei.com
@@ -2574,6 +2599,7 @@ bumingbai.net
 bunbunhk.com
 busayari.com
 business.page
+businessmessages.google
 busu.org
 busytrade.com
 buugaa.com
@@ -2836,6 +2862,7 @@ clipfish.de
 cloakpoint.com
 cloudflare-ipfs.com
 cloudfunctions.net
+cloudpartnerservices.goog
 club1069.com
 clyp.it
 cmcn.org
@@ -2881,6 +2908,7 @@ coinut.com
 colacloud.net
 collateralmurder.com
 collateralmurder.org
+com.google
 comic-mega.me
 commandarms.com
 commentshk.com
@@ -3019,6 +3047,7 @@ deno.com
 deno.dev
 derekhsu.homeip.net
 desc.se
+design.google
 desipro.de
 dessci.com
 destiny.xfiles.to
@@ -3043,6 +3072,7 @@ directcreative.com
 discoins.com
 discuss4u.com
 dit-inc.us
+diversity.google
 diyin.org
 dizhidizhi.com
 dizhuzhishang.com
@@ -3198,6 +3228,9 @@ englishfromengland.co.uk
 englishpen.org
 enlighten.org.tw
 entermap.com
+enterprisedemo-google.com
+enterprisedemogoogle.org
+enterprisemarketingportal.google
 entnt.com
 epac.to
 epochhk.com
@@ -3994,7 +4027,6 @@ html5rocks.com
 https443.org
 hua-yue.net
 huaglad.com
-huaibinmall.com
 huanghuagang.org
 huangyiyu.com
 huaren4us.com
@@ -5004,6 +5036,7 @@ opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
+opensource.google
 opentech.fund
 openwebster.com
 opus-gaming.com
@@ -5287,6 +5320,7 @@ qstatus.com
 qtrac.eu
 qtweeter.com
 quannengshen.org
+quantumai.google
 questvisual.com
 quitccp.net
 quitccp.org
@@ -5347,6 +5381,7 @@ redditlist.com
 redhotlabs.com
 referer.us
 reflectivecode.com
+registry.google
 relaxbbs.com
 relay.com.tw
 releaseinternational.org
@@ -5558,6 +5593,7 @@ simplecd.me
 simplecd.org
 simpleproductivityblog.com
 simplex.chat
+simtransfer.goog
 sina.com.hk
 singfortibet.com
 singlelogin.me
@@ -5590,6 +5626,7 @@ sixth.biz
 sjrt.org
 sketchappsources.com
 skimtube.com
+skintone.google
 skyking.com.tw
 skyxvpn.com
 slandr.net
@@ -5686,6 +5723,7 @@ sproxy.info
 squirly.info
 squirrelvpn.com
 srcf.ucam.org
+sre.google
 srocket.us
 ss-link.com
 ss.pythonic.life
@@ -5729,13 +5767,13 @@ sto.cc
 stoporganharvesting.org
 stoptibetcrisis.net
 storagenewsletter.com
+stories.google
 stormmediagroup.com
 storry.tv
 stoweboyd.com
 stranabg.com
 straplessdildo.com
 streamingthe.net
-striek.com
 strongvpn.com
 strongwindpress.com
 student.tw

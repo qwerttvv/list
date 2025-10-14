@@ -3327,9 +3327,6 @@ zomobo.net
 |https://ss*.4sqi.net
 |https://tw-blog.com
 |https://w3s.link/ipfs
-||*.goog
-||*.google
-||*.youtube
 ||000webhost.com
 ||0rz.tw
 ||1-apple.com.tw
@@ -3485,6 +3482,7 @@ zomobo.net
 ||ablwang.com
 ||aboluowang.com
 ||about.gitlab.com
+||about.google
 ||about.me
 ||abplive.com
 ||acast.com
@@ -3530,10 +3528,12 @@ zomobo.net
 ||afreecatv.com
 ||agemys.net
 ||agnesb.fr
+||agnss.goog
 ||agoogleaday.com
 ||agro.hk
 ||ai-kan.net
 ||ai-wen.net
+||ai.google
 ||ai.ls
 ||aiosearch.com
 ||aiph.net
@@ -3731,6 +3731,7 @@ zomobo.net
 ||asiaharvest.org
 ||asianage.com
 ||asianews.it
+||asianfanfics.com
 ||asiansexdiary.com
 ||asiaone.com
 ||asiatgp.com
@@ -3902,6 +3903,10 @@ zomobo.net
 ||beyondfirewall.com
 ||bfnn.org
 ||bfsh.hk
+||bg-call-donation-alpha.goog
+||bg-call-donation-canary.goog
+||bg-call-donation-dev.goog
+||bg-call-donation.goog
 ||bgme.me
 ||bgvpn.com
 ||biantailajiao.com
@@ -3971,6 +3976,7 @@ zomobo.net
 ||blog.expofutures.com
 ||blog.fizzik.com
 ||blog.fuckgfw233.org
+||blog.google
 ||blog.jackjia.com
 ||blog.kangye.org
 ||blog.pathtosharepoint.com
@@ -4094,6 +4100,7 @@ zomobo.net
 ||business.page
 ||business.site
 ||businessinsider.com
+||businessmessages.google
 ||businesstoday.com.tw
 ||businessweek.com
 ||businessweekly.com.tw
@@ -4362,6 +4369,7 @@ zomobo.net
 ||chrlawyers.hk
 ||chrome.com
 ||chromecast.com
+||chromeenterprise.google
 ||chromeexperiments.com
 ||chromercise.com
 ||chromestatus.com
@@ -4422,6 +4430,7 @@ zomobo.net
 ||cloudflare-ipfs.com
 ||cloudfunctions.net
 ||cloudokyo.cloud
+||cloudpartnerservices.goog
 ||club1069.com
 ||clubhouseapi.com
 ||clyp.it
@@ -4473,6 +4482,7 @@ zomobo.net
 ||colacloud.net
 ||collateralmurder.com
 ||collateralmurder.org
+||com.google
 ||comefromchina.com
 ||comic-mega.me
 ||commandarms.com
@@ -4647,6 +4657,7 @@ zomobo.net
 ||deepai.org
 ||deepdiscount.com
 ||deepmind.com
+||deepmind.google
 ||deezer.com
 ||definebabe.com
 ||deja.com
@@ -4660,6 +4671,7 @@ zomobo.net
 ||depositphotos.com
 ||derekhsu.homeip.net
 ||desc.se
+||design.google
 ||desipro.de
 ||dessci.com
 ||destroy-china.jp
@@ -4703,6 +4715,7 @@ zomobo.net
 ||disp.cc
 ||disqus.com
 ||dit-inc.us
+||diversity.google
 ||diyin.org
 ||dizhidizhi.com
 ||dizhuzhishang.com
@@ -4722,6 +4735,7 @@ zomobo.net
 ||dmm.com
 ||dns-dns.com
 ||dns-stuff.com
+||dns.google
 ||dns04.com
 ||dns05.com
 ||dns1.us
@@ -4746,6 +4760,7 @@ zomobo.net
 ||dolf.org.hk
 ||domain.glass
 ||domainhelp.search.com
+||domains.google
 ||domaintoday.com.au
 ||dongtaiwang.com
 ||dongtaiwang.net
@@ -4908,6 +4923,9 @@ zomobo.net
 ||englishpen.org
 ||enlighten.org.tw
 ||entermap.com
+||enterprisedemo-google.com
+||enterprisedemogoogle.org
+||enterprisemarketingportal.google
 ||entnt.com
 ||epac.to
 ||episcopalchurch.org
@@ -5048,6 +5066,7 @@ zomobo.net
 ||faluninfo.net
 ||falunpilipinas.net
 ||falunworld.net
+||families.google
 ||familyfed.org
 ||famunion.com
 ||fan-qiang.com
@@ -5507,6 +5526,7 @@ zomobo.net
 ||godsdirectcontact.org.tw
 ||godsimmediatecontact.com
 ||gofundme.com
+||gogle.com
 ||gogle.de
 ||gogole.com
 ||gogotunnel.com
@@ -5538,6 +5558,7 @@ zomobo.net
 ||goodtv.tv
 ||goofind.com
 ||googel.de
+||googl.com
 ||google
 ||google-analytics.com
 ||google-base.de
@@ -5822,6 +5843,7 @@ zomobo.net
 ||grok.com
 ||grotty-monday.com
 ||ground.news
+||grow.google
 ||gsearch.media
 ||gsp.target.com
 ||gstatic.com
@@ -6087,7 +6109,6 @@ zomobo.net
 ||html5rocks.com
 ||hua-yue.net
 ||huaglad.com
-||huaibinmall.com
 ||huanghuagang.org
 ||huangyiyu.com
 ||huaren.us
@@ -6274,6 +6295,7 @@ zomobo.net
 ||investigating.wordpress.com
 ||invidio.us
 ||inxian.com
+||io.google
 ||ipalter.com
 ||ipdefenseforum.com
 ||ipfire.org
@@ -6573,6 +6595,7 @@ zomobo.net
 ||la-forum.org
 ||lab.skk.moe
 ||labiennale.org
+||labs.google
 ||ladbrokes.com
 ||lagranepoca.com
 ||lala.im
@@ -7412,6 +7435,7 @@ zomobo.net
 ||openid.net
 ||openleaks.org
 ||opensea.io
+||opensource.google
 ||openstreetmap.org
 ||opentech.fund
 ||openvpn.net
@@ -7797,6 +7821,7 @@ zomobo.net
 ||qtrac.eu
 ||qtweeter.com
 ||quannengshen.org
+||quantumai.google
 ||questvisual.com
 ||quitccp.net
 ||quitccp.org
@@ -7883,6 +7908,7 @@ zomobo.net
 ||redtube.com
 ||referer.us
 ||reflectivecode.com
+||registry.google
 ||relay.com.tw
 ||relay.firefox.com
 ||releaseinternational.org
@@ -7890,6 +7916,7 @@ zomobo.net
 ||religioustolerance.org
 ||renminbao.com
 ||renyurenquan.org
+||research.google
 ||resilio.com
 ||resistchina.org
 ||retweeteffect.com
@@ -7984,6 +8011,7 @@ zomobo.net
 ||safechat.com
 ||safeguarddefenders.com
 ||safervpn.com
+||safety.google
 ||sagernet.org
 ||saintyculture.com
 ||sakura-paris.org
@@ -8094,6 +8122,7 @@ zomobo.net
 ||shapeservices.com
 ||share-videos.se
 ||share.america.gov
+||share.google
 ||sharebee.com
 ||sharecool.org
 ||sharpdaily.com.hk
@@ -8146,6 +8175,7 @@ zomobo.net
 ||simplecd.org
 ||simpleswap.io
 ||simplex.chat
+||simtransfer.goog
 ||sina.com.hk
 ||sinchew.com.my
 ||singaporepools.com.sg
@@ -8182,6 +8212,7 @@ zomobo.net
 ||sjrt.org
 ||sketchappsources.com
 ||skimtube.com
+||skintone.google
 ||skybet.com
 ||skyking.com.tw
 ||skykiwi.com
@@ -8311,6 +8342,7 @@ zomobo.net
 ||squirly.info
 ||squirrelvpn.com
 ||srcf.ucam.org
+||sre.google
 ||srocket.us
 ||ss-link.com
 ||ss.pythonic.life
@@ -8372,6 +8404,7 @@ zomobo.net
 ||storage.yandex.net
 ||storagenewsletter.com
 ||store.steampowered.com
+||stories.google
 ||storify.com
 ||storj.io
 ||storm.mg
@@ -8385,7 +8418,6 @@ zomobo.net
 ||streamate.com
 ||streamingthe.net
 ||streema.com
-||striek.com
 ||strikingly.com
 ||strongvpn.com
 ||strongwindpress.com
@@ -8443,6 +8475,7 @@ zomobo.net
 ||sylfoundation.org
 ||synapse.org
 ||syncback.com
+||syndicatedsearch.goog
 ||synergyse.com
 ||syosetu.com
 ||sytes.net
@@ -8881,6 +8914,7 @@ zomobo.net
 ||tushycash.com
 ||tuvpn.com
 ||tuzaijidi.com
+||tv.google
 ||tv.jtbc.joins.com
 ||tvboxnow.com
 ||tvbs.com.tw
@@ -9717,6 +9751,7 @@ zomobo.net
 ||zattoo.com
 ||zb.com
 ||zdnet.com.tw
+||zdns.google
 ||zello.com
 ||zengjinyan.org
 ||zenmate.com
