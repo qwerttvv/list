@@ -31,6 +31,7 @@ spotify.com
 rlcdn.com
 onedrive.live.com
 bidswitch.net
+telephony.goog
 cdninstagram.com
 typekit.net
 use.typekit.net
