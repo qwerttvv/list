@@ -956,6 +956,7 @@ tvunetworks.com
 clips4sale.com
 uscg.mil
 ibiblio.org
+lmarena.ai
 f-droid.org
 mobile01.com
 pbworks.com
@@ -2676,6 +2677,7 @@ certificate-transparency.org
 certificate.revocationcheck.com
 cfhks.org.hk
 cfos.de
+cfsh99.com
 cftfc.com
 cgdepot.org
 cgst.edu
@@ -3244,7 +3246,6 @@ etools.ncol.com
 etowns.net
 etowns.org
 etvonline.hk
-eu.org
 eucasino.com
 eulam.com
 eurekavpt.com

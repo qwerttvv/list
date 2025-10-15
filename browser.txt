@@ -4252,6 +4252,7 @@ zomobo.net
 ||cfhks.org.hk
 ||cfos.de
 ||cfr.org
+||cfsh99.com
 ||cftfc.com
 ||cgdepot.org
 ||cgst.edu
@@ -4984,7 +4985,6 @@ zomobo.net
 ||etowns.org
 ||etsy.com
 ||ettoday.net
-||eu.org
 ||eucasino.com
 ||eulam.com
 ||eurekavpt.com
@@ -6706,6 +6706,7 @@ zomobo.net
 ||liwangyang.com
 ||lizhizhuangbi.com
 ||llss.me
+||lmarena.ai
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
