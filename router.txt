@@ -2659,7 +2659,6 @@ cdnews.com.tw
 cdp1989.org
 cdp1998.org
 cdp2006.org
-cdpa.url.tw
 cdpeu.org
 cdpuk.co.uk
 cdpusa.org
