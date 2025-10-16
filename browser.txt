@@ -5557,6 +5557,7 @@ zomobo.net
 ||goodtv.com.tw
 ||goodtv.tv
 ||goofind.com
+||goog
 ||googel.de
 ||googl.com
 ||google
