@@ -4268,6 +4268,7 @@ zomobo.net
 ||chaos.social
 ||chapm25.com
 ||character.ai
+||chardb.iis.sinica.edu.tw
 ||chat.lmsys.org
 ||chatgpt.com
 ||chatnook.com
@@ -4409,6 +4410,7 @@ zomobo.net
 ||cixiaoya.club
 ||ck101.com
 ||clarionproject.org
+||class.tn.edu.tw
 ||classicalguitarblog.net
 ||claude.ai
 ||clb.org.hk
@@ -7835,6 +7837,7 @@ zomobo.net
 ||qwant.com
 ||qx.net
 ||qxbbs.org
+||qycz.org
 ||qz.com
 ||r-pool.net
 ||r0.ru
@@ -9566,6 +9569,7 @@ zomobo.net
 ||xiaolan.me
 ||xiaoma.org
 ||xiaomi.eu
+||xiaoxue.iis.sinica.edu.tw
 ||xiaxiaoqiang.net
 ||xicons.org
 ||xiezhua.com

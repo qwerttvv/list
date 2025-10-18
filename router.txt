@@ -2694,6 +2694,7 @@ channel8news.sg
 chanworld.org
 chaoex.com
 chapm25.com
+chardb.iis.sinica.edu.tw
 chatnook.com
 checkgfw.com
 chengmingmag.com
@@ -2819,6 +2820,7 @@ civilmedia.tw
 cixiaoya.club
 ck101.com
 clarionproject.org
+class.tn.edu.tw
 classicalguitarblog.net
 clb.org.hk
 cldr.unicode.org
@@ -5306,6 +5308,7 @@ quranexplorer.com
 qusi8.net
 qvodzy.org
 qxbbs.org
+qycz.org
 r-pool.net
 r0.ru
 r18.com
@@ -6731,6 +6734,7 @@ xiaod.in
 xiaohexie.com
 xiaolan.me
 xiaoma.org
+xiaoxue.iis.sinica.edu.tw
 xiaxiaoqiang.net
 xicons.org
 xiezhua.com
