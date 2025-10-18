@@ -4634,6 +4634,7 @@ zomobo.net
 ||dastrassi.org
 ||data-vocabulary.org
 ||data.gov.tw
+||data.taipei
 ||daum.net
 ||david-kilgour.com
 ||dawangidc.com
@@ -6191,6 +6192,7 @@ zomobo.net
 ||iconpaper.org
 ||icu-project.org
 ||id.heroku.com
+||id.taipei
 ||idaiwan.com
 ||idemocracy.asia
 ||identi.ca
@@ -8087,6 +8089,7 @@ zomobo.net
 ||sendspace.com
 ||sensortower.com
 ||servehttp.com
+||service.taipei
 ||sesawe.net
 ||sesawe.org
 ||sethwklein.net
