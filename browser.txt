@@ -8381,6 +8381,7 @@ zomobo.net
 ||static-economist.com
 ||static.shemalez.com
 ||static01.nyt.com
+||statically.io
 ||staticflickr.com
 ||statsig.com
 ||statueofdemocracy.org
