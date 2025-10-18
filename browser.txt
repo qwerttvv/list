@@ -3549,6 +3549,7 @@ zomobo.net
 ||aiv-delivery.net
 ||aiweiwei.com
 ||aiweiweiblog.com
+||ajunews.com
 ||akademiye.org
 ||akiba-online.com
 ||akiba-web.com
@@ -3756,6 +3757,7 @@ zomobo.net
 ||atnext.com
 ||atv-ext.amazon.com
 ||atv-ps.amazon.com
+||atvnewsonline.com
 ||auctions.yahoo.co.jp
 ||audacy.com
 ||auntology.fandom.com
@@ -5351,6 +5353,7 @@ zomobo.net
 ||fuyindiantai.org
 ||fuyu.org.tw
 ||fw.cm
+||fx168news.com
 ||fxcm-chinese.com
 ||fxnetworks.com
 ||fzh999.com
@@ -5899,6 +5902,7 @@ zomobo.net
 ||hahlo.com
 ||haijiao.com
 ||haiwaikan.com
+||haiwaiwai.com
 ||hakkatv.org.tw
 ||halktv.com.tr
 ||handcraftedsoftware.org
@@ -6523,6 +6527,7 @@ zomobo.net
 ||kawase.com
 ||kb.monitorware.com
 ||kba-tx.org
+||kbs.co.kr
 ||kebrum.com
 ||kechara.com
 ||keezmovies.com
@@ -6581,6 +6586,7 @@ zomobo.net
 ||ksnews.com.tw
 ||kspcoin.com
 ||ktzhk.com
+||kuai.media
 ||kuaichedao.co
 ||kucoin.com
 ||kui.name
@@ -9678,7 +9684,6 @@ zomobo.net
 ||yeyeclub.com
 ||ygto.com
 ||yhcw.net
-||yibada.com
 ||yibaochina.com
 ||yidio.com
 ||yigeni.com
