@@ -1987,6 +1987,7 @@ focustaiwan.tw
 javfinder.ai
 realitykings.com
 shop2000.com.tw
+taiwantoday.tw
 gotporn.com
 hxwk.org
 bcbay.com
@@ -5414,6 +5415,7 @@ rconversation.blogs.com
 reabble.com
 read100.com
 readingtimes.com.tw
+readsopac.loc.gov
 readydown.com
 realcourage.org
 realforum.zkiz.com
@@ -5939,6 +5941,8 @@ tbthouston.org
 tccwonline.org
 tcewf.org
 tchrd.org
+tcmb.culture.tw
+tcmbfile.culture.tw
 tcmm.com.tw
 tcnynj.org
 tcpspeed.co

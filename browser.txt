@@ -2111,7 +2111,6 @@
 @@||emmapplecodevice.googleapis.com
 @@||epa.gov.tw
 @@||erv-nsa.gov.tw
-@@||event.culture.tw
 @@||firebase-settings.crashlytics.com
 @@||fontfiles.googleapis.com
 @@||fonts.googleapis.com
@@ -7927,6 +7926,7 @@ zomobo.net
 ||read01.com
 ||readingtimes.com.tw
 ||readmoo.com
+||readsopac.loc.gov
 ||readydown.com
 ||realcourage.org
 ||realitykings.com
@@ -8574,6 +8574,7 @@ zomobo.net
 ||taiwanncf.org.tw
 ||taiwannews.com.tw
 ||taiwanstay.net.tw
+||taiwantoday.tw
 ||taiwantp.net
 ||taiwantt.org.tw
 ||taiwanus.net
@@ -8618,6 +8619,8 @@ zomobo.net
 ||tccwonline.org
 ||tcewf.org
 ||tchrd.org
+||tcmb.culture.tw
+||tcmbfile.culture.tw
 ||tcmm.com.tw
 ||tcnynj.org
 ||tcpspeed.co
