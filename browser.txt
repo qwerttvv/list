@@ -2138,6 +2138,7 @@
 @@||matsu-news.gov.tw
 @@||matsu-nsa.gov.tw
 @@||matsucc.gov.tw
+@@||moc.gov.tw
 @@||moda.gov.tw
 @@||moe.gov.tw
 @@||music.jwmusic.org
@@ -3657,6 +3658,7 @@ zomobo.net
 ||aol.ca
 ||aol.co.uk
 ||aol.com
+||aolcdn.com
 ||aolnews.com
 ||aomedia.org
 ||aomiwang.com
@@ -3886,6 +3888,7 @@ zomobo.net
 ||berlinerbericht.de
 ||berlintwitterwall.com
 ||berm.co.nz
+||berrraka.com
 ||bestforchina.org
 ||bestgore.com
 ||bestpornstardb.com
@@ -4148,6 +4151,7 @@ zomobo.net
 ||calgarychinese.ca
 ||calgarychinese.com
 ||cam4.com
+||cambridge-hotel.com.tw
 ||camfrog.com
 ||campaign-archive.com
 ||campaignforuyghurs.org
@@ -4233,6 +4237,7 @@ zomobo.net
 ||cdn1.lp.saboom.com
 ||cdnews.com.tw
 ||cdninstagram.com
+||cdns.com.tw
 ||cdp1989.org
 ||cdp1998.org
 ||cdp2006.org
@@ -4302,6 +4307,7 @@ zomobo.net
 ||chinaaid.us
 ||chinachange.org
 ||chinachannel.hk
+||chinachristiantimes.com
 ||chinacitynews.be
 ||chinacomments.org
 ||chinademocrats.org
@@ -4369,6 +4375,7 @@ zomobo.net
 ||chped.com
 ||chrdnet.com
 ||christianfreedom.org
+||christianpost.com
 ||christianstudy.com
 ||christiantimes.org.hk
 ||christusrex.org
@@ -4426,7 +4433,6 @@ zomobo.net
 ||clearwisdom.net
 ||clementine-player.org
 ||clickme.net
-||cling.omy.sg
 ||clinica-tibet.ru
 ||clipconverter.cc
 ||clipfish.de
@@ -4451,6 +4457,7 @@ zomobo.net
 ||cmule.org
 ||cmx.im
 ||cn-proxy.com
+||cn.chosun.com
 ||cn.fmnnow.com
 ||cn.sandscotaicentral.com
 ||cn.theaustralian.com.au
@@ -4558,6 +4565,7 @@ zomobo.net
 ||csw.org.uk
 ||ct.org.tw
 ||ctao.org
+||ctee.com.tw
 ||ctfriend.net
 ||ctinets.com
 ||ctinews.com
@@ -4576,6 +4584,7 @@ zomobo.net
 ||cutout.pro
 ||cutscenes.net
 ||cw.com.tw
+||cwgv.com.tw
 ||cyberctm.com
 ||cyberghostvpn.com
 ||cynscribe.com
@@ -4629,7 +4638,6 @@ zomobo.net
 ||daliulian.org
 ||danbooru.donmai.us
 ||danke4china.net
-||danwei.org
 ||daolan.net
 ||daozhongxing.org
 ||darktoy.net
@@ -4702,6 +4710,7 @@ zomobo.net
 ||difangwenge.org
 ||digg.com
 ||digisfera.com
+||digitalarchives.tw
 ||digitalnomadsproject.org
 ||diigo.com
 ||dilber.se
@@ -4809,7 +4818,6 @@ zomobo.net
 ||dropbox.com
 ||dropboxapi.com
 ||dropboxusercontent.com
-||drsunacademy.com
 ||drtuber.com
 ||dscn.info
 ||dsmtp.com
@@ -4915,7 +4923,6 @@ zomobo.net
 ||elpais.com
 ||eltondisney.com
 ||embr.in
-||emilylau.org.hk
 ||empfil.com
 ||emule-ed2k.com
 ||emulefans.com
@@ -5171,7 +5178,7 @@ zomobo.net
 ||financetwitter.com
 ||financialexpress.com
 ||finchvpn.com
-||findbook.tw
+||findbooks.info
 ||findmespot.com
 ||findresultsquick.com
 ||findyoutube.com
@@ -5284,6 +5291,7 @@ zomobo.net
 ||freenet-china.org
 ||freenetproject.org
 ||freenewscn.com
+||freenuts.com
 ||freeones.com
 ||freeopenvpn.com
 ||freeoz.org
@@ -5819,6 +5827,7 @@ zomobo.net
 ||goreforum.com
 ||goregrish.com
 ||gospelherald.com
+||gospelherald.com.hk
 ||gotdns.ch
 ||gotgeeks.com
 ||gotporn.com
@@ -5828,6 +5837,7 @@ zomobo.net
 ||gov.ir
 ||gov.taipei
 ||gov.tw
+||govbooks.com.tw
 ||grammaly.com
 ||grandtrial.org
 ||grangorz.org
@@ -6128,6 +6138,7 @@ zomobo.net
 ||huangyiyu.com
 ||huaren.us
 ||huaren4us.com
+||huarenjie.com
 ||huashangnews.com
 ||huaxia-news.com
 ||huaxiabao.org
@@ -6216,7 +6227,6 @@ zomobo.net
 ||ienergy1.com
 ||if.ttt
 ||ifan.cz.cc
-||ifanqiang.com
 ||ifcss.org
 ||ifjc.org
 ||ifreechina.wordpress.com
@@ -6732,6 +6742,7 @@ zomobo.net
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
+||loc.gov
 ||localbitcoins.com
 ||localdomain.ws
 ||localpresshk.com
@@ -6742,7 +6753,6 @@ zomobo.net
 ||logiqx.com
 ||logos.com.hk
 ||londonchinese.ca
-||longhair.hk
 ||longmusic.com
 ||longtermly.net
 ||longtoes.com
@@ -6905,6 +6915,7 @@ zomobo.net
 ||meridian-trust.org
 ||meripet.biz
 ||meripet.com
+||merit-times.com
 ||merit-times.com.tw
 ||merlinblog.xyz
 ||meshrep.com
@@ -6980,6 +6991,7 @@ zomobo.net
 ||mirrorbooks.com
 ||mirrormedia.com.tw
 ||mirrormedia.mg
+||mirrormediagroup.com
 ||missav.com
 ||missav.ws
 ||mist.vip
@@ -7181,6 +7193,7 @@ zomobo.net
 ||nekoslovakia.net
 ||nengcard.com
 ||neo-miracle.com
+||neo.com.tw
 ||neowin.net
 ||netalert.me
 ||netbirds.com
@@ -7316,6 +7329,7 @@ zomobo.net
 ||npm.gov.tw
 ||npnt.me
 ||npsboost.com
+||nqu.edu.tw
 ||nradio.me
 ||nrk.no
 ||ns01.biz
@@ -7699,6 +7713,7 @@ zomobo.net
 ||popxi.click
 ||popyard.com
 ||popyard.org
+||popyard.space
 ||porn.biz
 ||porn.com
 ||porn2.com
@@ -7979,6 +7994,7 @@ zomobo.net
 ||roadshow.hk
 ||roboforex.com
 ||robustnessiskey.com
+||roc-taiwan.org
 ||rocket-inc.net
 ||rocket.chat
 ||rocksdb.org
@@ -8104,6 +8120,7 @@ zomobo.net
 ||seesmic.com
 ||seevpn.com
 ||seezone.net
+||sef.org.tw
 ||sehuatang.net
 ||sehuatang.org
 ||sejie.com
@@ -8228,6 +8245,7 @@ zomobo.net
 ||sinonet.ca
 ||sinopitt.info
 ||sinoquebec.com
+||sinovision.net
 ||sipml5.org
 ||sis.xxx
 ||sis001.com
@@ -8249,6 +8267,7 @@ zomobo.net
 ||skybet.com
 ||skyking.com.tw
 ||skykiwi.com
+||skylinktv.us
 ||skyvegas.com
 ||skyxvpn.com
 ||sl-reverse.com
@@ -8332,6 +8351,7 @@ zomobo.net
 ||soundofhope.kr
 ||soundofhope.org
 ||soundon.fm
+||soup-dev.com
 ||soup.io
 ||soupofmedia.com
 ||sourcewadio.com
@@ -8539,10 +8559,12 @@ zomobo.net
 ||taipeitimes.com
 ||taisounds.com
 ||taiwan-sex.com
+||taiwan.net.tw
 ||taiwanbible.com
 ||taiwancon.com
 ||taiwandaily.net
 ||taiwandc.org
+||taiwanembassy.org
 ||taiwanhot.net
 ||taiwanjobs.gov.tw
 ||taiwanjustice.com
@@ -8552,6 +8574,7 @@ zomobo.net
 ||taiwannation.com.tw
 ||taiwanncf.org.tw
 ||taiwannews.com.tw
+||taiwanstay.net.tw
 ||taiwantp.net
 ||taiwantt.org.tw
 ||taiwanus.net
@@ -8596,6 +8619,7 @@ zomobo.net
 ||tccwonline.org
 ||tcewf.org
 ||tchrd.org
+||tcmm.com.tw
 ||tcnynj.org
 ||tcpspeed.co
 ||tcpspeed.com
@@ -8618,6 +8642,7 @@ zomobo.net
 ||teensinasia.com
 ||teepr.com
 ||tehrantimes.com
+||teldap.tw
 ||telega.one
 ||telegra.ph
 ||telegram.dog
@@ -8802,6 +8827,7 @@ zomobo.net
 ||tibettruth.com
 ||tibetwrites.org
 ||ticket.com.tw
+||tier.org.tw
 ||tigervpn.com
 ||tiktok.com
 ||tiktokcdn-eu.com
@@ -8971,9 +8997,7 @@ zomobo.net
 ||twapperkeeper.com
 ||twaud.io
 ||twavi.com
-||twbbs.net.tw
 ||twbbs.org
-||twbbs.tw
 ||twblogger.com
 ||twcomix.com
 ||tweepguide.com
@@ -9134,6 +9158,7 @@ zomobo.net
 ||us.to
 ||us.weibo.com
 ||usacn.com
+||usagm.gov
 ||usaip.eu
 ||uscardforum.com
 ||uscg.mil
@@ -9216,7 +9241,6 @@ zomobo.net
 ||vidble.com
 ||video.aol.com
 ||video.foxbusiness.com
-||video.pbs.org
 ||videobam.com
 ||videodetective.com
 ||videomega.tv
@@ -9267,6 +9291,7 @@ zomobo.net
 ||voi.id
 ||voicettank.org
 ||vot.org
+||votetw.com
 ||vovo2000.com
 ||vox.com
 ||voxer.com
@@ -9628,6 +9653,7 @@ zomobo.net
 ||xlfmtalk.com
 ||xlfmwz.info
 ||xm.com
+||xmart.tw
 ||xml-training-guide.com
 ||xmonk.net
 ||xn--11xs86f.icu
@@ -9696,6 +9722,7 @@ zomobo.net
 ||yasni.co.uk
 ||yasukuni.or.jp
 ||yayabay.com
+||ycrc.com.tw
 ||ydy.com
 ||yeahteentube.com
 ||yecl.net

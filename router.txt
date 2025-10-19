@@ -343,6 +343,7 @@ google.no
 google.com.ua
 mullvad.net
 google.com.ng
+aolcdn.com
 stackoverflow.com
 google.ro
 theatlantic.com
@@ -680,6 +681,7 @@ musixmatch.com
 pixiv.net
 wiktionary.org
 news.ycombinator.com
+loc.gov
 accountkit.com
 swagbucks.com
 etherscan.com
@@ -1058,6 +1060,7 @@ india.com
 danbooru.donmai.us
 anysex.com
 mypikpak.com
+christianpost.com
 mod.io
 chromium.org
 rb.gy
@@ -1295,6 +1298,7 @@ rocket.chat
 wikipedia-on-ipfs.org
 google.co
 immigration.gov.tw
+popyard.space
 news.ebc.net.tw
 cex.io
 hackmd.io
@@ -1332,6 +1336,7 @@ autodraw.com
 newswav.com
 vine.co
 swissinfo.ch
+ctee.com.tw
 thegay.com
 safety.google
 csmonitor.com
@@ -1845,6 +1850,7 @@ sex3.com
 archive.md
 flyvpn.com
 npa.gov.tw
+cwgv.com.tw
 ggjav.com
 itasoftware.com
 jigsy.com
@@ -1944,6 +1950,7 @@ deepmind.com
 inkbunny.net
 joinclubhouse.com
 omni7.jp
+sinovision.net
 springboardplatform.com
 tubepornclassic.com
 weights.com
@@ -1955,7 +1962,9 @@ taiwandaily.net
 uploaded.net
 vern.cc
 yts.ag
+digitalarchives.tw
 io.google
+taiwan.net.tw
 yts.lt
 appsto.re
 hongkongfp.com
@@ -2039,6 +2048,7 @@ updates.tdesktop.com
 vpnvip.com
 website.informer.com
 i.111666.best
+roc-taiwan.org
 free-proxy.cz
 globalmediaoutreach.com
 imageglass.org
@@ -2466,6 +2476,7 @@ beric.me
 berlinerbericht.de
 berlintwitterwall.com
 berm.co.nz
+berrraka.com
 bestforchina.org
 bestgore.com
 bestpornstardb.com
@@ -2672,6 +2683,7 @@ calgarychinese.com
 calgarychinese.net
 cam4.jp
 cam4.sg
+cambridge-hotel.com.tw
 campaignforuyghurs.org
 cams.org.sg
 canadameet.com
@@ -2733,6 +2745,7 @@ cdn.helixstudios.net
 cdn.softlayer.net
 cdn1.lp.saboom.com
 cdnews.com.tw
+cdns.com.tw
 cdp1989.org
 cdp1998.org
 cdp2006.org
@@ -2793,6 +2806,7 @@ chinaaid.org
 chinaaid.us
 chinachange.org
 chinachannel.hk
+chinachristiantimes.com
 chinacitynews.be
 chinacomments.org
 chinademocrats.org
@@ -2901,7 +2915,6 @@ clearsurance.com
 clearwisdom.net
 clementine-player.org
 clickme.net
-cling.omy.sg
 clinica-tibet.ru
 clipconverter.cc
 clipfish.de
@@ -2919,6 +2932,7 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
+cn.chosun.com
 cn.fmnnow.com
 cn.freeones.com
 cn.nytstyle.com
@@ -3055,7 +3069,6 @@ dalailamaworld.com
 dalianmeng.org
 daliulian.org
 danke4china.net
-danwei.org
 daodu14.jigsy.com
 daolan.net
 daozhongxing.org
@@ -3173,7 +3186,6 @@ drepung.org
 drgan.net
 drmingxia.org
 dropbooks.tv
-drsunacademy.com
 dscn.info
 dstk.dk
 dtiblog.com
@@ -3457,7 +3469,7 @@ fillthesquare.org
 filmingfortibet.org
 filthdump.com
 financetwitter.com
-findbook.tw
+findbooks.info
 findyoutube.com
 findyoutube.net
 fingerdaily.com
@@ -3554,6 +3566,7 @@ freemuse.org
 freenet-china.org
 freenetproject.org
 freenewscn.com
+freenuts.com
 freeopenvpn.com
 freeoz.org
 freeproxylists.net
@@ -3807,12 +3820,14 @@ goproxing.net
 goreforum.com
 goregrish.com
 gospelherald.com
+gospelherald.com.hk
 gotdns.ch
 gotgeeks.com
 gotrusted.com
 gotw.ca
 gov.ir
 gov.tw
+govbooks.com.tw
 gr8name.biz
 grammaly.com
 grandtrial.org
@@ -4072,6 +4087,7 @@ huaglad.com
 huanghuagang.org
 huangyiyu.com
 huaren4us.com
+huarenjie.com
 huashangnews.com
 huaxia-news.com
 huaxiabao.org
@@ -4145,7 +4161,6 @@ ied2k.net
 ienergy1.com
 if.ttt
 ifan.cz.cc
-ifanqiang.com
 ifcss.org
 ifjc.org
 ifreechina.wordpress.com
@@ -4685,6 +4700,7 @@ mergersandinquisitions.org
 meridian-trust.org
 meripet.biz
 meripet.com
+merit-times.com
 merit-times.com.tw
 merlinblog.xyz
 meshrep.com
@@ -4743,6 +4759,7 @@ minzhuzhongguo.org
 miroguide.com
 mirrorbooks.com
 mirrormedia.com.tw
+mirrormediagroup.com
 mist.vip
 mitao.com.tw
 mitbbs.com
@@ -4894,6 +4911,7 @@ nekoslovakia.net
 nemesis2.qx.net
 nengcard.com
 neo-miracle.com
+neo.com.tw
 netalert.me
 netbirds.com
 netcolony.com
@@ -4977,6 +4995,7 @@ nowtorrents.com
 noypf.com
 npnt.me
 npsboost.com
+nqu.edu.tw
 nradio.me
 ns02.info
 ns02.us
@@ -5541,6 +5560,7 @@ seehua.com
 seesmic.com
 seevpn.com
 seezone.net
+sef.org.tw
 sehuatang.net
 sehuatang.org
 sejie.com
@@ -5661,6 +5681,7 @@ sketchappsources.com
 skimtube.com
 skintone.google
 skyking.com.tw
+skylinktv.us
 skyxvpn.com
 slandr.net
 slashine.onl
@@ -5727,6 +5748,7 @@ soubory.com
 soul-plus.net
 soulcaliburhentai.net
 soundofhope.kr
+soup-dev.com
 soupofmedia.com
 sourcewadio.com
 south-plus.net
@@ -5870,6 +5892,7 @@ taiwan-sex.com
 taiwanbible.com
 taiwancon.com
 taiwandc.org
+taiwanembassy.org
 taiwanhot.net
 taiwanjustice.com
 taiwanjustice.net
@@ -5878,6 +5901,7 @@ taiwannation.50webs.com
 taiwannation.com
 taiwannation.com.tw
 taiwanncf.org.tw
+taiwanstay.net.tw
 taiwantp.net
 taiwantt.org.tw
 taiwanus.net
@@ -5917,6 +5941,7 @@ tbthouston.org
 tccwonline.org
 tcewf.org
 tchrd.org
+tcmm.com.tw
 tcnynj.org
 tcpspeed.co
 tcpspeed.com
@@ -5933,6 +5958,7 @@ teenfucks.org
 teeniefuck.net
 teensinasia.com
 teepr.com
+teldap.tw
 telecomspace.com
 telegram.space
 telegramdownload.com
@@ -6086,6 +6112,7 @@ tibettimes.net
 tibettruth.com
 tibetwrites.org
 ticket.com.tw
+tier.org.tw
 tigervpn.com
 tiltbrush.com
 timdir.com
@@ -6219,9 +6246,7 @@ twaitter.com
 twapperkeeper.com
 twaud.io
 twavi.com
-twbbs.net.tw
 twbbs.org
-twbbs.tw
 twblogger.com
 twcomix.com
 tweepguide.com
@@ -6369,6 +6394,7 @@ urlborg.com
 urlparser.com
 us.weibo.com
 usacn.com
+usagm.gov
 usaip.eu
 uscnpm.org
 usefreevpn.com
@@ -6441,7 +6467,6 @@ vidble.com
 video.aol.ca
 video.aol.co.uk
 video.aol.com
-video.pbs.org
 videobam.com
 videodetective.com
 videomega.tv
@@ -6482,6 +6507,7 @@ vod-abematv.akamaized.net
 vod.wwe.com
 voicettank.org
 vot.org
+votetw.com
 vovo2000.com
 voy.com
 vpl.bibliocommons.com
@@ -6793,6 +6819,7 @@ xjtravelguide.com
 xkiwi.tk
 xlfmtalk.com
 xlfmwz.info
+xmart.tw
 xml-training-guide.com
 xmonk.net
 xmovies.com
@@ -6839,6 +6866,7 @@ yangzhi.org
 yasni.co.uk
 yasukuni.or.jp
 yayabay.com
+ycrc.com.tw
 yeahteentube.com
 yecl.net
 yeelou.com
