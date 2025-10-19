@@ -123,6 +123,7 @@ hcaptcha.com
 hulu.com
 steamcommunity.com
 yahoo.co.jp
+tiktokv.eu
 byteoversea.com
 nflximg.com
 nyt.com
@@ -435,6 +436,7 @@ google.jo
 google.tm
 google.lu
 google.com.py
+tiktokw.eu
 rumble.com
 bsky.social
 google.vg
@@ -1319,6 +1321,7 @@ torguard.net
 ecimg.tw
 tap.io
 autodraw.com
+newswav.com
 vine.co
 swissinfo.ch
 thegay.com
@@ -1965,6 +1968,7 @@ javfinder.ai
 realitykings.com
 shop2000.com.tw
 hxwk.org
+bcbay.com
 chromestatus.com
 maxai.co
 taipei.gov.tw

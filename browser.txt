@@ -3858,6 +3858,7 @@ zomobo.net
 ||bbsone.com
 ||bbtoystore.com
 ||bcast.co.nz
+||bcbay.com
 ||bcc.com.tw
 ||bcchinese.net
 ||bcex.ca
@@ -7219,6 +7220,7 @@ zomobo.net
 ||newstapa.org
 ||newstarnet.com
 ||newstatesman.com
+||newswav.com
 ||newsweek.com
 ||newtaiwan.com.tw
 ||newtalk.tw
@@ -8789,7 +8791,9 @@ zomobo.net
 ||tiktokcdn-us.com
 ||tiktokcdn.com
 ||tiktokv.com
+||tiktokv.eu
 ||tiktokv.us
+||tiktokw.eu
 ||tiktokw.us
 ||tiltbrush.com
 ||timdir.com
