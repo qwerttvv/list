@@ -2012,6 +2012,7 @@ ping.fm
 privacyguides.org
 blocktempo.com
 haproxy.org
+lifeattiktok.com
 mingpaocanada.com
 nakedsecurity.sophos.com
 puffin.com
@@ -6347,6 +6348,7 @@ urbansurvival.com
 urchin.com
 urlborg.com
 urlparser.com
+us.weibo.com
 usacn.com
 usaip.eu
 uscnpm.org
