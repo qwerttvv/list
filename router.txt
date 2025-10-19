@@ -5415,7 +5415,6 @@ rconversation.blogs.com
 reabble.com
 read100.com
 readingtimes.com.tw
-readsopac.loc.gov
 readydown.com
 realcourage.org
 realforum.zkiz.com
@@ -5544,6 +5543,7 @@ scramble.io
 scriptspot.com
 seapuff.com
 search.xxx
+searchapi.culture.tw
 searchtruth.com
 searx.me
 seattlefdc.com
@@ -5942,6 +5942,7 @@ tccwonline.org
 tcewf.org
 tchrd.org
 tcmb.culture.tw
+tcmbdata.culture.tw
 tcmbfile.culture.tw
 tcmm.com.tw
 tcnynj.org

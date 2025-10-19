@@ -7926,7 +7926,6 @@ zomobo.net
 ||read01.com
 ||readingtimes.com.tw
 ||readmoo.com
-||readsopac.loc.gov
 ||readydown.com
 ||realcourage.org
 ||realitykings.com
@@ -8101,6 +8100,7 @@ zomobo.net
 ||search.com
 ||search.xxx
 ||search.yahoo.co.jp
+||searchapi.culture.tw
 ||searchtruth.com
 ||searx.me
 ||seattlefdc.com
@@ -8620,6 +8620,7 @@ zomobo.net
 ||tcewf.org
 ||tchrd.org
 ||tcmb.culture.tw
+||tcmbdata.culture.tw
 ||tcmbfile.culture.tw
 ||tcmm.com.tw
 ||tcnynj.org
