@@ -630,6 +630,7 @@ gitlab.net
 startpage.com
 spreaker.com
 infura.io
+n-tv.de
 googlesource.com
 edgecastcdn.net
 ciciai.com
@@ -659,6 +660,7 @@ moomoo.com
 cloud.mail.ru
 pastebin.com
 feeder.co
+persgroep.net
 cdn.printfriendly.com
 itch.io
 xing.com
@@ -738,6 +740,7 @@ af.mil
 ixxx.com
 disk.yandex.ru
 c.gle
+meta.ai
 suno.ai
 cmegroup.com
 qwant.com
@@ -752,6 +755,7 @@ bitget.com
 beanfun.com
 indianexpress.com
 gumroad.com
+rawstory.com
 xm.com
 bongacams.com
 lemonde.fr
@@ -866,6 +870,7 @@ on.cc
 xxx.com
 isc.sans.edu
 e-hentai.org
+handelsblatt.com
 voxer.com
 gemini.com
 superpages.com
@@ -1045,6 +1050,7 @@ sinchew.com.my
 malaysiakini.com
 videopress.com
 waymo.com
+straitstimes.com.sg
 gab.com
 newyorktimes.com
 ai.google
@@ -1071,6 +1077,7 @@ crucial.com
 ameba.jp
 cht.com.tw
 epochtimes.com
+lantern.io
 books.com.tw
 tvbs.com.tw
 dfas.mil
@@ -1087,6 +1094,7 @@ vjav.com
 mercari.jp
 tiny.cc
 6park.com
+imds-api.com
 miuipolska.pl
 kknews.cc
 zaobao.com.sg
@@ -1679,6 +1687,7 @@ dumb1.com
 pinterest.fr
 thinkwithgoogle.com
 cdn-telegram.org
+findresultsquick.com
 itsaol.com
 jkub.com
 noxinfluencer.com
@@ -1742,6 +1751,7 @@ hpa.gov.tw
 nodeseek.com
 zophar.net
 almostmy.com
+derpibooru.org
 eroprofile.com
 freedomhouse.org
 kadokawa.co.jp
@@ -1843,6 +1853,7 @@ msha.gov
 paxful.com
 archive.li
 jkforum.net
+technorati.com
 yam.com
 bt4gprx.com
 getsession.org
@@ -1935,6 +1946,7 @@ joinclubhouse.com
 omni7.jp
 springboardplatform.com
 tubepornclassic.com
+weights.com
 www.dmm.com
 xanga.com
 eprice.com.hk
@@ -1967,6 +1979,7 @@ focustaiwan.tw
 javfinder.ai
 realitykings.com
 shop2000.com.tw
+gotporn.com
 hxwk.org
 bcbay.com
 chromestatus.com
@@ -1977,6 +1990,7 @@ asiatimes.com
 chinadigitaltimes.net
 dongtaiwang.com
 moptt.tw
+tvr.ro
 xtube.com
 amnestyusa.org
 comefromchina.com
@@ -2857,6 +2871,7 @@ chushigangdrug.ch
 cienen.com
 cineastentreff.de
 cipfg.org
+circle19.org
 circlethebayfortibet.org
 cirosantilli.com
 citizencn.com
@@ -4366,6 +4381,7 @@ kantie.org
 kanzhongguo.com
 kanzhongguo.eu
 karayou.com
+kards.com
 karkhung.com
 karmapa-teachings.org
 karmapa.org
@@ -5437,6 +5453,7 @@ roodo.com
 rosechina.net
 rotten.com
 roucdn.link
+rri.ro
 rsdlmonitor.com
 rsf-chinese.org
 rsgamen.org
@@ -5674,6 +5691,7 @@ soav.com
 sobees.com
 social.datalabour.com
 social.edu.ci
+socialism.hk
 socks-proxy.net
 sockscap64.com
 sockslist.net
@@ -6139,6 +6157,7 @@ tryheart.jp
 tsctv.net
 tsemtulku.com
 tsquare.tv
+tssdnews.com.tw
 tsu.org.tw
 tsunagarumon.com
 tttan.com

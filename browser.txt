@@ -4395,6 +4395,7 @@ zomobo.net
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
+||circle19.org
 ||circlethebayfortibet.org
 ||cirosantilli.com
 ||citizencn.com
@@ -4678,6 +4679,7 @@ zomobo.net
 ||deno.dev
 ||depositphotos.com
 ||derekhsu.homeip.net
+||derpibooru.org
 ||desc.se
 ||design.google
 ||desipro.de
@@ -5171,6 +5173,7 @@ zomobo.net
 ||finchvpn.com
 ||findbook.tw
 ||findmespot.com
+||findresultsquick.com
 ||findyoutube.com
 ||findyoutube.net
 ||fingerdaily.com
@@ -5818,6 +5821,7 @@ zomobo.net
 ||gospelherald.com
 ||gotdns.ch
 ||gotgeeks.com
+||gotporn.com
 ||gotquestions.org
 ||gotrusted.com
 ||gotw.ca
@@ -5908,6 +5912,7 @@ zomobo.net
 ||hakkatv.org.tw
 ||halktv.com.tr
 ||handcraftedsoftware.org
+||handelsblatt.com
 ||hanime.tv
 ||hanime1.me
 ||hanminzu.org
@@ -6248,6 +6253,7 @@ zomobo.net
 ||imagezilla.net
 ||imago-images.com
 ||imb.org
+||imds-api.com
 ||img*.picturedip.com
 ||img.ly
 ||img.picgo.net
@@ -6522,6 +6528,7 @@ zomobo.net
 ||kanzhongguo.eu
 ||kaotic.com
 ||karayou.com
+||kards.com
 ||karkhung.com
 ||karmapa-teachings.org
 ||karmapa.org
@@ -6618,6 +6625,7 @@ zomobo.net
 ||lamnia.co.uk
 ||lamrim.com
 ||landofhope.tv
+||lantern.io
 ||lantosfoundation.org
 ||laogai.org
 ||laogairesearch.org
@@ -6902,6 +6910,7 @@ zomobo.net
 ||meshrep.com
 ||mesotw.com
 ||messenger.com
+||meta.ai
 ||meta.com
 ||metacafe.com
 ||metacubex.one
@@ -7131,6 +7140,7 @@ zomobo.net
 ||mytizi.com
 ||mywife.cc
 ||myz.info
+||n-tv.de
 ||naacoalition.org
 ||naitik.net
 ||nakedsecurity.sophos.com
@@ -7585,6 +7595,7 @@ zomobo.net
 ||periscope.tv
 ||perplexity.ai
 ||persecutionblog.com
+||persgroep.net
 ||persiankitty.com
 ||pewresearch.org
 ||pfd.org.hk
@@ -7892,6 +7903,7 @@ zomobo.net
 ||raw.githack.com
 ||rawgit.com
 ||rawgithub.com
+||rawstory.com
 ||razyboard.com
 ||rb.gy
 ||rcam.target.com
@@ -7979,6 +7991,7 @@ zomobo.net
 ||rotten.com
 ||rou.video
 ||roucdn.link
+||rri.ro
 ||rsdlmonitor.com
 ||rsf-chinese.org
 ||rsf.org
@@ -8274,6 +8287,7 @@ zomobo.net
 ||social.datalabour.com
 ||social.edu.ci
 ||socialblade.com
+||socialism.hk
 ||socks-proxy.net
 ||sockscap64.com
 ||sockslist.net
@@ -8433,6 +8447,7 @@ zomobo.net
 ||storry.tv
 ||stoweboyd.com
 ||straitstimes.com
+||straitstimes.com.sg
 ||stranabg.com
 ||straplessdildo.com
 ||streamable.com
@@ -8591,6 +8606,7 @@ zomobo.net
 ||teamamericany.com
 ||techcrunch.com
 ||technews.tw
+||technorati.com
 ||techspot.com
 ||techviz.net
 ||teck.in
@@ -8888,6 +8904,7 @@ zomobo.net
 ||tsdr.uspto.gov
 ||tsemtulku.com
 ||tsquare.tv
+||tssdnews.com.tw
 ||tsu.org.tw
 ||tt1069.com
 ||tttan.com
@@ -8945,6 +8962,7 @@ zomobo.net
 ||tvider.com
 ||tvmost.com.hk
 ||tvplayvideos.com
+||tvr.ro
 ||tvunetworks.com
 ||tw-blog.com
 ||tw.jiepang.com
@@ -9374,6 +9392,7 @@ zomobo.net
 ||wefightcensorship.org
 ||wego.here.com
 ||weiboleak.com
+||weights.com
 ||weihuo.org
 ||weijingsheng.org
 ||weiming.info
