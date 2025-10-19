@@ -2111,6 +2111,7 @@
 @@||emmapplecodevice.googleapis.com
 @@||epa.gov.tw
 @@||erv-nsa.gov.tw
+@@||event.culture.tw
 @@||firebase-settings.crashlytics.com
 @@||fontfiles.googleapis.com
 @@||fonts.googleapis.com
@@ -4291,7 +4292,6 @@ zomobo.net
 ||chenshan20042005.wordpress.com
 ||cherrysave.com
 ||chhongbi.org
-||chicagoncmtv.com
 ||china-mmm.net
 ||china-review.com.ua
 ||china-week.com
@@ -6742,7 +6742,6 @@ zomobo.net
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
-||loc.gov
 ||localbitcoins.com
 ||localdomain.ws
 ||localpresshk.com
