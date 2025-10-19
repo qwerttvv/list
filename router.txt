@@ -2744,6 +2744,7 @@ channel8news.sg
 chanworld.org
 chaoex.com
 chapm25.com
+char.iis.sinica.edu.tw
 chardb.iis.sinica.edu.tw
 chatnook.com
 checkgfw.com
@@ -4625,6 +4626,7 @@ matthewdgreen.wordpress.com
 mattwilcox.net
 maxing.jp
 mayimayi.com
+mbct.mlc.edu.tw
 mcadforums.com
 mcaf.ee
 mcfog.com

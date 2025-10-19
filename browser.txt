@@ -4269,6 +4269,7 @@ zomobo.net
 ||chaoex.com
 ||chaos.social
 ||chapm25.com
+||char.iis.sinica.edu.tw
 ||character.ai
 ||chardb.iis.sinica.edu.tw
 ||chat.lmsys.org
@@ -6844,6 +6845,7 @@ zomobo.net
 ||maxai.co
 ||maxing.jp
 ||mayimayi.com
+||mbct.mlc.edu.tw
 ||mcadforums.com
 ||mcaf.ee
 ||mcfog.com
