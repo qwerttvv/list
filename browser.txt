@@ -3474,6 +3474,7 @@ zomobo.net
 ||a5vpn.com
 ||a771.dscq.akamai.net
 ||aamacau.com
+||aastocks.com
 ||abc.com
 ||abc.net.au
 ||abc.xyz
@@ -5575,6 +5576,7 @@ zomobo.net
 ||goodreads.com
 ||goodtv.com.tw
 ||goodtv.tv
+||goody25.com
 ||goofind.com
 ||goog
 ||googel.de
@@ -6051,6 +6053,7 @@ zomobo.net
 ||hklft.com
 ||hklts.org.hk
 ||hkmap.live
+||hkong.hk
 ||hkopentv.com
 ||hkpeanut.com
 ||hkptu.org
@@ -9223,6 +9226,7 @@ zomobo.net
 ||vatn.org
 ||vcf-online.org
 ||vcfbuilder.org
+||vct.news
 ||vegas.williamhill.com
 ||vegasred.com
 ||velkaepocha.sk

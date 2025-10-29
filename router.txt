@@ -792,6 +792,7 @@ uptodown.com
 thefacebook.com
 mubi.com
 blubrry.com
+aastocks.com
 etherscan.com
 news.com.au
 nrk.no
@@ -3746,6 +3747,7 @@ goodhope.school
 goodreaders.com
 goodtv.com.tw
 goodtv.tv
+goody25.com
 goofind.com
 googel.de
 google-base.de
@@ -3977,6 +3979,7 @@ hkjp.org
 hklft.com
 hklts.org.hk
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpeanut.com
 hkptu.org
@@ -6439,6 +6442,7 @@ vansky.com
 vatn.org
 vcf-online.org
 vcfbuilder.org
+vct.news
 vegasred.com
 velkaepocha.sk
 venbbs.com
