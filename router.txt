@@ -783,6 +783,7 @@ sueddeutsche.de
 googleblog.com
 nationalreview.com
 rule34video.com
+notebooklm.google
 googledrive.com
 nydailynews.com
 free.fr
@@ -819,6 +820,7 @@ softether.org
 superpages.com
 zamimg.com
 beanfun.com
+gemini.google
 resilio.com
 goo.ne.jp
 timesnownews.com
@@ -1513,6 +1515,7 @@ t35.com
 centauro.com.br
 t66y.com
 mahjongsoul.com
+play.google
 wikipedia-on-ipfs.org
 thinkwithgoogle.com
 airitilibrary.com
@@ -2820,6 +2823,7 @@ christiantimes.org.hk
 christusrex.org
 chrlawyers.hk
 chromecast.com
+chromeos.google
 chromercise.com
 chuang-yen.org
 chubold.com
@@ -3876,6 +3880,7 @@ hbg.com
 hd.stheadline.com
 hdlt.me
 hdtvb.net
+health.google
 heartyit.com
 hec.su
 hecaitou.net
@@ -5619,6 +5624,7 @@ shwchurch3.com
 siddharthasintent.org
 sidelinesnews.com
 sidelinessportseatery.com
+sidewalklabs.com
 sierrafriendsoftibet.org
 sijihuisuo.club
 sijihuisuo.com
@@ -5849,6 +5855,7 @@ suyangg.com
 svsfx.com
 swapspace.co
 swbusdev.com
+swiffy.co.za
 swissvpn.net
 switch1.jp
 switchvpn.net

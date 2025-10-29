@@ -4384,6 +4384,7 @@ zomobo.net
 ||chromecast.com
 ||chromeenterprise.google
 ||chromeexperiments.com
+||chromeos.google
 ||chromercise.com
 ||chromestatus.com
 ||chromium.org
@@ -5438,6 +5439,7 @@ zomobo.net
 ||gekikame.com
 ||gelbooru.com
 ||gemini.com
+||gemini.google
 ||generated.photos
 ||genius.com
 ||geocities.co.jp
@@ -5947,6 +5949,7 @@ zomobo.net
 ||hdsky.me
 ||hdtvb.net
 ||hdzog.com
+||health.google
 ||heartyit.com
 ||heavy-r.com
 ||hec.su
@@ -7316,6 +7319,7 @@ zomobo.net
 ||nordvpn.com
 ||nos.nl
 ||note.com
+||notebooklm.google
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
 ||notion.site
@@ -7674,6 +7678,7 @@ zomobo.net
 ||pkuanvil.com
 ||placemix.com
 ||play-asia.com
+||play.google
 ||playbeasts.com
 ||playboy.com
 ||playboyplus.com
@@ -8218,6 +8223,7 @@ zomobo.net
 ||shwchurch3.com
 ||siddharthasintent.org
 ||sidelinesnews.com
+||sidewalklabs.com
 ||sierrafriendsoftibet.org
 ||signal.org
 ||sijihuisuo.club
@@ -8526,6 +8532,7 @@ zomobo.net
 ||swagbucks.com
 ||swapspace.co
 ||swbusdev.com
+||swiffy.co.za
 ||swissinfo.ch
 ||swissvpn.net
 ||switch1.jp
