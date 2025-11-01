@@ -6997,6 +6997,7 @@ zomobo.net
 ||mirrormedia.com.tw
 ||mirrormedia.mg
 ||mirrormediagroup.com
+||missav.ai
 ||missav.com
 ||missav.ws
 ||mist.vip
@@ -7695,6 +7696,7 @@ zomobo.net
 ||plusbb.com
 ||pmatehunter.com
 ||pmates.com
+||po18.tw
 ||po2b.com
 ||pobieramy.top
 ||podbean.com
