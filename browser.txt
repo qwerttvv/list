@@ -5532,7 +5532,6 @@ zomobo.net
 ||go-pki.com
 ||go-to-zlibrary.se
 ||go.nesnode.com
-||go.sony.com
 ||go141.com
 ||go5.dev
 ||goagent.biz
@@ -5944,7 +5943,6 @@ zomobo.net
 ||hbo.com
 ||hcaptcha.com
 ||hclips.com
-||hd.stheadline.com
 ||hdlt.me
 ||hdsky.me
 ||hdtvb.net
@@ -7545,7 +7543,6 @@ zomobo.net
 ||paldengyal.com
 ||paljorpublications.com
 ||paltalk.com
-||panamapapers.sueddeutsche.de
 ||pancakeswap.finance
 ||pandafan.pub
 ||pandapow.co
@@ -9470,6 +9467,7 @@ zomobo.net
 ||whatsapp.com
 ||whatsapp.net
 ||whatsonweibo.com
+||whcdn.net
 ||wheatseeds.org
 ||wheelockslatin.com
 ||whereiswerner.com

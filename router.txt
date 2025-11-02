@@ -1101,6 +1101,7 @@ rb.gy
 danbooru.donmai.us
 india.com
 wikiwand.com
+whcdn.net
 who.is
 calameo.com
 googleapps.com
@@ -3771,7 +3772,6 @@ gnews.org
 go-pki.com
 go-to-zlibrary.se
 go.nesnode.com
-go.sony.com
 go141.com
 go5.dev
 goagent.biz
