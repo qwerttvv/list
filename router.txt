@@ -1937,7 +1937,6 @@ av01.tv
 erepublik.com
 hiveon.net
 kingdomsalvation.org
-news.now.com
 po18.tw
 popo.tw
 privatevpn.com
@@ -2574,7 +2573,6 @@ bipic.net
 bird.so
 bit-z.com
 bitbay.net
-bitc.bme.emory.edu
 bitcoinworld.com
 bitshare.com
 bitsnoop.com
@@ -6808,7 +6806,6 @@ xbtce.com
 xcafe.in
 xcritic.com
 xfiles.to
-xfm.pp.ru
 xfxssr.me
 xgmyd.com
 xianba.net
