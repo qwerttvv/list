@@ -3946,6 +3946,7 @@ zomobo.net
 ||bit.do
 ||bit.ly
 ||bitbay.net
+||bitc.bme.emory.edu
 ||bitchute.com
 ||bitcointalk.org
 ||bitcoinworld.com
@@ -5516,6 +5517,7 @@ zomobo.net
 ||globalvoicesonline.org
 ||globalvpn.net
 ||glock.com
+||gloryhole.com
 ||glorystar.me
 ||glype.com
 ||gmail.com
