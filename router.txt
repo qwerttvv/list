@@ -832,6 +832,7 @@ google.org
 inoreader.com
 google.net
 nyaa.si
+namu.wiki
 streema.com
 livemint.com
 pbworks.com
@@ -861,6 +862,7 @@ handelsblatt.com
 imagevenue.com
 annas-archive.org
 urbandictionary.com
+javtiful.com
 straitstimes.com
 artsy.net
 hottg.com
@@ -991,6 +993,7 @@ ustream.tv
 f-droid.org
 purevpn.com
 about.gitlab.com
+missav123.com
 beeg.com
 firstpost.com
 wikiwand.com
@@ -1118,6 +1121,7 @@ steemit.com
 lih.kg
 rawgithub.com
 brill.com
+tiava.com
 zenmate.com
 881903.com
 worldjournal.com
@@ -1287,6 +1291,7 @@ longmusic.com
 cna.com.tw
 ipfire.org
 nga.mil
+njavtv.com
 filesor.com
 citypopulation.de
 eslite.com
@@ -1463,6 +1468,7 @@ imago-images.com
 psiphon.ca
 businesstoday.com.tw
 geocities.com
+lobstertube.com
 nextapple.tw
 cex.io
 blogimg.jp
@@ -1540,6 +1546,7 @@ storj.io
 apk.tw
 picacomic.com
 trt.net.tr
+tubepornstars.com
 typora.io
 anobii.com
 eesti.ee
@@ -4741,6 +4748,7 @@ miroguide.com
 mirrorbooks.com
 mirrormedia.com.tw
 mirrormediagroup.com
+missav.app
 missav.com
 mist.vip
 mitao.com.tw
