@@ -322,6 +322,7 @@ google.com.au
 eporner.com
 businessinsider.com
 coinmarketcap.com
+images.prismic.io
 hsselite.com
 independent.co.uk
 google.com.do
