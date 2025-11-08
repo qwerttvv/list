@@ -429,8 +429,6 @@
 .ddns.us
 .deaftone.com
 .definebabe.com
-.democrats.org
-.demosisto.hk
 .destroy-china.jp
 .dharamsalanet.com
 .diaoyuislands.org
@@ -2366,7 +2364,6 @@ dalianmeng.org
 daodu14.jigsy.com
 daolan.net
 dcmilitary.com
-delicious.com/gfwbookmark
 destiny.xfiles.to/ubbthreads
 dfn.org
 dharmakara.net
@@ -4683,7 +4680,6 @@ zomobo.net
 ||delcamp.net
 ||demo.opera-mini.net
 ||demo.unlock-music.dev
-||democrats.org
 ||demosisto.hk
 ||deno.com
 ||deno.dev
