@@ -1264,6 +1264,7 @@ cams.com
 ipfire.org
 excite.co.jp
 dynamic-dns.net
+linux.do
 androidtv.com
 keycdn.com
 ok.xxx
