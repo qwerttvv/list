@@ -3660,6 +3660,7 @@ zomobo.net
 ||aolnews.com
 ||aomedia.org
 ||aomiwang.com
+||aoxvpn.com
 ||apartmentratings.com
 ||apartments.com
 ||apat1989.org
@@ -3899,6 +3900,7 @@ zomobo.net
 ||bet365.com
 ||betaclouds.net
 ||betfair.com
+||bettergpt.chat
 ||betterhash.net
 ||betternet.co
 ||bettervpn.com
@@ -4158,6 +4160,7 @@ zomobo.net
 ||cams.org.sg
 ||canadameet.com
 ||canalporno.com
+||canva.com
 ||canyu.org
 ||cao.im
 ||caobian.info
@@ -4202,6 +4205,7 @@ zomobo.net
 ||ccdtr.org
 ||ccfd.org.tw
 ||cchere.com
+||cchostvps.xyz
 ||ccim.org
 ||cclife.ca
 ||cclife.org
@@ -4277,9 +4281,11 @@ zomobo.net
 ||char.iis.sinica.edu.tw
 ||character.ai
 ||chardb.iis.sinica.edu.tw
+||chat.com
 ||chat.lmsys.org
 ||chatgpt.com
 ||chatnook.com
+||chatpdf.com
 ||chaturbate.com
 ||checkgfw.com
 ||chengmingmag.com
@@ -4640,6 +4646,7 @@ zomobo.net
 ||daolan.net
 ||daozhongxing.org
 ||darktoy.net
+||darmau.co
 ||darpa.mil
 ||darrenliuwei.com
 ||dashlane.com
@@ -5168,6 +5175,7 @@ zomobo.net
 ||figprayer.com
 ||fileflyer.com
 ||fileforum.com
+||files.oaiusercontent.com
 ||files2me.com
 ||fileserve.com
 ||filesor.com
@@ -5209,6 +5217,7 @@ zomobo.net
 ||flitto.com
 ||flnet.org
 ||flog.tw
+||flowgpt.com
 ||flowhongkong.net
 ||flurry.com
 ||flypool.org
@@ -5226,6 +5235,7 @@ zomobo.net
 ||fooooo.com
 ||footwiball.com
 ||forbes.com
+||forefront.ai
 ||foreignaffairs.com
 ||foreignpolicy.com
 ||form.new
@@ -5982,6 +5992,7 @@ zomobo.net
 ||hhdcb3office.org
 ||hhthesakyatrizin.org
 ||hi-on.org.tw
+||hicairo.com
 ||hiccears.com
 ||hidden-advent.org
 ||hide.me
@@ -6184,6 +6195,7 @@ zomobo.net
 ||hwayue.org.tw
 ||hxwk.org
 ||hybrid-analysis.com
+||hyperbeam.com
 ||hyperrate.com
 ||hypothes.is
 ||hysteria.network
@@ -6451,7 +6463,6 @@ zomobo.net
 ||jgoodies.com
 ||jiangweiping.com
 ||jiaoyou8.com
-||jichangtj.com
 ||jiehua.cz
 ||jieshibaobao.com
 ||jifangge.com
@@ -6675,6 +6686,7 @@ zomobo.net
 ||lerosua.org
 ||lesoir.be
 ||letscorp.net
+||lexica.art
 ||lflinkup.com
 ||lflinkup.net
 ||lhakar.org
@@ -6778,6 +6790,7 @@ zomobo.net
 ||lsmchinese.org
 ||lsmkorean.org
 ||lsmwebcast.com
+||lt.sntp.uk
 ||ltn.com.tw
 ||luckydesigner.space
 ||luckymobile.ca
@@ -7973,6 +7986,7 @@ zomobo.net
 ||religionnews.com
 ||religioustolerance.org
 ||renminbao.com
+||rentry.co
 ||renyurenquan.org
 ||research.google
 ||resilio.com
@@ -8351,6 +8365,7 @@ zomobo.net
 ||sonidodelaesperanza.org
 ||sopcast.com
 ||sopcast.org
+||sora.com
 ||sorazone.net
 ||sorting-algorithms.com
 ||sos.org
@@ -8678,6 +8693,7 @@ zomobo.net
 ||tensorflow.org
 ||tenzinpalmo.com
 ||terabox.com
+||terobox.com
 ||tew.org
 ||textnow.com
 ||textnow.me

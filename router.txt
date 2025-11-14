@@ -69,6 +69,7 @@ nflxso.net
 ipify.org
 tiktokcdn.com
 godaddy.com
+canva.com
 gravatar.com
 oaistatic.com
 dropbox.com
@@ -932,6 +933,7 @@ gamer.com.tw
 search.aol.com
 isc.sans.edu
 beanfun.com
+flowgpt.com
 radio.garden
 nutaku.net
 newyorktimes.com
@@ -1121,7 +1123,9 @@ straitstimes.com.sg
 veoh.com
 lifemiles.com
 69shuba.com
+chat.com
 gelbooru.com
+sora.com
 yomiuri.co.jp
 881903.com
 tineye.com
@@ -1363,6 +1367,7 @@ okcoin.com
 usmc.mil
 https443.net
 playboy.com
+rentry.co
 citypopulation.de
 geocities.com
 grow.google
@@ -1377,6 +1382,7 @@ bookwalker.jp
 blacked.com
 somee.com
 am730.com.hk
+hyperbeam.com
 mgstage.com
 acgnx.se
 androidtv.com
@@ -1460,6 +1466,7 @@ project-syndicate.org
 nuuvem.com
 appadvice.com
 book.com.tw
+chatpdf.com
 heavy-r.com
 nuvid.com
 tubepornstars.com
@@ -1485,6 +1492,7 @@ wego.here.com
 fleshbot.com
 shopping.com
 taiwannews.com.tw
+lexica.art
 hdzog.com
 thegay.com
 xxx.xxx
@@ -2291,6 +2299,7 @@ aojiao.org
 aolnews.com
 aomedia.org
 aomiwang.com
+aoxvpn.com
 apat1989.org
 apetube.com
 api-secure.recaptcha.net
@@ -2460,6 +2469,7 @@ bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
 betaclouds.net
+bettergpt.chat
 betternet.co
 bettervpn.com
 bettween.com
@@ -2695,6 +2705,7 @@ cccat.cc
 cccat.co
 ccdtr.org
 ccfd.org.tw
+cchostvps.xyz
 ccim.org
 cclife.ca
 cclife.org
@@ -3046,6 +3057,7 @@ daolan.net
 daozhongxing.org
 darktech.org
 darktoy.net
+darmau.co
 darrenliuwei.com
 dastrassi.org
 data-vocabulary.org
@@ -3435,6 +3447,7 @@ fhreports.net
 figprayer.com
 fileflyer.com
 fileforum.com
+files.oaiusercontent.com
 files2me.com
 fillthesquare.org
 filmingfortibet.org
@@ -3472,6 +3485,7 @@ fofg.org
 fofldfradio.org
 fooooo.com
 footwiball.com
+forefront.ai
 form.new
 forum.baby-kingdom.com
 forum.cyberctm.com
@@ -3930,6 +3944,7 @@ hgseav.com
 hhdcb3office.org
 hhthesakyatrizin.org
 hi-on.org.tw
+hicairo.com
 hiccears.com
 hidden-advent.org
 hidecloud.com
@@ -4308,7 +4323,6 @@ jfqu37.xyz
 jgoodies.com
 jiangweiping.com
 jiaoyou8.com
-jichangtj.com
 jiehua.cz
 jieshibaobao.com
 jifangge.com
@@ -4582,6 +4596,7 @@ lsmkorean.org
 lsmradio.com
 lsmwebcast.com
 lsxszzg.com
+lt.sntp.uk
 luckydesigner.space
 ludepress.com
 luke54.com
@@ -5983,6 +5998,7 @@ tellapart.com
 tellme.pw
 tenacy.com
 tenzinpalmo.com
+terobox.com
 tew.org
 tfc-taiwan.org.tw
 tfiflve.com
