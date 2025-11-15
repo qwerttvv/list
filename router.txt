@@ -61,6 +61,7 @@ t.co
 whatsapp.com
 ads-twitter.com
 disqus.com
+spotifycdn.com
 tiktokw.us
 nflxso.net
 gvt3.com

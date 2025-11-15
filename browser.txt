@@ -8413,6 +8413,7 @@ zomobo.net
 ||sports.williamhill.com
 ||spotflux.com
 ||spotify.com
+||spotifycdn.com
 ||spreadsheet.new
 ||spreadshirt.es
 ||spreaker.com
