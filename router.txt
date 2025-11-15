@@ -14,7 +14,6 @@ yahoo.com
 netflix.com
 fbcdn.net
 gvt1.com
-cdn-apple.com
 googlevideo.com
 instagram.com
 facebook.net
@@ -1342,6 +1341,7 @@ bloglines.com
 bitmex.com
 bot.nu
 taiwannews.com.tw
+51cg1.com
 research.google
 renminbao.com
 chromeenterprise.google

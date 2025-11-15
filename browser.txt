@@ -3412,6 +3412,7 @@ zomobo.net
 ||500px.org
 ||50webs.com
 ||51.ca
+||51cg1.com
 ||51jav.org
 ||51luoben.com
 ||5278.cc
@@ -4225,7 +4226,6 @@ zomobo.net
 ||cdig.info
 ||cdjp.org
 ||cdn*.i-scmp.com
-||cdn-apple.com
 ||cdn-images.mailchimp.com
 ||cdn-telegram.org
 ||cdn.arstechnica.net
