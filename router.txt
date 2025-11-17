@@ -613,6 +613,7 @@ googlecommerce.com
 scache.vzw.com
 youtubekids.com
 persgroep.net
+rustdesk.com
 tagesschau.de
 abc.com
 pastebin.com
@@ -4833,6 +4834,7 @@ mixero.com
 mixpod.com
 mixx.com
 mizzmona.com
+mjj.rip
 mjlsh.usc.cuhk.edu.hk
 mk5000.com
 mlc.ai
