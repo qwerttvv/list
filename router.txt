@@ -1521,6 +1521,7 @@ linksalpha.com
 geocities.jp
 hclips.com
 hostloc.com
+i.mij.rip
 smith.edu
 crazyshit.com
 togetter.com
@@ -4853,6 +4854,7 @@ mixpod.com
 mixx.com
 mizzmona.com
 mjj.rip
+mjj.today
 mjlsh.usc.cuhk.edu.hk
 mk5000.com
 mlc.ai

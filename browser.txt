@@ -6205,6 +6205,7 @@ zomobo.net
 ||i-part.com.tw
 ||i.111666.best
 ||i.lithium.com
+||i.mij.rip
 ||i1.hk
 ||i2p2.de
 ||i2runner.com
@@ -7029,6 +7030,7 @@ zomobo.net
 ||mizzmona.com
 ||mjib.gov.tw
 ||mjj.rip
+||mjj.today
 ||mjlsh.usc.cuhk.edu.hk
 ||mk5000.com
 ||mlc.ai
