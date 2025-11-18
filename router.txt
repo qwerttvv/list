@@ -2239,6 +2239,7 @@ agro.hk
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.dev
 ai.ls
 aiosearch.com
 aiph.net
