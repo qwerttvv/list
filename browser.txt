@@ -4503,6 +4503,7 @@ zomobo.net
 ||cointiger.com
 ||cointobe.com
 ||coinut.com
+||colab.google
 ||colacloud.net
 ||collateralmurder.com
 ||collateralmurder.org
@@ -4797,6 +4798,7 @@ zomobo.net
 ||donmai.us
 ||dontfilter.us
 ||dontmovetochina.com
+||doodles.google
 ||doom9.org
 ||doosho.com
 ||doourbest.org
@@ -6688,6 +6690,7 @@ zomobo.net
 ||leisurepro.com
 ||lematin.ch
 ||lemonde.fr
+||lens.google
 ||lenwhite.com
 ||lerosua.org
 ||lesoir.be
@@ -8138,6 +8141,7 @@ zomobo.net
 ||seapuff.com
 ||search.aol.com
 ||search.com
+||search.google
 ||search.xxx
 ||search.yahoo.co.jp
 ||searchapi.culture.tw
@@ -8558,6 +8562,7 @@ zomobo.net
 ||surfeasy.com
 ||surfshark.com
 ||surrenderat20.net
+||sustainability.google
 ||suyangg.com
 ||svsfx.com
 ||swagbucks.com
@@ -9410,6 +9415,7 @@ zomobo.net
 ||wailaike.net
 ||wainao.me
 ||waiwaier.com
+||wallet.google
 ||walletconnect.com
 ||wallhaven.cc
 ||wallmama.com

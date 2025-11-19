@@ -531,6 +531,7 @@ google.am
 google.is
 google.cm
 google.com.et
+search.google
 sourceforge.net
 google.md
 worldcat.org
@@ -735,6 +736,7 @@ indianexpress.com
 golang.org
 chrome.com
 nikkei.com
+doodles.google
 radio-canada.ca
 getmdl.io
 lemonde.fr
@@ -1171,6 +1173,7 @@ amnesty.org
 blogimg.jp
 sora.com
 nobelprize.org
+lens.google
 apkmirror.com
 tunnelblick.net
 fril.jp
@@ -1464,6 +1467,7 @@ vevo.com
 ift.tt
 upmedia.mg
 6parkbbs.com
+colab.google
 eyny.com
 f2pool.com
 c.mi.com
@@ -5889,6 +5893,7 @@ suppig.net
 surfeasy.com.au
 suroot.com
 surrenderat20.net
+sustainability.google
 suyangg.com
 svsfx.com
 swapspace.co
@@ -6612,6 +6617,7 @@ waikeung.org
 wailaike.net
 wainao.me
 waiwaier.com
+wallet.google
 wallmama.com
 wallornot.org
 wallpapercasa.com
