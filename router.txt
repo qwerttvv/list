@@ -2606,6 +2606,7 @@ btsynckeys.com
 budaedu.org
 buddhanet.com.tw
 buffered.com
+built-in.google
 bullog.org
 bullogger.com
 bumingbai.net
@@ -2964,6 +2965,7 @@ crchina.org
 crd-net.org
 creadersnet.com
 creativelab5.com
+crisisresponse.google
 cristyli.com
 crocotube.com
 crossfire.co.kr
@@ -4483,6 +4485,7 @@ ld.hao123img.com
 ldplayer.tw
 le-vpn.com
 leafyvpn.net
+learning.google
 lecloud.net
 lefora.com
 left21.hk
@@ -5349,6 +5352,7 @@ ptthito.com
 pttvan.org
 pttyes.com
 ptwxz.com
+publicpolicy.google
 pubu.com.tw
 puffin.com
 puffinbrowser.com
@@ -6211,6 +6215,7 @@ toytractorshow.com
 tparents.org
 tpi.org.tw
 translate.goog
+transparency.google
 travelinkcard.com
 treemall.com.tw
 trendsmap.com
