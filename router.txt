@@ -777,6 +777,7 @@ zello.com
 getmdl.io
 threads.net
 betfair.com
+cloudflarestatus.com
 apkcombo.com
 pixnet.net
 wikibooks.org
@@ -2320,6 +2321,7 @@ answering-islam.org
 anthonycalzadilla.com
 anti1984.com
 antichristendom.com
+antigravity.google
 antisocial.science
 antiwave.net
 ao3.org

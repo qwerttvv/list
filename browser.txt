@@ -3646,6 +3646,7 @@ zomobo.net
 ||anthropic.com
 ||anti1984.com
 ||antichristendom.com
+||antigravity.google
 ||antisocial.science
 ||antiwave.net
 ||antpool.com
@@ -4449,6 +4450,7 @@ zomobo.net
 ||cloud.mail.ru
 ||cloudflare-dns.com
 ||cloudflare-ipfs.com
+||cloudflarestatus.com
 ||cloudfunctions.net
 ||cloudokyo.cloud
 ||cloudpartnerservices.goog
