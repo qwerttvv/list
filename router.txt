@@ -3822,6 +3822,7 @@ great-firewall.com
 great-roc.org
 greatfire.org
 greatfire.us7.list-manage.com
+greatfirevpn.com
 greatfirewall.biz
 greatfirewallofchina.org
 greatroc.org
@@ -6727,6 +6728,7 @@ wikileaks.lu
 wikileaks.pl
 wikiless.funami.tech
 wikilivres.info
+wikiunblocked.org
 wildammo.com
 willw.net
 wingamestore.com
