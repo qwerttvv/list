@@ -188,6 +188,7 @@ google.de
 ttvnw.net
 aiv-cdn.net
 googlehosted.com
+live-video.net
 githubassets.com
 behance.net
 anthropic.com
