@@ -2524,7 +2524,6 @@ hotgoo.com
 hotpot.hk
 hqmovies.com
 hrweb.org
-http://*.m-team.cc
 huaxiabao.org
 huaxin.ph
 hurgokbayrak.com
