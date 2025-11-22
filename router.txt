@@ -332,6 +332,7 @@ scache1.vzw.com
 tinyurl.com
 ask.com
 google.co.cr
+picsart.com
 hsselite.com
 google.it
 wunderground.com
