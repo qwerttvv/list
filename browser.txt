@@ -3649,6 +3649,7 @@ zomobo.net
 ||antisocial.science
 ||antiwave.net
 ||antpool.com
+||anuneko.com
 ||anyporn.com
 ||anysex.com
 ||ao3.org
@@ -6471,6 +6472,7 @@ zomobo.net
 ||jfqu36.club
 ||jfqu37.xyz
 ||jgoodies.com
+||jhelab.org
 ||jiangweiping.com
 ||jiaoyou8.com
 ||jiehua.cz
@@ -7738,6 +7740,7 @@ zomobo.net
 ||podcast.app
 ||podcast.co
 ||podictionary.com
+||podwise.ai
 ||poe.com
 ||points-media.com
 ||pokerstars.com
@@ -7932,9 +7935,11 @@ zomobo.net
 ||radicalparty.org
 ||radio-canada.ca
 ||radio-en-ligne.fr
+||radio.co
 ||radio.garden
 ||radioaustralia.net.au
 ||radiohilight.net
+||radiojar.com
 ||radioline.co
 ||radiovaticana.org
 ||radiovncr.com
