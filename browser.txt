@@ -3948,6 +3948,7 @@ zomobo.net
 ||bit-z.com
 ||bit.do
 ||bit.ly
+||bitbaby.com
 ||bitbay.net
 ||bitc.bme.emory.edu
 ||bitchute.com
@@ -6241,6 +6242,7 @@ zomobo.net
 ||id.heroku.com
 ||id.taipei
 ||idaiwan.com
+||idcflare.com
 ||idemocracy.asia
 ||identi.ca
 ||idiomconnection.com
