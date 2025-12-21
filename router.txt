@@ -760,6 +760,7 @@ euronews.com
 udn.com
 my.mail.ru
 googleblog.com
+static.pocketcasts.com
 etherscan.io
 imageshack.us
 miraheze.org
