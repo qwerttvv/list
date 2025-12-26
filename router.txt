@@ -982,6 +982,7 @@ nanopool.org
 earthcam.com
 blackmagicdesign.com
 wikinews.org
+lovart.ai
 thehindu.com
 ig.com
 pritunl.com
