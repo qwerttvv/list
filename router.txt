@@ -3231,7 +3231,6 @@ dnssec.net
 dnvod.tv
 doc.new
 dockerstatus.com
-docs.deno.com
 doctorvoice.org
 documentingreality.com
 dojin.com
@@ -4349,6 +4348,7 @@ ismalltits.com
 ismprofessional.net
 isohunt.com
 israbox.com
+issues.chromium.org
 istars.co.nz
 istef.info
 istiqlalhewer.com
@@ -5902,6 +5902,7 @@ static-economist.com
 static.shemalez.com
 statueofdemocracy.org
 stboy.net
+steamladder.com
 steel-storm.com
 steganos.com
 steganos.net

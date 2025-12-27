@@ -4783,7 +4783,6 @@ zomobo.net
 ||docker.com
 ||docker.io
 ||dockerstatus.com
-||docs.deno.com
 ||docs.new
 ||doctorvoice.org
 ||documentingreality.com
@@ -6394,6 +6393,7 @@ zomobo.net
 ||ismalltits.com
 ||ismprofessional.net
 ||israbox.com
+||issues.chromium.org
 ||issuu.com
 ||istars.co.nz
 ||istef.info
@@ -8505,6 +8505,7 @@ zomobo.net
 ||stc.com.sa
 ||steambroadcast.akamaized.net
 ||steamcommunity.com
+||steamladder.com
 ||steamstatic.com
 ||steel-storm.com
 ||steemit.com
