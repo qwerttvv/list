@@ -122,6 +122,7 @@ api.steampowered.com
 wikipedia.com
 discordapp.net
 nflximg.com
+pdst.fm
 discord.media
 google.co.uk
 ttwstatic.com
@@ -1125,6 +1126,7 @@ gettr.com
 lesoir.be
 ok.xxx
 carousell.com.hk
+up.audio
 solscan.io
 brazzers.com
 bangkokpost.com

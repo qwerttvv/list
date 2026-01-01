@@ -7638,6 +7638,7 @@ zomobo.net
 ||pct.org.tw
 ||pdproxy.com
 ||pds.nasa.gov
+||pdst.fm
 ||peace.ca
 ||peacefire.org
 ||peacehall.com
@@ -9215,6 +9216,7 @@ zomobo.net
 ||untraceable.us
 ||unwire.hk
 ||uocn.org
+||up.audio
 ||upbit.com
 ||updates.tdesktop.com
 ||upghsbc.com
