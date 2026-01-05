@@ -3537,6 +3537,7 @@ zomobo.net
 ||ai.dev
 ||ai.google
 ||ai.ls
+||ai.studio
 ||aiosearch.com
 ||aiph.net
 ||airasia.com
