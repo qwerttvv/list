@@ -4667,6 +4667,7 @@ zomobo.net
 ||david-kilgour.com
 ||dawangidc.com
 ||daylife.com
+||dazn.com
 ||db.tt
 ||dbgjd.com
 ||dcard.tw
@@ -7517,6 +7518,8 @@ zomobo.net
 ||onthehunt.com
 ||ontrac.com
 ||oojj.de
+||ooni.io
+||ooni.org
 ||open-assistant.io
 ||open.com.hk
 ||open.firstory.me
@@ -9702,6 +9705,7 @@ zomobo.net
 ||xbookcn.com
 ||xbtce.com
 ||xcafe.in
+||xcancel.com
 ||xchina.co
 ||xcity.jp
 ||xcritic.com
