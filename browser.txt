@@ -5521,6 +5521,7 @@ zomobo.net
 ||githubassets.com
 ||githubcopilot.com
 ||githubusercontent.com
+||gitlab.com
 ||gitlab.net
 ||gizlen.net
 ||gjczz.com

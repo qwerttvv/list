@@ -292,6 +292,7 @@ goodreads.com
 atv-ps.amazon.com
 rtm.tnt-ea.com
 dropboxapi.com
+gitlab.com
 pscp.tv
 google.com.my
 staticflickr.com
