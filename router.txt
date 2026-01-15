@@ -1895,7 +1895,6 @@ javbus.com
 sinoca.com
 updates.tdesktop.com
 xbabe.com
-deno.com
 mylftv.com
 zooqle.com
 mynumber.org
@@ -3086,7 +3085,6 @@ delcamp.net
 demo.opera-mini.net
 demo.unlock-music.dev
 demosisto.hk
-deno.dev
 derekhsu.homeip.net
 derpibooru.org
 desc.se

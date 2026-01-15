@@ -4699,8 +4699,6 @@ zomobo.net
 ||demo.opera-mini.net
 ||demo.unlock-music.dev
 ||demosisto.hk
-||deno.com
-||deno.dev
 ||depositphotos.com
 ||derekhsu.homeip.net
 ||derpibooru.org
