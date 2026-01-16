@@ -293,7 +293,6 @@ google.com.tr
 twitchcdn.net
 staticflickr.com
 goodreads.com
-gitlab.com
 xvideos.com
 carfax.com
 pscp.tv
