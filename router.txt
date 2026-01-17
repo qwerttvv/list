@@ -1049,6 +1049,7 @@ okinawatimes.co.jp
 f-droid.org
 taaze.tw
 storage.yandex.net
+mytvsuper.com
 imagevenue.com
 lushstories.com
 hide.me
@@ -2251,6 +2252,7 @@ aiv-cdn.net.c.footprint.net
 aiweiwei.com
 aiweiweiblog.com
 akademiye.org
+akamai.tvb.com
 akamaihd.net
 akiba-web.com
 akow.org
@@ -6322,6 +6324,7 @@ tv.com
 tv.google
 tv.jtbc.joins.com
 tvants.com
+tvbanywhere.com
 tvboxnow.com
 tvider.com
 tvmost.com.hk
