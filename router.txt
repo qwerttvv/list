@@ -962,6 +962,7 @@ web.dev
 oricon.co.jp
 fril.jp
 ramcity.com.au
+annas-archive.li
 worldjournal.com
 on.cc
 pritunl.com
@@ -1285,6 +1286,7 @@ swag.live
 now.com
 afr.com
 ok.xxx
+annas-archive.pm
 hackmd.io
 kknews.cc
 wikimapia.org
@@ -1332,6 +1334,7 @@ eeas.europa.eu
 google.co
 edx-cdn.org
 yahoo.com.hk
+annas-archive.in
 androidtv.com
 nftstorage.link
 drtuber.com
