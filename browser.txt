@@ -3807,6 +3807,7 @@ zomobo.net
 ||babylonbee.com
 ||babynet.com.hk
 ||backchina.com
+||backend-v2.crixet.com
 ||backtotiananmen.com
 ||bad.news
 ||badiucao.com
