@@ -7099,7 +7099,6 @@ zomobo.net
 ||moonbbs.com
 ||moonbbs.info
 ||moonbingo.com
-||mooo.com
 ||moptt.tw
 ||morbell.com
 ||moresci.sale
@@ -8301,6 +8300,7 @@ zomobo.net
 ||silkbook.com
 ||silvergatebank.com
 ||simbolostwitter.com
+||simianx.ai
 ||simplecd.me
 ||simplecd.org
 ||simpleswap.io
