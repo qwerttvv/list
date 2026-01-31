@@ -106,6 +106,7 @@ pandora.com
 cdn.registerdisney.go.com
 nflxvideo.net
 cnn.com
+byspotify.com
 zoominfo.com
 hcaptcha.com
 steamstatic.com
@@ -1006,6 +1007,7 @@ wionews.com
 f-droid.org
 about.gitlab.com
 storage.yandex.net
+anygate.vip
 annas-archive.li
 annas-archive.org
 mewe.com
