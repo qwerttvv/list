@@ -8646,6 +8646,7 @@ zomobo.net
 ||tagesschau.de
 ||tagwa.org.au
 ||tagwalk.com
+||tails.net
 ||taipei.gov.tw
 ||taipeisociety.org
 ||taipeitimes.com

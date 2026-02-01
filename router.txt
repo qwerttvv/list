@@ -1355,6 +1355,7 @@ safety.google
 booklive.jp
 dwnews.com
 sensortower.com
+tails.net
 writer.zoho.com
 skyvegas.com
 moneydj.com
