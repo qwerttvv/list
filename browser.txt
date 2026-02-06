@@ -9305,6 +9305,7 @@ zomobo.net
 ||v.rn*.xyz
 ||v.roucdn*.xyz
 ||v2.help
+||v2.hysteria.network
 ||v2board.com
 ||v2ex.com
 ||v2fly.org
