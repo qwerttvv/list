@@ -3966,6 +3966,7 @@ zomobo.net
 ||bitshare.com
 ||bitsnoop.com
 ||bitterwinter.org
+||bittorrent.com
 ||bitvise.com
 ||bitz.ai
 ||bitz.com
