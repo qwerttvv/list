@@ -494,7 +494,6 @@ coingecko.com
 google.si
 cdw.com
 fb.gg
-hoyolab.com
 google.lt
 google.hr
 google.com.ni
@@ -1019,7 +1018,6 @@ ppy.sh
 is.gd
 swag.live
 ai.google
-anygate.vip
 newyorktimes.com
 bitchute.com
 note.com
