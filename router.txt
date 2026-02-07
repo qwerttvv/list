@@ -6758,6 +6758,7 @@ wikileaks.pl
 wikiless.funami.tech
 wikilivres.info
 wikipedia-on-ipfs.org
+wikis.tw
 wikiunblocked.org
 wildammo.com
 willw.net
