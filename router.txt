@@ -430,7 +430,6 @@ jcpenney.com
 statically.io
 google.iq
 suno.com
-myspace.com
 cdn.statically.io
 google.kz
 audacy.com
@@ -535,7 +534,6 @@ gate.io
 google.jo
 google.com.lb
 google.md
-mediafire.com
 google.gy
 google.com.ly
 google.mv
@@ -2423,7 +2421,6 @@ bbs.hanminzu.org
 bbs.huasing.org
 bbs.junglobal.net
 bbs.mikocon.com
-bbs.morbell.com
 bbs.mychat.to
 bbs.naixi.net
 bbs.nyinfor.com
@@ -2544,7 +2541,6 @@ blog.fuckgfw233.org
 blog.goo.ne.jp
 blog.jackjia.com
 blog.kangye.org
-blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
@@ -2733,7 +2729,6 @@ cdcparty.com
 cdef.org
 cdig.info
 cdjp.org
-cdn.assets.lfpcontent.com
 cdn.helixstudios.net
 cdn.seatguru.com
 cdn.softlayer.net
@@ -3939,6 +3934,7 @@ hecaitou.net
 hechaji.com
 heeact.edu.tw
 hegre-art.com
+helixstudios.net
 helloandroid.com
 helloavgirls.com
 helloqueer.com
@@ -4044,7 +4040,6 @@ hkpeanut.com
 hkptu.org
 hkreadingcity.net
 hkreporter.com
-hkreporter.loved.hk
 hkusu.net
 hkvwet.com
 hkwcc.org.hk
@@ -4359,7 +4354,6 @@ jieshibaobao.com
 jifangge.com
 jigglegifs.com
 jigong1024.com
-jihadintel.meforum.org
 jihadology.net
 jims.net
 jinbushe.org
@@ -4540,7 +4534,6 @@ leisurecafe.ca
 leisurepro.com
 lenwhite.com
 lerosua.org
-letou.com
 letscorp.net
 lflinkup.com
 lflinkup.net
@@ -4596,7 +4589,6 @@ livingonline.us
 livingstream.com
 liwangyang.com
 lizhizhuangbi.com
-lkcn.net
 llss.me
 lmsys.org
 load.to
@@ -4609,14 +4601,12 @@ logbot.net
 logiqx.com
 logos.com.hk
 londonchinese.ca
-longhair.hk
 longtermly.net
 longtoes.com
 lookpic.com
 looktoronto.com
 loongese.com
 lorenzetti.com.br
-lotsawahouse.org
 lotuslight.org.hk
 lotuslight.org.tw
 loukky.com
@@ -4628,7 +4618,6 @@ lsforum.net
 lsm.org
 lsmchinese.org
 lsmkorean.org
-lsmradio.com
 lsmwebcast.com
 lsxszzg.com
 lt.sntp.uk
@@ -4638,7 +4627,6 @@ ludepress.com
 luke54.com
 luke54.org
 lupm.org
-luxebc.com
 lvhai.org
 ly.gov.tw
 lyfhk.net
@@ -4676,7 +4664,6 @@ mangmang.run
 manhuabika.com
 manhuache.com
 maniash.com
-manicur4ik.ru
 mansion.com
 mansionpoker.com
 manyvoices.news
@@ -4686,7 +4673,6 @@ martau.com
 martincartoons.com
 martinoei.com
 martsangkagyuofficial.org
-maruta.be
 marxist.com
 marxist.net
 mash.to
@@ -4711,7 +4697,6 @@ mbct.mlc.edu.tw
 mcadforums.com
 mcaf.ee
 mcfog.com
-mcreasite.com
 md-t.org
 me.me
 me.ns.ci
@@ -4754,7 +4739,6 @@ metacubex.one
 metart.com
 metarthunter.com
 meteorshowersonline.com
-metrohk.com.hk
 metrolife.ca
 metroradio.com.hk
 meyou.jp
@@ -4892,10 +4876,8 @@ mx981.com
 my-formosa.com
 my-proxy.com
 my.opera.com
-myactimes.com
 myanniu.com
 myaudiocast.com
-myav.com.tw
 mybbs.us
 mybet.com
 myca168.com
