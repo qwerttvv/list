@@ -3663,6 +3663,8 @@ zomobo.net
 ||bbci.co.uk
 ||bbg.gov
 ||bbnradio.org
+||bbs-api-os-static.hoyolab.com
+||bbs-api-os.hoyolab.com
 ||bbs-tw.com
 ||bbs.cantonese.asia
 ||bbs.junglobal.net

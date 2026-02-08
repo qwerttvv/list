@@ -613,6 +613,7 @@ mercari.com
 newsweek.com
 sourceforge.net
 aptoide.com
+bbs-api-os.hoyolab.com
 bild.de
 startpage.com
 edgecastcdn.net
@@ -686,6 +687,7 @@ artstation.com
 accountkit.com
 deviantart.net
 pixiv.net
+bbs-api-os-static.hoyolab.com
 archives.gov
 youporn.com
 swagbucks.com
