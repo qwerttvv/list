@@ -134,7 +134,6 @@ signal.org
 syndicatedsearch.goog
 ibytedtos.com
 byspotify.com
-cnn.com
 onedrive.live.com
 fb.com
 bbci.co.uk
@@ -894,7 +893,6 @@ urbandictionary.com
 channelnewsasia.com
 udn.com
 gelbooru.com
-convio.net
 deepai.org
 tistory.com
 gemini.com
@@ -2770,9 +2768,6 @@ cahr.org.tw
 calebelston.com
 calgarychinese.ca
 calgarychinese.com
-calgarychinese.net
-cam4.jp
-cam4.sg
 cambridge-hotel.com.tw
 campaignforuyghurs.org
 cams.org.sg
@@ -2987,7 +2982,6 @@ citizenpowerforchina.org
 citizenscommission.hk
 citizensradio.org
 city365.ca
-citytalk.tw
 civicparty.hk
 civildisobediencemovement.org
 civilhrfront.org
@@ -3017,7 +3011,6 @@ clyp.it
 cmcn.org
 cmi.org.tw
 cmoinc.org
-cmp.hku.hk
 cmule.com
 cmule.org
 cmx.im
@@ -3030,7 +3023,6 @@ cn.shafaqna.com
 cn.streetvoice.com
 cn.theaustralian.com.au
 cn6.eu
-cnabc.com
 cnbbnews.wordpress.com
 cnbeta.com.tw
 cnd.org
@@ -3106,7 +3098,6 @@ ctao.org
 ctfriend.net
 ctitv.com.tw
 ctowc.org
-cuhkacs.org
 cuihua.org
 cuiweiping.net
 cuntcrack.com
@@ -3221,7 +3212,6 @@ diversity.google
 diyin.org
 dizhidizhi.com
 dizhuzhishang.com
-djangosnippets.org
 djorz.com
 dl-laby.jp
 dl.box.net
@@ -3238,7 +3228,6 @@ documentingreality.com
 dojin.com
 dok-forum.net
 dolf.org.hk
-domain.club.tw
 domainhelp.search.com
 domaintoday.com.au
 dongtaiwang.net
@@ -3274,14 +3263,12 @@ dstk.dk
 dtwang.org
 duanzhihu.com
 dubox.com
-duckload.com
 duckmylife.com
 duihua.org
 duihuahrjournal.org
 dunyabulteni.net
 duoweitimes.com
 duping.net
-dupola.com
 dupola.net
 dushi.ca
 duyaoss.com
@@ -6739,7 +6726,6 @@ www.ajsands.com
 www.antd.org
 www.aolnews.com
 www.cmoinc.org
-www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
@@ -6845,7 +6831,6 @@ xvideo.cc
 xvinlink.com
 xxlmovies.com
 xxxfuckmom.com
-xys.dxiong.com
 xys.org
 xysblogs.org
 xyy69.com
