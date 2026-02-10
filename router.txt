@@ -136,6 +136,7 @@ quora.com
 bbc.com
 meta.com
 signal.org
+google.us
 onedrive.live.com
 bbci.co.uk
 naver.com
@@ -394,6 +395,7 @@ ss7.vzw.com
 google.iq
 google.ie
 google.pt
+google.eu
 google.kz
 omny.fm
 amazon.co.jp
@@ -1615,6 +1617,7 @@ changeip.net
 mofos.com
 judicial.gov.tw
 rutracker.net
+google.mx
 storj.io
 sunporno.com
 lematin.ch
@@ -1672,6 +1675,7 @@ z-lib.fm
 eesti.ee
 kinokuniya.com
 xuite.net
+google.hk
 akiba-online.com
 letscorp.net
 shenyun.com
@@ -1883,6 +1887,7 @@ pcc.gov.tw
 periscope.tv
 cn.uptodown.com
 dnsrd.com
+google.it.ao
 mangafox.me
 pinterest.nz
 coze.com
@@ -3737,6 +3742,8 @@ goofind.com
 googel.de
 google-base.de
 google.ac
+google.af
+google.ai
 google.cc
 google.com.lc
 google.gf
@@ -3745,6 +3752,7 @@ google.jp
 google.ph
 google.sg
 google.uk
+google.vn
 googleapis.com
 googlearth.com
 googleartproject.com
