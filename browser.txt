@@ -557,6 +557,10 @@ www.aolnews.com
 ||about.me
 ||abplive.com
 ||acast.com
+||access.mypikpak.com
+||access.mypikpak.net
+||access.pikpak.me
+||access.pikpakdrive.com
 ||accountkit.com
 ||aceros-de-hispania.com
 ||acevpn.com
@@ -745,6 +749,7 @@ www.aolnews.com
 ||apartments.com
 ||apat1989.org
 ||apetube.com
+||api-drive.mypikpak.com
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
 ||api.ai
