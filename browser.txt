@@ -29,6 +29,7 @@
 @@||c.admob.com
 @@||c.pki.goog
 @@||cache.pack.google.com
+@@||cdn-china.ampproject.org
 @@||cdn.ampproject.org
 @@||checkin.gstatic.com
 @@||ci.android.com
@@ -48,6 +49,9 @@
 @@||fontfiles.googleapis.com
 @@||fonts.googleapis.com
 @@||fonts.gstatic.com
+@@||g0.gstatic.com
+@@||g1.gstatic.com
+@@||g2.gstatic.com
 @@||gsn.nat.gov.tw
 @@||hsinchu-cc.gov.tw
 @@||http2.golang.org
