@@ -2780,6 +2780,7 @@ www.aolnews.com
 ||googlemaps.sv
 ||googlemashups.com
 ||googlepagecreator.com
+||googlepages.com
 ||googleplay.com
 ||googleplus.com
 ||googlescholar.com
@@ -4238,6 +4239,7 @@ www.aolnews.com
 ||nutsvpn.work
 ||nuuvem.com
 ||nuvid.com
+||nuzzel.com
 ||nvdst.com
 ||nvquan.org
 ||nvtongzhisheng.org
