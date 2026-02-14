@@ -1,15 +1,17 @@
 /^[\w.:/-]+.cdn.ampproject.org+[\s\s]*/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
+/^https?:\/\/chronicle\.security/
 /^https?:\/\/cloudflarestatus\.com/
 /^https?:\/\/google-analytics\.com/
 /^https?:\/\/googleanalytics\.com/
+/^https?:\/\/googlecloudcommunity\.com/
 /^https?:\/\/googlesyndication\.com/
 /^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/
 /^https?:\/\/v\.rn\d{3}\.xyz/
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-@@|https://cdn.ampproject.org/
+@@|https://cdn.ampproject.org
 @@||*.ipify.org
 @@||about.fb.com
 @@||adservice.google.com
@@ -1460,12 +1462,14 @@ www.aolnews.com
 ||cloakpoint.com
 ||cloud.dify.ai
 ||cloud.mail.ru
+||cloud.run
 ||cloudflare-dns.com
 ||cloudflare-ipfs.com
 ||cloudflarestatus.com
 ||cloudfunctions.net
 ||cloudokyo.cloud
 ||cloudpartnerservices.goog
+||cloudskillsboost.google
 ||club1069.com
 ||clubhouseapi.com
 ||clyp.it
@@ -2488,6 +2492,7 @@ www.aolnews.com
 ||glype.com
 ||gmail.com
 ||gmgard.com
+||gmgn.ai
 ||gmiddle.com
 ||gmiddle.net
 ||gmll.org
@@ -4528,6 +4533,7 @@ www.aolnews.com
 ||pipii.tv
 ||piraattilahti.org
 ||piring.com
+||pittpatt.com
 ||pixeldrain.com
 ||pixelqi.com
 ||pixiv.net
@@ -6141,6 +6147,7 @@ www.aolnews.com
 ||wainao.me
 ||wallet.google
 ||walletconnect.com
+||walletconnect.org
 ||wallhaven.cc
 ||wallmama.com
 ||wallpapercasa.com
