@@ -1,12 +1,9 @@
 google.com
-amazonaws.com
 googleusercontent.com
 facebook.com
-google-analytics.com
 www.bing.com
 youtube.com
 ytimg.com
-googlesyndication.com
 pki.goog
 fastly.net
 fbcdn.net
@@ -1262,7 +1259,6 @@ pornoxo.com
 efukt.com
 jsfiddle.net
 suprememastertv.com
-googleanalytics.com
 bot.nu
 afr.com
 auctions.yahoo.co.jp
@@ -2787,7 +2783,6 @@ coinut.com
 colacloud.net
 collateralmurder.com
 collateralmurder.org
-com.google
 comefromchina.com
 comic-mega.me
 commandarms.com
@@ -2990,6 +2985,7 @@ dsmtp.com
 dstk.dk
 dtiblog.com
 dubox.com
+duckdns.org
 duckmylife.com
 duihua.org
 duihuahrjournal.org
@@ -4125,7 +4121,6 @@ larsgeorge.com
 lastcombat.com
 lastfm.es
 latelinenews.com
-latibet.org
 lausan.hk
 lbank.info
 ldplayer.tw
@@ -4542,6 +4537,7 @@ ngensis.com
 nhk-ondemand.jp
 nic.cz.cc
 nic.gov
+nic.youtube
 nightswatch.top
 ninecommentaries.com
 ninjacloak.com
@@ -5683,7 +5679,6 @@ tv.google
 tv.jtbc.joins.com
 tvbanywhere.com
 tvider.com
-tvmost.com.hk
 tvplayvideos.com
 tvr.ro
 tw-blog.com
