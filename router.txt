@@ -1501,6 +1501,7 @@ facebook.de
 colab.google
 haproxy.org
 punjab.gov.pk
+static.bevylabs.com
 assembla.com
 businessweekly.com.tw
 dwnews.com
@@ -2271,6 +2272,7 @@ authorizeddns.org
 av-e-body.com
 av.movie
 av01.tv
+av28.com
 avcool.com
 avdb.in
 avdb.tv
@@ -2889,6 +2891,7 @@ darrenliuwei.com
 data-vocabulary.org
 data.gov.tw
 data.taipei
+datacenters.google
 david-kilgour.com
 dawangidc.com
 daylife.com
@@ -3635,6 +3638,7 @@ hecaitou.net
 hechaji.com
 heeact.edu.tw
 hegre-art.com
+hegre.com
 helixstudios.net
 helloandroid.com
 helloavgirls.com
@@ -5985,7 +5989,6 @@ wanz-factory.com
 wapedia.mobi
 waselpro.com
 washeng.net
-watch8x.com
 watchinese.com
 watchmygf.net
 watchout.tw

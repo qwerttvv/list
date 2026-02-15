@@ -827,6 +827,7 @@ www.aolnews.com
 ||av.com
 ||av.movie
 ||av01.tv
+||av28.com
 ||avaaz.org
 ||avcool.com
 ||avdb.in
@@ -1547,7 +1548,6 @@ www.aolnews.com
 ||copilot.microsoft.com
 ||corumcollege.com
 ||cos-moe.com
-||cosplayjav.pl
 ||costco.com
 ||cotweet.com
 ||counter.social
@@ -1666,6 +1666,7 @@ www.aolnews.com
 ||data-vocabulary.org
 ||data.gov.tw
 ||data.taipei
+||datacenters.google
 ||daum.net
 ||david-kilgour.com
 ||dawangidc.com
@@ -2912,6 +2913,7 @@ www.aolnews.com
 ||hechaji.com
 ||heeact.edu.tw
 ||hegre-art.com
+||hegre.com
 ||helixstudios.net
 ||helloandroid.com
 ||helloavgirls.com
@@ -5263,6 +5265,7 @@ www.aolnews.com
 ||stat.gov.tw
 ||statearmor.org
 ||static-economist.com
+||static.bevylabs.com
 ||static.pocketcasts.com
 ||static.shemalez.com
 ||static01.nyt.com
@@ -6169,7 +6172,6 @@ www.aolnews.com
 ||waselpro.com
 ||washeng.net
 ||washingtonpost.com
-||watch8x.com
 ||watchinese.com
 ||watchmygf.net
 ||watchout.tw
