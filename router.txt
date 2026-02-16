@@ -937,7 +937,6 @@ opensea.io
 hitomi.la
 ipfire.org
 imagevenue.com
-fda.gov.tw
 imagefap.com
 voxer.com
 abebooks.co.uk
@@ -1027,7 +1026,6 @@ mega.io
 rferl.org
 newyorktimes.com
 qz.com
-nat.gov.tw
 njavtv.com
 tvboxnow.com
 quran.com
@@ -1502,7 +1500,6 @@ lih.kg
 play.google
 zyns.com
 gmodules.com
-immigration.gov.tw
 itemdb.com
 t66y.com
 yayabay.com
@@ -1689,10 +1686,8 @@ secureservercdn.net
 ikwb.com
 islamhouse.com
 newswav.com
-nhi.gov.tw
 backchina.com
 localhost.com
-tipo.gov.tw
 book.com.tw
 camfrog.com
 cdn-telegram.org
@@ -1716,7 +1711,6 @@ dnsrd.com
 ovpn.com
 parler.com
 sis001.com
-wda.gov.tw
 ezua.com
 my.pcloud.com
 pinterest.jp
@@ -1724,7 +1718,6 @@ play-asia.com
 slutload.com
 soup.io
 hoover.org
-moj.gov.tw
 readmoo.com
 big.one
 gettyimages.de
@@ -1753,7 +1746,6 @@ vocaroo.com
 xuite.net
 ai.google
 google.hk
-mol.gov.tw
 proxydns.com
 tbs.co.jp
 theprint.in
@@ -1773,7 +1765,6 @@ xerotica.com
 freetcp.com
 hkgolden.com
 icij.org
-judicial.gov.tw
 metart.com
 stileproject.com
 taipeitimes.com
@@ -1864,7 +1855,6 @@ equinenow.com
 21sextury.com
 dns-stuff.com
 elgoog.im
-npm.gov.tw
 qhigh.com
 nybooks.com
 teepr.com
@@ -1912,7 +1902,6 @@ bbs.cantonese.asia
 blip.tv
 domain.glass
 hotgoo.com
-hpa.gov.tw
 inkbunny.net
 lexica.art
 difangwenge.org
@@ -1947,7 +1936,6 @@ synapse.org
 bookmeter.com
 catchgod.com
 edupro.org
-mofa.gov.tw
 ns01.biz
 prompthero.com
 renminbao.com
@@ -1961,7 +1949,6 @@ enewstree.com
 furbo.org
 gettyimages.hk
 hongkongfp.com
-ly.gov.tw
 taaze.tw
 warroom.org
 wikipedia-on-ipfs.org
@@ -1981,7 +1968,6 @@ findmespot.com
 hjd2048.com
 jkforum.net
 lookpic.com
-pcc.gov.tw
 pcgamestorrents.com
 x-art.com
 businessweek.com
@@ -1992,7 +1978,6 @@ googleweblight.com
 i.111666.best
 kwongwah.com.my
 registry.google
-thb.gov.tw
 virtualrealporn.com
 8world.com
 kadokawa.co.jp
@@ -2066,7 +2051,6 @@ flickriver.com
 frontlinedefenders.org
 funkyimg.com
 haijiao.com
-npa.gov.tw
 subhd.tv
 sydneytoday.com
 xcity.jp
@@ -2231,7 +2215,6 @@ aiosearch.com
 aiph.net
 airitilibrary.com
 aisex.com
-aiss.anws.gov.tw
 ait.org.tw
 aiweiwei.com
 aiweiweiblog.com
@@ -2336,7 +2319,6 @@ appspot-preview.com
 appspot.com
 archive.vn
 archiveofourown.com
-archives.gov.tw
 arctosia.com
 areca-backup.org
 arena.taipei
@@ -2980,7 +2962,6 @@ daolan.net
 darmau.co
 darrenliuwei.com
 data-vocabulary.org
-data.gov.tw
 data.taipei
 datacenters.google
 david-kilgour.com
@@ -3201,7 +3182,6 @@ eurodasp.com
 evchk.wikia.com
 everipedia.org
 evschool.net
-exam.gov.tw
 exchristian.hk
 exmormon.org
 expatshield.com
@@ -3210,11 +3190,9 @@ expekt.com
 experts-univers.com
 exploader.net
 exrates.me
-ey.gov.tw
 eyevio.jp
 ezpeer.com
 f8.com
-fa.gov.tw
 facebook.design
 facebook.hu
 facebook.in
@@ -4005,7 +3983,6 @@ istiqlalhewer.com
 isunaffairs.com
 isuntv.com
 isupportuyghurs.org
-itaiwan.gov.tw
 italiatibet.org
 itemfix.com
 itshidden.com
@@ -4431,7 +4408,6 @@ mixero.com
 mixpod.com
 mixx.com
 mizzmona.com
-mjib.gov.tw
 mjj.rip
 mjj.today
 mjlsh.usc.cuhk.edu.hk
@@ -4446,7 +4422,6 @@ mo.nightlife141.com
 mobileways.de
 moby.to
 modernchinastudies.org
-moeaic.gov.tw
 moeerolibrary.com
 moeshare.cc
 mohu.club
@@ -4490,7 +4465,6 @@ muslimvideo.com
 muzi.com
 muzi.net
 muzu.tv
-mvdis.gov.tw
 mvg.jp
 mx981.com
 my-formosa.com
@@ -4622,10 +4596,6 @@ ns02.info
 ns02.us
 ns2.name
 ns3.name
-nsc.gov.tw
-ntbk.gov.tw
-ntbna.gov.tw
-ntbt.gov.tw
 ntd.tv
 ntdsf.tv
 ntdtv.ca
@@ -5333,7 +5303,6 @@ standwithhk.org
 starfishfx.com
 starp2p.com
 startuplivingchina.com
-stat.gov.tw
 statearmor.org
 static-economist.com
 static.bevylabs.com
@@ -5402,13 +5371,11 @@ t-g.com
 t35hosting.com
 taa-usa.org
 tabtter.jp
-tacc.cwb.gov.tw
 tacem.org
 taedp.org.tw
 tafm.org
 tagwalk.com
 tails.net
-taipei.gov.tw
 taipeisociety.org
 taiwan-sex.com
 taiwan.net.tw
@@ -5418,7 +5385,6 @@ taiwandaily.net
 taiwandc.org
 taiwanembassy.org
 taiwanhot.net
-taiwanjobs.gov.tw
 taiwanjustice.com
 taiwanjustice.net
 taiwankiss.com
@@ -5738,6 +5704,7 @@ tweez.net
 twelve.today
 twerkingbutt.com
 twftp.org
+twgov.tw
 twgreatdaily.com
 twibble.de
 twibs.com

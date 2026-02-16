@@ -601,7 +601,6 @@ www.aolnews.com
 ||airitilibrary.com
 ||airvpn.org
 ||aisex.com
-||aiss.anws.gov.tw
 ||ait.org.tw
 ||aiv-cdn.net
 ||aiv-delivery.net
@@ -773,7 +772,6 @@ www.aolnews.com
 ||archiveofourown.com
 ||archiveofourown.org
 ||archives.gov
-||archives.gov.tw
 ||arctosia.com
 ||areca-backup.org
 ||arena.taipei
@@ -1664,7 +1662,6 @@ www.aolnews.com
 ||darrenliuwei.com
 ||dashlane.com
 ||data-vocabulary.org
-||data.gov.tw
 ||data.taipei
 ||datacenters.google
 ||daum.net
@@ -2009,7 +2006,6 @@ www.aolnews.com
 ||evchk.wikia.com
 ||everipedia.org
 ||evschool.net
-||exam.gov.tw
 ||exchristian.hk
 ||excite.co.jp
 ||exhentai.org
@@ -2025,7 +2021,6 @@ www.aolnews.com
 ||extmatrix.com
 ||extrabux.com
 ||extremetube.com
-||ey.gov.tw
 ||eyevio.jp
 ||eyny.com
 ||ezpeer.com
@@ -2033,7 +2028,6 @@ www.aolnews.com
 ||f-droid.org
 ||f2pool.com
 ||f8.com
-||fa.gov.tw
 ||facebook.com
 ||facebook.com.br
 ||facebook.de
@@ -2129,7 +2123,6 @@ www.aolnews.com
 ||fc2china.com
 ||fc2cn.com
 ||fc2web.com
-||fda.gov.tw
 ||fdc64.de
 ||fdc64.jp
 ||fdc64.org
@@ -3059,7 +3052,6 @@ www.aolnews.com
 ||howtoforge.com
 ||hoxx.com
 ||hoy.tv
-||hpa.gov.tw
 ||hpjav.com
 ||hqcdp.org
 ||hqjapanesesex.com
@@ -3218,7 +3210,6 @@ www.aolnews.com
 ||imkev.com
 ||imlive.co
 ||imlive.com
-||immigration.gov.tw
 ||immoral.jp
 ||impact.org.au
 ||improd.works
@@ -3312,7 +3303,6 @@ www.aolnews.com
 ||isunaffairs.com
 ||isuntv.com
 ||isupportuyghurs.org
-||itaiwan.gov.tw
 ||italiatibet.org
 ||itasoftware.com
 ||itch.io
@@ -3425,7 +3415,6 @@ www.aolnews.com
 ||jsdelivr.net
 ||jsfiddle.net
 ||jtvnw.net
-||judicial.gov.tw
 ||jukujo-club.com
 ||juliepost.com
 ||juliereyc.com
@@ -3696,7 +3685,6 @@ www.aolnews.com
 ||lushstories.com
 ||lvhai.org
 ||lvv2.com
-||ly.gov.tw
 ||lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
@@ -3899,7 +3887,6 @@ www.aolnews.com
 ||mixx.com
 ||mizzmona.com
 ||mji.rip
-||mjib.gov.tw
 ||mjj.rip
 ||mjj.today
 ||mjlsh.usc.cuhk.edu.hk
@@ -3918,17 +3905,13 @@ www.aolnews.com
 ||mobypicture.com
 ||mod.io
 ||modernchinastudies.org
-||moeaic.gov.tw
 ||moeerolibrary.com
 ||moeshare.cc
-||mofa.gov.tw
 ||mofos.com
 ||mog.com
 ||mohu.club
 ||mohu.rocks
-||moj.gov.tw
 ||mojim.com
-||mol.gov.tw
 ||molihua.org
 ||momoshop.com.tw
 ||mondex.org
@@ -3985,7 +3968,6 @@ www.aolnews.com
 ||muzi.com
 ||muzi.net
 ||muzu.tv
-||mvdis.gov.tw
 ||mvg.jp
 ||mx981.com
 ||my-formosa.com
@@ -4056,7 +4038,6 @@ www.aolnews.com
 ||naol.ca
 ||naol.cc
 ||narod.ru
-||nat.gov.tw
 ||nat.moe
 ||national-lottery.co.uk
 ||nationalawakening.org
@@ -4152,7 +4133,6 @@ www.aolnews.com
 ||nga.mil
 ||ngensis.com
 ||nhentai.net
-||nhi.gov.tw
 ||nhk-ondemand.jp
 ||nic.cz.cc
 ||nic.gov
@@ -4204,9 +4184,7 @@ www.aolnews.com
 ||nownews.com
 ||noxinfluencer.com
 ||npa.go.jp
-||npa.gov.tw
 ||npm.edu.tw
-||npm.gov.tw
 ||npnt.me
 ||npsboost.com
 ||nqu.edu.tw
@@ -4220,10 +4198,6 @@ www.aolnews.com
 ||ns1.name
 ||ns2.name
 ||ns3.name
-||nsc.gov.tw
-||ntbk.gov.tw
-||ntbna.gov.tw
-||ntbt.gov.tw
 ||ntd.tv
 ||ntdsf.tv
 ||ntdtv.ca
@@ -4444,7 +4418,6 @@ www.aolnews.com
 ||pbxes.com
 ||pbxes.org
 ||pcanywhere.net
-||pcc.gov.tw
 ||pcdvd.com.tw
 ||pcgamestorrents.com
 ||pchome.com.tw
@@ -5263,7 +5236,6 @@ www.aolnews.com
 ||starp2p.com
 ||startpage.com
 ||startuplivingchina.com
-||stat.gov.tw
 ||statearmor.org
 ||static-economist.com
 ||static.bevylabs.com
@@ -5385,14 +5357,12 @@ www.aolnews.com
 ||taa-usa.org
 ||taaze.tw
 ||tabtter.jp
-||tacc.cwb.gov.tw
 ||tacem.org
 ||taedp.org.tw
 ||tafm.org
 ||tagesschau.de
 ||tagwalk.com
 ||tails.net
-||taipei.gov.tw
 ||taipeisociety.org
 ||taipeitimes.com
 ||taisounds.com
@@ -5404,7 +5374,6 @@ www.aolnews.com
 ||taiwandc.org
 ||taiwanembassy.org
 ||taiwanhot.net
-||taiwanjobs.gov.tw
 ||taiwanjustice.com
 ||taiwanjustice.net
 ||taiwankiss.com
@@ -5503,7 +5472,6 @@ www.aolnews.com
 ||tg-me.com
 ||tg.dev
 ||tgstat.com
-||thb.gov.tw
 ||theage.com.au
 ||theatlantic.com
 ||theatrum-belli.com
@@ -5685,7 +5653,6 @@ www.aolnews.com
 ||tinypaste.com
 ||tinyurl.com
 ||tipas.net
-||tipo.gov.tw
 ||tkcs-collins.com
 ||tma.co.jp
 ||tmagazine.com
@@ -5835,6 +5802,7 @@ www.aolnews.com
 ||twelve.today
 ||twerkingbutt.com
 ||twftp.org
+||twgov.tw
 ||twgreatdaily.com
 ||twibble.de
 ||twibs.com
@@ -6182,7 +6150,6 @@ www.aolnews.com
 ||waybig.com
 ||waymo.com
 ||wd.bible
-||wda.gov.tw
 ||wdf5.com
 ||wealth.com.tw
 ||wearehairy.com
