@@ -12,6 +12,7 @@ yahoo.com
 www.msn.com
 instagram.com
 googlevideo.com
+gvt1.com
 netflix.net
 whatsapp.net
 ggpht.com
@@ -3616,7 +3617,6 @@ gutteruncensored.com
 gvideo.de
 gvlib.com
 gvt0.com
-gvt1.com]
 gwave.com
 gwins.org
 gwtproject.org
@@ -4423,6 +4423,7 @@ moonbingo.com
 moptt.tw
 moresci.sale
 morningsun.org
+mosavi.io
 mousebreaker.com
 movements.org
 mp3buscador.com

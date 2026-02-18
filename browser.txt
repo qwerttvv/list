@@ -2851,7 +2851,7 @@ www.aolnews.com
 ||gvideo.de
 ||gvm.com.tw
 ||gvt0.com
-||gvt1.com]
+||gvt1.com
 ||gvt3.com
 ||gwave.com
 ||gwins.org
@@ -3931,6 +3931,7 @@ www.aolnews.com
 ||moresci.sale
 ||morningsun.org
 ||mos.ru
+||mosavi.io
 ||motherless.com
 ||mousebreaker.com
 ||movements.org
