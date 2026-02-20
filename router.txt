@@ -3602,6 +3602,7 @@ greenvpn.org
 grotty-monday.com
 gsearch.media
 gstatic.com
+gstc.com.tw
 gstf.org
 gtricks.com
 gts-vpn.com
@@ -4236,6 +4237,7 @@ lrfz.com
 lrip.org
 lsd.org.hk
 lsforum.net
+lshosp.com.tw
 lsm.org
 lsmchinese.org
 lsmkorean.org
