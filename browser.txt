@@ -611,6 +611,7 @@ www.aolnews.com
 ||akamai.tvb.com
 ||akiba-online.com
 ||akiba-web.com
+||akile.io
 ||akinator.com
 ||akow.org
 ||al-islam.com
@@ -805,6 +806,7 @@ www.aolnews.com
 ||asrockind.com
 ||assembla.com
 ||assets.bwbx.io
+||assets.nxtrace.org
 ||assimp.org
 ||astrill.com
 ||atc.org.au
@@ -3779,6 +3781,7 @@ www.aolnews.com
 ||medicalnewstoday.com
 ||medium.com
 ||mee6.xyz
+||meee.com.tw
 ||meetav.com
 ||meetup.com
 ||mefeedia.com
@@ -4325,6 +4328,7 @@ www.aolnews.com
 ||open.com.hk
 ||open.firstory.me
 ||openai.com
+||opencritic.com
 ||opendemocracy.net
 ||opendesktop.org
 ||opendn.xyz
@@ -6330,6 +6334,7 @@ www.aolnews.com
 ||wwitv.com
 ||www.ajsands.com
 ||www.bing.com
+||www.clashverge.dev
 ||www.hoyolab.com
 ||www.lorenzetti.com.br
 ||www.moztw.org

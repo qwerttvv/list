@@ -1178,6 +1178,7 @@ japantimes.co.jp
 stc.com.sa
 ibtimes.com
 abplive.com
+meee.com.tw
 tunnelblick.net
 foreignaffairs.com
 lihkg.com
@@ -1756,6 +1757,7 @@ betvictor.com
 chinadigitaltimes.net
 gettyimages.de
 jigsy.com
+opencritic.com
 play-asia.com
 pornhost.com
 onmypc.net
@@ -2181,6 +2183,7 @@ akademiye.org
 akamai.tvb.com
 akamaihd.net
 akiba-web.com
+akile.io
 akow.org
 al-islam.com
 alabout.com
@@ -2298,6 +2301,7 @@ askynz.net
 aspi.org.au
 aspistrategist.org.au
 asrockind.com
+assets.nxtrace.org
 assimp.org
 atc.org.au
 atchinese.com
@@ -6103,6 +6107,7 @@ wwitv.com
 www.ajsands.com
 www.antd.org
 www.aolnews.com
+www.clashverge.dev
 www.cmoinc.org
 www.dmm.com
 www.eastturkistan.net
