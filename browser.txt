@@ -20,6 +20,7 @@
 @@||arte.gov.tw
 @@||c.admob.com
 @@||c.pki.goog
+@@||cache-management-prod.google.com
 @@||cache.pack.google.com
 @@||cdn-china.ampproject.org
 @@||cdn.ampproject.org
@@ -33,8 +34,10 @@
 @@||csi.gstatic.com
 @@||data.gov.tw
 @@||df.gov.tw
+@@||dg-meta.video.google.com
 @@||dl.google.com
-@@||dl.l.google.com
+@@||download.mlcc.google.com
+@@||download.tensorflow.google.com
 @@||emmapplecodevice.googleapis.com
 @@||epa.gov.tw
 @@||firebase-settings.crashlytics.com
@@ -67,14 +70,16 @@
 @@||nvri.gov.tw
 @@||o.pki.goog
 @@||ocsp.pki.goog
-@@||pagead-googlehosted.l.google.com
 @@||performanceparameters.googleapis.com
 @@||post.gov.tw
+@@||redirector.c.chat.google.com
+@@||redirector.c.mail.google.com
+@@||redirector.c.pack.google.com
+@@||redirector.c.play.google.com
 @@||redirector.gvt1.com
 @@||safebrowsing-cache.google.com
 @@||safebrowsing.googleapis.com
 @@||scitechvista.nat.gov.tw
-@@||ssl-google-analytics.l.google.com
 @@||ssl.gstatic.com
 @@||static.typepad.com
 @@||stdtime.gov.tw
@@ -82,13 +87,12 @@
 @@||tac.googleapis.com
 @@||tax.nat.gov.tw
 @@||tools.google.com
-@@||tools.l.google.com
 @@||tracker.m-team.cc
+@@||update.crashlytics.com
 @@||update.googleapis.com
 @@||vghtc.gov.tw
 @@||vghtpe.gov.tw
 @@||wear.googleapis.com
-@@||www-googletagmanager.l.google.com
 @@||www.ampproject.org
 @@||www.google-analytics.com
 @@||www.gov.tw
@@ -805,6 +809,7 @@ www.aolnews.com
 ||aspistrategist.org.au
 ||asrockind.com
 ||assembla.com
+||assembly.go.kr
 ||assets.bwbx.io
 ||assets.nxtrace.org
 ||assimp.org
@@ -1792,6 +1797,7 @@ www.aolnews.com
 ||domainhelp.search.com
 ||domains.google
 ||domaintoday.com.au
+||dongjak.go.kr
 ||dongtaiwang.com
 ||dongtaiwang.net
 ||dongyangjing.com
@@ -3443,6 +3449,7 @@ www.aolnews.com
 ||kagyuoffice.org
 ||kagyuoffice.org.tw
 ||kakao.com
+||kakaocdn.net
 ||kanald.com.tr
 ||kannewyork.com
 ||kanshifang.com
@@ -4028,6 +4035,7 @@ www.aolnews.com
 ||myz.info
 ||n-tv.de
 ||naacoalition.org
+||nabo.go.kr
 ||naitik.net
 ||nakedsecurity.sophos.com
 ||nakido.com
@@ -4044,6 +4052,7 @@ www.aolnews.com
 ||naol.ca
 ||naol.cc
 ||narod.ru
+||nars.go.kr
 ||nat.moe
 ||national-lottery.co.uk
 ||nationalawakening.org
@@ -4306,6 +4315,7 @@ www.aolnews.com
 ||onion.city
 ||onion.ly
 ||onion666.com
+||onkakao.net
 ||online.recoveryversion.org
 ||onlinecha.com
 ||onlineyoutube.com
@@ -6122,6 +6132,7 @@ www.aolnews.com
 ||vyprvpn.com
 ||w-pool.com
 ||w.wiki
+||wa.me
 ||waffle1999.com
 ||wahas.com
 ||waikeung.org

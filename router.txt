@@ -343,6 +343,7 @@ independent.co.uk
 google.ro
 google.co.ke
 google.ht
+kakaocdn.net
 share.google
 mullvad.net
 telesco.pe
@@ -415,6 +416,7 @@ google.ge
 nos.nl
 google.cz
 google.com.uy
+wa.me
 google.by
 google.com.bo
 google.com.py
@@ -441,6 +443,7 @@ you.com
 google.co.bw
 genius.com
 google.lu
+onkakao.net
 jcpenney.com
 google.co.uz
 feedburner.com
@@ -2303,6 +2306,7 @@ askynz.net
 aspi.org.au
 aspistrategist.org.au
 asrockind.com
+assembly.go.kr
 assets.nxtrace.org
 assimp.org
 atc.org.au
@@ -3000,6 +3004,7 @@ dok-forum.net
 dolf.org.hk
 domainhelp.search.com
 domaintoday.com.au
+dongjak.go.kr
 dongtaiwang.net
 dongyangjing.com
 dontfilter.us
@@ -4495,6 +4500,7 @@ mysite.verizon.net
 mytalkbox.com
 mywife.cc
 naacoalition.org
+nabo.go.kr
 naitik.net
 nakedsecurity.sophos.com
 nakido.com
@@ -4507,6 +4513,7 @@ nanyang.com
 nanyangpost.com
 naol.ca
 naol.cc
+nars.go.kr
 nationalawakening.org
 navyfamily.navy.mil
 navyreserve.navy.mil
