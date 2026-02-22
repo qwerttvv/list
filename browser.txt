@@ -5693,6 +5693,7 @@ www.aolnews.com
 ||topsy.com
 ||toptip.ca
 ||toptoon.net
+||tor.eff.org
 ||tor.updatestar.com
 ||torguard.net
 ||torlock.com
@@ -5907,6 +5908,7 @@ www.aolnews.com
 ||unification.net
 ||unification.org.tw
 ||unirule.cloud
+||uniswap.org
 ||unix100.com
 ||unknownspace.org
 ||unmineable.com

@@ -979,6 +979,7 @@ superpages.com
 froth.zone
 eksisozluk.com
 typepad.com
+uniswap.org
 annas-archive.li
 wikimapia.org
 bitchute.com
@@ -5620,6 +5621,7 @@ topbtc.com
 topsy.com
 toptip.ca
 toptoon.net
+tor.eff.org
 tor.updatestar.com
 torrentkitty.tv
 torrentprivacy.com
