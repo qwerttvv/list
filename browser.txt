@@ -2244,7 +2244,6 @@ www.aolnews.com
 ||freebrowser.org
 ||freechina.net
 ||freechina.news
-||freechinaforum.org
 ||freechinaweibo.com
 ||freeddns.com
 ||freeddns.org
@@ -2524,7 +2523,6 @@ www.aolnews.com
 ||goldeneyevault.com
 ||goldenfrog.com
 ||goldjizz.com
-||goldstep.net
 ||goldwave.com
 ||gongm.in
 ||goo.gl
@@ -3141,7 +3139,6 @@ www.aolnews.com
 ||i2p2.de
 ||i818hk.com
 ||iam.soy
-||iamtopone.com
 ||iask.ca
 ||iav19.com
 ||iavian.net
@@ -3604,6 +3601,7 @@ www.aolnews.com
 ||lih.kg
 ||lihkg.com
 ||like.com
+||likr.tw
 ||lilaoshibushinilaoshi.com
 ||limelight.moe
 ||line-apps.com
@@ -3664,7 +3662,6 @@ www.aolnews.com
 ||longtermly.net
 ||longtoes.com
 ||lookpic.com
-||looktoronto.com
 ||loongese.com
 ||lorenzetti.com.br
 ||lotuslight.org.tw
