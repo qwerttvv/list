@@ -2255,6 +2255,7 @@ www.aolnews.com
 ||freeddns.com
 ||freeddns.org
 ||freedl.org
+||freedom.gov
 ||freedomhongkong.org
 ||freedomhouse.org
 ||freedominfonetweb.wordpress.com
