@@ -1161,6 +1161,7 @@ www.aolnews.com
 ||business.site
 ||businessinsider.com
 ||businessmessages.google
+||businesstimes.com.sg
 ||businesstoday.com.tw
 ||businessweek.com
 ||businessweekly.com.tw
@@ -3369,7 +3370,6 @@ www.aolnews.com
 ||javtiful.com
 ||javtrailers.com
 ||javzoo.com
-||javzz.com
 ||jbtalks.cc
 ||jcpenney.com
 ||jdwsy.com
@@ -5680,6 +5680,7 @@ www.aolnews.com
 ||tn3.shemalez.com
 ||tnaflix.com
 ||tnp.org
+||tnp.sg
 ||to-porno.com
 ||togetter.com
 ||token.im
@@ -6426,6 +6427,7 @@ www.aolnews.com
 ||xnpool.com
 ||xnxx-cdn.com
 ||xnxx.com
+||xp1024.com
 ||xpdo.net
 ||xpud.org
 ||xrentdvd.com
