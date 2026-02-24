@@ -600,7 +600,6 @@ www.aolnews.com
 ||ai.studio
 ||aiosearch.com
 ||aiph.net
-||airasia.com
 ||airconsole.com
 ||airitilibrary.com
 ||airvpn.org
@@ -1454,6 +1453,7 @@ www.aolnews.com
 ||class.tn.edu.tw
 ||classicalguitarblog.net
 ||claude.ai
+||claude.com
 ||clb.org.hk
 ||cldr.unicode.org
 ||cleansite.biz
@@ -2896,6 +2896,7 @@ www.aolnews.com
 ||happy-vpn.com
 ||haproxy.org
 ||hardsextube.com
+||hardwarezone.com.sg
 ||harunyahya.com
 ||hautelook.com
 ||hautelookcdn.com
@@ -3093,6 +3094,7 @@ www.aolnews.com
 ||huaren4us.com
 ||huarenjie.com
 ||huashangnews.com
+||huasing.org
 ||huaxiabao.org
 ||huaxin.ph
 ||huayuworld.org
@@ -4045,6 +4047,7 @@ www.aolnews.com
 ||namgyal.org
 ||namgyalmonastery.org
 ||namu.wiki
+||nandazhan.com
 ||nanhuyt.com
 ||nanopool.org
 ||nanyang.com
@@ -5732,6 +5735,7 @@ www.aolnews.com
 ||trendsmap.com
 ||trickip.org
 ||tron.network
+||tronlink.org
 ||tronscan.org
 ||trouw.nl
 ||trt.net.tr

@@ -459,6 +459,7 @@ google.gg
 hsselite.com
 bsky.social
 rumble.com
+claude.com
 hbo.com
 google.ki
 google.mv
@@ -667,7 +668,6 @@ infura.io
 feeder.co
 nhentai.net
 depositphotos.com
-airasia.com
 medicalnewstoday.com
 theporndude.com
 disk.yandex.ru
@@ -849,6 +849,7 @@ angularjs.org
 raindrop.io
 read01.com
 archive.ph
+tronlink.org
 telega.one
 meta.ai
 detroitnews.com
@@ -1033,6 +1034,7 @@ search.yahoo.co.jp
 bitvise.com
 tampabay.com
 zinio.com
+huasing.org
 bitfinex.com
 hket.com
 pchome.com.tw
@@ -1524,6 +1526,7 @@ wikileaks.com
 jetos.com
 vern.cc
 changeip.net
+hardwarezone.com.sg
 longmusic.com
 ecimg.tw
 tbs.co.jp
@@ -4508,6 +4511,7 @@ nalandabodhi.org
 nalandawest.org
 namgyal.org
 namgyalmonastery.org
+nandazhan.com
 nanhuyt.com
 nanyang.com
 nanyangpost.com
