@@ -4586,6 +4586,7 @@ niu.moe
 njactb.org
 njuice.com
 nlfreevpn.com
+nmns.edu.tw
 nmsl.website
 nnews.eu
 no-ip.org
@@ -5407,6 +5408,7 @@ taiwanncf.org.tw
 taiwanstay.net.tw
 taiwantoday.tw
 taiwantp.net
+taiwantrip.com.tw
 taiwantt.org.tw
 taiwanus.net
 taiwanyes.com

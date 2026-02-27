@@ -66,6 +66,7 @@
 @@||nmmba.gov.tw
 @@||nmp.gov.tw
 @@||nstm.gov.tw
+@@||ntpclib.gov.tw
 @@||ntsec.gov.tw
 @@||ntuh.gov.tw
 @@||nvri.gov.tw
@@ -88,6 +89,7 @@
 @@||tac.googleapis.com
 @@||tax.nat.gov.tw
 @@||tools.google.com
+@@||tphcc.gov.tw
 @@||tracker.m-team.cc
 @@||update.crashlytics.com
 @@||update.googleapis.com
@@ -4179,6 +4181,7 @@ www.aolnews.com
 ||njavtv.com
 ||njuice.com
 ||nlfreevpn.com
+||nmns.edu.tw
 ||nmsl.website
 ||nnews.eu
 ||no-ip.org
@@ -5409,6 +5412,7 @@ www.aolnews.com
 ||taiwanstay.net.tw
 ||taiwantoday.tw
 ||taiwantp.net
+||taiwantrip.com.tw
 ||taiwantt.org.tw
 ||taiwanus.net
 ||taiwanyes.com
