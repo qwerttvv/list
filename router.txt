@@ -1380,6 +1380,7 @@ ebc.net.tw
 linksalpha.com
 nationalinterest.org
 bloglovin.com
+tyc.edu.tw
 manhuagui.com
 angelfire.com
 project-syndicate.org
@@ -2800,6 +2801,7 @@ cloud.run
 cloudflare-ipfs.com
 cloudfunctions.net
 cloudpartnerservices.goog
+cltv.com.tw
 club1069.com
 clyp.it
 cmcn.org
@@ -2821,6 +2823,7 @@ cnineu.com
 cnnews.chosun.com
 cnpolitics.org
 cnproxy.com
+cnt.com.tw
 co.ng.mil
 coat.co.jp
 cobinhood.com
@@ -3256,6 +3259,7 @@ feixiaohao.com
 feministteacher.com
 fengzhenghu.com
 fengzhenghu.net
+fetc.net.tw
 fevernet.com
 ff.im
 fffff.at
@@ -5448,6 +5452,7 @@ tcmbfile.culture.tw
 tcmm.com.tw
 tcnynj.org
 tcsofbc.org
+tdtv.com.tw
 teachparentstech.org
 teamamericany.com
 techviz.net
@@ -5606,6 +5611,7 @@ timsah.com
 timtales.com
 tinc-vpn.org
 tingtalk.me
+tinp.net.tw
 tinychat.com
 tinypaste.com
 tipas.net
@@ -5633,6 +5639,7 @@ toonel.net
 top.tv
 top81.ws
 topbtc.com
+topmso.com.tw
 topsy.com
 toptip.ca
 toptoon.net

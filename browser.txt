@@ -1480,6 +1480,7 @@ www.aolnews.com
 ||cloudokyo.cloud
 ||cloudpartnerservices.goog
 ||cloudskillsboost.google
+||cltv.com.tw
 ||club1069.com
 ||clubhouseapi.com
 ||clyp.it
@@ -1506,6 +1507,7 @@ www.aolnews.com
 ||cnnews.chosun.com
 ||cnpolitics.org
 ||cnproxy.com
+||cnt.com.tw
 ||cnyes.com
 ||co.ng.mil
 ||coat.co.jp
@@ -2150,6 +2152,7 @@ www.aolnews.com
 ||feministteacher.com
 ||fengzhenghu.com
 ||fengzhenghu.net
+||fetc.net.tw
 ||fevernet.com
 ||ff.im
 ||fffff.at
@@ -5457,6 +5460,7 @@ www.aolnews.com
 ||tcnynj.org
 ||tcsofbc.org
 ||tdm.com.mo
+||tdtv.com.tw
 ||teachparentstech.org
 ||teamamericany.com
 ||techcrunch.com
@@ -5677,6 +5681,7 @@ www.aolnews.com
 ||tinc-vpn.org
 ||tineye.com
 ||tingtalk.me
+||tinp.net.tw
 ||tiny.cc
 ||tinychat.com
 ||tinypaste.com
@@ -5708,6 +5713,7 @@ www.aolnews.com
 ||top10vpn.com
 ||top81.ws
 ||topbtc.com
+||topmso.com.tw
 ||toppornsites.com
 ||topsy.com
 ||toptip.ca
@@ -5885,6 +5891,7 @@ www.aolnews.com
 ||twttr.com
 ||tx.me
 ||txxx.com
+||tyc.edu.tw
 ||tycool.com
 ||typekit.net
 ||typepad.com
