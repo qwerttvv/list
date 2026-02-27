@@ -59,6 +59,7 @@
 @@||moc.gov.tw
 @@||moda.gov.tw
 @@||moe.gov.tw
+@@||moica.nat.gov.tw
 @@||ncree.gov.tw
 @@||ner.gov.tw
 @@||nici.nat.gov.tw
@@ -3551,6 +3552,7 @@ www.aolnews.com
 ||lamayeshe.com
 ||lamnia.co.uk
 ||lamrim.com
+||landbank.com.tw
 ||landofhope.tv
 ||lantern.io
 ||lantosfoundation.org
@@ -5809,6 +5811,7 @@ www.aolnews.com
 ||twavi.com
 ||twbbs.org
 ||twblogger.com
+||twcert.org.tw
 ||twcomix.com
 ||tweepguide.com
 ||tweepml.org
