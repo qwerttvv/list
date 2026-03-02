@@ -842,6 +842,7 @@ www.aolnews.com
 ||avg.com
 ||avgle.com
 ||avidemux.org
+||avjb.com
 ||avmo.pw
 ||avmoo.com
 ||avmoo.net
@@ -4188,6 +4189,7 @@ www.aolnews.com
 ||nmns.edu.tw
 ||nmsl.website
 ||nnews.eu
+||nnyy.in
 ||no-ip.org
 ||nobel.se
 ||nodeseek.com

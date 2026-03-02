@@ -1638,6 +1638,7 @@ camfrog.com
 enewstree.com
 gmodules.com
 nextapple.tw
+avjb.com
 fanhaolou.com
 myz.info
 ns1.name
@@ -4594,6 +4595,7 @@ nlfreevpn.com
 nmns.edu.tw
 nmsl.website
 nnews.eu
+nnyy.in
 no-ip.org
 nobel.se
 nokogiri.org
