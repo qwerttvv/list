@@ -1,4 +1,5 @@
 google.com
+googleapis.com
 googleusercontent.com
 facebook.com
 www.bing.com
@@ -36,6 +37,7 @@ gmail.com
 pinterest.com
 tiktokv.us
 twitter.com
+withgoogle.com
 dns.google
 tiktokv.com
 reddit.com
@@ -43,6 +45,7 @@ typekit.net
 chatgpt.com
 use.typekit.net
 temu.com
+akamaihd.net
 whatsapp.com
 crwdcntrl.net
 nflxso.net
@@ -50,6 +53,7 @@ yimg.com
 s.yimg.com
 pinimg.com
 android.com
+azurewebsites.net
 redditstatic.com
 mail.me.com
 code.jquery.com
@@ -76,12 +80,14 @@ fbsbx.com
 github.com
 api.ipify.org
 godaddy.com
+s3.us-east-1.amazonaws.com
 b-cdn.net
 gravatar.com
 redd.it
 canva.com
 discord.gg
 tiktokcdn-eu.com
+githubusercontent.com
 openai.com
 x.com
 wikipedia.org
@@ -104,13 +110,16 @@ cdn.jwplayer.com
 google.co.uk
 aol.com
 copilot.microsoft.com
+github.io
 discord.media
 googl.com
 vimeocdn.com
 hulu.com
 discordapp.net
+appspot.com
 nytimes.com
 youtube-nocookie.com
+cloudfunctions.net
 nflxext.com
 redditspace.com
 brave.com
@@ -122,7 +131,9 @@ wikipedia.com
 byspotify.com
 nyt.com
 syndicatedsearch.goog
+s3.eu-central-1.amazonaws.com
 yahoo.co.jp
+pages.dev
 static01.nyt.com
 ttwstatic.com
 twitch.tv
@@ -130,6 +141,7 @@ pdst.fm
 zoominfo.com
 bbc.co.uk
 google.us
+dyndns.org
 signal.org
 viber.com
 wordpress.com
@@ -144,8 +156,10 @@ byteoversea.com
 oaiusercontent.com
 google.com.mx
 onedrive.live.com
+workers.dev
 ibytedtos.com
 google.ca
+global.ssl.fastly.net
 quora.com
 fb.com
 bbc.com
@@ -156,6 +170,7 @@ costco.com
 addons.mozilla.org
 nytimes.map.fastly.net
 incapdns.net
+herokuapp.com
 google.ru
 etsy.com
 statsig.com
@@ -171,6 +186,7 @@ fast.wistia.com
 theguardian.com
 live-video.net
 githubcopilot.com
+s3-ap-southeast-1.amazonaws.com
 google.com.ph
 google.co.th
 line-apps.com
@@ -210,6 +226,7 @@ dashlane.com
 google.com.pr
 pstatic.net
 youtu.be
+blogspot.com
 secure.logmein.com
 aljazeera.com
 pornhub.com
@@ -268,6 +285,7 @@ newyorker.com
 www.skype.com
 wikisource.org
 wsj.com
+vercel.app
 google.be
 grok.com
 sndcdn.com
@@ -279,6 +297,7 @@ theatlantic.com
 google.ch
 google.com.pk
 textnow.me
+translate.goog
 google.it
 weebly.com
 google.dz
@@ -289,6 +308,7 @@ s-nbcnews.com
 google.co.il
 jotform.com
 time.com
+netlify.app
 google.co.ve
 avg.com
 medium.com
@@ -376,6 +396,7 @@ vivaldi.com
 google.bs
 staticflickr.com
 ft.com
+duckdns.org
 images.prismic.io
 nordstrom.com
 google.com.sv
@@ -389,6 +410,7 @@ archiveofourown.org
 tinyurl.com
 theconversation.com
 google.al
+ddns.net
 aolcdn.com
 google.kz
 google.co.ma
@@ -481,6 +503,7 @@ persgroep.net
 google.gy
 google.com.ly
 google.ba
+files.oaiusercontent.com
 streamable.com
 google.sr
 google.tn
@@ -580,6 +603,7 @@ ledger.com
 kucoin.com
 n-tv.de
 app.smartmailcloud.com
+freetls.fastly.net
 assets.bwbx.io
 bild.de
 fb.gg
@@ -630,6 +654,7 @@ dw.com
 opml.radiotime.com
 telegram.me
 newsmax.com
+notion.site
 truthsocial.com
 pastebin.com
 army.mil
@@ -647,6 +672,7 @@ ndtv.com
 notify.dropboxapi.com
 anchor.fm
 cdw.com
+wixsite.com
 meetup.com
 ko-fi.com
 xn--ngstr-lra8j.com
@@ -755,6 +781,7 @@ catbox.moe
 arte.tv
 williamhill.com
 wiktionary.org
+s3-ap-northeast-1.amazonaws.com
 flowgpt.com
 lemonde.fr
 ig.com
@@ -764,8 +791,10 @@ badoo.com
 cdn.arstechnica.net
 interactivebrokers.com
 500px.com
+hopto.org
 realitykings.com
 freeterabox.com
+googlecode.com
 pressreader.com
 thetvdb.com
 google.net
@@ -783,6 +812,7 @@ cmegroup.com
 9cache.com
 kobo.com
 static.pocketcasts.com
+s3-eu-central-1.amazonaws.com
 zamimg.com
 myip.com
 my.mail.ru
@@ -799,9 +829,11 @@ mubi.com
 archive.is
 archives.gov
 faz.net
+zapto.org
 googleblog.com
 wenxuecity.com
 shopee.tw
+s3-ap-southeast-2.amazonaws.com
 ladbrokes.com
 disneyplus.com.ssl.sc.omtrdc.net
 xvideos.es
@@ -809,6 +841,7 @@ getliner.com
 wikibooks.org
 wikidata.org
 matrix.org
+sytes.net
 notebooklm.google
 api.palworldgame.com
 hk01.com
@@ -823,6 +856,7 @@ youjizz.com
 whoer.net
 nikkei.com
 javtiful.com
+s3.ap-northeast-2.amazonaws.com
 spacex.com
 boyfriendtv.com
 trustwallet.com
@@ -833,6 +867,7 @@ ipfs.io
 abc.com
 missav.live
 radio.co
+gitbook.io
 tg.dev
 goldenfrog.com
 4shared.com
@@ -851,6 +886,7 @@ raindrop.io
 read01.com
 archive.ph
 tronlink.org
+carrd.co
 telega.one
 meta.ai
 detroitnews.com
@@ -902,6 +938,7 @@ livemint.com
 parse.com
 isc.sans.edu
 aastocks.com
+no-ip.org
 overplay.net
 donmai.us
 kknews.cc
@@ -922,6 +959,7 @@ mastodon.social
 ontrac.com
 channelnewsasia.com
 gamejolt.com
+dynu.net
 grokipedia.com
 voxer.com
 etherscan.com
@@ -1027,6 +1065,7 @@ danbooru.donmai.us
 muscdn.com
 imagevenue.com
 momoshop.com.tw
+freeddns.org
 apkmirror.com
 hotair.com
 google.dev
@@ -1113,6 +1152,7 @@ lifemiles.com
 rateyourmusic.com
 mji.rip
 ok.xxx
+servehttp.com
 tapatalk.com
 amnesty.org
 myreadingmanga.info
@@ -1191,6 +1231,7 @@ tunnelblick.net
 foreignaffairs.com
 lihkg.com
 token.im
+gotdns.ch
 about.me
 cnyes.com
 sinchew.com.my
@@ -1205,6 +1246,7 @@ sf.net
 whcdn.net
 njav.tv
 pinterest.com.mx
+yolasite.com
 gettyimages.ca
 hmv.co.jp
 socialblade.com
@@ -1249,6 +1291,7 @@ rcam.target.com
 gettyimages.in
 cia.gov
 download.cnet.com
+alwaysdata.net
 keycdn.com
 veoh.com
 z-library.sk
@@ -1296,6 +1339,7 @@ tgstat.com
 gettr.com
 strikingly.com
 vpnproxymaster.com
+wmflabs.org
 exhentai.org
 torlock.com
 kbs.co.kr
@@ -1435,6 +1479,7 @@ apiary.io
 vpnunlimitedapp.com
 nyti.ms
 tronscan.org
+dyndns-ip.com
 punjab.gov.in
 jsfiddle.net
 rawgithub.com
@@ -1552,6 +1597,7 @@ btdig.com
 itemdb.com
 transparency.org
 y2mate.com
+ae.org
 chatpdf.com
 hmoegirl.com
 sunporno.com
@@ -1847,7 +1893,6 @@ swag.live
 wujieliulan.com
 888.com
 graphql.org
-lexica.art
 privacyguides.org
 slutload.com
 solidfiles.com
@@ -1891,6 +1936,7 @@ counter.social
 globalvoices.org
 tardigrade.io
 betterhash.net
+cloudflare-ipfs.com
 findmespot.com
 google.com.iq
 howtoforge.com
@@ -1907,6 +1953,7 @@ img2go.com
 jav321.com
 mangafox.me
 sendsmtp.com
+withyoutube.com
 9news.com.au
 av.com
 dns-dns.com
@@ -2174,7 +2221,6 @@ adult-sex-games.com
 adult.friendfinder.com
 advanscene.com
 advertfan.com
-ae.org
 aenhancers.com
 aex.com
 afantibbs.com
@@ -2193,7 +2239,6 @@ aiweiwei.com
 aiweiweiblog.com
 akademiye.org
 akamai.tvb.com
-akamaihd.net
 akiba-web.com
 akile.io
 akow.org
@@ -2222,7 +2267,6 @@ alljackpotscasino.com
 almasdarnews.com
 alternate-tools.com
 altrec.com
-alwaysdata.net
 alwaysvpn.com
 americangreencard.com
 amiblockedornot.com
@@ -2289,7 +2333,6 @@ apps.evozi.com
 appshopper.com
 appsocks.net
 appspot-preview.com
-appspot.com
 archiveofourown.com
 arctosia.com
 areca-backup.org
@@ -2342,7 +2385,6 @@ avyahoo.com
 axureformac.com
 azerbaycan.tv
 azirevpn.com
-azurewebsites.net
 b-ok.cc
 b0ne.com
 babynet.com.hk
@@ -2491,7 +2533,6 @@ blogcatalog.com
 blogcity.me
 blogdns.org
 blogjav.net
-blogspot.com
 blogtd.org
 bloodshed.net
 bloomberg.de
@@ -2603,7 +2644,6 @@ captainfawcett.com
 carabinasypistolas.com
 cardinalkungfoundation.org
 carmotorshow.com
-carrd.co
 cartoon18.com
 cartoonmovement.com
 casadeltibetbcn.org
@@ -2800,8 +2840,6 @@ clipconverter.cc
 clipfish.de
 cloakpoint.com
 cloud.run
-cloudflare-ipfs.com
-cloudfunctions.net
 cloudpartnerservices.goog
 cltv.com.tw
 club1069.com
@@ -2953,7 +2991,6 @@ dbgjd.com
 dcmilitary.com
 ddc.com.tw
 ddex.io
-ddns.net
 de-sci.org
 deadhouse.org
 deaftone.com
@@ -3044,7 +3081,6 @@ dscn.info
 dstk.dk
 dtiblog.com
 dubox.com
-duckdns.org
 duckmylife.com
 duihua.org
 duihuahrjournal.org
@@ -3061,10 +3097,7 @@ dw.de
 dwnews.net
 dynamicdns.org.uk
 dynawebinc.com
-dyndns-ip.com
 dyndns-pics.com
-dyndns.org
-dynu.net
 dysfz.cc
 dzze.com
 e-classical.com.tw
@@ -3273,7 +3306,6 @@ fhreports.net
 figprayer.com
 fileflyer.com
 fileforum.com
-files.oaiusercontent.com
 fileserve.com
 fillthesquare.org
 filmingfortibet.org
@@ -3342,7 +3374,6 @@ freebrowser.org
 freechina.net
 freechina.news
 freechinaweibo.com
-freeddns.org
 freedl.org
 freedom.gov
 freedomhongkong.org
@@ -3372,7 +3403,6 @@ freessh.us
 freetibet.net
 freetibet.org
 freetibetanheroes.org
-freetls.fastly.net
 freetribe.me
 freeviewmovies.com
 freevpn.me
@@ -3509,14 +3539,10 @@ giga-web.jp
 giganews.com
 gigporno.ru
 girlbanker.com
-gitbook.io
-github.io
-githubusercontent.com
 gizlen.net
 gjczz.com
 glarity.app
 glass8.eu
-global.ssl.fastly.net
 globaljihad.net
 globalmuseumoncommunism.org
 globalrescue.net
@@ -3577,12 +3603,10 @@ google.ph
 google.sg
 google.uk
 google.vn
-googleapis.com
 googlearth.com
 googleartproject.com
 googlebot.com
 googlechinawebmaster.com
-googlecode.com
 googlee.com
 googleearth.com
 googleideas.com
@@ -3600,7 +3624,6 @@ goreforum.com
 goregrish.com
 gospelherald.com
 gospelherald.com.hk
-gotdns.ch
 gotgeeks.com
 gotrusted.com
 gotw.ca
@@ -3698,7 +3721,6 @@ hentai.to
 hentaitube.tv
 hentaivideoworld.com
 heqinglian.net
-herokuapp.com
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
@@ -3789,7 +3811,6 @@ hongkongwatch.org
 hongzhi.li
 honven.xyz
 hoovers.com
-hopto.org
 hornygamer.com
 hornytrip.com
 horrorporn.com
@@ -4190,6 +4211,7 @@ leisurepro.com
 lenwhite.com
 lerosua.org
 letscorp.net
+lexica.art
 lflinkup.com
 lflinkup.net
 lhakar.org
@@ -4545,7 +4567,6 @@ neo.com.tw
 netalert.me
 netbirds.com
 netflav.com
-netlify.app
 netme.cc
 netsarang.com
 netsneak.com
@@ -4597,14 +4618,12 @@ nmns.edu.tw
 nmsl.website
 nnews.eu
 nnyy.in
-no-ip.org
 nobel.se
 nokogiri.org
 nokola.com
 noodlevpn.com
 norbulingka.org
 nordstromimage.com
-notion.site
 novelasia.com
 noxinfluencer.com
 npnt.me
@@ -4733,7 +4752,6 @@ pacom.mil
 pacopacomama.com
 padmanet.com
 page2rss.com
-pages.dev
 pagodabox.com
 paimon.moe
 palacemoon.com
@@ -5052,14 +5070,7 @@ s-cute.com
 s-dragon.org
 s1s1s1.com
 s3-ap-*.amazonaws.com
-s3-ap-northeast-1.amazonaws.com
 s3-ap-northeast-2.amazonaws.com
-s3-ap-southeast-1.amazonaws.com
-s3-ap-southeast-2.amazonaws.com
-s3-eu-central-1.amazonaws.com
-s3.ap-northeast-2.amazonaws.com
-s3.eu-central-1.amazonaws.com
-s3.us-east-1.amazonaws.com
 sacks.com
 sacom.hk
 sadistic-v.com
@@ -5119,7 +5130,6 @@ sehuatang.org
 sejie.com
 seju.life
 send.firefox.com
-servehttp.com
 service.taipei
 sesawe.net
 sethwklein.net
@@ -5386,7 +5396,6 @@ sydneytoday.com
 sylfoundation.org
 syncback.com
 synergyse.com
-sytes.net
 szetowah.org.hk
 t-g.com
 t35hosting.com
@@ -5661,7 +5670,6 @@ toypark.in
 toytractorshow.com
 tparents.org
 tpi.org.tw
-translate.goog
 transparency.google
 treemall.com.tw
 trendsmap.com
@@ -5887,7 +5895,6 @@ velkaepocha.sk
 venchina.com
 venetianmacao.com
 ventureswell.com
-vercel.app
 vermonttibet.org
 versavpn.com
 verybs.com
@@ -6090,14 +6097,10 @@ wiredbytes.com
 wiredpen.com
 wisdompubs.org
 wisevid.com
-withgoogle.com
-withyoutube.com
 witnessleeteaching.com
 witopia.net
-wixsite.com
 wizcrafts.net
 wjbk.org
-wmflabs.org
 wmfusercontent.org
 wnacg.org
 wo.tc
@@ -6113,7 +6116,6 @@ woopie.tv
 work2icu.org
 workatruna.com
 workerempowerment.org
-workers.dev
 workersthebig.net
 worldvpn.net
 wow.com
@@ -6264,7 +6266,6 @@ yobit.net
 yobt.com
 yobt.tv
 yogichen.org
-yolasite.com
 yong.hu
 yorkbbs.ca
 you-get.org
@@ -6305,7 +6306,6 @@ zalmos.com
 zannel.com
 zaochenbao.com
 zaozon.com
-zapto.org
 zb.com
 zdnet.com.tw
 zengjinyan.org
