@@ -1828,6 +1828,7 @@ www.aolnews.com
 ||dougscripts.com
 ||doujincafe.com
 ||download.cnet.com
+||download.dappcdn.com
 ||dphk.org
 ||dpool.top
 ||dpp.org.tw
