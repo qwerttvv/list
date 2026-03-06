@@ -446,6 +446,7 @@ google.bg
 google.vg
 google.sk
 google.lk
+investing.com
 indiatimes.com
 omny.fm
 patreonusercontent.com
@@ -828,6 +829,7 @@ golang.org
 mubi.com
 archive.is
 archives.gov
+dns.cloudflare.com
 faz.net
 zapto.org
 googleblog.com

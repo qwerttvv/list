@@ -28,6 +28,7 @@
 @@||ci.android.com
 @@||cksmh.gov.tw
 @@||clientservices.googleapis.com
+@@||cn.investing.com
 @@||connectivitycheck.gstatic.com
 @@||crashlyticsreports-pa.googleapis.com
 @@||crl.pki.goog
@@ -1778,6 +1779,7 @@ www.aolnews.com
 ||dmm.com
 ||dns-dns.com
 ||dns-stuff.com
+||dns.cloudflare.com
 ||dns.google
 ||dns04.com
 ||dns05.com
@@ -3276,6 +3278,7 @@ www.aolnews.com
 ||interseclab.org
 ||inthenameofconfuciusmovie.com
 ||investigating.wordpress.com
+||investing.com
 ||invidio.us
 ||inxian.com
 ||io.google
