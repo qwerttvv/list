@@ -1427,6 +1427,7 @@ ebc.net.tw
 linksalpha.com
 nationalinterest.org
 bloglovin.com
+ligamx.net
 tyc.edu.tw
 manhuagui.com
 angelfire.com
@@ -3904,6 +3905,7 @@ iconpaper.org
 id.heroku.com
 id.taipei
 idaiwan.com
+idbi.bank.in
 idcflare.com
 idemocracy.asia
 identi.ca

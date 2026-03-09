@@ -3180,6 +3180,7 @@ www.aolnews.com
 ||id.heroku.com
 ||id.taipei
 ||idaiwan.com
+||idbi.bank.in
 ||idcflare.com
 ||idemocracy.asia
 ||identi.ca
@@ -3620,6 +3621,7 @@ www.aolnews.com
 ||lidecheng.com
 ||lifeattiktok.com
 ||lifemiles.com
+||ligamx.net
 ||lighten.org.tw
 ||lighti.me
 ||lightyearvpn.com
