@@ -1172,6 +1172,7 @@ www.aolnews.com
 ||businessweek.com
 ||businessweekly.com.tw
 ||busytrade.com
+||buzzfeed.com
 ||buzzhand.com
 ||buzzorange.com
 ||buzzsprout.com
@@ -1485,6 +1486,7 @@ www.aolnews.com
 ||cloudskillsboost.google
 ||cltv.com.tw
 ||club1069.com
+||clubhouse.com
 ||clubhouseapi.com
 ||clyp.it
 ||cmcn.org
@@ -3458,6 +3460,7 @@ www.aolnews.com
 ||kagyuoffice.org.tw
 ||kakao.com
 ||kakaocdn.net
+||kakaocorp.com
 ||kanald.com.tr
 ||kannewyork.com
 ||kanshifang.com
@@ -4973,6 +4976,7 @@ www.aolnews.com
 ||searchapi.culture.tw
 ||searchtruth.com
 ||searx.me
+||searx.space
 ||seattlefdc.com
 ||secretchina.com
 ||secretgarden.no

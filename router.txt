@@ -399,6 +399,7 @@ polymarket.com
 nordstrom.com
 ask.com
 hsselite.com
+buzzfeed.com
 indiatoday.in
 nordcdn.com
 google.be
@@ -1831,6 +1832,7 @@ play-asia.com
 i.mij.rip
 upmedia.mg
 rakuten.com.tw
+clubhouse.com
 alphaporno.com
 roboforex.com
 popyard.space
@@ -1960,6 +1962,7 @@ googlefiber.net
 port25.biz
 mee6.xyz
 f2pool.com
+kakaocorp.com
 thenewslens.com
 npm.edu.tw
 kemono.party
@@ -5090,6 +5093,7 @@ search.xxx
 searchapi.culture.tw
 searchtruth.com
 searx.me
+searx.space
 seattlefdc.com
 secretgarden.no
 secretsline.biz
