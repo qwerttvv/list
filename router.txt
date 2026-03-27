@@ -5040,7 +5040,6 @@ rusvpn.com
 rxhj.net
 s-cute.com
 s-dragon.org
-s.rmimg.com
 s1s1s1.com
 s3-ap-*.amazonaws.com
 s3-ap-northeast-1.amazonaws.com
