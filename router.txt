@@ -645,6 +645,7 @@ google.sk
 namu.wiki
 standard.co.uk
 wikidata.org
+justice.gov
 google.gm
 otzo.com
 tunnels.api.visualstudio.com

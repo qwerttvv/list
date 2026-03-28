@@ -3441,6 +3441,7 @@ www.aolnews.com
 ||juoaa.com
 ||justfreevpn.com
 ||justhost.ru
+||justice.gov
 ||justmysocks.net
 ||justmysocks1.net
 ||justmysockscn.com
@@ -4582,6 +4583,7 @@ www.aolnews.com
 ||podictionary.com
 ||podwise.ai
 ||poe.com
+||points-media
 ||points-media.com
 ||pokerstars.com
 ||pokerstars.net
