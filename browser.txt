@@ -2864,7 +2864,6 @@ www.aolnews.com
 ||guishan.org
 ||gumroad.com
 ||gunsamerica.com
-||guo.media
 ||guruonline.hk
 ||gutteruncensored.com
 ||gvideo.de
@@ -4879,7 +4878,6 @@ www.aolnews.com
 ||rolia.net
 ||rolsociety.org
 ||ronjoneswriter.com
-||rosechina.net
 ||rotten.com
 ||rou.video
 ||rri.ro
@@ -5395,7 +5393,6 @@ www.aolnews.com
 ||taa-usa.org
 ||taaze.tw
 ||tabtter.jp
-||tacem.org
 ||taedp.org.tw
 ||tafm.org
 ||tagesschau.de
