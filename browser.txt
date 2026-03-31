@@ -1,5 +1,7 @@
 /^[\w.:/-]+.cdn.ampproject.org+[\s\s]*/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
+/^https?:\/\/adtrafficquality\.google/
+/^https?:\/\/ampproject\.org/
 /^https?:\/\/chronicle\.security/
 /^https?:\/\/cloudflarestatus\.com/
 /^https?:\/\/google-analytics\.com/
@@ -9,13 +11,13 @@
 /^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/
 /^https?:\/\/v\.rn\d{3}\.xyz/
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
+@@/^https?:\/\/[^\/]+\.adtrafficquality\.google/
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 @@|https://cdn.ampproject.org
 @@||*.ipify.org
 @@||about.fb.com
 @@||adservice.google.com
-@@||adtrafficquality.google
 @@||aftygh.gov.tw
 @@||arte.gov.tw
 @@||c.admob.com
@@ -50,7 +52,6 @@
 @@||g2.gstatic.com
 @@||gsn.nat.gov.tw
 @@||hsinchu-cc.gov.tw
-@@||http2.golang.org
 @@||i.pki.goog
 @@||imasdk.googleapis.com
 @@||iner.gov.tw
@@ -125,7 +126,6 @@ www.aolnews.com
 |http://akademiye.org/ug
 |http://alanhou.com
 |http://amitabhafoundation.us
-|http://ampproject.org
 |http://andygod.com
 |http://antiwave.net
 |http://anysex.com
@@ -379,7 +379,6 @@ www.aolnews.com
 |http://yeyeclub.com
 |http://zhenxiang.biz
 |http://zhongguo.ca
-|https://ampproject.org
 |https://bartender.dowjones.com
 |https://chinanewscenter.com
 |https://fbcdn*.akamaihd.net/
