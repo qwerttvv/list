@@ -980,6 +980,7 @@ ezua.com
 ipfs.io
 rfi.fr
 brill.com
+xda-developers.com
 myddns.com
 hmv.co.jp
 getliner.com
