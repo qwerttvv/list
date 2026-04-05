@@ -1802,7 +1802,6 @@ www.aolnews.com
 ||documentingreality.com
 ||dogfartnetwork.com
 ||dojin.com
-||dok-forum.net
 ||dolc.de
 ||dolf.org.hk
 ||domain.glass
@@ -3016,7 +3015,6 @@ www.aolnews.com
 ||hkgpao.com
 ||hkheadline.com
 ||hkhkhk.com
-||hkip.org.uk
 ||hkjc.com
 ||hkjp.org
 ||hklft.com
@@ -3092,7 +3090,6 @@ www.aolnews.com
 ||hst.net.tw
 ||hstern.net
 ||hstt.net
-||ht.ly
 ||htkou.net
 ||htl.li
 ||html5rocks.com
@@ -3728,7 +3725,6 @@ www.aolnews.com
 ||magic-net.info
 ||mahabodhi.org
 ||mahjongsoul.com
-||maiio.net
 ||mail-archive.com
 ||mail.me.com
 ||main-ecnpaper-economist.content.pugpig.com
