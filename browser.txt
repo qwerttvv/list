@@ -769,6 +769,7 @@ www.aolnews.com
 ||appspot.com
 ||appsto.re
 ||aptoide.com
+||archive-it.org
 ||archive.fo
 ||archive.is
 ||archive.li
@@ -1783,6 +1784,7 @@ www.aolnews.com
 ||dns-stuff.com
 ||dns.cloudflare.com
 ||dns.google
+||dns.sb
 ||dns04.com
 ||dns05.com
 ||dns1.us
@@ -1801,6 +1803,7 @@ www.aolnews.com
 ||doctorvoice.org
 ||documentingreality.com
 ||dogfartnetwork.com
+||doh.sb
 ||dojin.com
 ||dolc.de
 ||dolf.org.hk
@@ -1820,6 +1823,7 @@ www.aolnews.com
 ||doourbest.org
 ||dorjeshugden.com
 ||dot.ca.gov
+||dot.sb
 ||dotplane.com
 ||dotsub.com
 ||dotvpn.com

@@ -416,6 +416,7 @@ google.bs
 cbc.ca
 google.pt
 nordstrom.com
+dns.sb
 jotform.com
 atv-ext.amazon.com
 google.ps
@@ -1391,6 +1392,7 @@ c-span.org
 sankakucomplex.com
 vocus.cc
 psiphon.ca
+doh.sb
 octocaptcha.com
 gmgn.ai
 cnyes.com
@@ -1700,6 +1702,7 @@ jav321.com
 who.is
 picuki.com
 ftvnews.com.tw
+archive-it.org
 xxxx.com.au
 mobatek.net
 bt4gprx.com
@@ -3049,6 +3052,7 @@ dongyangjing.com
 dontfilter.us
 doosho.com
 doourbest.org
+dot.sb
 dotplane.com
 doub.io
 doubibackup.com
