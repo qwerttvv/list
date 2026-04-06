@@ -1614,6 +1614,7 @@ hotgoo.com
 swag.live
 yam.com
 maven.neoforged.net
+javdatabase.com
 synapse.org
 reddithelp.com
 i.mij.rip
@@ -3733,6 +3734,7 @@ harunyahya.com
 hautelook.com
 hautelookcdn.com
 have8.com
+hayav.com
 hbg.com
 hdsky.me
 hdtvb.net
