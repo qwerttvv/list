@@ -8,7 +8,7 @@
 /^https?:\/\/googleanalytics\.com/
 /^https?:\/\/googlecloudcommunity\.com/
 /^https?:\/\/googlesyndication\.com/
-/^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/
+/^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/$
 /^https?:\/\/v\.rn\d{3}\.xyz/
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
 @@/^https?:\/\/[^\/]+\.adtrafficquality\.google/
@@ -1997,6 +1997,7 @@ www.aolnews.com
 ||eriversoft.com
 ||erktv.com
 ||ernestmandel.org
+||ero-video.net
 ||erodaizensyu.com
 ||erodoujinlog.com
 ||erodoujinworld.com
@@ -6479,6 +6480,7 @@ www.aolnews.com
 ||xvideos.com
 ||xvideos.es
 ||xvideos2.com
+||xvideos3.com
 ||xvinlink.com
 ||xxlmovies.com
 ||xxuz.com
