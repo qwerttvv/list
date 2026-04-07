@@ -184,6 +184,7 @@ disney-plus.net
 aiv-cdn.net
 xfinity.com
 githubcopilot.com
+waze.com
 viber.com
 xnxx-cdn.com
 google.ru
@@ -212,6 +213,7 @@ google.de
 signal.org
 army.mil
 homedepot.com
+notion.so
 openstreetmap.org
 kakao.com
 substack.com
@@ -641,6 +643,7 @@ artstation.com
 dns04.com
 freeddns.com
 google.ci
+notion.com
 google.ba
 4shared.com
 kobo.com
@@ -736,6 +739,7 @@ tbs.co.jp
 boyfriendtv.com
 google.mk
 news.ycombinator.com
+blogspot.ca
 nationwide.com
 notify.dropboxapi.com
 feedly.com
@@ -867,6 +871,7 @@ google.co.ck
 xvideos.es
 google.ms
 google.nu
+blogspot.fr
 google.sm
 feeder.co
 ygto.com
@@ -889,8 +894,10 @@ deepai.org
 google.com.nf
 edgecastcdn.net
 mail-archive.com
+blogspot.de
 rd.com
 9cache.com
+blogspot.jp
 mefound.com
 banorte.com
 xvideos3.com
@@ -941,6 +948,7 @@ dns1.us
 ezua.com
 download.cnet.com
 google.com.tn
+blogspot.nl
 google.dev
 urbandictionary.com
 myddns.com
@@ -951,6 +959,7 @@ zyxel.com
 marc.info
 williamhill.com
 grokipedia.com
+blogspot.it
 youmaker.com
 rfi.fr
 ok.xxx
@@ -969,6 +978,7 @@ ddns.ms
 m.me
 us.to
 dns2.us
+blogspot.in
 babylonbee.com
 newyorktimes.com
 qz.com
@@ -1030,6 +1040,7 @@ njavtv.com
 ettoday.net
 straitstimes.com
 dcard.tw
+blogspot.se
 e621.net
 imagevenue.com
 4dq.com
@@ -1067,6 +1078,7 @@ mainichi.jp
 shiksha.com
 tyc.edu.tw
 syosetu.com
+blogspot.gr
 sendsmtp.com
 read01.com
 vaticannews.va
@@ -1167,13 +1179,16 @@ jma.go.jp
 rebatesrule.net
 docs.new
 earthcam.com
+blogspot.be
 tube8.com
 dtic.mil
 upornia.com
 epochtimes.com
 techspot.com
 antigravity.google
+blogspot.mx
 civitai.com
+blogspot.pt
 fanbox.cc
 theaustralian.com.au
 ontrac.com
@@ -1183,7 +1198,9 @@ japantimes.co.jp
 9news.com.au
 questvisual.com
 steemit.com
+blogspot.fi
 supjav.com
+blogspot.ro
 angelfire.com
 newindianexpress.com
 nytco.com
@@ -1199,6 +1216,7 @@ speakerdeck.com
 filesor.com
 ns1.name
 deepmind.google
+blogspot.tw
 pinkoi.com
 ppy.sh
 lobstertube.com
@@ -1231,6 +1249,7 @@ relay.firefox.com
 goldenfrog.com
 togetter.com
 freeones.com
+blogspot.ch
 csis.org
 sis001.com
 tfhub.dev
@@ -1280,6 +1299,7 @@ okcoin.com
 onedumb.com
 18comic.vip
 gunsamerica.com
+blogspot.sg
 cia.gov
 momoshop.com.tw
 businesstimes.com.sg
@@ -1290,10 +1310,12 @@ player.fm
 linear-abematv.akamaized.net
 picuki.com
 bignewsnetwork.com
+blogspot.ru
 lens.google
 csmonitor.com
 oursteps.com.au
 rcam.target.com
+blogspot.ie
 pinterest.co.uk
 njav.tv
 reason.com
@@ -1310,6 +1332,7 @@ esmtp.biz
 lflinkup.com
 fleshbot.com
 mobile01.com
+blogspot.no
 diigo.com
 lantern.io
 tvbs.com.tw
@@ -1341,6 +1364,7 @@ g6hentai.com
 ciciaicdn.com
 spatial.io
 enca.com
+blogspot.cz
 oklink.com
 xcancel.com
 edx-cdn.org
@@ -1365,6 +1389,7 @@ cleansite.biz
 heritage.org
 archive.today
 tiny.cc
+blogspot.dk
 solscan.io
 ptt.cc
 bahamut.com.tw
@@ -1430,10 +1455,12 @@ plurk.com
 sinchew.com.my
 apartmentratings.com
 gettyimages.in
+blogspot.my
 cato.org
 livestream.com
 kbs.co.kr
 thehansindia.com
+blogspot.com.br
 ibtimes.com
 huarenjie.com
 doh.sb
@@ -1455,6 +1482,7 @@ gettr.com
 rocket.chat
 zattoo.com
 kkbox.com
+blogspot.com.es
 ipfire.org
 punjab.gov.in
 bbc.in
@@ -1483,6 +1511,7 @@ book.com.tw
 htx.com
 partycasino.com
 nga.mil
+blogspot.hu
 aol.co.uk
 sextvx.com
 bangbrosnetwork.com
@@ -1495,6 +1524,7 @@ joinbbs.net
 popai.pro
 bookwalker.com.tw
 duga.jp
+blogspot.hk
 secureservercdn.net
 carousell.com.hk
 elgoog.im
@@ -1609,6 +1639,7 @@ tvboxnow.com
 javlibrary.com
 pinterest.de
 ebc.net.tw
+blogspot.co.uk
 getlantern.org
 search.com
 vocus.cc
@@ -1622,6 +1653,7 @@ kobe-np.co.jp
 comments.app
 share.america.gov
 pornhd.com
+blogspot.kr
 ns3.name
 firstrade.com
 facebook.de
@@ -1689,6 +1721,7 @@ freedomhouse.org
 lmarena.ai
 xanga.com
 z-lib.gd
+blogspot.sk
 missav.com
 freebeacon.com
 families.google
@@ -1721,6 +1754,7 @@ kissjav.com
 acgnx.se
 swag.live
 cici.com
+blogspot.bg
 solarsystem.nasa.gov
 japanhdv.com
 yande.re
@@ -1762,6 +1796,7 @@ darpa.mil
 metafilter.com
 fxnetworks.com
 zippyshare.com
+blogspot.co.id
 wilsoncenter.org
 putty.org
 taipeitimes.com
@@ -1771,12 +1806,14 @@ fux.com
 clubhouse.com
 citypopulation.de
 afreecatv.com
+blogspot.pe
 hotspotshield.com
 bookmeter.com
 alphaporno.com
 yesasia.com
 luckymobile.ca
 newsblur.com
+blogspot.com.au
 taiwannews.com.tw
 mirrormedia.mg
 comparitech.com
@@ -1786,6 +1823,7 @@ garudalinux.org
 maven.neoforged.net
 toppornsites.com
 upmedia.mg
+blogspot.ae
 bitmex.com
 lsforum.net
 xxxx.com.au
@@ -1795,6 +1833,7 @@ taaze.tw
 okinawatimes.co.jp
 pinterest.cl
 ytn.co.kr
+blogspot.si
 bt4gprx.com
 steamladder.com
 asiatimes.com
@@ -1833,6 +1872,7 @@ rou.video
 businessweekly.com.tw
 24av.net
 derpibooru.org
+blogspot.rs
 secretchina.com
 podcast.app
 ai.studio
@@ -1884,6 +1924,7 @@ mastodon.online
 hotcoin.com
 getmalus.com
 extrabux.com
+blogspot.cl
 xiaomi.eu
 hyperbeam.com
 spankwire.com
@@ -1954,6 +1995,7 @@ equinenow.com
 dma.mil
 kingstone.com.tw
 prompthero.com
+blogspot.com.ar
 culture.tw
 findmespot.com
 torrentgalaxy.to
@@ -2382,6 +2424,7 @@ beijing2022.art
 beijingspring.com
 belamionline.com
 bell.wiki
+belonging.google
 bemywife.cc
 beric.me
 berlinerbericht.de
@@ -2470,7 +2513,40 @@ blogcatalog.com
 blogcity.me
 blogdns.org
 blogjav.net
+blogspot.al
+blogspot.am
+blogspot.ba
+blogspot.bj
+blogspot.cf
+blogspot.co.at
+blogspot.co.il
+blogspot.co.ke
+blogspot.co.nz
+blogspot.co.za
 blogspot.com
+blogspot.com.by
+blogspot.com.co
+blogspot.com.cy
+blogspot.com.ee
+blogspot.com.eg
+blogspot.com.mt
+blogspot.com.ng
+blogspot.com.tr
+blogspot.com.uy
+blogspot.cv
+blogspot.hr
+blogspot.is
+blogspot.li
+blogspot.lt
+blogspot.lu
+blogspot.md
+blogspot.mk
+blogspot.qa
+blogspot.re
+blogspot.sn
+blogspot.td
+blogspot.ug
+blogspot.vn
 blogtd.org
 bloodshed.net
 bloomberg.de
@@ -2688,6 +2764,7 @@ chinademocrats.org
 chinadialogue.net
 chinaelections.org
 chinafile.com
+chinafirewalltest.com
 chinafreepress.org
 chinagate.com
 chinageeks.org
@@ -2821,6 +2898,7 @@ coinrail.co.kr
 cointiger.com
 cointobe.com
 coinut.com
+coinw.com
 colab.google
 colacloud.net
 collateralmurder.com
