@@ -669,7 +669,6 @@ google.je
 freeddns.com
 nexon.com
 rule34video.com
-meetup.com
 qwant.com
 miraheze.org
 croxyproxy.com
@@ -1045,6 +1044,7 @@ web.dev
 quran.com
 is.gd
 shiksha.com
+mistral.ai
 calameo.com
 motherless.com
 cfr.org
@@ -1163,7 +1163,6 @@ rateyourmusic.com
 techspot.com
 pinterest.co.uk
 spaces.hightail.com
-pytorch.org
 earthcam.com
 tampabay.com
 tyc.edu.tw

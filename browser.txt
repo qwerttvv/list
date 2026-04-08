@@ -3879,7 +3879,6 @@ www.aolnews.com
 ||mee6.xyz
 ||meee.com.tw
 ||meetav.com
-||meetup.com
 ||mefeedia.com
 ||meforum.org
 ||mefound.com
@@ -3984,6 +3983,7 @@ www.aolnews.com
 ||missav.ws
 ||missav123.com
 ||mist.vip
+||mistral.ai
 ||mitbbs.com
 ||miuipolska.pl
 ||mixero.com
@@ -4808,7 +4808,6 @@ www.aolnews.com
 ||python.com
 ||python.com.tw
 ||pythonhackers.com
-||pytorch.org
 ||qanote.com
 ||qbittorrent.org
 ||qgirl.com.tw
