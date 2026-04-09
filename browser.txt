@@ -5550,7 +5550,6 @@ www.aolnews.com
 ||techcrunch.com
 ||technews.tw
 ||technorati.com
-||techspot.com
 ||techviz.net
 ||teck.in
 ||teco-hk.org
@@ -5569,7 +5568,6 @@ www.aolnews.com
 ||telegram.org
 ||telegram.space
 ||telegramdownload.com
-||telegraph.co.uk
 ||telephony.goog
 ||telesco.pe
 ||tellapart.com

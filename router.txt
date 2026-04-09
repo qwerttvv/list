@@ -533,7 +533,6 @@ anchor.fm
 google.jo
 theepochtimes.com
 google.kz
-telegraph.co.uk
 pximg.net
 abebooks.com
 okx.com
@@ -1204,7 +1203,6 @@ momoshop.com.tw
 parse.com
 ai.google
 adultfriendfinder.com
-techspot.com
 kobobooks.com
 chobit.cc
 supjav.com
