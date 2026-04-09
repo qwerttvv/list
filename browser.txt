@@ -690,11 +690,9 @@ www.aolnews.com
 ||animeshippuuden.com
 ||animezilla.com
 ||aniscartujo.com
-||annas-archive.in
-||annas-archive.li
-||annas-archive.org
-||annas-archive.pm
-||annas-archive.se
+||annas-archive.gd
+||annas-archive.gl
+||annas-archive.pk
 ||anobii.com
 ||anonfiles.com
 ||anontext.com
