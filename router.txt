@@ -1063,6 +1063,7 @@ ltn.com.tw
 channelnewsasia.com
 worldpopulationreview.com
 videopress.com
+openart.ai
 ladbrokes.com
 4dq.com
 quran.com
@@ -3781,8 +3782,6 @@ hk-pub.com
 hk.gradconnection.com
 hk.jiepang.com
 hka8964.wordpress.com
-hkacg.com
-hkacg.net
 hkanews.wordpress.com
 hkatvnews.com
 hkbc.net
@@ -4528,7 +4527,6 @@ muzi.com
 muzi.net
 muzu.tv
 mvg.jp
-mx981.com
 my-formosa.com
 my-private-network.co.uk
 my-proxy.com
@@ -6044,7 +6042,6 @@ vraiesagesse.net
 vrmtr.com
 vrsmash.com
 vtunnel.com
-vuku.cc
 vultryhw.com
 w-pool.com
 w.wiki

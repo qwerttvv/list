@@ -3068,8 +3068,6 @@ www.aolnews.com
 ||hk.jiepang.com
 ||hk01.com
 ||hka8964.wordpress.com
-||hkacg.com
-||hkacg.net
 ||hkanews.wordpress.com
 ||hkatvnews.com
 ||hkbc.net
@@ -4072,7 +4070,6 @@ www.aolnews.com
 ||muzi.net
 ||muzu.tv
 ||mvg.jp
-||mx981.com
 ||my-formosa.com
 ||my-private-network.co.uk
 ||my-proxy.com
@@ -4430,6 +4427,7 @@ www.aolnews.com
 ||open.com.hk
 ||open.firstory.me
 ||openai.com
+||openart.ai
 ||opencritic.com
 ||opendemocracy.net
 ||opendesktop.org
@@ -6222,7 +6220,6 @@ www.aolnews.com
 ||vrporn.com
 ||vrsmash.com
 ||vtunnel.com
-||vuku.cc
 ||vultryhw.com
 ||vyprvpn.com
 ||w-pool.com
