@@ -733,6 +733,7 @@ otzo.com
 washeng.net
 news.ycombinator.com
 gemini.google
+go.dev
 sueddeutsche.de
 thestar.com
 threads.net
@@ -2334,6 +2335,7 @@ avdb.in
 avdb.tv
 avfantasy.com
 avidemux.org
+avistaz.to
 avmo.pw
 avmoo.com
 avmoo.pw
@@ -2715,6 +2717,7 @@ cfsh99.com
 cftfc.com
 cgdepot.org
 cgst.edu
+cgw666.com
 changeip.name
 changp.com
 channel8news.sg
@@ -3155,6 +3158,7 @@ eic-av.com
 eireinikotaerukai.com
 electionsmeter.com
 eltondisney.com
+emorpm.com
 empfil.com
 emule-ed2k.com
 emulefans.com
