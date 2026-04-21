@@ -2087,7 +2087,6 @@ www.aolnews.com
 ||esurance.com
 ||etaa.org.au
 ||etadult.com
-||etaiwannews.com
 ||etherdelta.com
 ||ethermine.org
 ||etherscan.com
@@ -4177,7 +4176,6 @@ www.aolnews.com
 ||netlify.app
 ||netme.cc
 ||netsarang.com
-||netsneak.com
 ||network54.com
 ||networkedblogs.com
 ||networktunnel.net
@@ -4193,7 +4191,6 @@ www.aolnews.com
 ||newipnow.com
 ||newlandmagazine.com.au
 ||newmitbbs.com
-||newnews.ca
 ||news.com.au
 ||news.ebc.net.tw
 ||news.mt.co.kr
@@ -4340,7 +4337,6 @@ www.aolnews.com
 ||nybooks.com
 ||nydailynews.com
 ||nylon-angel.com
-||nylonstockingsonline.com
 ||nypost.com
 ||nyt.com
 ||nytchina.com
@@ -5495,7 +5491,6 @@ www.aolnews.com
 ||taiwantrip.com.tw
 ||taiwantt.org.tw
 ||taiwanus.net
-||taiwanyes.com
 ||taiwanyes.ning.com
 ||talk853.com
 ||talkatone.com
@@ -5597,7 +5592,6 @@ www.aolnews.com
 ||thechinaproject.com
 ||thechinastory.org
 ||theconversation.com
-||thedalailamamovie.com
 ||thediplomat.com
 ||thedw.us
 ||theepochtimes.com
