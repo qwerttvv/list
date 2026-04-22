@@ -113,6 +113,7 @@ ttwstatic.com
 hola.org
 nytimes.com
 aiv-delivery.net
+roblox.com
 google.ca
 nflximg.com
 oaiusercontent.com
@@ -1129,6 +1130,7 @@ google.org
 apkmirror.com
 mandiant.com
 sendsmtp.com
+recordedfuture.com
 dns2go.com
 rutracker.org
 gemini.com
@@ -1524,6 +1526,7 @@ vern.cc
 uscardforum.com
 gab.com
 sankakucomplex.com
+asiasociety.org
 archive-it.org
 wetplace.com
 facebook.de
@@ -1675,6 +1678,7 @@ xbabe.com
 google.hk
 tubepornclassic.com
 pornhd.com
+app.element.io
 glarity.app
 riseup.net
 maven.neoforged.net
@@ -1840,6 +1844,7 @@ pinterest.pt
 d2pass.com
 fxnetworks.com
 derpibooru.org
+issues.chromium.org
 lexica.art
 graphql.org
 mikanani.me
@@ -1928,6 +1933,7 @@ moviefap.com
 gunsamerica.com
 unwire.hk
 enanyang.my
+bellingcat.com
 slides.com
 piaotia.com
 eroprofile.com
@@ -5344,7 +5350,6 @@ southmongolia.org
 southnews.com.tw
 southpark.cc.com
 sowers.org.hk
-soylentnews.org
 spankingtube.com
 sparkpool.com
 spb.com
@@ -5572,6 +5577,7 @@ thetibetpost.com
 thewgo.org
 thewirechina.com
 theync.com
+thinkchina.sg
 thinkgeek.com
 thinkhk.com
 thinkingtaiwan.com
