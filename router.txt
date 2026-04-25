@@ -2034,6 +2034,7 @@ pinterest.at
 avgle.com
 jamestown.org
 keezmovies.com
+ntl.edu.tw
 avple.tv
 matters.town
 npm.edu.tw
@@ -3600,6 +3601,7 @@ github.io
 githubusercontent.com
 gizlen.net
 gjczz.com
+gjtaiwan.com
 glass8.eu
 global.ssl.fastly.net
 globaljihad.net
