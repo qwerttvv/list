@@ -2228,6 +2228,8 @@ www.aolnews.com
 ||fdc64.de
 ||fdc64.jp
 ||fdc64.org
+||feebee.com.tw
+||feebee.tw
 ||feedburner.com
 ||feeder.co
 ||feedly.com
@@ -3340,6 +3342,7 @@ www.aolnews.com
 ||inlang.com
 ||inmediahk.net
 ||innermongolia.org
+||innovarad.tw
 ||inoreader.com
 ||inote.tw
 ||insecam.org
