@@ -80,6 +80,7 @@ hcaptcha.com
 wp.com
 github.com
 canva.com
+zendesk.com
 amazonvideo.com
 jwplayer.com
 firebaseio.com
