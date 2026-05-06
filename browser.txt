@@ -558,6 +558,7 @@ www.aolnews.com
 ||accountkit.com
 ||aceros-de-hispania.com
 ||acevpn.com
+||acg.mn
 ||acg.rip
 ||acgbox.link
 ||acgbox.org
@@ -1037,6 +1038,7 @@ www.aolnews.com
 ||blacked.com
 ||blackmagicdesign.com
 ||blackvpn.com
+||bleepingcomputer.com
 ||blewpass.com
 ||blinkx.com
 ||blip.tv
@@ -1171,6 +1173,7 @@ www.aolnews.com
 ||booktopia.com.au
 ||bookwalker.com.tw
 ||bookwalker.jp
+||boomplay.com
 ||bootstrapcdn.com
 ||borgenmagazine.com
 ||bot.nu
@@ -1584,6 +1587,7 @@ www.aolnews.com
 ||cn6.eu
 ||cna.com.tw
 ||cnbbnews.wordpress.com
+||cnbc.com
 ||cnbeta.com.tw
 ||cnd.org
 ||cnineu.com
@@ -1688,6 +1692,7 @@ www.aolnews.com
 ||ctee.com.tw
 ||ctinets.com
 ||ctinews.com
+||ctinsider.com
 ||ctitv.com.tw
 ||ctowc.org
 ||cts.com.tw
@@ -2002,6 +2007,7 @@ www.aolnews.com
 ||ecstart.com
 ||edgecastcdn.net
 ||edicypages.com
+||edigest.hk
 ||edns.biz
 ||edoors.com
 ||edrdg.org
@@ -3068,6 +3074,7 @@ www.aolnews.com
 ||hinet.net
 ||hitbtc.com
 ||hitomi.la
+||hive.blog
 ||hiveon.net
 ||hizb-ut-tahrir.info
 ||hizb-ut-tahrir.org
@@ -3335,6 +3342,7 @@ www.aolnews.com
 ||indsr.org.tw
 ||inews-api.tvb.com
 ||info-graf.fr
+||infosec.exchange
 ||infura.io
 ||inherit.live
 ||initiativesforchina.org
@@ -3557,6 +3565,7 @@ www.aolnews.com
 ||kards.com
 ||karmapa-teachings.org
 ||karmapa.org
+||kathmandupost.com
 ||kawaiikawaii.jp
 ||kawase.com
 ||kb.monitorware.com
@@ -3694,6 +3703,7 @@ www.aolnews.com
 ||liberal.org.hk
 ||libertysculpturepark.com
 ||libertytimes.com.tw
+||libgen.is
 ||library-access.sk
 ||libredd.it
 ||lidecheng.com
@@ -3880,6 +3890,7 @@ www.aolnews.com
 ||media.org.hk
 ||mediachinese.com
 ||mediafreakcity.com
+||mediamatters.org
 ||mediawiki.org
 ||medicalnewstoday.com
 ||medium.com
@@ -4074,6 +4085,7 @@ www.aolnews.com
 ||mummysgold.com
 ||murmur.tw
 ||muscdn.com
+||music.amazon.com
 ||musicade.net
 ||musical.ly
 ||musixmatch.com
@@ -4213,11 +4225,13 @@ www.aolnews.com
 ||newsblur.com
 ||newsdetox.ca
 ||newsdh.com
+||newshub.co.nz
 ||newsmax.com
 ||newstamago.com
 ||newstapa.org
 ||newstarnet.com
 ||newstatesman.com
+||newstimes.com
 ||newswav.com
 ||newsweek.com
 ||newtaiwan.com.tw
@@ -4241,6 +4255,8 @@ www.aolnews.com
 ||nflximg.net
 ||nflxso.net
 ||nflxvideo.net
+||nfsc.press
+||nfscofficial.com
 ||nftstorage.link
 ||nga.mil
 ||ngensis.com
@@ -4475,6 +4491,7 @@ www.aolnews.com
 ||ourtv.hk
 ||overcast.fm
 ||overdaily.org
+||overdrive.com
 ||overplay.net
 ||oversea.istarshine.com
 ||ovpn.com
@@ -4561,6 +4578,7 @@ www.aolnews.com
 ||penchinese.com
 ||penchinese.net
 ||pendrivelinux.com
+||penguin.com.au
 ||penthouse.com
 ||pentoy.hk
 ||peoplebookcafe.com
@@ -4980,6 +4998,7 @@ www.aolnews.com
 ||rti.org.tw
 ||rti.tw
 ||rtm.tnt-ea.com
+||rts.ch
 ||rukor.org
 ||rule34.xxx
 ||rule34video.com
@@ -5583,6 +5602,7 @@ www.aolnews.com
 ||tg-me.com
 ||tg.dev
 ||tgstat.com
+||the-sun.com
 ||theage.com.au
 ||theatlantic.com
 ||theatrum-belli.com
@@ -5627,6 +5647,7 @@ www.aolnews.com
 ||thetibetmuseum.org
 ||thetibetpost.com
 ||thetvdb.com
+||theweek.com
 ||thewgo.org
 ||thewirechina.com
 ||theync.com
@@ -5886,6 +5907,7 @@ www.aolnews.com
 ||tvbanywhere.com
 ||tvboxnow.com
 ||tvbs.com.tw
+||tvdy1.com
 ||tvider.com
 ||tvplayvideos.com
 ||tvr.ro
