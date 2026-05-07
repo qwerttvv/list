@@ -1557,6 +1557,7 @@ ebook.hyread.com.tw
 taptap.io
 ctinets.com
 now.com
+umap.openstreetmap.fr
 fling.com
 gab.com
 togetter.com
