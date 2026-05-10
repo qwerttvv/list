@@ -2049,6 +2049,7 @@ gettrials.com
 cts.com.tw
 unmineable.com
 roc-taiwan.org
+data18.com
 tibet.net
 episcopalchurch.org
 theync.com
@@ -3156,6 +3157,7 @@ drgan.net
 dropbooks.tv
 dscn.info
 dstk.dk
+dt18.com
 dtiblog.com
 dubox.com
 duckdns.org

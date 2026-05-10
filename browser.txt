@@ -1765,6 +1765,7 @@ www.aolnews.com
 ||dashlane.com
 ||data-vocabulary.org
 ||data.taipei
+||data18.com
 ||datacenters.google
 ||daum.net
 ||david-kilgour.com
@@ -1937,6 +1938,7 @@ www.aolnews.com
 ||dssott.com
 ||dssott.com.akamaized.net
 ||dstk.dk
+||dt18.com
 ||dtiblog.com
 ||dtic.mil
 ||dubox.com
