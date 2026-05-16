@@ -2849,7 +2849,6 @@ cici.com
 cienen.com
 cineastentreff.de
 cipfg.org
-circle19.org
 cirosantilli.com
 citizencn.com
 citizenlab.ca
@@ -2876,7 +2875,6 @@ clickme.net
 clinica-tibet.ru
 clipconverter.cc
 clipfish.de
-cloakpoint.com
 cloud.run
 cloudflare-ipfs.com
 cloudfunctions.net
@@ -2907,7 +2905,6 @@ cnt.com.tw
 co.ng.mil
 coat.co.jp
 cobinhood.com
-cochina.co
 cochina.org
 codeskulptor.org
 cofacts.tw
@@ -2939,7 +2936,6 @@ coolaler.com
 coolder.com
 coolloud.org.tw
 coolncute.com
-corumcollege.com
 cos-moe.com
 cosplayjav.pl
 cotweet.com
@@ -3315,7 +3311,6 @@ fangeqiang.com
 fanglizhi.info
 fangong.org
 fangongheike.com
-fanhaodang.com
 fanhaolou.com
 fanqiang.network
 fanqiangdang.com
@@ -3452,7 +3447,6 @@ freeman2.com
 freemoren.com
 freenet-china.org
 freenetproject.org
-freenewscn.com
 freenuts.com
 freeopenvpn.com
 freeoz.org
@@ -4836,7 +4830,6 @@ pandavpn-jp.com
 pandavpnpro.com
 pandora.tv
 pao-pao.net
-paperb.us
 paradisehill.cc
 paradisepoker.com
 parkansky.com
@@ -4870,7 +4863,6 @@ pekingduck.org
 pemulihan.or.id
 pen.io
 penchinese.com
-penchinese.net
 pendrivelinux.com
 penthouse.com
 pentoy.hk
@@ -5463,7 +5455,6 @@ summify.com
 sumrando.com
 sun1911.com
 sunmedia.ca
-sunskyforum.com
 sunta.com.tw
 sunvpn.net
 supchina.com
@@ -5490,7 +5481,6 @@ t-g.com
 t35.com
 t35hosting.com
 taa-usa.org
-tabtter.jp
 taedp.org.tw
 tafm.org
 tagwalk.com
@@ -5828,7 +5818,6 @@ tweetdeck.com
 tweetedtimes.com
 tweetmylast.fm
 tweetphoto.com
-tweetrans.com
 tweetree.com
 tweettunnel.com
 tweetwally.com

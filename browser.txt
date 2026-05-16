@@ -682,7 +682,6 @@ www.aolnews.com
 ||androidcombo.com
 ||androidify.com
 ||androidtv.com
-||andygod.com
 ||angela-merkel.de
 ||angelfire.com
 ||angola.org
@@ -1142,7 +1141,6 @@ www.aolnews.com
 ||blogspot.tw
 ||blogspot.ug
 ||blogspot.vn
-||blogtd.org
 ||bloodshed.net
 ||bloomberg.com
 ||bloomberg.de
@@ -1522,7 +1520,6 @@ www.aolnews.com
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
-||circle19.org
 ||cirosantilli.com
 ||citizencn.com
 ||citizenlab.ca
@@ -1555,7 +1552,6 @@ www.aolnews.com
 ||clipconverter.cc
 ||clipfish.de
 ||clips4sale.com
-||cloakpoint.com
 ||cloud.dify.ai
 ||cloud.mail.ru
 ||cloud.run
@@ -1600,7 +1596,6 @@ www.aolnews.com
 ||co.ng.mil
 ||coat.co.jp
 ||cobinhood.com
-||cochina.co
 ||cochina.org
 ||code.jquery.com
 ||codeshare.io
@@ -1646,7 +1641,6 @@ www.aolnews.com
 ||coolncute.com
 ||coolstuffinc.com
 ||copilot.microsoft.com
-||corumcollege.com
 ||cos-moe.com
 ||costco.com
 ||cotweet.com
@@ -2193,7 +2187,6 @@ www.aolnews.com
 ||fanglizhi.info
 ||fangong.org
 ||fangongheike.com
-||fanhaodang.com
 ||fanhaolou.com
 ||fanqiang.network
 ||fanqiangdang.com
@@ -2377,7 +2370,6 @@ www.aolnews.com
 ||freemoren.com
 ||freenet-china.org
 ||freenetproject.org
-||freenewscn.com
 ||freenuts.com
 ||freeones.com
 ||freeopenvpn.com
@@ -4534,7 +4526,6 @@ www.aolnews.com
 ||pandora.tv
 ||panoramio.com
 ||pao-pao.net
-||paperb.us
 ||paradisehill.cc
 ||paradisepoker.com
 ||parkansky.com
@@ -4580,7 +4571,6 @@ www.aolnews.com
 ||pemulihan.or.id
 ||pen.io
 ||penchinese.com
-||penchinese.net
 ||pendrivelinux.com
 ||penguin.com.au
 ||penthouse.com
@@ -5449,7 +5439,6 @@ www.aolnews.com
 ||suno.ai
 ||suno.com
 ||sunporno.com
-||sunskyforum.com
 ||sunta.com.tw
 ||sunvpn.net
 ||supchina.com
@@ -5493,7 +5482,6 @@ www.aolnews.com
 ||t66y.com
 ||taa-usa.org
 ||taaze.tw
-||tabtter.jp
 ||taedp.org.tw
 ||tafm.org
 ||tagesschau.de
@@ -5938,7 +5926,6 @@ www.aolnews.com
 ||tweetedtimes.com
 ||tweetmylast.fm
 ||tweetphoto.com
-||tweetrans.com
 ||tweetree.com
 ||tweettunnel.com
 ||tweetwally.com
