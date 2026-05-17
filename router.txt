@@ -582,6 +582,7 @@ google.al
 google.ba
 google.lv
 windscribe.com
+sider.ai
 startpage.com
 4shared.com
 dns04.com
