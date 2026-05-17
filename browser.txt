@@ -2476,6 +2476,7 @@ www.aolnews.com
 ||ganjingworld.com
 ||gaoming.net
 ||gardennetworks.com
+||garminmap.com
 ||gartlive.com
 ||garudalinux.org
 ||gate-project.com
@@ -4415,6 +4416,7 @@ www.aolnews.com
 ||omnitalk.com
 ||omnitalk.org
 ||omny.fm
+||omt.garmin.com
 ||on.cc
 ||on2.com
 ||onapp.com
