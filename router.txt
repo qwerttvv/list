@@ -995,9 +995,11 @@ txxx.com
 kik.com
 xdaforums.com
 ezua.com
+f95zone.to
 m.me
 zyxel.com
 pchome.com.tw
+leonardo.ai
 myddns.com
 ipfs.io
 player.fm
@@ -1305,6 +1307,7 @@ partypoker.com
 wahas.com
 mod.io
 safety.google
+rule34.us
 autodraw.com
 elgoog.im
 straitstimes.com.sg
@@ -1946,6 +1949,7 @@ ai.studio
 www1.biz
 wego.here.com
 000webhost.com
+raphael.app
 businesstoday.com.tw
 equinenow.com
 5278.cc
@@ -3504,6 +3508,7 @@ fzlm.com
 g-area.org
 g-desktop.ru
 g-queen.com
+g.ai
 g.kfd.me
 g0v.social
 g6hentai.com

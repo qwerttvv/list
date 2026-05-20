@@ -2134,6 +2134,7 @@ www.aolnews.com
 ||f-droid.org
 ||f2pool.com
 ||f8.com
+||f95zone.to
 ||facebook.com
 ||facebook.com.br
 ||facebook.de
@@ -2451,6 +2452,7 @@ www.aolnews.com
 ||g-area.org
 ||g-desktop.ru
 ||g-queen.com
+||g.ai
 ||g.co
 ||g.kfd.me
 ||g0v.social
@@ -3683,6 +3685,7 @@ www.aolnews.com
 ||lemonde.fr
 ||lens.google
 ||lenwhite.com
+||leonardo.ai
 ||lerosua.org
 ||lesoir.be
 ||letscorp.net
@@ -4888,6 +4891,7 @@ www.aolnews.com
 ||rangzen.org
 ||ranyunfei.com
 ||rapbull.net
+||raphael.app
 ||rapidmoviez.com
 ||rapidvpn.com
 ||rarbgprx.org
@@ -4998,6 +5002,7 @@ www.aolnews.com
 ||rtm.tnt-ea.com
 ||rts.ch
 ||rukor.org
+||rule34.us
 ||rule34.xxx
 ||rule34video.com
 ||rumble.com
