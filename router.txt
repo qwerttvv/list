@@ -1855,6 +1855,7 @@ korea.net
 asiatimes.com
 betvictor.com
 itasoftware.com
+mas.to
 newstimes.com
 access.mypikpak.net
 vpnproxymaster.com
@@ -2133,6 +2134,7 @@ data18.com
 233abc.com
 233v2.com
 24av.net
+24hbook.com
 24hrs.ca
 2du5.com
 2lipstube.com
@@ -4643,6 +4645,7 @@ nekoslovakia.net
 nengcard.com
 neo-miracle.com
 neo.com.tw
+neodb.social
 netalert.me
 netbirds.com
 netflav.com
