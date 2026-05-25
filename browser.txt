@@ -987,7 +987,6 @@ www.aolnews.com
 ||bgme.me
 ||bgvpn.com
 ||biantailajiao.com
-||biantailajiao.in
 ||biblesforamerica.org
 ||bibox.com
 ||bidswitch.net
@@ -2038,7 +2037,6 @@ www.aolnews.com
 ||encrypt.me
 ||encyclopedia.com
 ||enewstree.com
-||enfal.de
 ||engadget.com
 ||englishforeveryone.org
 ||englishfromengland.co.uk
@@ -3833,7 +3831,6 @@ www.aolnews.com
 ||makemymood.com
 ||makkahnewspaper.com
 ||malaysiakini.com
-||manchukuo.net
 ||manchustate.org
 ||mandiant.com
 ||mangabz.com
@@ -4847,7 +4844,6 @@ www.aolnews.com
 ||qiangwaikan.com
 ||qiangyou.org
 ||qianmo.tw
-||qidian.ca
 ||qiwen.lu
 ||qkshare.com
 ||qoos.com
