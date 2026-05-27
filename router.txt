@@ -333,6 +333,7 @@ agnss.goog
 rtm.tnt-ea.com
 images.prismic.io
 google.com.sa
+dowjones.io
 flipkart.com
 poloniex.com
 google.pl
