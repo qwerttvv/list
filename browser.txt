@@ -2509,6 +2509,7 @@ www.aolnews.com
 ||gelbooru.com
 ||gemini.com
 ||gemini.google
+||gencraft.com
 ||generated.photos
 ||genius.com
 ||geocities.co.jp
@@ -3051,6 +3052,7 @@ www.aolnews.com
 ||hicairo.com
 ||hiccears.com
 ||hidden-advent.org
+||hiddify.com
 ||hide.me
 ||hideipvpn.com
 ||hideman.net
@@ -5270,7 +5272,6 @@ www.aolnews.com
 ||sockslist.net
 ||socrec.org
 ||sod.co.jp
-||softether-download.com
 ||softether.co.jp
 ||softether.org
 ||softfamous.com
@@ -6128,6 +6129,7 @@ www.aolnews.com
 ||vcf-online.org
 ||vcfbuilder.org
 ||vct.news
+||veed.io
 ||vegas.williamhill.com
 ||vegasred.com
 ||velkaepocha.sk
