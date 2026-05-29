@@ -893,6 +893,7 @@ www.aolnews.com
 ||bangdream.space
 ||bangkokpost.com
 ||bangumi.moe
+||bangumi.tv
 ||bangyoulater.com
 ||bankmobilevibe.com
 ||bannedbook.org
@@ -984,6 +985,7 @@ www.aolnews.com
 ||bg-call-donation-canary.goog
 ||bg-call-donation-dev.goog
 ||bg-call-donation.goog
+||bgm.tv
 ||bgme.me
 ||bgvpn.com
 ||biantailajiao.com
@@ -1420,6 +1422,7 @@ www.aolnews.com
 ||chenshan20042005.wordpress.com
 ||cherrysave.com
 ||chhongbi.org
+||chii.in
 ||china-mmm.net
 ||china-review.com.ua
 ||china-week.com
