@@ -389,6 +389,7 @@ google.co.ma
 mega.co.nz
 google.no
 staticflickr.com
+dola.com
 dashlane.com
 pixiv.net
 api.dropboxapi.com
@@ -2124,7 +2125,6 @@ apk.tw
 thelallantop.com
 open.firstory.me
 blogspot.com.co
-taiwan.net.tw
 i-cable.com
 tdm.com.mo
 calendarz.com
@@ -3527,7 +3527,6 @@ freechina.net
 freechina.news
 freechinaweibo.com
 freeddns.org
-freedl.org
 freedom.gov
 freedomhongkong.org
 freedominfonetweb.wordpress.com
@@ -3800,7 +3799,6 @@ greatfirewallofchina.org
 greenparty.org.tw
 greenpeace.com.tw
 greenvpn.net
-greenvpn.org
 grotty-monday.com
 gsearch.media
 gstc.com.tw
@@ -4123,6 +4121,7 @@ internetfreedom.org
 internetpopculture.com
 interseclab.org
 inthenameofconfuciusmovie.com
+invade.tw
 investigating.wordpress.com
 invidio.us
 inxian.com
@@ -5970,6 +5969,7 @@ uscnpm.org
 usefreevpn.com
 usfk.mil
 usma.edu
+usmart.hk
 usmgtcg.ning.com
 usocctn.com
 ustibetcommittee.org
@@ -6392,7 +6392,6 @@ yorkbbs.ca
 you-get.org
 youlucky.com
 youmind.com
-youngpornvideos.com
 youpai.org
 youporngay.com
 your-freedom.net
@@ -6453,7 +6452,6 @@ zhongguo.ca
 zhongguorenquan.org
 zhongguotese.net
 zhongzidi.com
-zhoushuguang.com
 zhuatieba.com
 zhuichaguoji.org
 zhujiget.com

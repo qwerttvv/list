@@ -1887,6 +1887,7 @@ www.aolnews.com
 ||dogfartnetwork.com
 ||doh.sb
 ||dojin.com
+||dola.com
 ||dolc.de
 ||dolf.org.hk
 ||domain.glass
@@ -2032,7 +2033,6 @@ www.aolnews.com
 ||eltondisney.com
 ||emorpm.com
 ||empfil.com
-||emule-ed2k.com
 ||emulefans.com
 ||emuparadise.me
 ||en.favotter.net
@@ -2355,7 +2355,6 @@ www.aolnews.com
 ||freechinaweibo.com
 ||freeddns.com
 ||freeddns.org
-||freedl.org
 ||freedom.gov
 ||freedomhongkong.org
 ||freedomhouse.org
@@ -2936,7 +2935,6 @@ www.aolnews.com
 ||greenpeace.com.tw
 ||greenpeace.org
 ||greenvpn.net
-||greenvpn.org
 ||grindr.com
 ||grok.com
 ||grokipedia.com
@@ -3197,7 +3195,6 @@ www.aolnews.com
 ||huaren.us
 ||huaren4us.com
 ||huarenjie.com
-||huashangnews.com
 ||huasing.org
 ||huaxiabao.org
 ||huaxin.ph
@@ -3369,6 +3366,7 @@ www.aolnews.com
 ||internetpopculture.com
 ||interseclab.org
 ||inthenameofconfuciusmovie.com
+||invade.tw
 ||investigating.wordpress.com
 ||investing.com
 ||invidio.us
@@ -3602,7 +3600,6 @@ www.aolnews.com
 ||kinokuniya.com
 ||kir.jp
 ||kissjav.com
-||kiwi.kz
 ||kk-whys.co.jp
 ||kkbox.com
 ||kknews.cc
@@ -5506,7 +5503,6 @@ www.aolnews.com
 ||taipeitimes.com
 ||taisounds.com
 ||taiwan-sex.com
-||taiwan.net.tw
 ||taiwanbible.com
 ||taiwancon.com
 ||taiwandaily.net
@@ -6089,6 +6085,7 @@ www.aolnews.com
 ||usercontent.goog
 ||usfk.mil
 ||usma.edu
+||usmart.hk
 ||usmc.mil
 ||usmgtcg.ning.com
 ||usno.navy.mil
@@ -6657,7 +6654,6 @@ www.aolnews.com
 ||youlucky.com
 ||youmaker.com
 ||youmind.com
-||youngpornvideos.com
 ||youpai.org
 ||youporn.com
 ||youporngay.com
@@ -6745,7 +6741,6 @@ www.aolnews.com
 ||zhongguorenquan.org
 ||zhongguotese.net
 ||zhongzidi.com
-||zhoushuguang.com
 ||zhuatieba.com
 ||zhuichaguoji.org
 ||zhujiget.com
