@@ -4917,7 +4917,6 @@ packetix.net
 pacom.mil
 padmanet.com
 page2rss.com
-pages.dev
 pagodabox.com
 paimon.moe
 palacemoon.com
@@ -6334,7 +6333,6 @@ xn--90wwvt03e.com
 xn--9iqy04a7fi01l.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
-xn--dgtr4ppoz.com
 xn--i2ru8q2qg.com
 xn--kcrv3utim32hx9f6qe.com
 xn--noss43i.com
