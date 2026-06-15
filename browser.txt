@@ -2873,6 +2873,7 @@ www.aolnews.com
 ||googlearth.com
 ||googleartproject.com
 ||googleblog.com
+||googlebook.google
 ||googlebot.com
 ||googlechinawebmaster.com
 ||googlecode.com
@@ -4547,6 +4548,7 @@ www.aolnews.com
 ||partypoker.com
 ||passion.com
 ||passiontimes.hk
+||passwords.google
 ||paste.ee
 ||pastebin.com
 ||pastie.org

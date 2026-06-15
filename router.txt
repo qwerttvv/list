@@ -3816,6 +3816,7 @@ google.vn
 googleapis.com
 googlearth.com
 googleartproject.com
+googlebook.google
 googlechinawebmaster.com
 googlecode.com
 googleideas.com
@@ -4934,6 +4935,7 @@ parsevideo.com
 partnerstack.xyz
 passion.com
 passiontimes.hk
+passwords.google
 paste.ee
 pastie.org
 paxful.com
