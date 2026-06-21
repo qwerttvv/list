@@ -514,6 +514,7 @@ www.aolnews.com
 ||89-64.org
 ||8964museum.com
 ||8news.com.tw
+||8tvnews.my
 ||8world.com
 ||8z1.net
 ||91cg1.com
@@ -4072,6 +4073,7 @@ www.aolnews.com
 ||mm-cg.com
 ||mmaaxx.com
 ||mmmca.com
+||mnews.tw
 ||mnewstv.com
 ||mobatek.net
 ||mobile01.com
@@ -5595,6 +5597,7 @@ www.aolnews.com
 ||tanc.org
 ||tangben.com
 ||tanks.gg
+||tantannews.com
 ||taoism.net
 ||tap.io
 ||tapanwap.com
@@ -6647,6 +6650,7 @@ www.aolnews.com
 ||xt.com
 ||xt.pub
 ||xtube.com
+||xuan.com.my
 ||xuchao.net
 ||xuchao.org
 ||xuehua.us

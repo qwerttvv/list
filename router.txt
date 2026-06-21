@@ -2387,6 +2387,7 @@ compress.to
 89-64.org
 8964museum.com
 8news.com.tw
+8tvnews.my
 8z1.net
 91dasai.com
 91jinman.com
@@ -4659,6 +4660,7 @@ mlcool.com
 mlzs.work
 mmaaxx.com
 mmmca.com
+mnews.tw
 mnewstv.com
 mo.nightlife141.com
 mobileways.de
@@ -5630,6 +5632,7 @@ talkonly.net
 tanc.org
 tangben.com
 tanks.gg
+tantannews.com
 taoism.net
 tapanwap.com
 tardigrade.io
@@ -6418,6 +6421,7 @@ xsden.org
 xskywalker.com
 xt.com
 xt.pub
+xuan.com.my
 xuchao.net
 xuchao.org
 xuehua.us
