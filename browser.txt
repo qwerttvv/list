@@ -2558,6 +2558,7 @@ www.aolnews.com
 ||geph.io
 ||gerefoundation.org
 ||get.app
+||get.dappcdn.com
 ||get.dev
 ||get.how
 ||get.page
