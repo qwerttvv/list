@@ -1672,6 +1672,7 @@ www.aolnews.com
 ||crbug.com
 ||crchina.org
 ||crd-net.org
+||creader.com
 ||creaders.net
 ||creadersnet.com
 ||creative.myavlive.com
