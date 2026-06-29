@@ -3779,7 +3779,6 @@ www.aolnews.com
 ||lingvodics.com
 ||link-o-rama.com
 ||linkedin.com
-||linkideo.com
 ||linksalpha.com
 ||linktr.ee
 ||linkuswell.com
@@ -5674,6 +5673,7 @@ www.aolnews.com
 ||tensorflow.org
 ||tenzinpalmo.com
 ||terabox.com
+||terminus2049.xyz
 ||terobox.com
 ||tew.org
 ||textnow.com
@@ -5986,7 +5986,6 @@ www.aolnews.com
 ||tunnelr.com
 ||tunnels.api.visualstudio.com
 ||tunsafe.com
-||tuo8.cc
 ||turansam.org
 ||turbobit.net
 ||turbohide.com
@@ -6104,7 +6103,6 @@ www.aolnews.com
 ||udndata.com
 ||udomain.hk
 ||uforadio.com.tw
-||ufreevpn.com
 ||ugo.com
 ||uhdwallpapers.org
 ||uhrp.org
@@ -6384,6 +6382,7 @@ www.aolnews.com
 ||watchinese.com
 ||watchmygf.net
 ||watchout.tw
+||watchpeopledie.tv
 ||wattpad.com
 ||wav.tv
 ||waveprotocol.org

@@ -1951,6 +1951,7 @@ mypop3.org
 rsshub.app
 1pondo.tv
 blogspot.gr
+watchpeopledie.tv
 korea.net
 google.com.iq
 888.com
@@ -4479,7 +4480,6 @@ limelight.moe
 linglingfa.com
 lingvodics.com
 link-o-rama.com
-linkideo.com
 linkuswell.com
 linux.org.hk
 linuxtoy.org
@@ -5700,6 +5700,7 @@ telegramdownload.com
 tellapart.com
 tellme.pw
 tenzinpalmo.com
+terminus2049.xyz
 terobox.com
 tew.org
 tfc-taiwan.org.tw
@@ -5919,7 +5920,6 @@ tumview.com
 tunein.streamguys1.com
 tunnelr.com
 tunsafe.com
-tuo8.cc
 turansam.org
 turbohide.com
 turkistantimes.com
@@ -6015,7 +6015,6 @@ udnbkk.com
 udndata.com
 udomain.hk
 uforadio.com.tw
-ufreevpn.com
 ugo.com
 uhdwallpapers.org
 uhrp.org
