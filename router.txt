@@ -1685,6 +1685,7 @@ bitmex.com
 bitfinex.com
 baby-kingdom.com
 lvv2.com
+expressnews.com
 blogspot.com.ar
 turbobit.net
 porntube.com
@@ -3133,7 +3134,6 @@ compileheart.com
 compress.to
 congyu.moe
 conoha.jp
-contactmagazine.net
 contests.twilio.com
 coobay.com
 coolder.com
@@ -3155,6 +3155,7 @@ creadersnet.com
 creativelab5.com
 crisisresponse.google
 cristyli.com
+crixet.com
 crossfire.co.kr
 crossvpn.net
 crosswall.org
@@ -3495,7 +3496,6 @@ faluninfo.net
 falunpilipinas.net
 familyfed.org
 famunion.com
-fan-qiang.com
 fangeming.com
 fangeqiang.com
 fanglizhi.info

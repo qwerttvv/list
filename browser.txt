@@ -1644,7 +1644,6 @@ www.aolnews.com
 ||congyu.moe
 ||connect.facebook.net
 ||conoha.jp
-||contactmagazine.net
 ||contests.twilio.com
 ||coobay.com
 ||cool18.com
@@ -1679,6 +1678,7 @@ www.aolnews.com
 ||creativelab5.com
 ||crisisresponse.google
 ||cristyli.com
+||crixet.com
 ||crocotube.com
 ||crossfire.co.kr
 ||crossvpn.net
@@ -2137,6 +2137,7 @@ www.aolnews.com
 ||expekt.com
 ||experts-univers.com
 ||exploader.net
+||expressnews.com
 ||expressvpn.com
 ||exrates.me
 ||extmatrix.com
@@ -2195,7 +2196,6 @@ www.aolnews.com
 ||families.google
 ||familyfed.org
 ||famunion.com
-||fan-qiang.com
 ||fanbox.cc
 ||fandom.com
 ||fangeming.com
