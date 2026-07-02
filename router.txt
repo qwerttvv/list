@@ -279,6 +279,7 @@ linktr.ee
 telesco.pe
 google.com.vn
 share.google
+iheart.com
 google.co.cr
 google.com.pe
 wa.me
@@ -1443,6 +1444,7 @@ aol.co.uk
 readmoo.com
 fleshbot.com
 hotair.com
+skynews.com.au
 docs.new
 ruten.com.tw
 ns1.name
@@ -1568,6 +1570,7 @@ wire.com
 fling.com
 now.com
 jsfiddle.net
+i24news.tv
 blogspot.de
 kanald.com.tr
 ctinets.com

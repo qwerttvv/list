@@ -3294,6 +3294,7 @@ www.aolnews.com
 ||i.lithium.com
 ||i.mij.rip
 ||i1.hk
+||i24news.tv
 ||i2p2.de
 ||i818hk.com
 ||iam.soy
@@ -3339,6 +3340,7 @@ www.aolnews.com
 ||igotmail.com.tw
 ||igvita.com
 ||ihakka.net
+||iheart.com
 ||iicns.com
 ||ikstar.com
 ||ikwb.com
@@ -5311,6 +5313,7 @@ www.aolnews.com
 ||skyking.com.tw
 ||skykiwi.com
 ||skylinktv.us
+||skynews.com.au
 ||skyvegas.com
 ||skyxvpn.com
 ||sl-reverse.com
