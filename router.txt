@@ -3720,6 +3720,7 @@ global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
+globalnewstv.com.tw
 globalrescue.net
 globaltm.org
 globalvoicesonline.org
@@ -5622,6 +5623,7 @@ taiwankiss.com
 taiwannation.com
 taiwannation.com.tw
 taiwanncf.org.tw
+taiwanplus.com
 taiwanstay.net.tw
 taiwantoday.tw
 taiwantp.net
