@@ -1279,6 +1279,7 @@ www.aolnews.com
 ||c-span.org
 ||c-spanvideo.org
 ||c.gle
+||c.go-mpulse.net
 ||c.mi.com
 ||c100tibet.org
 ||c2cx.com
@@ -1659,6 +1660,7 @@ www.aolnews.com
 ||costco.com
 ||cotweet.com
 ||counter.social
+||courrier.jp
 ||coursehero.com
 ||covenantswatch.org.tw
 ||coze.com
@@ -1820,7 +1822,6 @@ www.aolnews.com
 ||design.google
 ||desipro.de
 ||dessci.com
-||destroy-china.jp
 ||detroitnews.com
 ||deutsche-welle.de
 ||developers.box.net
@@ -2630,6 +2631,7 @@ www.aolnews.com
 ||gle
 ||global.bing.com
 ||global.ssl.fastly.net
+||globalexchange.org
 ||globaljihad.net
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
@@ -4633,7 +4635,6 @@ www.aolnews.com
 ||pbworks.com
 ||pbxes.com
 ||pbxes.org
-||pcanywhere.net
 ||pcdvd.com.tw
 ||pcgamesn.com
 ||pcgamestorrents.com
@@ -5387,7 +5388,6 @@ www.aolnews.com
 ||sosad.fun
 ||sosreader.com
 ||sotwe.com
-||soubory.com
 ||soul-plus.net
 ||soulcaliburhentai.net
 ||soundcloud.com
@@ -6158,6 +6158,7 @@ www.aolnews.com
 ||updates.tdesktop.com
 ||upghsbc.com
 ||upholdjustice.org
+||upi.com
 ||uploaded.net
 ||uploaded.to
 ||upmedia.mg

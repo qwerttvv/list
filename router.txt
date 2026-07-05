@@ -70,6 +70,7 @@ nflxext.com
 cloudflare-dns.com
 redditstatic.com
 bootstrapcdn.com
+c.go-mpulse.net
 yimg.com
 s.yimg.com
 openai.com
@@ -1370,6 +1371,7 @@ nanopool.org
 phprcdn.com
 moneydj.com
 sinchew.com.my
+upi.com
 cloudokyo.cloud
 foreignaffairs.com
 api.futunn.com
@@ -1984,6 +1986,7 @@ lih.kg
 my.pcloud.com
 mohu.rocks
 stacksocial.com
+courrier.jp
 businessweek.com
 madthumbs.com
 totalvpn.com
@@ -3237,7 +3240,6 @@ desc.se
 design.google
 desipro.de
 dessci.com
-destroy-china.jp
 deutsche-welle.de
 developers.box.net
 devio.us
@@ -3799,6 +3801,7 @@ gjczz.com
 gjtaiwan.com
 glass8.eu
 global.ssl.fastly.net
+globalexchange.org
 globaljihad.net
 globalmuseumoncommunism.org
 globalnewstv.com.tw
@@ -5018,7 +5021,6 @@ pawoo.net
 payments-jp.amazon.com
 pbxes.com
 pbxes.org
-pcanywhere.net
 pcgamestorrents.com
 pchomeec.tw
 pcij.org
