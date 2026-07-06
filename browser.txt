@@ -479,11 +479,13 @@ www.aolnews.com
 ||51cg1.com
 ||51jav.org
 ||51luoben.com
+||521danmei.com
 ||5278.cc
 ||5299.tv
 ||55comic.com
 ||5657.com.tw
 ||5i01.com
+||60ks.info
 ||611study.com
 ||611study.icu
 ||63i.com
@@ -532,6 +534,7 @@ www.aolnews.com
 ||9bis.net
 ||9cache.com
 ||9gag.com
+||9marks.org
 ||9news.com.au
 ||9oju31.launches.appsflyersdk.com
 ||a-normal-day.com
@@ -698,6 +701,7 @@ www.aolnews.com
 ||aniscartujo.com
 ||annas-archive.gd
 ||annas-archive.gl
+||annas-archive.li
 ||annas-archive.pk
 ||anobii.com
 ||anonfiles.com
@@ -800,6 +804,7 @@ www.aolnews.com
 ||army.mil
 ||art4tibet1998.org
 ||arte.tv
+||articles.sk
 ||artofpeacefoundation.org
 ||artstation.com
 ||arunachalforests.gov.in
@@ -915,6 +920,7 @@ www.aolnews.com
 ||barton.de
 ||bartvpn.com
 ||bastillepost.com
+||battlemetrics.com
 ||bayvoice.net
 ||bb-chat.tv
 ||bbc.co.uk
@@ -997,6 +1003,7 @@ www.aolnews.com
 ||bgm.tv
 ||bgme.me
 ||bgvpn.com
+||bi.org
 ||biantailajiao.com
 ||biblesforamerica.org
 ||bibox.com
@@ -1188,6 +1195,7 @@ www.aolnews.com
 ||borgenmagazine.com
 ||bot.nu
 ||botanwang.com
+||botasot.info
 ||bowenpress.com
 ||boxpn.com
 ||boxun*.azurewebsites.net
@@ -1346,6 +1354,7 @@ www.aolnews.com
 ||cbsnews.com
 ||cbtc.org.hk
 ||cc.com
+||ccbiblestudy.net
 ||cccat.cc
 ||cccat.co
 ||ccfd.org.tw
@@ -1477,6 +1486,7 @@ www.aolnews.com
 ||chinasmile.net
 ||chinasocialdemocraticparty.com
 ||chinasoul.org
+||chinasource.org
 ||chinasucks.net
 ||chinatopsex.com
 ||chinatown.com.au
@@ -1563,6 +1573,7 @@ www.aolnews.com
 ||clearsurance.com
 ||clearwisdom.net
 ||clementine-player.org
+||cli.re
 ||clickme.net
 ||clinica-tibet.ru
 ||clipconverter.cc
@@ -1802,10 +1813,12 @@ www.aolnews.com
 ||deadhouse.org
 ||deadline.com
 ||deaftone.com
+||debalie.nl
 ||debug.com
 ||deck.ly
 ||deck.new
 ||decodet.co
+||deep.ai
 ||deepai.org
 ||deepdiscount.com
 ||deepmind.com
@@ -1821,6 +1834,7 @@ www.aolnews.com
 ||desc.se
 ||design.google
 ||desipro.de
+||desiringgod.org
 ||dessci.com
 ||detroitnews.com
 ||deutsche-welle.de
@@ -1896,6 +1910,7 @@ www.aolnews.com
 ||doc.new
 ||docker.com
 ||docker.io
+||dockerhub.icu
 ||dockerstatus.com
 ||docs.new
 ||doctorvoice.org
@@ -1958,6 +1973,7 @@ www.aolnews.com
 ||dt18.com
 ||dtiblog.com
 ||dtic.mil
+||dtku41.xyz
 ||dubox.com
 ||duck.com
 ||duckdns.org
@@ -2007,6 +2023,7 @@ www.aolnews.com
 ||earthvpn.com
 ||eastasiaforum.org
 ||easternlightning.org
+||eastmojo.com
 ||eastturkestan.com
 ||eastturkistan-gov.org
 ||eastturkistan.net
@@ -2058,6 +2075,7 @@ www.aolnews.com
 ||enca.com
 ||encrypt.me
 ||encyclopedia.com
+||enduyghurforcedlabour.org
 ||enewstree.com
 ||engadget.com
 ||englishforeveryone.org
@@ -2276,6 +2294,7 @@ www.aolnews.com
 ||fgmtv.org
 ||fiddle.jshell.net
 ||figprayer.com
+||fileditch.com
 ||fileflyer.com
 ||fileforum.com
 ||files.oaiusercontent.com
@@ -2563,6 +2582,7 @@ www.aolnews.com
 ||geocities.co.jp
 ||geocities.com
 ||geocities.jp
+||geostrategy.org.uk
 ||geph.io
 ||gerefoundation.org
 ||get.app
@@ -2601,6 +2621,7 @@ www.aolnews.com
 ||gfw.report
 ||gfwatch.org
 ||gfwbao.com
+||gfweb.ca
 ||ggjav.com
 ||ggpht.com
 ||ggssl.com
@@ -2636,6 +2657,7 @@ www.aolnews.com
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
 ||globalnewstv.com.tw
+||globalr2p.org
 ||globalrescue.net
 ||globaltm.org
 ||globalvoices.org
@@ -3064,12 +3086,14 @@ www.aolnews.com
 ||hdsky.me
 ||hdtvb.net
 ||hdzog.com
+||headtopics.com
 ||health.google
 ||heartyit.com
 ||heavy-r.com
 ||hec.su
 ||hecaitou.net
 ||hechaji.com
+||hedra.com
 ||heeact.edu.tw
 ||hegre-art.com
 ||hegre.com
@@ -3125,6 +3149,7 @@ www.aolnews.com
 ||himemix.com
 ||hindustantimes.com
 ||hinet.net
+||history-maps.com
 ||hitbtc.com
 ||hitomi.la
 ||hive.blog
@@ -3533,6 +3558,7 @@ www.aolnews.com
 ||jbtalks.cc
 ||jcpenney.com
 ||jdwsy.com
+||jendow.com.tw
 ||jetos.com
 ||jex.com
 ||jgoodies.com
@@ -3643,6 +3669,7 @@ www.aolnews.com
 ||khatrimaza.org
 ||kichiku-doujinko.com
 ||kik.com
+||killtv.me
 ||killwall.com
 ||kindle4rss.com
 ||kindleren.com
@@ -3932,6 +3959,7 @@ www.aolnews.com
 ||mastodon.social
 ||mastodon.xyz
 ||matainja.com
+||mataroa.blog
 ||material.io
 ||matome-plus.com
 ||matome-plus.net
@@ -4052,6 +4080,7 @@ www.aolnews.com
 ||mingpaotor.com
 ||mingpaovan.com
 ||mingshengbao.com
+||mingzw.net
 ||minhhue.net
 ||miningpoolhub.com
 ||ministrybooks.org
@@ -4166,6 +4195,7 @@ www.aolnews.com
 ||muslimvideo.com
 ||muzi.com
 ||muzi.net
+||muzmi.org
 ||muzu.tv
 ||mvg.jp
 ||my-formosa.com
@@ -4319,6 +4349,7 @@ www.aolnews.com
 ||next11.co.jp
 ||nextapple.com
 ||nextapple.tw
+||nextcli.com
 ||nextdigital.com.hk
 ||nextmag.com.tw
 ||nextmedia.com
@@ -4368,6 +4399,7 @@ www.aolnews.com
 ||no-ip.org
 ||nobel.se
 ||nodeseek.com
+||nodle.com
 ||nokogiri.org
 ||nokola.com
 ||noodlevpn.com
@@ -4379,6 +4411,9 @@ www.aolnews.com
 ||nordstromrack.com
 ||nordvpn.com
 ||nos.nl
+||nostr.build
+||nostr.land
+||nostr.wine
 ||note.com
 ||notebooklm.google
 ||notepad-plus-plus.org
@@ -4437,6 +4472,7 @@ www.aolnews.com
 ||nyaa.eu
 ||nyaa.si
 ||nybooks.com
+||nycbar.org
 ||nydailynews.com
 ||nylon-angel.com
 ||nypost.com
@@ -4542,6 +4578,7 @@ www.aolnews.com
 ||openid.net
 ||openleaks.org
 ||opensea.io
+||opensocietyfoundations.org
 ||opensource.google
 ||openstreetmap.org
 ||opentech.fund
@@ -4779,6 +4816,7 @@ www.aolnews.com
 ||polymerhk.com
 ||poolbinance.com
 ||poolin.com
+||pop.org
 ||popai.pro
 ||popo.tw
 ||popvote.hk
@@ -4829,6 +4867,7 @@ www.aolnews.com
 ||premproxy.com
 ||presentation.new
 ||presentationzen.com
+||presentdangerchina.org
 ||president.ir
 ||presidentlee.tw
 ||pressreader.com
@@ -4851,6 +4890,7 @@ www.aolnews.com
 ||project-syndicate.org
 ||prompthero.com
 ||prosiben.de
+||prosperousamerica.org
 ||proton.me
 ||protonvpn.com
 ||provideocoalition.com
@@ -4877,6 +4917,7 @@ www.aolnews.com
 ||pstatic.net
 ||pt.im
 ||pts.org.tw
+||ptt.best
 ||ptt.cc
 ||pttgame.com
 ||ptthito.com
@@ -5106,6 +5147,7 @@ www.aolnews.com
 ||sacks.com
 ||sacom.hk
 ||sadistic-v.com
+||sadistic.pl
 ||sadpanda.us
 ||saeima.lv
 ||safechat.com
@@ -5226,6 +5268,7 @@ www.aolnews.com
 ||share.google
 ||sharebee.com
 ||sharecool.org
+||sharpchina.fm
 ||sharpdaily.hk
 ||sharpdaily.tw
 ||shat-tibet.com
@@ -5418,6 +5461,7 @@ www.aolnews.com
 ||spencertipping.com
 ||spendee.com
 ||spicevpn.com
+||spicychat.ai
 ||spideroak.com
 ||spiderpool.com
 ||spiegel.de
@@ -5427,6 +5471,7 @@ www.aolnews.com
 ||spotify.com
 ||spotifycdn.com
 ||spreadsheet.new
+||spreadshirt.com
 ||spreadshirt.es
 ||spreaker.com
 ||spring-plus.net
@@ -5458,6 +5503,7 @@ www.aolnews.com
 ||standwithhk.org
 ||starfishfx.com
 ||starp2p.com
+||start.me
 ||startpage.com
 ||startuplivingchina.com
 ||statearmor.org
@@ -5946,6 +5992,7 @@ www.aolnews.com
 ||trade.longportapp.com
 ||tradeup.com
 ||tradingview.com
+||traditional-odb.org
 ||traffichaus.com
 ||translate.goog
 ||transparency.google
@@ -5994,6 +6041,7 @@ www.aolnews.com
 ||tumblr.com
 ||tumutanzi.com
 ||tumview.com
+||tunebat.com
 ||tunein.streamguys1.com
 ||tunnelbear.com
 ||tunnelblick.net
@@ -6225,6 +6273,7 @@ www.aolnews.com
 ||v2raya.org
 ||v2raycn.com
 ||valeursactuelles.com
+||valorantinfo.com
 ||van001.com
 ||van698.com
 ||vanpeople.com
@@ -6263,6 +6312,7 @@ www.aolnews.com
 ||videomega.tv
 ||videopediaworld.com
 ||videopress.com
+||vidlii.com
 ||vietdaikynguyen.com
 ||vijayatemple.org
 ||vilanet.me
@@ -6814,6 +6864,7 @@ www.aolnews.com
 ||zacebook.com
 ||zalmos.com
 ||zamimg.com
+||zanmei.ai
 ||zannel.com
 ||zaochenbao.com
 ||zaozon.com
@@ -6863,6 +6914,7 @@ www.aolnews.com
 ||zippyshare.com
 ||zkaip.com
 ||zmedia.com.tw
+||zmp3.cc
 ||zodgame.us
 ||zodgame.xyz
 ||zomobo.net

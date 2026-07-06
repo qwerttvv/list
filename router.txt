@@ -651,6 +651,7 @@ google.com.et
 goo.ne.jp
 truthsocial.com
 myip.com
+headtopics.com
 nikkei.com
 google.co.zw
 google.ci
@@ -859,6 +860,7 @@ somee.com
 pussyspace.com
 labs.google
 financialexpress.com
+spicychat.ai
 9gag.com
 cdn.printfriendly.com
 pixnet.net
@@ -870,6 +872,7 @@ wikivoyage.org
 dnset.com
 mediawiki.org
 mefound.com
+cli.re
 spacex.com
 etherscan.io
 mrbonus.com
@@ -1275,6 +1278,7 @@ purevpn.com
 finchvpn.com
 chinapress.com.my
 geocities.jp
+tunebat.com
 books.com.tw
 zynamics.com
 goo.gle
@@ -1366,11 +1370,13 @@ moneydj.com
 goldenfrog.com
 theblaze.com
 gmgn.ai
+spreadshirt.com
 xcancel.com
 sinchew.com.my
 lesoir.be
 pokerstars.com
 socialblade.com
+start.me
 nationalreview.com
 videopress.com
 anyporn.com
@@ -1479,6 +1485,7 @@ api-drive.mypikpak.com
 rakuten.com.tw
 blogspot.fr
 qz.com
+battlemetrics.com
 manhuagui.com
 erepublik.com
 dfas.mil
@@ -1499,6 +1506,7 @@ t66y.com
 about.me
 about.gitlab.com
 sukebei.nyaa.si
+annas-archive.li
 ligamx.net
 fling.com
 javbus.com
@@ -1544,6 +1552,7 @@ carousell.com.hk
 marxists.org
 lovart.ai
 myspacecdn.com
+desiringgod.org
 ulifestyle.com.hk
 getsession.org
 taptap.io
@@ -1781,6 +1790,7 @@ thediplomat.com
 paltalk.com
 wplace.live
 expressnews.com
+vidlii.com
 camfrog.com
 hotair.com
 imds-api.com
@@ -2393,10 +2403,12 @@ wilsoncenter.org
 4rbtv.com
 51jav.org
 51luoben.com
+521danmei.com
 5299.tv
 55comic.com
 5657.com.tw
 5i01.com
+60ks.info
 611study.com
 611study.icu
 63i.com
@@ -2431,6 +2443,7 @@ wilsoncenter.org
 99cn.info
 9bis.com
 9bis.net
+9marks.org
 9oju31.launches.appsflyersdk.com
 a-normal-day.com
 a5.com.ru
@@ -2590,6 +2603,7 @@ arena.taipei
 arethusa.su
 arlingtoncemetery.mil
 art4tibet1998.org
+articles.sk
 artofpeacefoundation.org
 arunachalforests.gov.in
 arweave.org
@@ -2722,6 +2736,7 @@ bg-call-donation-dev.goog
 bg-call-donation.goog
 bgme.me
 bgvpn.com
+bi.org
 biantailajiao.com
 biblesforamerica.org
 bibox.com
@@ -2810,6 +2825,7 @@ bookepub.com
 bookwalker.com.tw
 borgenmagazine.com
 botanwang.com
+botasot.info
 bowenpress.com
 boxpn.com
 boxun.tv
@@ -2915,6 +2931,7 @@ cattt.com
 caus.com
 cbs.ntu.edu.tw
 cbtc.org.hk
+ccbiblestudy.net
 cccat.cc
 cccat.co
 ccfd.org.tw
@@ -3018,6 +3035,7 @@ chinarightsia.org
 chinasmile.net
 chinasocialdemocraticparty.com
 chinasoul.org
+chinasource.org
 chinasucks.net
 chinatopsex.com
 chinatown.com.au
@@ -3245,10 +3263,12 @@ ddns.net
 de-sci.org
 deadhouse.org
 deaftone.com
+debalie.nl
 debug.com
 deck.ly
 deck.new
 decodet.co
+deep.ai
 deepmind.com
 deja.com
 delcamp.net
@@ -3290,6 +3310,7 @@ dnscrypt.org
 dnssec.net
 dnvod.tv
 doc.new
+dockerhub.icu
 dockerstatus.com
 documentingreality.com
 dogfartnetwork.com
@@ -3325,6 +3346,7 @@ drgan.net
 dscn.info
 dstk.dk
 dtiblog.com
+dtku41.xyz
 dubox.com
 duckdns.org
 duckmylife.com
@@ -3359,6 +3381,7 @@ earlytibet.com
 earthvpn.com
 eastasiaforum.org
 easternlightning.org
+eastmojo.com
 eastturkestan.com
 eastturkistan-gov.org
 eastturkistan.net
@@ -3395,6 +3418,7 @@ emule-ed2k.com
 emulefans.com
 en.favotter.net
 encrypt.me
+enduyghurforcedlabour.org
 englishforeveryone.org
 englishfromengland.co.uk
 englishpen.org
@@ -3552,6 +3576,7 @@ fgmtv.org
 fhreports.net
 fiddle.jshell.net
 figprayer.com
+fileditch.com
 fileflyer.com
 fileforum.com
 files.oaiusercontent.com
@@ -3764,6 +3789,7 @@ gekikame.com
 gencraft.com
 generated.photos
 geocities.co.jp
+geostrategy.org.uk
 geph.io
 gerefoundation.org
 get.app
@@ -3787,6 +3813,7 @@ gfw.press
 gfw.report
 gfwatch.org
 gfwbao.com
+gfweb.ca
 ggssl.com
 ghidra-sre.org
 ghostpath.com
@@ -3811,6 +3838,7 @@ globalexchange.org
 globaljihad.net
 globalmuseumoncommunism.org
 globalnewstv.com.tw
+globalr2p.org
 globalrescue.net
 globaltm.org
 globalvoicesonline.org
@@ -3971,6 +3999,7 @@ heartyit.com
 hec.su
 hecaitou.net
 hechaji.com
+hedra.com
 heeact.edu.tw
 hegre-art.com
 helixstudios.net
@@ -4016,6 +4045,7 @@ himalaya.exchange
 himalayan-foundation.org
 himalayanglacier.com
 himemix.com
+history-maps.com
 hitbtc.com
 hiveon.net
 hizb-ut-tahrir.info
@@ -4311,6 +4341,7 @@ javmobile.net
 javmoo.com
 javseen.com
 jdwsy.com
+jendow.com.tw
 jex.com
 jgoodies.com
 jhelab.org
@@ -4391,6 +4422,7 @@ kex.com
 khabdha.org
 khatrimaza.org
 kichiku-doujinko.com
+killtv.me
 killwall.com
 kindle4rss.com
 kindleren.com
@@ -4593,6 +4625,7 @@ mash.to
 maskedip.com
 mastodon.host
 matainja.com
+mataroa.blog
 matome-plus.com
 matome-plus.net
 matters.news
@@ -4678,6 +4711,7 @@ mingpaosf.com
 mingpaotor.com
 mingpaovan.com
 mingshengbao.com
+mingzw.net
 minhhue.net
 miningpoolhub.com
 ministrybooks.org
@@ -4756,6 +4790,7 @@ musicade.net
 muslimvideo.com
 muzi.com
 muzi.net
+muzmi.org
 muzu.tv
 mvg.jp
 my-formosa.com
@@ -4853,6 +4888,7 @@ newstarnet.com
 newtaiwan.com.tw
 newthuhole.com
 next11.co.jp
+nextcli.com
 nextdigital.com.hk
 nextmag.com.tw
 nextmedia.com
@@ -4879,11 +4915,15 @@ nmsl.website
 nnews.eu
 no-ip.org
 nobel.se
+nodle.com
 nokogiri.org
 nokola.com
 noodlevpn.com
 norbulingka.org
 nordstromimage.com
+nostr.build
+nostr.land
+nostr.wine
 notion.site
 novelasia.com
 npm.edu.tw
@@ -4912,6 +4952,7 @@ nvquan.org
 nvtongzhisheng.org
 nwtca.org
 nyaa.eu
+nycbar.org
 nylon-angel.com
 nytchina.com
 nytcn.me
@@ -4970,6 +5011,7 @@ openapi.longbridge.com
 opendn.xyz
 openid.net
 openleaks.org
+opensocietyfoundations.org
 opentech.fund
 openwebster.com
 opus-gaming.com
@@ -5107,6 +5149,7 @@ polymer-project.org
 polymerhk.com
 poolbinance.com
 poolin.com
+pop.org
 popai.pro
 popvote.hk
 popxi.click
@@ -5142,6 +5185,7 @@ premeforwindows7.com
 premproxy.com
 presentation.new
 presentationzen.com
+presentdangerchina.org
 president.ir
 presidentlee.tw
 prestige-av.com
@@ -5155,6 +5199,7 @@ privoxy.org
 procopytips.com
 prohashing.com
 prosiben.de
+prosperousamerica.org
 provideocoalition.com
 provpnaccounts.com
 proxfree.com
@@ -5174,6 +5219,7 @@ pshvpn.com
 psiphon3.com
 psiphontoday.com
 pt.im
+ptt.best
 pttgame.com
 ptthito.com
 pttvan.org
@@ -5318,6 +5364,7 @@ s3-ap-northeast-1.amazonaws.com
 sacks.com
 sacom.hk
 sadistic-v.com
+sadistic.pl
 sadpanda.us
 safechat.com
 safeguarddefenders.com
@@ -5403,6 +5450,7 @@ shapeservices.com
 share-videos.se
 sharebee.com
 sharecool.org
+sharpchina.fm
 sharpdaily.hk
 sharpdaily.tw
 shat-tibet.com
@@ -5908,6 +5956,7 @@ tparents.org
 tpi.org.tw
 trade.futunn.com
 trade.longportapp.com
+traditional-odb.org
 translate.goog
 transparency.google
 treemall.com.tw
@@ -6123,6 +6172,7 @@ v2ray.com
 v2raya.org
 v2raycn.com
 valeursactuelles.com
+valorantinfo.com
 van001.com
 van698.com
 vanpeople.com
@@ -6536,6 +6586,7 @@ z-lib.org
 z-library.ec
 zacebook.com
 zalmos.com
+zanmei.ai
 zannel.com
 zaochenbao.com
 zaozon.com
@@ -6576,6 +6627,7 @@ zillionk.com
 ziporn.com
 zkaip.com
 zmedia.com.tw
+zmp3.cc
 zodgame.us
 zodgame.xyz
 zomobo.net
