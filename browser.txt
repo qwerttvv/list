@@ -388,6 +388,7 @@ www.aolnews.com
 |https://ss*.4sqi.net
 |https://tw-blog.com
 |https://w3s.link/ipfs
+||000aa.com
 ||000webhost.com
 ||0rz.tw
 ||1-apple.com.tw
@@ -3302,7 +3303,6 @@ www.aolnews.com
 ||huobipool.com
 ||huobipro.com
 ||huping.net
-||hurgokbayrak.com
 ||hurriyet.com.tr
 ||hut2.ru
 ||hutianyi.net
@@ -4162,7 +4162,6 @@ www.aolnews.com
 ||movements.org
 ||moviefap.com
 ||mozilla.ai
-||mp3buscador.com
 ||mp3ye.eu
 ||mpettis.com
 ||mpfinance.com
@@ -4986,6 +4985,7 @@ www.aolnews.com
 ||qxbbs.org
 ||qycz.org
 ||qz.com
+||r-art.com
 ||r-pool.net
 ||r0.ru
 ||r10s.jp
