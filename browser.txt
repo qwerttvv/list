@@ -3520,7 +3520,6 @@ www.aolnews.com
 ||iyouport.com
 ||iyouport.org
 ||izaobao.us
-||izihost.org
 ||izlesem.org
 ||j.mp
 ||jable.tv
@@ -3746,7 +3745,6 @@ www.aolnews.com
 ||laohu8.com
 ||laomiu.com
 ||laowang.vip
-||laoyang.info
 ||laqingdan.net
 ||larsgeorge.com
 ||lastcombat.com
@@ -4206,7 +4204,6 @@ www.aolnews.com
 ||my.pcloud.com
 ||my03.com
 ||myaudiocast.com
-||mybbs.us
 ||mybet.com
 ||mycanadanow.com
 ||mychinanet.com
@@ -4953,7 +4950,6 @@ www.aolnews.com
 ||python.com
 ||python.com.tw
 ||pythonhackers.com
-||qanote.com
 ||qbittorrent.org
 ||qgirl.com.tw
 ||qhigh.com
@@ -5013,7 +5009,6 @@ www.aolnews.com
 ||rangzen.com
 ||rangzen.net
 ||rangzen.org
-||ranyunfei.com
 ||rapbull.net
 ||raphael.app
 ||rapidmoviez.com
@@ -5619,6 +5614,7 @@ www.aolnews.com
 ||syndicatedsearch.goog
 ||synergyse.com
 ||syosetu.com
+||sysub.com
 ||sytes.net
 ||sz.de
 ||szetowah.org.hk
