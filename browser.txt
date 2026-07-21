@@ -6877,6 +6877,7 @@ www.aolnews.com
 ||zengjinyan.org
 ||zenmate.com
 ||zenmate.com.ru
+||zenmux.ai
 ||zergpool.com
 ||zerohedge.com
 ||zeronet.io
