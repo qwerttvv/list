@@ -16,6 +16,7 @@
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com/$
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com/$
 @@|https://cdn.ampproject.org
+@@||*.tokenplus.app
 @@||about.fb.com
 @@||adservice.google.com
 @@||aftygh.gov.tw
@@ -5948,6 +5949,7 @@ www.aolnews.com
 ||togetter.com
 ||token.im
 ||tokenlon.im
+||tokenplus.app
 ||tokyo-247.com
 ||tokyo-hot.com
 ||tokyo-porn-tube.com
