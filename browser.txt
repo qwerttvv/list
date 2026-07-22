@@ -6462,6 +6462,7 @@ www.aolnews.com
 ||wealth.com.tw
 ||wearehairy.com
 ||wearn.com
+||weavai.app
 ||web.dev
 ||web2project.net
 ||webbang.net
