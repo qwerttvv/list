@@ -676,6 +676,7 @@ www.aolnews.com
 ||amiblockedornot.com
 ||amigobbs.net
 ||amitabhafoundation.us
+||amnesty-usa.org
 ||amnesty.org
 ||amnesty.org.hk
 ||amnesty.tw
@@ -4765,7 +4766,6 @@ www.aolnews.com
 ||pinterest.se
 ||pionex.com
 ||pipii.tv
-||piraattilahti.org
 ||piring.com
 ||pittpatt.com
 ||pixeldrain.com
@@ -4859,7 +4859,6 @@ www.aolnews.com
 ||power.com
 ||powerapple.com
 ||powercx.com
-||powerphoto.org
 ||pp.ru
 ||ppy.sh
 ||prayforchina.net
@@ -4924,7 +4923,6 @@ www.aolnews.com
 ||ptthito.com
 ||pttvan.org
 ||pttweb.cc
-||pttyes.com
 ||ptwxz.com
 ||publicpolicy.google
 ||pubu.com.tw
@@ -6625,7 +6623,6 @@ www.aolnews.com
 ||wsimg.com
 ||wsj.com
 ||wsj.net
-||wsjhk.com
 ||wtbn.org
 ||wtfpeople.com
 ||wufafangwen.com
