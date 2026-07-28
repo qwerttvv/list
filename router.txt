@@ -119,6 +119,7 @@ discordapp.com
 youtube-nocookie.com
 duckduckgo.com
 one.one.one.one
+cxense.com
 addons.mozilla.org
 syndicatedsearch.goog
 nflximg.com
