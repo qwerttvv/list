@@ -6266,6 +6266,7 @@ www.aolnews.com
 ||uyghurtribunal.com
 ||uygur.org
 ||uymaarip.com
+||v.recipes
 ||v2.help
 ||v2.hysteria.network
 ||v2board.com
