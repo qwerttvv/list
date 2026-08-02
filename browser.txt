@@ -1410,6 +1410,7 @@ www.aolnews.com
 ||centerforhumanreprod.com
 ||centralnation.com
 ||centurys.net
+||cerebras.ai
 ||certificate-transparency.org
 ||cex.io
 ||cfhks.org.hk
