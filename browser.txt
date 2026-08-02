@@ -4166,7 +4166,6 @@ www.aolnews.com
 ||mousebreaker.com
 ||movements.org
 ||moviefap.com
-||mozilla.ai
 ||mp3ye.eu
 ||mpettis.com
 ||mpfinance.com
@@ -4941,7 +4940,6 @@ www.aolnews.com
 ||punyu.com
 ||pure18.com
 ||pureconcepts.net
-||puredns.org
 ||pureinsight.org
 ||purepdf.com
 ||purevpn.com
