@@ -1223,6 +1223,7 @@ www.aolnews.com
 ||breaking911.com
 ||breakingtweets.com
 ||breakwall.net
+||briarproject.org
 ||briian.com
 ||brill.com
 ||brizzly.com
@@ -1438,6 +1439,7 @@ www.aolnews.com
 ||chat.com
 ||chat.lmsys.org
 ||chatgpt.com
+||chatgpt.site
 ||chatnook.com
 ||chatpdf.com
 ||chaturbate.com

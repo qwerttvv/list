@@ -2729,6 +2729,7 @@ breakgfw.com
 breaking911.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 briian.com
 brizzly.com
 broadbook.com
@@ -2877,6 +2878,7 @@ chaoex.com
 char.iis.sinica.edu.tw
 chardb.iis.sinica.edu.tw
 chat.lmsys.org
+chatgpt.site
 chatnook.com
 checkgfw.com
 chengmingmag.com
