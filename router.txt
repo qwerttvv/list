@@ -1851,6 +1851,7 @@ porntube.com
 app.element.io
 moonbbs.com
 pinterest.se
+kiwix.org
 jornaldacidadeonline.com.br
 difangwenge.org
 vpnmentor.com
@@ -3978,6 +3979,7 @@ himalayan-foundation.org
 himalayanglacier.com
 himemix.com
 history-maps.com
+historylines.net
 hitbtc.com
 hiveon.net
 hizb-ut-tahrir.info
@@ -4578,6 +4580,7 @@ mayimayi.com
 mbct.mlc.edu.tw
 mcadforums.com
 mcaf.ee
+mceindex.com
 mcfog.com
 md-t.org
 me.me
@@ -5353,6 +5356,7 @@ savetibet.ru
 savetibetstore.org
 saveuighur.org
 savevid.com
+sb.sb
 sbme.me
 sbti.unun.dev
 scasino.com

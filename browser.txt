@@ -3160,6 +3160,7 @@ www.aolnews.com
 ||hindustantimes.com
 ||hinet.net
 ||history-maps.com
+||historylines.net
 ||hitbtc.com
 ||hitomi.la
 ||hive.blog
@@ -3689,6 +3690,7 @@ www.aolnews.com
 ||kinokuniya.com
 ||kir.jp
 ||kissjav.com
+||kiwix.org
 ||kk-whys.co.jp
 ||kkbox.com
 ||kknews.cc
@@ -3984,6 +3986,7 @@ www.aolnews.com
 ||mc.yandex.ru
 ||mcadforums.com
 ||mcaf.ee
+||mceindex.com
 ||mcfog.com
 ||mcusercontent.com
 ||md-t.org
@@ -5181,6 +5184,7 @@ www.aolnews.com
 ||savetibetstore.org
 ||saveuighur.org
 ||savevid.com
+||sb.sb
 ||sbme.me
 ||sbti.unun.dev
 ||scasino.com
