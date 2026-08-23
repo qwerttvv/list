@@ -2112,6 +2112,7 @@ xcity.jp
 chromeenterprise.google
 chinadigitaltimes.net
 opensocietyfoundations.org
+x86.fr
 haijiao.com
 religionnews.com
 joinmastodon.org
@@ -2502,6 +2503,7 @@ api-verify.recaptcha.net
 api.ai
 api.moomoobull.com
 api.recaptcha.net
+api.shuaiapi.com
 api5.futunn.com
 apk-dl.com
 apk.support
