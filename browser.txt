@@ -2612,6 +2612,7 @@ www.aolnews.com
 ||getliner.com
 ||getmalus.com
 ||getmdl.io
+||getmonero.org
 ||getoutline.org
 ||getsession.org
 ||getsocialscope.com
@@ -4382,6 +4383,7 @@ www.aolnews.com
 ||nic.cz.cc
 ||nic.gov
 ||nic.youtube
+||nicoseiga.jp
 ||nicovideo.jp
 ||nightswatch.top
 ||nikke-en.com
