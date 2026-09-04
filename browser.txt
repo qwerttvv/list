@@ -718,7 +718,6 @@ www.aolnews.com
 ||answering-islam.org
 ||anthonycalzadilla.com
 ||anthropic.com
-||antichristendom.com
 ||antigravity.google
 ||antisocial.science
 ||antiwave.net
@@ -1486,7 +1485,6 @@ www.aolnews.com
 ||chinalawandpolicy.com
 ||chinalawtranslate.com
 ||chinamule.com
-||chinamz.org
 ||chinanewscenter.com
 ||chinapost.com.tw
 ||chinapress.com.my
@@ -3717,6 +3715,7 @@ www.aolnews.com
 ||krtc.com.tw
 ||krtco.com.tw
 ||ksdl.org
+||ksml.edu.tw
 ||ksnews.com.tw
 ||kspcoin.com
 ||ktzhk.com
@@ -4126,7 +4125,6 @@ www.aolnews.com
 ||mjj.rip
 ||mjj.today
 ||mjlsh.usc.cuhk.edu.hk
-||mk5000.com
 ||mlc.ai
 ||mlcool.com
 ||mlzs.work
@@ -4415,7 +4413,6 @@ www.aolnews.com
 ||nodle.com
 ||nokogiri.org
 ||nokola.com
-||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
 ||nordstrom.com
@@ -4428,6 +4425,7 @@ www.aolnews.com
 ||nostr.land
 ||nostr.wine
 ||note.com
+||note.ms
 ||notebooklm.google
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
@@ -5569,7 +5567,6 @@ www.aolnews.com
 ||strikingly.com
 ||stripchat.cam
 ||strongvpn.com
-||strongwindpress.com
 ||student.tw
 ||studentsforafreetibet.org
 ||studybuddhism.com
@@ -5800,7 +5797,6 @@ www.aolnews.com
 ||thestar.com
 ||thetatoken.org
 ||thetibetcenter.org
-||thetibetconnection.org
 ||thetibetmuseum.org
 ||thetibetpost.com
 ||thetvdb.com
@@ -6550,7 +6546,6 @@ www.aolnews.com
 ||wiki.phonegap.com
 ||wikibooks.org
 ||wikidata.org
-||wikileaks-forum.com
 ||wikileaks.ch
 ||wikileaks.com
 ||wikileaks.de

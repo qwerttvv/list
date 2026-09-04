@@ -2371,7 +2371,6 @@ anonymizer.com
 anpopo.com
 answering-islam.org
 anthonycalzadilla.com
-antichristendom.com
 antisocial.science
 antiwave.net
 antpool.com
@@ -2902,7 +2901,6 @@ chinalaborwatch.org
 chinalawandpolicy.com
 chinalawtranslate.com
 chinamule.com
-chinamz.org
 chinanewscenter.com
 chinapost.com.tw
 chinarightsia.org
@@ -4371,6 +4369,7 @@ kqes.net
 krtc.com.tw
 krtco.com.tw
 ksdl.org
+ksml.edu.tw
 ksnews.com.tw
 kspcoin.com
 ktzhk.com
@@ -4666,7 +4665,6 @@ mizzmona.com
 mjj.rip
 mjj.today
 mjlsh.usc.cuhk.edu.hk
-mk5000.com
 mlc.ai
 mlcool.com
 mlzs.work
@@ -4854,12 +4852,12 @@ nobel.se
 nodle.com
 nokogiri.org
 nokola.com
-noodlevpn.com
 norbulingka.org
 nordstromimage.com
 nostr.build
 nostr.land
 nostr.wine
+note.ms
 notion.site
 novelasia.com
 npm.edu.tw
@@ -5613,7 +5611,6 @@ stranabg.com
 straplessdildo.com
 streamingthe.net
 strongvpn.com
-strongwindpress.com
 student.tw
 studentsforafreetibet.org
 studybuddhism.com
@@ -5770,7 +5767,6 @@ theportalwiki.com
 thesaturdaypaper.com.au
 thestandnews.com
 thetibetcenter.org
-thetibetconnection.org
 thetibetmuseum.org
 thetibetpost.com
 thewgo.org
@@ -6357,7 +6353,6 @@ wiki.kfd.me
 wiki.metacubex.one
 wiki.oauth.net
 wiki.phonegap.com
-wikileaks-forum.com
 wikileaks.ch
 wikileaks.com
 wikileaks.de
