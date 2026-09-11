@@ -829,7 +829,6 @@ google.td
 dns1.us
 spacex.com
 google.co.vi
-cdn.futustatic.com
 donmai.us
 redtube.com
 google.com.gi
@@ -1137,7 +1136,6 @@ mymom.info
 theage.com.au
 dns2go.com
 ow.ly
-api.futunn.com
 onmypc.org
 mixi.jp
 google.org
@@ -1891,7 +1889,6 @@ newstatesman.com
 twkan.com
 zenmate.com
 gogle.com
-api5.futunn.com
 blogspot.sg
 tou.tv
 astrill.com
@@ -2009,7 +2006,6 @@ lingualeo.com
 dafabet.com
 esurance.com
 comments.app
-api.lbkrs.com
 msha.gov
 spankwire.com
 mypop3.org
@@ -2448,7 +2444,6 @@ aomiwang.com
 aoxvpn.com
 apat1989.org
 apetube.com
-api-gl.lbkrs.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
@@ -3039,7 +3034,6 @@ cn.fmnnow.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
 cn.theaustralian.com.au
-cn.uptodown.com
 cn6.eu
 cnbbnews.wordpress.com
 cnbeta.com.tw
@@ -3261,7 +3255,6 @@ douchi.space
 dougscripts.com
 doujincafe.com
 download.dappcdn.com
-download.futunn.com
 dphk.org
 dpool.top
 dpp.org.tw
@@ -4544,7 +4537,6 @@ lvhai.org
 lyfhk.net
 lzjscript.com
 lzmtnews.org
-m.hkgalden.com
 m.moegirl.org
 m8008.com
 macgamestore.com
@@ -4969,10 +4961,6 @@ ooni.org
 open-assistant.io
 open.com.hk
 open.firstory.me
-openapi-quote.longbridge.com
-openapi-trade.longbridge.com
-openapi.futunn.com
-openapi.longbridge.com
 openid.net
 openleaks.org
 opensource.google
@@ -5234,9 +5222,8 @@ qmp4.com
 qoos.com
 qq.co.za
 qstatus.com
-qtcard.futunn.com
-qtcardfthk.futufin.com
 qtrac.eu
+quakemachinex.com
 quantumai.google
 quitccp.org
 quiz.directory
@@ -5656,7 +5643,6 @@ superfreevpn.com
 supervpn.net
 superzooi.com
 suppig.net
-support.futunn.com
 surfeasy.com.au
 surrenderat20.net
 sustainability.google
@@ -5953,8 +5939,6 @@ toypark.in
 toytractorshow.com
 tparents.org
 tpi.org.tw
-trade.futunn.com
-trade.longportapp.com
 traditional-odb.org
 translate.goog
 transparency.google

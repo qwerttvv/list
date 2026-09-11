@@ -31,7 +31,6 @@
 @@||ci.android.com
 @@||cksmh.gov.tw
 @@||clientservices.googleapis.com
-@@||cn.investing.com
 @@||connectivitycheck.gstatic.com
 @@||crashlyticsreports-pa.googleapis.com
 @@||crl.pki.goog
@@ -382,7 +381,6 @@ www.aolnews.com
 |https://chinanewscenter.com
 |https://fbcdn*.akamaihd.net/
 |https://fulione.com
-|https://m.hkgalden.com
 |https://raindrop.io/
 |https://riseup.net
 |https://securityinabox.org
@@ -744,21 +742,17 @@ www.aolnews.com
 ||apat1989.org
 ||apetube.com
 ||api-drive.mypikpak.com
-||api-gl.lbkrs.com
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
 ||api.ai
 ||api.dropboxapi.com
-||api.futunn.com
 ||api.ipify.org
-||api.lbkrs.com
 ||api.moomoobull.com
 ||api.palworldgame.com
 ||api.pureapk.com
 ||api.recaptcha.net
 ||api.shuaiapi.com
 ||api.steampowered.com
-||api5.futunn.com
 ||apiary.io
 ||apigee.com
 ||apk-dl.com
@@ -1387,7 +1381,6 @@ www.aolnews.com
 ||cdn-images.mailchimp.com
 ||cdn-telegram.org
 ||cdn.arstechnica.net
-||cdn.futustatic.com
 ||cdn.jsdelivr.net
 ||cdn.jwplayer.com
 ||cdn.printfriendly.com
@@ -1615,7 +1608,6 @@ www.aolnews.com
 ||cn.fmnnow.com
 ||cn.sandscotaicentral.com
 ||cn.theaustralian.com.au
-||cn.uptodown.com
 ||cn6.eu
 ||cna.com.tw
 ||cnbbnews.wordpress.com
@@ -1961,7 +1953,6 @@ www.aolnews.com
 ||dowjones.io
 ||download.cnet.com
 ||download.dappcdn.com
-||download.futunn.com
 ||dphk.org
 ||dpool.top
 ||dpp.org.tw
@@ -4583,10 +4574,6 @@ www.aolnews.com
 ||open.com.hk
 ||open.firstory.me
 ||openai.com
-||openapi-quote.longbridge.com
-||openapi-trade.longbridge.com
-||openapi.futunn.com
-||openapi.longbridge.com
 ||openart.ai
 ||opencritic.com
 ||opendemocracy.net
@@ -4982,9 +4969,8 @@ www.aolnews.com
 ||qpoe.com
 ||qq.co.za
 ||qstatus.com
-||qtcard.futunn.com
-||qtcardfthk.futufin.com
 ||qtrac.eu
+||quakemachinex.com
 ||quantumai.google
 ||questvisual.com
 ||quitccp.org
@@ -5605,7 +5591,6 @@ www.aolnews.com
 ||superzooi.com
 ||supjav.com
 ||suppig.net
-||support.futunn.com
 ||supremecourt.gov
 ||suprememastertv.com
 ||surfeasy.com
@@ -6003,8 +5988,6 @@ www.aolnews.com
 ||tparents.org
 ||tpi.org.tw
 ||tracfone.com
-||trade.futunn.com
-||trade.longportapp.com
 ||tradeup.com
 ||tradingview.com
 ||traditional-odb.org
