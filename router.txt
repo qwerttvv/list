@@ -1294,6 +1294,7 @@ dns-dns.com
 tortoisesvn.net
 hybrid-analysis.com
 vod-abematv.akamaized.net
+www3.nhk.or.jp
 ao3.org
 sinchew.com.my
 akinator.com
@@ -1668,6 +1669,7 @@ fling.com
 carousell.com.hk
 vpngate.net
 tronlink.org
+ipaddress.my
 typora.io
 pinterest.ph
 mm-cg.com
@@ -2001,6 +2003,7 @@ freewechat.com
 blogspot.ch
 glock.com
 findmespot.com
+vava8.com
 tails.net
 blogspot.ie
 kobe-np.co.jp
@@ -2737,7 +2740,6 @@ briian.com
 brizzly.com
 broadbook.com
 broadpressinc.com
-brockbbs.com
 brucewang.net
 brutaltgp.com
 bt4g.org
@@ -2754,7 +2756,6 @@ btguard.com
 btku.me
 btku.org
 btspread.com
-btsynckeys.com
 budaedu.org
 buddhistchannel.tv
 buffered.com
@@ -2929,6 +2930,7 @@ chinalawandpolicy.com
 chinalawtranslate.com
 chinamule.com
 chinanewscenter.com
+chinanewsx.com
 chinapost.com.tw
 chinarightsia.org
 chinasmile.net
@@ -3521,7 +3523,6 @@ fireofliberty.info
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
-firstory.io
 flagsonline.it
 flecheinthepeche.fr
 fleursdeslettres.com
@@ -3572,7 +3573,6 @@ free.com.tw
 freealim.com
 freebearblog.org
 freechina.net
-freechina.news
 freechinaweibo.com
 freeddns.org
 freedom.gov
@@ -3664,7 +3664,6 @@ futuhk2.com
 futuholdings.com
 futuinc.com
 futuniuniu.com
-futurechinaforum.org
 futuremessage.org
 fututrade.com
 fututrustee.com
@@ -3718,7 +3717,6 @@ gcmasia.com
 gcpnews.com
 gdaily.org
 gdbt.net
-gdzf.org
 geek-art.net
 gekikame.com
 gencraft.com
@@ -4241,7 +4239,6 @@ ismprofessional.net
 israbox.com
 istef.info
 istiqlalhewer.com
-isunaffairs.com
 isuntv.com
 isupportuyghurs.org
 italiatibet.org
@@ -4737,7 +4734,6 @@ musicade.net
 muslimvideo.com
 muzi.com
 muzi.net
-muzmi.org
 muzu.tv
 mvg.jp
 my-formosa.com
@@ -4869,6 +4865,7 @@ nokogiri.org
 nokola.com
 norbulingka.org
 nordstromimage.com
+nordwangluo.com
 nostr.build
 nostr.land
 nostr.wine
@@ -5173,7 +5170,6 @@ proxlet.com
 proxomitron.info
 proxpn.com
 proxy.org
-proxy1.xyz
 proxyanonimo.es
 proxynetwork.org.uk
 proxyroad.com
@@ -5202,6 +5198,7 @@ pure18.com
 pureconcepts.net
 pureinsight.org
 purepdf.com
+purevpn.com.tw
 purplelotus.org
 purpose.nike.com
 pursuestar.com
@@ -6292,7 +6289,6 @@ wav.tv
 waveprotocol.org
 waybig.com
 wd.bible
-wdf5.com
 wealth.com.tw
 wearehairy.com
 weavai.app
@@ -6453,7 +6449,6 @@ xbtce.com
 xcafe.in
 xcity.jp
 xcritic.com
-xfiles.to
 xfxssr.me
 xgmyd.com
 xianjian.tw

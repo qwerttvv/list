@@ -1225,7 +1225,6 @@ www.aolnews.com
 ||brizzly.com
 ||broadbook.com
 ||broadpressinc.com
-||brockbbs.com
 ||brookings.edu
 ||brucewang.net
 ||brutaltgp.com
@@ -1249,7 +1248,6 @@ www.aolnews.com
 ||btku.org
 ||btloader.com
 ||btspread.com
-||btsynckeys.com
 ||budaedu.org
 ||buddhistchannel.tv
 ||buffered.com
@@ -1481,6 +1479,7 @@ www.aolnews.com
 ||chinalawtranslate.com
 ||chinamule.com
 ||chinanewscenter.com
+||chinanewsx.com
 ||chinapost.com.tw
 ||chinapress.com.my
 ||chinarightsia.org
@@ -1678,7 +1677,6 @@ www.aolnews.com
 ||coze.com
 ||cpj.org
 ||cpu-monkey.com
-||cq99.us
 ||crackle.com
 ||crashlytics.com
 ||crazypool.org
@@ -2322,7 +2320,6 @@ www.aolnews.com
 ||fireofliberty.org
 ||firetweet.io
 ||firstfivefollowers.com
-||firstory.io
 ||firstpost.com
 ||firstrade.com
 ||fish.audio
@@ -2391,7 +2388,6 @@ www.aolnews.com
 ||freebearblog.org
 ||freebrowser.org
 ||freechina.net
-||freechina.news
 ||freechinaweibo.com
 ||freeddns.com
 ||freeddns.org
@@ -2505,7 +2501,6 @@ www.aolnews.com
 ||futuinc.com
 ||futuniuniu.com
 ||futunn.com
-||futurechinaforum.org
 ||futuremessage.org
 ||futustatic.com
 ||fututrade.com
@@ -2573,7 +2568,6 @@ www.aolnews.com
 ||gcr.io
 ||gdaily.org
 ||gdbt.net
-||gdzf.org
 ||geek-art.net
 ||gekikame.com
 ||gelbooru.com
@@ -3455,6 +3449,7 @@ www.aolnews.com
 ||inxian.com
 ||io.google
 ||iopenmall.tw
+||ipaddress.my
 ||ipdefenseforum.com
 ||ipfire.org
 ||ipfs.4everland.io
@@ -3499,7 +3494,6 @@ www.aolnews.com
 ||istef.info
 ||istiqlalhewer.com
 ||istockphoto.com
-||isunaffairs.com
 ||isuntv.com
 ||isupportuyghurs.org
 ||italiatibet.org
@@ -4201,7 +4195,6 @@ www.aolnews.com
 ||muslimvideo.com
 ||muzi.com
 ||muzi.net
-||muzmi.org
 ||muzu.tv
 ||mvg.jp
 ||my-formosa.com
@@ -4415,6 +4408,7 @@ www.aolnews.com
 ||nordstrommedia.com
 ||nordstromrack.com
 ||nordvpn.com
+||nordwangluo.com
 ||nos.nl
 ||nostr.build
 ||nostr.land
@@ -4904,7 +4898,6 @@ www.aolnews.com
 ||proxomitron.info
 ||proxpn.com
 ||proxy.org
-||proxy1.xyz
 ||proxyanonimo.es
 ||proxydns.com
 ||proxynetwork.org.uk
@@ -4943,6 +4936,7 @@ www.aolnews.com
 ||pureinsight.org
 ||purepdf.com
 ||purevpn.com
+||purevpn.com.tw
 ||purplelotus.org
 ||purpose.nike.com
 ||pursuestar.com
@@ -6279,6 +6273,7 @@ www.aolnews.com
 ||vansky.com
 ||vaticannews.va
 ||vatn.org
+||vava8.com
 ||vcf-online.org
 ||vcfbuilder.org
 ||vct.news
@@ -6456,7 +6451,6 @@ www.aolnews.com
 ||waze.com
 ||wbrks.com
 ||wd.bible
-||wdf5.com
 ||wealth.com.tw
 ||wearehairy.com
 ||wearn.com
@@ -6646,6 +6640,7 @@ www.aolnews.com
 ||www.websnapr.com
 ||www.xicons.org
 ||www1.biz
+||www3.nhk.or.jp
 ||wxw.cat
 ||wxw.moe
 ||x-art.com
@@ -6671,7 +6666,6 @@ www.aolnews.com
 ||xda-developers.com
 ||xdaforums.com
 ||xerotica.com
-||xfiles.to
 ||xfinity.com
 ||xfxssr.me
 ||xgmyd.com
