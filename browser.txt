@@ -1176,6 +1176,7 @@ www.aolnews.com
 ||boardreader.com
 ||bod.asia
 ||bodog88.com
+||bodu365.co
 ||bolehvpn.net
 ||bonbonme.com
 ||bonfoundation.org
@@ -1690,6 +1691,7 @@ www.aolnews.com
 ||creadersnet.com
 ||creative.myavlive.com
 ||creativelab5.com
+||creators.google
 ||crisisresponse.google
 ||cristyli.com
 ||crixet.com
@@ -4416,6 +4418,7 @@ www.aolnews.com
 ||nostr.wine
 ||note.com
 ||note.ms
+||notebook.google
 ||notebooklm.google
 ||notepad-plus-plus.org
 ||notify.dropboxapi.com
@@ -5177,6 +5180,7 @@ www.aolnews.com
 ||sbme.me
 ||sbti.unun.dev
 ||scasino.com
+||scdaily.com
 ||schema.org
 ||schwab.co.uk
 ||schwab.com
@@ -6013,7 +6017,6 @@ www.aolnews.com
 ||tsemtulku.com
 ||tsquare.tv
 ||tssdnews.com.tw
-||tsu.org.tw
 ||tt1069.com
 ||tttan.com
 ||ttv.com.tw

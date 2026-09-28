@@ -1014,6 +1014,7 @@ lobstertube.com
 player.fm
 xxxy.info
 urbandictionary.com
+notebook.google
 read01.com
 mrslove.com
 cdw.com
@@ -1267,6 +1268,7 @@ skykiwi.com
 ow.ly
 imagevenue.com
 rule34.us
+creators.google
 csis.org
 manta.com
 sinchew.com.my
@@ -2826,6 +2828,7 @@ bnrmetal.com
 boardreader.com
 bod.asia
 bodog88.com
+bodu365.co
 bolehvpn.net
 bonbonme.com
 bonfoundation.org
@@ -5393,6 +5396,7 @@ sb.sb
 sbme.me
 sbti.unun.dev
 scasino.com
+scdaily.com
 schwab.co.uk
 schwab.com.hk
 scieron.com
@@ -5972,7 +5976,6 @@ tryheart.jp
 tsemtulku.com
 tsquare.tv
 tssdnews.com.tw
-tsu.org.tw
 tttan.com
 tubaholic.com
 tube911.com
