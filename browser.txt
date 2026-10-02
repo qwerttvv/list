@@ -5326,6 +5326,7 @@ www.aolnews.com
 ||simtransfer.goog
 ||sina.com.hk
 ||sinchew.com.my
+||sing-box.sagernet.org
 ||singaporepools.com.sg
 ||singfortibet.com
 ||singlelogin.me
