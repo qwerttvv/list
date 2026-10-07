@@ -1571,6 +1571,7 @@ www.aolnews.com
 ||clashyun.com
 ||class.tn.edu.tw
 ||classicalguitarblog.net
+||clau.de
 ||claude.ai
 ||claude.com
 ||cldr.unicode.org
@@ -4725,7 +4726,6 @@ www.aolnews.com
 ||percy.in
 ||perfect-privacy.com
 ||perfectgirls.net
-||perfectvpn.net
 ||periscope.tv
 ||perma.cc
 ||perplexity.ai
@@ -4793,7 +4793,6 @@ www.aolnews.com
 ||pixiv.net
 ||pixiv.org
 ||pixivsketch.net
-||pixnet.in
 ||pixnet.net
 ||pk.com
 ||pki.goog
@@ -6778,7 +6777,6 @@ www.aolnews.com
 ||xxuz.com
 ||xxx.com
 ||xxx.xxx
-||xxxfuckmom.com
 ||xxxx.com.au
 ||xxxy.info
 ||xxxymovies.com
@@ -6922,7 +6920,6 @@ www.aolnews.com
 ||zhangzhehan.net
 ||zhanlve.org
 ||zhao.1984.city
-||zhenghui.org
 ||zhengjian.org
 ||zhengwunet.org
 ||zhenxiang.biz
