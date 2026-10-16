@@ -534,6 +534,7 @@ creative.myavlive.com
 abc.net.au
 chrome.com
 softonic.com
+metaaivm.com
 wionews.com
 google.co.ma
 jw.org
@@ -2339,6 +2340,7 @@ lefora.com
 7capture.com
 7cow.com
 7mmtv.tv
+7x24hrs.com
 8-d.com
 85cc.net
 85cc.us

@@ -508,6 +508,7 @@ www.aolnews.com
 ||7cow.com
 ||7mmtv.sx
 ||7mmtv.tv
+||7x24hrs.com
 ||8-d.com
 ||85cc.net
 ||85cc.us
@@ -4049,6 +4050,7 @@ www.aolnews.com
 ||messenger.com
 ||meta.ai
 ||meta.com
+||metaaivm.com
 ||metacafe.com
 ||metacubex.one
 ||metafilter.com
