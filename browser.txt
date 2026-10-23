@@ -1666,6 +1666,7 @@ www.aolnews.com
 ||congyu.moe
 ||connect.facebook.net
 ||conoha.jp
+||console.typesafe.ai
 ||contests.twilio.com
 ||coobay.com
 ||cool18.com
@@ -2534,6 +2535,7 @@ www.aolnews.com
 ||g.co
 ||g0v.social
 ||g6hentai.com
+||ga.jspm.io
 ||gab.com
 ||gabocorp.com
 ||gaeproxy.com

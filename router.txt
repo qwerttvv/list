@@ -403,6 +403,7 @@ omny.fm
 google.com.co
 surfshark.com
 deezer.com
+ga.jspm.io
 s-nbcnews.com
 googlecommerce.com
 hsselite.com
@@ -1794,6 +1795,7 @@ webmproject.org
 blogspot.se
 javdatabase.com
 mstdn.social
+console.typesafe.ai
 asiasociety.org
 okinawatimes.co.jp
 mastodon.online
