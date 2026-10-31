@@ -757,6 +757,7 @@ www.aolnews.com
 ||api.recaptcha.net
 ||api.shuaiapi.com
 ||api.steampowered.com
+||api.themoviedb.org
 ||apiary.io
 ||apigee.com
 ||apk-dl.com
@@ -6012,6 +6013,7 @@ www.aolnews.com
 ||torproject.org
 ||torrentgalaxy.to
 ||torrentkitty.tv
+||torrentleech.org
 ||torrentprivacy.com
 ||torrenty.org
 ||torrentz.eu
@@ -6872,6 +6874,7 @@ www.aolnews.com
 ||youtubegaming.com
 ||youtubekids.com
 ||youversion.com
+||youversionapi.com
 ||youwin.com
 ||youxu.info
 ||yt.be

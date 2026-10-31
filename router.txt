@@ -241,6 +241,7 @@ homedepot.com
 tradingview.com
 amazon.co.jp
 googlemail.com
+youversionapi.com
 washingtonpost.com
 docker.com
 claude.com
@@ -317,6 +318,7 @@ avg.com
 panoramio.com
 dropboxusercontent.com
 picsart.com
+api.themoviedb.org
 google.cl
 ok.ru
 shutterstock.com
@@ -1642,6 +1644,7 @@ blogspot.tw
 91porna.com
 jsfiddle.net
 oldmapsonline.org
+torrentleech.org
 sokmil.com
 togetter.com
 jjgirls.com
