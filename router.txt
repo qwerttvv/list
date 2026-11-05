@@ -1621,6 +1621,7 @@ oldmapsonline.org
 culture.tw
 trt.net.tr
 gagaoolala.com
+neoforged.net
 blogspot.ca
 infosec.exchange
 doom9.org
@@ -1665,7 +1666,6 @@ flexclip.com
 rocket.chat
 thegay.com
 google.hk
-maven.neoforged.net
 kagyumonlam.org
 comefromchina.com
 airconsole.com
