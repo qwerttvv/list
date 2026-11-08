@@ -639,7 +639,6 @@ www.aolnews.com
 ||akow.org
 ||al-islam.com
 ||alabout.com
-||alanhou.com
 ||alarab.qa
 ||alasbarricadas.org
 ||alforattv.net
@@ -2427,7 +2426,6 @@ www.aolnews.com
 ||freelotto.com
 ||freeman2.com
 ||freemdict.com
-||freemoren.com
 ||freenet-china.org
 ||freenetproject.org
 ||freenuts.com
@@ -4290,7 +4288,6 @@ www.aolnews.com
 ||nalandabodhi.org
 ||nalandawest.org
 ||namgyal.org
-||namgyalmonastery.org
 ||namu.wiki
 ||nandazhan.com
 ||nanhuyt.com
@@ -5715,7 +5712,6 @@ www.aolnews.com
 ||taup.net
 ||taweet.com
 ||tbcollege.org
-||tbi.org.hk
 ||tbjyt.org
 ||tbrc.org
 ||tbs-rainbow.org
@@ -6141,7 +6137,6 @@ www.aolnews.com
 ||twibs.com
 ||twicsy.com
 ||twiends.com
-||twifan.com
 ||twiffo.com
 ||twiggit.org
 ||twilog.org
@@ -6290,7 +6285,6 @@ www.aolnews.com
 ||uukanshu.com
 ||uvwxyz.xyz
 ||uwants.com
-||uwants.net
 ||uyghur-archive.com
 ||uyghur-j.org
 ||uyghur.co.uk
@@ -6745,7 +6739,6 @@ www.aolnews.com
 ||xjp.cc
 ||xjtravelguide.com
 ||xm.com
-||xmart.tw
 ||xml-training-guide.com
 ||xmonk.net
 ||xn--11xs86f.icu
