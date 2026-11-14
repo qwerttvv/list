@@ -787,6 +787,7 @@ www.aolnews.com
 ||appspot-preview.com
 ||appspot.com
 ||appsto.re
+||appteka.store
 ||aptoide.com
 ||archive-it.org
 ||archive.fo
