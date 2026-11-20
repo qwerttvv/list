@@ -1994,6 +1994,7 @@ www.aolnews.com
 ||dtic.mil
 ||dtku41.xyz
 ||dubox.com
+||duck.ai
 ||duck.com
 ||duckdns.org
 ||duckduckgo.com
@@ -2552,11 +2553,11 @@ www.aolnews.com
 ||galenwu.com
 ||gallup.com
 ||galstars.net
-||game735.com
 ||gamebase.com.tw
 ||gamejolt.com
 ||gamer.com.tw
 ||gamez.com.tw
+||gamma.app
 ||gamousa.com
 ||ganges.com
 ||ganjing.com
@@ -5471,6 +5472,7 @@ www.aolnews.com
 ||sotwe.com
 ||soul-plus.net
 ||soulcaliburhentai.net
+||soulogic.com
 ||soundcloud.com
 ||soundofhope.kr
 ||soundofhope.org
