@@ -1614,6 +1614,7 @@ www.aolnews.com
 ||cmcn.org
 ||cmegroup.com
 ||cmi.org.tw
+||cmmedia.com.tw
 ||cmoinc.org
 ||cmoney.tw
 ||cms.gov
@@ -3023,6 +3024,7 @@ www.aolnews.com
 ||greatfirevpn.com
 ||greatfirewall.biz
 ||greatfirewallofchina.org
+||greenbean.media
 ||greenparty.org.tw
 ||greenpeace.com.tw
 ||greenpeace.org
@@ -3194,15 +3196,18 @@ www.aolnews.com
 ||hkbookcity.com
 ||hkchronicles.com
 ||hkci.org.hk
+||hkcitycreation.com
 ||hkcmi.edu
 ||hkcnews.com
 ||hkcoc.com
+||hkcourtnews.com
 ||hkday.net
 ||hkdc.us
 ||hkdf.org
 ||hkej.com
 ||hket.com
 ||hkfaa.com
+||hkfeature.com
 ||hkfront.org
 ||hkgalden.com
 ||hkgolden.com
@@ -3822,6 +3827,7 @@ www.aolnews.com
 ||lidecheng.com
 ||lifeattiktok.com
 ||lifemiles.com
+||lifesitenews.com
 ||ligamx.net
 ||lighten.org.tw
 ||lighti.me
@@ -3831,6 +3837,7 @@ www.aolnews.com
 ||like.com
 ||likr.tw
 ||lilaoshibushinilaoshi.com
+||limedia.tw
 ||limelight.moe
 ||line-apps.com
 ||line-scdn.net
@@ -3981,6 +3988,7 @@ www.aolnews.com
 ||mas.to
 ||mash.to
 ||maskedip.com
+||master-insight.com
 ||mastodon.cloud
 ||mastodon.host
 ||mastodon.online
@@ -4173,6 +4181,7 @@ www.aolnews.com
 ||mondex.org
 ||money-link.com.tw
 ||moneydj.com
+||moneynet.com.tw
 ||monica.im
 ||monitorchina.org
 ||monocloud.me
@@ -4233,6 +4242,7 @@ www.aolnews.com
 ||muzu.tv
 ||mvg.jp
 ||my-formosa.com
+||my-formosa.com.tw
 ||my-private-network.co.uk
 ||my-proxy.com
 ||my.mail.ru
@@ -5298,6 +5308,7 @@ www.aolnews.com
 ||shahit.biz
 ||shambhalasun.com
 ||shangfang.org
+||shanghainationalparty.com
 ||shanxivideo.com
 ||shapeservices.com
 ||share-videos.se
@@ -5799,6 +5810,7 @@ www.aolnews.com
 ||thechinacollection.org
 ||thechinaproject.com
 ||thechinastory.org
+||thecollectivehk.com
 ||theconversation.com
 ||thediplomat.com
 ||thedw.us
@@ -5815,6 +5827,7 @@ www.aolnews.com
 ||theintercept.com
 ||thelallantop.com
 ||thenewslens.com
+||theonlinecitizen.com
 ||thepiratebay.ee
 ||thepiratebay.org
 ||theporndude.com
@@ -6633,6 +6646,7 @@ www.aolnews.com
 ||woeser.com
 ||wokar.org
 ||wolfax.com
+||womany.net
 ||wombo.ai
 ||woolyss.com
 ||woopie.jp

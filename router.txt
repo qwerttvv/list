@@ -1553,6 +1553,7 @@ rb.gy
 nationalinterest.org
 dotvpn.com
 tiny.cc
+lifesitenews.com
 newyorktimes.com
 biggo.com.tw
 doc.new
@@ -2286,10 +2287,12 @@ i-part.com.tw
 pacom.mil
 comments.app
 pen.io
+womany.net
 ddc.com.tw
 findmespot.com
 theync.com
 vrsmash.com
+theonlinecitizen.com
 enewstree.com
 cnd.org
 goody25.com
@@ -3123,6 +3126,7 @@ club1069.com
 clyp.it
 cmcn.org
 cmi.org.tw
+cmmedia.com.tw
 cmoinc.org
 cmule.com
 cmx.im
@@ -3954,6 +3958,7 @@ greatfire.us7.list-manage.com
 greatfirevpn.com
 greatfirewall.biz
 greatfirewallofchina.org
+greenbean.media
 greenparty.org.tw
 greenpeace.com.tw
 greenvpn.net
@@ -4085,14 +4090,17 @@ hkbc.net
 hkbf.org
 hkchronicles.com
 hkci.org.hk
+hkcitycreation.com
 hkcmi.edu
 hkcnews.com
 hkcoc.com
 hkcoc.weather.com.hk
+hkcourtnews.com
 hkday.net
 hkdc.us
 hkdf.org
 hkfaa.com
+hkfeature.com
 hkfront.org
 hkgalden.com
 hkgpao.com
@@ -4539,6 +4547,7 @@ lighti.me
 lightyearvpn.com
 like.com
 lilaoshibushinilaoshi.com
+limedia.tw
 limelight.moe
 linglingfa.com
 lingvodics.com
@@ -4645,6 +4654,7 @@ martsangkagyuofficial.org
 marxist.net
 mash.to
 maskedip.com
+master-insight.com
 mastodon.host
 matainja.com
 mataroa.blog
@@ -4775,6 +4785,7 @@ mohu.rocks
 mojim.com
 molihua.org
 mondex.org
+moneynet.com.tw
 monitorchina.org
 monocloud.me
 moodyz.com
@@ -4814,6 +4825,7 @@ muzi.net
 muzu.tv
 mvg.jp
 my-formosa.com
+my-formosa.com.tw
 my-private-network.co.uk
 my-proxy.com
 my.navy.mil
@@ -5469,6 +5481,7 @@ shadowsocks.org
 shahit.biz
 shambhalasun.com
 shangfang.org
+shanghainationalparty.com
 shanxivideo.com
 shapeservices.com
 share-videos.se
@@ -5808,6 +5821,7 @@ thechinabeat.org
 thechinacollection.org
 thechinaproject.com
 thechinastory.org
+thecollectivehk.com
 thedalailamamovie.com
 thedw.us
 thegioitinhoc.vn
