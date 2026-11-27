@@ -2264,6 +2264,7 @@ amnestyusa.org
 ubddns.org
 howtoforge.com
 rsshub.app
+spacedesk.net
 i.111666.best
 greatfire.org
 darpa.mil
@@ -2500,6 +2501,7 @@ agro.hk
 ai.dev
 ai.ls
 ai.studio
+aicu.cc
 aidc.com.tw
 aihub.top
 aiosearch.com
@@ -3275,6 +3277,7 @@ dalailamaworld.com
 dalianmeng.org
 daliulian.org
 danke4china.net
+danmakus.com
 daolan.net
 darmau.co
 darrenliuwei.com

@@ -616,6 +616,7 @@ www.aolnews.com
 ||ai.google
 ||ai.ls
 ||ai.studio
+||aicu.cc
 ||aidc.com.tw
 ||aihub.top
 ||aiosearch.com
@@ -1804,6 +1805,7 @@ www.aolnews.com
 ||daliulian.org
 ||danbooru.donmai.us
 ||danke4china.net
+||danmakus.com
 ||daolan.net
 ||darmau.co
 ||darpa.mil
@@ -5497,6 +5499,7 @@ www.aolnews.com
 ||southnews.com.tw
 ||southpark.cc.com
 ||sowers.org.hk
+||spacedesk.net
 ||spaceforce.mil
 ||spaces.hightail.com
 ||spacex.com
